@@ -1,0 +1,15 @@
+AwardType	AwardValue1	AwardValue2	AwardValue3	RandRate	WorldNotify	Name
+PartnerFamiliar	80	50		-1		熟悉度
+PStone0	1			355600		魂石
+item	230	1		11113		1級生命寶石
+item	240	1		11113		1級攻擊寶石
+item	250	1		6667		1級抗性寶石
+item	260	1		6667		1級忽抗寶石
+item	270	1		8890		1級閃避寶石
+item	280	1		8890		1級忽閃寶石
+item	290	1		6667		1級會心寶石
+item	300	1		6667		1級抗會心寶石
+item	310	1		11113		1級效果寶石
+item	320	1		11113		1級減效果寶石
+item	792	1		22200		古舊箱子
+item	923	1		180000		凌絕峰2級令牌

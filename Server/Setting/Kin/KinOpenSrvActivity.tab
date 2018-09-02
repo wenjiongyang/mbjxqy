@@ -1,0 +1,7 @@
+nRankTo	nMasterTitle	nViceMasterTitle	nElderTitle	nMascotTitle	nEliteTitle	nNormalTitle	nMasterRewardId	nMasterRewardCount	nViceMasterRewardId	nViceMasterRewardCount	nElderRewardId	nElderRewardCount	nMascotRewardId	nMascotRewardCount	nEliteRewardId	nEliteRewardCount	nNormalRewardId	nNormalRewardCount
+1	4000	4001	4002	4018	4003	4004	2303	1	1185	1	1185	1	1185	1	2306	1	2306	1
+10	4005	4006	4007	4019	4008	4009	1125	1	2306	1	2306	1	2306	1	2307	1	2307	1
+20	4010	4011	4012	4020	4013	4014	1185	1	2307	1	2307	1	2307	1	2304	2	2304	2
+40							2306	1	2304	2	2304	2	2304	2	2305	4	2305	4
+60							2307	1	2305	5	2305	5	2305	5	2305	3	2305	3
+100							2304	2	2305	3	2305	3	2305	3	2305	2	2305	2

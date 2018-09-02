@@ -1,0 +1,171 @@
+GroupID	Desc1	ItemTemplate	Desc2	TimeFrame	Factor	Value	GuaranteeKey
+1	秦始皇	1396	帝皇令	OpenDay89	20000	3000000	
+1	秦始皇	2796	黃金圖譜·帽子	OpenDay89	3000	3000000	Imperial_Emperor_2796
+1	秦始皇	2797	黃金圖譜·腰帶	OpenDay89	3000	3000000	Imperial_Emperor_2797
+1	秦始皇	2800	黃金圖譜·項鍊	OpenDay89	6000	3000000	Imperial_Emperor_2800
+1	秦始皇	2795	黃金圖譜·衣服	OpenDay89	22500	3000000	Imperial_Emperor_2795
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenDay89	22750	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenDay89	22750	3000000	
+1	秦始皇	1396	帝皇令	OpenDay153	20000	3000000	
+1	秦始皇	2802	黃金圖譜·玉佩	OpenDay153	3000	3000000	Imperial_Emperor_2802
+1	秦始皇	2795	黃金圖譜·衣服	OpenDay153	9000	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenDay153	22500	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenDay153	22750	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenDay153	22750	3000000	
+1	秦始皇	1396	帝皇令	OpenLevel99	20000	3000000	
+1	秦始皇	2802	黃金圖譜·玉佩	OpenLevel99	3000	3000000	Imperial_Emperor_2802
+1	秦始皇	2795	黃金圖譜·衣服	OpenLevel99	9000	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenLevel99	22500	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenLevel99	22750	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenLevel99	22750	3000000	
+1	秦始皇	1396	帝皇令	OpenDay204	16500	3000000	
+1	秦始皇	2802	黃金圖譜·玉佩	OpenDay204	3000	3000000	Imperial_Emperor_2802
+1	秦始皇	2795	黃金圖譜·衣服	OpenDay204	7500	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenDay204	18000	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenDay204	20000	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenDay204	20000	3000000	
+1	秦始皇	3554	同伴·秦始皇	OpenDay204	15000	3000000	Imperial_Emperor_3554
+1	秦始皇	1396	帝皇令	OpenDay234	16500	3000000	
+1	秦始皇	2795	黃金圖譜·衣服	OpenDay234	6500	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenDay234	12000	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenDay234	20000	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenDay234	20000	3000000	
+1	秦始皇	3554	同伴·秦始皇	OpenDay234	15000	3000000	Imperial_Emperor_3554
+1	秦始皇	3544	秦始皇本命武器	OpenDay234	10000	3000000	Imperial_Emperor_3544
+1	秦始皇	1396	帝皇令	OpenLevel109	16500	3000000	
+1	秦始皇	2795	黃金圖譜·衣服	OpenLevel109	6500	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenLevel109	12000	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenLevel109	20000	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenLevel109	20000	3000000	
+1	秦始皇	3554	同伴·秦始皇	OpenLevel109	15000	3000000	Imperial_Emperor_3554
+1	秦始皇	3544	秦始皇本命武器	OpenLevel109	10000	3000000	Imperial_Emperor_3544
+1	秦始皇	1396	帝皇令	OpenLevel119	16500	3000000	
+1	秦始皇	2795	黃金圖譜·衣服	OpenLevel119	6500	3000000	Imperial_Emperor_2795
+1	秦始皇	2794	黃金圖譜·武器	OpenLevel119	12000	3000000	Imperial_Emperor_2794
+1	秦始皇	2827	魂石·秦始皇（陰）	OpenLevel119	20000	3000000	
+1	秦始皇	2828	魂石·秦始皇（陽）	OpenLevel119	20000	3000000	
+1	秦始皇	3554	同伴·秦始皇	OpenLevel119	15000	3000000	Imperial_Emperor_3554
+1	秦始皇	3544	秦始皇本命武器	OpenLevel119	10000	3000000	Imperial_Emperor_3544
+2	玄天武機	1396	帝皇令	OpenDay89	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenDay89	13500	3000000	Imperial_Leader_2796
+2	玄天武機	2824	魂石·玄天武機	OpenDay89	29000	3000000	
+2	玄天武機	2804	和氏璧	OpenDay89	40000	3000000	
+2	玄天武機	1396	帝皇令	OpenDay153	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenDay153	9000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenDay153	4500	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenDay153	29000	3000000	
+2	玄天武機	2804	和氏璧	OpenDay153	40000	3000000	
+2	玄天武機	1396	帝皇令	OpenLevel99	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenLevel99	9000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenLevel99	4500	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenLevel99	29000	3000000	
+2	玄天武機	2804	和氏璧	OpenLevel99	40000	3000000	
+2	玄天武機	1396	帝皇令	OpenDay234	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenDay234	9000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenDay234	8000	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenDay234	29000	3000000	
+2	玄天武機	2804	和氏璧	OpenDay234	36500	3000000	
+2	玄天武機	1396	帝皇令	OpenLevel109	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenLevel109	10000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenLevel109	8000	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenLevel109	28000	3000000	
+2	玄天武機	2804	和氏璧	OpenLevel109	36500	3000000	
+2	玄天武機	1396	帝皇令	OpenLevel119	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenLevel119	12000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenLevel119	6000	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenLevel119	28000	3000000	
+2	玄天武機	2804	和氏璧	OpenLevel119	36500	3000000	
+2	玄天武機	1396	帝皇令	OpenLevel129	17500	3000000	
+2	玄天武機	2796	黃金圖譜·帽子	OpenLevel129	13000	3000000	Imperial_Leader_2796
+2	玄天武機	2802	黃金圖譜·玉佩	OpenLevel129	7000	3000000	Imperial_Leader_2802
+2	玄天武機	2824	魂石·玄天武機	OpenLevel129	26000	3000000	
+2	玄天武機	2804	和氏璧	OpenLevel129	36500	3000000	
+3	白起	1396	帝皇令	OpenDay89	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenDay89	13500	3000000	Imperial_Leader_2797
+3	白起	2825	魂石·白起	OpenDay89	29000	3000000	
+3	白起	2804	和氏璧	OpenDay89	40000	3000000	
+3	白起	1396	帝皇令	OpenDay153	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenDay153	9000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenDay153	4500	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenDay153	29000	3000000	
+3	白起	2804	和氏璧	OpenDay153	40000	3000000	
+3	白起	1396	帝皇令	OpenLevel99	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenLevel99	9000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenLevel99	4500	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenLevel99	29000	3000000	
+3	白起	2804	和氏璧	OpenLevel99	40000	3000000	
+3	白起	1396	帝皇令	OpenDay234	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenDay234	9000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenDay234	8000	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenDay234	29000	3000000	
+3	白起	2804	和氏璧	OpenDay234	36500	3000000	
+3	白起	1396	帝皇令	OpenLevel109	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenLevel109	10000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenLevel109	8000	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenLevel109	28000	3000000	
+3	白起	2804	和氏璧	OpenLevel109	36500	3000000	
+3	白起	1396	帝皇令	OpenLevel119	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenLevel119	12000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenLevel119	6000	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenLevel119	28000	3000000	
+3	白起	2804	和氏璧	OpenLevel119	36500	3000000	
+3	白起	1396	帝皇令	OpenLevel129	17500	3000000	
+3	白起	2797	黃金圖譜·腰帶	OpenLevel129	13000	3000000	Imperial_Leader_2797
+3	白起	2802	黃金圖譜·玉佩	OpenLevel129	7000	3000000	Imperial_Leader_2802
+3	白起	2825	魂石·白起	OpenLevel129	26000	3000000	
+3	白起	2804	和氏璧	OpenLevel129	36500	3000000	
+4	李斯	1396	帝皇令	OpenDay89	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenDay89	27000	3000000	Imperial_Leader_2800
+4	李斯	2826	魂石·李斯	OpenDay89	29000	3000000	
+4	李斯	2804	和氏璧	OpenDay89	26500	3000000	
+4	李斯	1396	帝皇令	OpenDay153	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenDay153	18000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenDay153	9000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenDay153	29000	3000000	
+4	李斯	2804	和氏璧	OpenDay153	26500	3000000	
+4	李斯	1396	帝皇令	OpenLevel99	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenLevel99	18000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenLevel99	9000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenLevel99	29000	3000000	
+4	李斯	2804	和氏璧	OpenLevel99	26500	3000000	
+4	李斯	1396	帝皇令	OpenDay234	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenDay234	18000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenDay234	9000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenDay234	29000	3000000	
+4	李斯	2804	和氏璧	OpenDay234	26500	3000000	
+4	李斯	1396	帝皇令	OpenLevel109	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenLevel109	20000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenLevel109	8000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenLevel109	28000	3000000	
+4	李斯	2804	和氏璧	OpenLevel109	26500	3000000	
+4	李斯	1396	帝皇令	OpenLevel119	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenLevel119	22000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenLevel119	6000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenLevel119	28000	3000000	
+4	李斯	2804	和氏璧	OpenLevel119	26500	3000000	
+4	李斯	1396	帝皇令	OpenLevel129	17500	3000000	
+4	李斯	2800	黃金圖譜·項鍊	OpenLevel129	22000	3000000	Imperial_Leader_2800
+4	李斯	2802	黃金圖譜·玉佩	OpenLevel129	8000	3000000	Imperial_Leader_2802
+4	李斯	2826	魂石·李斯	OpenLevel129	26000	3000000	
+4	李斯	2804	和氏璧	OpenLevel129	26500	3000000	
+5	武則天	1396	帝皇令	OpenLevel129	16500	3000000	
+5	武則天	2795	黃金圖譜·衣服	OpenLevel129	6500	3000000	Imperial_Emperor_2795
+5	武則天	2794	黃金圖譜·武器	OpenLevel129	12000	3000000	Imperial_Emperor_2794
+5	武則天	6126	魂石·武則天（陰）	OpenLevel129	15000	3000000	
+5	武則天	6127	魂石·武則天（陽）	OpenLevel129	25000	3000000	
+5	武則天	3555	同伴·武則天	OpenLevel129	25000	3000000	Imperial_Emperor_3555
+6	無字碑	1396	帝皇令	OpenLevel129	25000	3000000	
+6	無字碑	2796	黃金圖譜·帽子	OpenLevel129	12000	3000000	Imperial_Leader_2796
+6	無字碑	2802	黃金圖譜·玉佩	OpenLevel129	5000	3000000	Imperial_Leader_2802
+6	無字碑	6130	魂石·無字碑	OpenLevel129	38000	3000000	
+6	無字碑	2804	和氏璧	OpenLevel129	20000	3000000	
+7	元芳	1396	帝皇令	OpenLevel109	25000	3000000	
+7	元芳	2797	黃金圖譜·腰帶	OpenLevel109	12000	3000000	Imperial_Leader_2797
+7	元芳	2802	黃金圖譜·玉佩	OpenLevel109	5000	3000000	Imperial_Leader_2802
+7	元芳	6129	魂石·元芳	OpenLevel109	38000	3000000	
+7	元芳	2804	和氏璧	OpenLevel109	20000	3000000	
+8	狄仁傑	1396	帝皇令	OpenLevel129	25000	3000000	
+8	狄仁傑	2800	黃金圖譜·項鍊	OpenLevel129	12000	3000000	Imperial_Leader_2800
+8	狄仁傑	2802	黃金圖譜·玉佩	OpenLevel129	5000	3000000	Imperial_Leader_2802
+8	狄仁傑	6128	魂石·狄仁傑	OpenLevel129	38000	3000000	
+8	狄仁傑	2804	和氏璧	OpenLevel129	20000	3000000	

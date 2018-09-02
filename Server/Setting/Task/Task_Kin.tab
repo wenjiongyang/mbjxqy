@@ -1,0 +1,20 @@
+nTaskId	szTaskIndex	szTaskTitle	szDetailDesc	szTaskDesc	szFinishDesc	nFinishDialogId	szTrackInfo	szFinishTrackInfo	nAutoNextTaskId	bNotAutoNext	bAutoFinish	nFinishTaskNpcId	bCanRepeat	bKillNpcToAllPlayer	Target_KillNpc	nAcceptDialogId	bShowFinish	nTaskType
+5000	kin_1	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]萬金財[-]	拜訪[FFFE0D]萬金財[-]	拜訪[FFFE0D]萬金財[-]	20001		"[url=npc:testtt,$F,10]"		1	1	190	1			20000	1	3
+5001	kin_2	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]葉無心[-]	拜訪[FFFE0D]葉無心[-]	拜訪[FFFE0D]葉無心[-]	20003		"[url=npc:testtt,$F,10]"		1	1	620	1			20002	1	3
+5002	kin_3	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]薛銀藥[-]	拜訪[FFFE0D]薛銀藥[-]	拜訪[FFFE0D]薛銀藥[-]	20005		"[url=npc:testtt,$F,10]"		1	1	621	1			20004	1	3
+5003	kin_4	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]王朝[-]	拜訪[FFFE0D]王朝[-]	拜訪[FFFE0D]王朝[-]	20007		"[url=npc:testtt,$F,10]"		1	1	630	1			20006	1	3
+5004	kin_5	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]納蘭真[-]	拜訪[FFFE0D]納蘭真[-]	拜訪[FFFE0D]納蘭真[-]	20009		"[url=npc:testtt,$F,10]"		1	1	90	1			20008	1	3
+5005	kin_6	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]葉雨柔[-]	拜訪[FFFE0D]葉雨柔[-]	拜訪[FFFE0D]葉雨柔[-]	20011		"[url=npc:testtt,$F,10]"		1	1	622	1			20010	1	3
+5006	kin_7	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]納蘭潛凜[-]	拜訪[FFFE0D]納蘭潛凜[-]	拜訪[FFFE0D]納蘭潛凜[-]	20013		"[url=npc:testtt,$F,10]"		1	1	629	1			20012	1	3
+5007	kin_8	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]小李子[-]	拜訪[FFFE0D]小李子[-]	拜訪[FFFE0D]小李子[-]	20015		"[url=npc:testtt,$F,10]"		1	1	623	1			20014	1	3
+5008	kin_9	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]孟知秋[-]	拜訪[FFFE0D]孟知秋[-]	拜訪[FFFE0D]孟知秋[-]	20017		"[url=npc:testtt,$F,10]"		1	1	100	1			20016	1	3
+5009	kin_10	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]月眉兒[-]	拜訪[FFFE0D]月眉兒[-]	拜訪[FFFE0D]月眉兒[-]	20019		"[url=npc:testtt,$F,10]"		1	1	97	1			20018	1	3
+5010	kin_11	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]白筱笙[-]	拜訪[FFFE0D]白筱笙[-]	拜訪[FFFE0D]白筱笙[-]	20021		"[url=npc:testtt,$F,10]"		1	1	99	1			20020	1	3
+5011	kin_12	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]慕容越[-]	拜訪[FFFE0D]慕容越[-]	拜訪[FFFE0D]慕容越[-]	20023		"[url=npc:testtt,$F,10]"		1	1	626	1			20022	1	3
+5012	kin_13	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]蘇墨芸[-]	拜訪[FFFE0D]蘇墨芸[-]	拜訪[FFFE0D]蘇墨芸[-]	20025		"[url=npc:testtt,$F,10]"		1	1	627	1			20024	1	3
+5013	kin_14	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]楊影楓[-]	拜訪[FFFE0D]楊影楓[-]	拜訪[FFFE0D]楊影楓[-]	20027		"[url=npc:testtt,$F,10]"		1	1	624	1			20026	1	3
+5014	kin_15	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]獨孤劍[-]	拜訪[FFFE0D]獨孤劍[-]	拜訪[FFFE0D]獨孤劍[-]	20029		"[url=npc:testtt,$F,10]"		1	1	88	1			20028	1	3
+5015	kin_16	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]紫軒[-]	拜訪[FFFE0D]紫軒[-]	拜訪[FFFE0D]紫軒[-]	20031		"[url=npc:testtt,$F,10]"		1	1	631	1			20030	1	3
+5016	kin_17	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]薔薇[-]	拜訪[FFFE0D]薔薇[-]	拜訪[FFFE0D]薔薇[-]	20033		"[url=npc:testtt,$F,10]"		1	1	632	1			20032	1	3
+5017	kin_18	幫派-拜訪	幫派的發展離不開各路俠士的相助，前去拜訪一下[FFFE0D]曇心[-]	拜訪[FFFE0D]曇心[-]	拜訪[FFFE0D]曇心[-]	20035		"[url=npc:testtt,$F,10]"		1	1	625	1			20034	1	3
+5018	kin_19	幫派-切磋	前去接受[FFFE0D]小和尚[-]的切磋試煉	與[FFFE0D]小和尚[-]切磋武藝	與[FFFE0D]小和尚[-]切磋武藝		"[url=npc:testtt,672,1004]"			1	1		1	1	673|1	20036	1	3

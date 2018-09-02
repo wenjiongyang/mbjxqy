@@ -1,0 +1,390 @@
+WayName	Value	Desc	Comment	Reason2	Round	kin	kinMem
+LogWay_DegreeCtrl	1		活動次數購買	活動key			
+LogWay_Refinement	2		洗練				
+LogWay_IdentifyEquip	3		裝備鑒定				
+LogWay_ConsumePartnerStone	4		消耗同伴魂石				
+LogWay_QuickBuy	5		快速購買				
+LogWay_ClearRevengeCD	6		清除復仇CD				
+LogWay_WantedLongCost	7		長時間通緝				
+LogWay_ResetFubenTimes	8		重置副本次數				
+LogWay_ReviveInFuben	9		副本裡重生				
+LogWay_AuctionBid	10		拍賣行競價	拍賣單號ID			
+LogWay_AuctionBidOver	11		拍賣行一口價	拍賣單號ID			
+LogWay_JoinKin	12		加入幫派			1	
+LogWay_KinGatherDrink	13	烤火喝酒	幫派聚集飲酒				1
+LogWay_MapExploreReset	14		重置地圖探索				
+LogWay_MissionAwardAdd	15		增加副本事後抽獎次數	抽獎次數			
+LogWay_PartnerSkillLevelUp	17		同伴技能升級				
+LogWay_ChangeName	18		玩家改名				
+LogWay_Offline	19		非同步消耗銀兩（被搶奪）				
+LogWay_BuyRankBattleTimes	20		購買武神殿次數				
+LogWay_BuyVipAward	21		購買【劍俠V】特權禮包				
+LogWay_SkillLevelUp	22		技能升級				
+LogWay_Strengthen	23		強化				
+LogWay_StoneCombine	24		寶石合成				
+LogWay_CommerceTaskHelp	25	協助商會任務	商會任務協助				
+LogWay_UseHelper	27		助戰				
+LogWay_AddPartnerStone	28		獲取同伴魂石				
+LogWay_QuickBuyRecu	29		快速購買失敗				
+LogWay_ChuangGongSend	30	傳功	傳功授予				
+LogWay_RobCoinAddHate	31		搶奪銀兩				
+LogWay_DungeonMgrKill	32		神秘洞窟擊殺				
+LogWay_BidFail	33		拍賣競價失敗	拍賣單號ID			
+LogWay_BidOverFail	34		拍賣一口價失敗				
+LogWay_CreateKin	35		創建幫派			1	
+LogWay_KinDonate	36	幫派捐獻	幫派捐獻				1
+LogWay_KinGatherAward	37	幫派烤火	幫派聚集獎勵				
+LogWay_KinRobberFirstKill	38		幫派盜賊首殺				
+LogWay_KinRobber	39		幫派盜賊擊殺				
+LogWay_MoneyTreeShake	40	搖錢樹	搖動搖錢樹				
+LogWay_RankBattle_BASE_AWARD	42	武神殿	武神殿基礎獎勵				
+LogWay_RankBattle_WIN_AWARD	43	武神殿	武神殿勝利獎勵				
+LogWay_Recharge	44		儲值				
+LogWay_BuyMonthCard	45		月卡				
+LogWay_BuyWeekCard	46		周卡				
+LogWay_GrowInvestAward	47		一本萬利	nGroupIndex*1000+nIndex			
+LogWay_ShopSell	48		商店出售				
+LogWay_FinishCommerceTask	49	商會任務	完成商會任務				
+LogWay_CommerceTaskDoHelp	50	協助商會任務	商會任務協助				
+LogWay_JuBaoPenTakeMoney	51		聚寶盆獲取				
+LogWay_OpenLightStone	52		武器附魔				
+LogWay_DebrisCreateStone	53		寶石碎片合成				
+LogWay_PartnerStoneUse	54		同伴魂石使用				
+LogWay_RandomItem	55		隨機道具（寶箱）使用	道具獎勵配置ID			
+LogWay_AchievementAward	56	成就	成就獎勵				
+LogWay_Battle	57	戰場	戰場		1		
+LogWay_FieldBoss	58	歷代名將	歷代名將		1		
+LogWay_FieldLeader	59	野外首領	野外首領		1		
+LogWay_EverydayTargetAward	60	每日目標	每日目標獎勵				
+LogWay_CoinPick	61		銀兩抽卡	道具ID			
+LogWay_CoinTenPick	62		銀兩十連抽	道具ID,道具ID,...(十個)			
+LogWay_GoldPick	63		元寶抽卡	道具ID			
+LogWay_GoldTenPick	64		元寶十連抽	道具ID,道具ID,...(十個)			
+LogWay_GoldFreePick	65		元寶免費抽卡				
+LogWay_Debris	66		碎片搶奪				
+LogWay_FactionBattleBox	67	門派競技	門派競技領獎				
+LogWay_PersonalFuben	68		單人副本	單人副本ID	1		
+LogWay_RandomFuben	69	凌絕峰	凌絕峰		1		
+LogWay_TeamFubenOutAward	71	組隊秘境	組隊秘境出來獎勵				
+LogWay_TeamFuben	72	組隊秘境	組隊秘境		1		
+LogWay_FindDungeonAward	73	神秘洞窟	發現神秘洞窟獎勵				
+LogWay_DungeonFubenOpenGateAward	74	神秘洞窟	神秘洞窟開門獎勵				
+LogWay_KinNest	75		幫派巢穴(關閉)				
+LogWay_HeroChallenge	76	英雄挑戰	英雄挑戰		1		
+LogWay_AuctionOnDeal	77		拍賣成交				
+LogWay_KinBuyGiftBox	78		幫派禮盒				1
+LogWay_GatherAnswer	79	幫派答題	幫派答題參與				
+LogWay_GatherAnswerRight	80	幫派答題	幫派答題正確				
+LogWay_TakeMailAttach	81		領取信件附件				
+LogWay_ExplorationFuben	82	探索	地圖探索		1		
+LogWay_MissionAward	83		副本事後抽獎	抽獎ID（副本類型* 1000 + 抽獎次數）			
+LogWay_DungLeaderOnAttack	84	神秘洞窟	神秘洞窟首領參與				
+LogWay_DungLeaderDeath	85	神秘洞窟	神秘洞窟首領死亡				
+LogWay_DecomposePartner	86		分解同伴				
+LogWay_PrayGainReward	87		祈福				
+LogWay_PunishTask	88	懲惡任務	懲惡任務		1		
+LogWay_QunYingHui	89	群英會	群英會		1		
+LogWay_RankBattleAward_Rank	90	武神殿	武神殿排名獎勵				
+LogWay_TakeMonthCardAward	91		領取月卡獎勵				
+LogWay_TakeWeekCardAward	92		領取周卡獎勵				
+LogWay_CommerceTaskCommitItem	93	商會任務	商會任務提交道具				
+LogWay_KinTaskOnFinish	95		幫派任務完成（關閉）				
+LogWay_Task	96	主線任務	主線任務	任務ID			
+LogWay_SubTask	97	支線任務	支線任務	任務ID			
+LogWay_ActivityQuestion	98	答題活動	答題活動		1		
+LogWay_GetLoginAwards	99		登入領獎				
+LogWay_SignInAwardNormal	100		簽到普通獎勵				
+LogWay_SignInAwardVip	101		簽到【劍俠V】特權獎勵				
+LogWay_ComposeItem	103		道具合成				
+LogWay_DebrisMerge	104		裝備碎片合成				
+LogWay_ShopBuy	106		商店購買	元寶流水對應道具id，道具流水對應商品id			
+LogWay_StoneCombine	107		寶石合成				
+LogWay_InsetGetOrg	108		寶石鑲嵌替換				
+LogWay_UseItem	109		使用道具				
+LogWay_CangBaoTuWaBao	110	藏寶圖	藏寶圖挖寶		1		
+LogWay_OpenCaseItem	111		鑰匙寶箱				
+LogWay_FinishHonorLevel	112		升級頭銜				
+LogWay_ComposeUse	113		道具合成消耗				
+LogWay_DebrisAvoidRob	114		碎片搶奪免戰				
+LogWay_SweepFuben	115		副本掃蕩				
+LogWay_PartnerUseEquip	116		同伴使用裝備				
+LogWay_PartnerUseExpItem	117		同伴使用經驗道具				
+LogWay_StrengthenBreak	118		強化突破				
+LogWay_DoStrengthen	119		強化				
+LogWay_QuickCombie	121		魂石快速合成				
+LogWay_OnInset	122		魂石鑲嵌				
+LogWay_QuickInset	123		魂石快速鑲嵌				
+LogWay_CommerceTask	124	商會任務	商會任務		1		
+LogWay_TaskItem	125		任務消耗道具				
+LogWay_CodeAward	126		禮包碼領獎				
+LogWay_GMGlobalMail	127		客服全域信件				
+LogWay_GMPersonMail	128		客服單人信件				
+LogWay_GMCompenMail	129		客服補償信件				
+LogWay_GMGlobalCompenMail	130		客服全服補償信件				
+LogWay_KinBattle_Win	131	幫派戰	幫派戰勝利				
+LogWay_KinBattle_Fail	132	幫派戰	幫派戰失敗				
+LogWay_KinBattle_Draw	133	幫派戰	幫派戰平				
+LogWay_TeamBattle	134	通天塔	通天塔		1		
+LogWay_FixExpNpc	135		野外固定經驗				
+LogWay_Exp_Death	136		死亡扣除經驗				
+LogWay_ChuangGongGet	137	傳功	傳功接受				
+LogWay_KinEscort	138	運鏢	運鏢				1
+LogWay_Guohuo	139		篝火				
+LogWay_XiuLian	140	野外修煉	野外修煉		1		
+LogWay_DungeonFuben	141	神秘洞窟	神秘洞窟		1		
+LogWay_Revenge	142		復仇		1		
+LogWay_Wanted	143	協助通緝	通緝		1		
+LogWay_BossFight	144	武林盟主	挑戰武盟主打盟主				
+LogWay_BossRob	145	武林盟主	挑戰武盟主搶奪				
+LogWay_Boss	146	武林盟主	挑戰武盟主		1		
+LogWay_WhiteTiger	147	白虎堂	白虎堂		1		
+LogWay_NpcDropAward	148		NPC掉落產出				
+LogWay_GatherDrink	149	幫派烤火	幫派聚集飲酒				
+LogWay_FirstLogin	150		第一次登入				
+LogWay_RoleLevelUp	151		角色升級				
+LogWay_SkillPointBook	152		技能點書				
+LogWay_IdipDoDelExpReq	153		後臺手動經驗變動				
+LogWay_IdipDoDelItemReq	154		後臺手動道具變動				
+LogWay_IdipDoSendAttachMailReq	155		後臺手動發送帶附件系統信件請求				
+LogWay_IdipDoSendItemReq	156		信件發送多個道具請求				
+LogWay_MarketStallCostMoneyBuy	157		購買擺攤商品消耗	擺攤商品ID			
+LogWay_MarketStallCostItem	158		擺攤上架扣道具				
+LogWay_MarketStallCancelItem	159		擺攤下架物品				
+LogWay_MarketStallGetMoney	160		擺攤出售獲得貨幣				
+LogWay_MarketStallGetItem	161		擺攤購買獲得道具				
+LogWay_MarketUpdateItemCost	162		擺攤CD期間刷新商品列表扣錢				
+LogWay_AdventureFuben	163	山賊密窟	山賊密窟		1		
+LogWay_FactionBattle	164	門派競技	門派競技		1		
+LogWay_KinBattle	165	幫派戰	幫派戰		1		1
+LogWay_RankBattle	166	武神殿	武神殿		1		
+LogWay_PersonalAuction	167		個人拍賣物品退回或所得				
+LogWay_EntityComposeConsume	168		實體道具合成材料消耗				
+LogWay_EntityComposeAdd	169		實體道具合成道具增加				
+LogWay_DaoBaoZaiAward	170	高級藏寶圖	高級藏寶圖盜寶賊獎勵				
+LogWay_ValueComposeAdd	171		道具合成				
+LogWay_KinTrainNpcAward	172	幫派試煉	幫派試煉NPC掉落				
+LogWay_KinTrainExChange	173	幫派試煉	古銅幣兌換寶箱				
+LogWay_KinGather	174	幫派烤火	幫派聚集		1		1
+LogWay_ChuangGong	175	傳功	傳功		1		
+LogWay_LeaveKin	176		離開幫派			1	
+LogWay_DeleteKin	177		解散幫派			1	
+LogWay_DeleteKinImmediately	178		立即解散幫派			1	
+LogWay_DeleteKinCombine	179		合併解散幫派			1	
+LogWay_KinBuildingLevelUp	180		幫派升級			1	
+LogWay_KinAddPrestige	181		幫派威望改變			1	
+LogWay_KinAddContribution	182		增加幫派貢獻			1	
+LogWay_KinTrain	183	幫派試煉	幫派試煉		1		1
+LogWay_ReturnGold2Player	184		支付失敗後元寶返還				
+LogWay_SyncOuterGold	185		同步託管貨幣				
+LogWay_IdipDoDelDiamondReq	186		後臺手動元寶變動				
+LogWay_IdipDoDelMoneyReq	187		後臺手動錢幣變動				
+LogWay_KinSalary	188		幫派工資(廢棄)				
+LogWay_RemoveInset	189		鑲嵌剝離	剝離的道具ID			
+LogWay_OnHookFree	190		離線掛機免費領取經驗				
+LogWay_OnHookPay	191		離線掛機付費領取經驗				
+LogWay_ResetSkill	192		重置技能				
+LogWay_KinRedBag	193	幫派紅包	幫派紅包				
+LogWay_SendGift	194	贈送玫瑰花/幸運草	贈送玫瑰或幸運草				
+LogWay_PartnerUseProtentialItem	195		使用資質丹				
+LogWay_PartnerUseSkillBook	196		使用技能書				
+LogWay_SendGoldFail	197		贈送元寶失敗返還				
+LogWay_PartnerUseWeapon	198		使用同伴本命武器				
+LogWay_ChooseItem	199		選擇道具				
+LogWay_ExchangeBattleBox	200		戰場榮譽兌換戰場寶箱				
+LogWay_EquipMaker	201		兵甲坊				
+LogWay_PartnerReInit	202		同伴洗髓				
+LogWay_AuctionGold	203		拍賣分紅				
+LogWay_SeriesFuben	204		江湖試煉				
+LogWay_KinTrainCommon	205	幫派試煉	幫派試煉通用				
+LogWay_OneDayCard	206		白銀禮包	nEndTimeKey			
+LogWay_RandomBoss	207		藏寶圖隨機BOSS				
+LogWay_IdipDoUpdateMoneyReq	208		AQ後臺手動遊戲幣變動				
+LogWay_IdipDoUpdateDiamondReq	209		AQ後臺手動元寶變動				
+LogWay_IdipAqDoSendMsgReq	210		AQ後臺手動發信件消息				
+LogWay_SupplementAward	211		補領獎勵				
+LogWay_KinAddFound	212		增加幫派資金			1	
+LogWay_QQVIPEveryDayReward	213		QQ會員每日獎勵				
+LogWay_QQSVIPEveryDayReward	214		QQ超級會員每日獎勵				
+LogWay_QQVIPGreenReward	215		QQ會員新手獎勵				
+LogWay_QQSVIPGreenReward	216		QQ超級會員新手獎勵				
+LogWay_IdipDoDelFriendReq	217		後臺手動夥伴變動				
+LogWay_IdipDoUpdatHonhrContributeReq	218		後臺手動榮譽貢獻變動				
+LogWay_IdipDoMailSendHonhrContributeReq	219		後臺手動信件發送榮譽貢獻				
+LogWay_MarketStallCostMoneyUpdatePrice	220		擺攤更新上架物品手續費				
+LogWay_MarketStallCostMoneyNewSell	221		擺攤新上架物品手續費				
+LogWay_FriendGift	222		好友贈禮				
+LogWay_MiJi	223		秘笈				
+LogWay_OnHookUseBaiJuWan	224		使用白駒丸或特效白駒丸獲取的經驗				
+LogWay_FactionMonkey	225		門派大師兄				
+LogWay_KillFieldMapNpc	226	野外修煉	野外擊殺精英怪				
+LogWay_WhiteTigerFuben_FF	227	白虎堂	白虎堂進入首層				
+LogWay_WhiteTigerFuben_OF	228	白虎堂	白虎堂進入其他層				
+LogWay_WhiteTigerFuben_BOSS	229	白虎堂	白虎堂擊殺BOSS				
+LogWay_DoSendGoldMailAttachVipExp	230		信件發送元寶同時附送對應的VIP經驗請求				
+LogWay_DoSendAttributeFriend	231		信件發送具體屬性的同伴請求				
+LogWay_AddFriend	232		加好友成功				
+LogWay_DelFriend	233		刪除好友成功				
+LogWay_DomainBattle	234		攻城戰				
+LogWay_DomainBattleMaster	235		攻城戰城主獎				
+LogWay_LevelRankActivity	236		等級排名獎勵				
+LogWay_PowerRankActivity	237		戰力排名獎勵				
+LogWay_EquipExchage	238		裝備收藏				
+LogWay_ChangeColor	239		外裝染色				
+LogWay_ActDuanWuJie	240		端午節活動				
+LogWay_KinPrestigeAutoReduce	241		幫派威望衰減				
+LogWay_KinSalaryProfit	242		幫派管理層工資				
+LogWay_KinCostFound	243		消耗幫派建設資金				
+LogWay_TimeOut	244		道具超時				
+LogWay_IdipDoSendNoAttachToDesignPlayerMailReq	245		對指定區服全部玩家發送不帶附件的郵件請求				
+LogWay_FirstRechargeAward	246		首儲禮包				
+LogWay_IdipDoSendAttachMailToDesignPartionLevelPlayerReq	247		對指對指定區服、指定等級的玩家發送帶附件的補償郵件請求				
+LogWay_ActivyRechargeCard	248		周月卡活動				
+LogWay_MarketStallBuyFailSendGold	249		擺攤購買失敗，返還元寶				
+LogWay_ChangeKinName	250		修改幫派名				
+LogWay_CollectionSystem	251		卡片收集系統				
+LogWay_PartnerCallPartner	252		招募同伴				
+LogWay_ExchangeSeverSend	253		兌換之系統補償				
+LogWay_SummerGift	254		夏日好禮活動				
+LogWay_NewPackageGift	255		換包獎勵				
+LogWay_ChangeFaction	256		轉門派				
+LogWay_EfunAttachMail	257		Efun獎勵郵件				
+LogWay_HSLJGuessing	258		華山論劍競猜				
+LogWay_ImperialTomb_Enter_Boss	259	秦始皇陵	進入首領房間				
+LogWay_ImperialTomb_Leave	260	秦始皇陵	離開皇陵				
+LogWay_TS_Report	261	師徒	彙報目標				
+LogWay_Qixi	262		七夕				
+LogWay_HSLJPreAward	263		華山論劍預選賽獎勵				
+LogWay_HSLJFinalsAward	264		華山論劍決賽獎勵				
+LogWay_VipAwardBoxExchange	265		vip兌換任選魂石箱				
+LogWay_TS_Graduate	266	師徒	出師				
+LogWay_GatherBox	267		開放等級上限慶典活動				
+LogWay_Money_Debt_Add	268		貨幣欠款				
+LogWay_Money_Debt_Cost	269		償還貨幣欠款				
+LogWay_RechargeSumAct	270		累計儲值消費活動				
+LogWay_BindPhoneReward	271		綁定手機獎勵				
+LogWay_InviteFriendReward	272		邀請好友獎勵				
+LogWay_MiJiUpgrade	273		秘笈升階				
+LogWay_MiJiTuPo	274		秘笈突破				
+LogWay_RenownShop	275	名望商店	名望商店				
+LogWay_GoldEquipEvo	276		黃金裝備進化				
+LogWay_TrainEquipAttri	277		屬性養成				
+LogWay_ImperialTomb_Normal_Boss	278	秦始皇陵	密室首領				
+LogWay_ImperialTomb_Boss	279	秦始皇陵	首領				
+LogWay_ImperialTomb_Box	280	秦始皇陵	密室寶箱				
+LogWay_HSLJPreGame	281		華山論劍預選賽比賽				
+LogWay_HSLJFinalsGame	282		華山論劍預決賽比賽				
+LogWay_RegressionPrivilege	283		回歸特權				
+LogWay_ImperialTomb_Minion	284	秦始皇陵	小怪				
+LogWay_ImperialTomb_Leader	285	秦始皇陵	普通首領				
+LogWay_IdIpAddVipExp	286		idip增加vip經驗				
+LogWay_ImperialTomb_Send_Ticket	287	秦始皇陵	開放當天贈送門票				
+LogWay_ZhongQiuJie	288		中秋節				
+LogWay_ImperialTomb_Normal_Attend	289	秦始皇陵	掛機參與時間				
+LogWay_ImperialTomb_Emperor_Attend	290	秦始皇陵	Boss參與時間				
+LogWay_XiuLianXinDeBook	291	心得書	心得書				
+LogWay_GoldEquipUpgrade	292		黃金裝備升階				
+LogWay_SendMailGift	293	贈送禮物	贈送郵件禮物				
+LogWay_JiangQuan	294	獎券	獎券道具				
+LogWay_ChouJiangDay	295	抽獎	每日抽獎獎勵				
+LogWay_ChouJiangBig	296	大獎	大獎獎勵				
+LogWay_IdentifyItem	297	鑒定道具	鑒定				
+LogWay_JuanZhou	298	卷軸任務	卷軸任務				
+LogWay_JXSH	299	錦繡山河	錦繡山河				
+LogWay_ExchangeItem	300		道具兌換				
+LogWay_OnHookSpecialPay	301		沒到vip等級領取特效白駒丸				
+LogWay_ShanHeSheJiTu	302		山河社稷圖				
+LogWay_InDifferBattle	303	心魔幻境	心魔幻境				
+LogWay_SendBless	304		祝福送禮				
+LogWay_WeekendQuestion	305		週末活躍活動				
+LogWay_WeekendQuestionAllRight	306		週末活躍活動正確階段獎勵				
+LogWay_WeekendQuestionCompleted	307		週末活躍活動結束階段獎勵				
+LogWay_SwornFriends	308	結拜	結拜				
+LogWay_Idioms	309	有緣一線牽	有緣一線牽				
+LogWay_ContinualRechargeAct	310		連續儲值活動				
+LogWay_ActGanEnJie	311		感恩節活動				
+LogWay_ActDefend	312		守衛名俠				
+LogWay_QQVIPOpenReward	313		QQ會員開通獎勵				
+LogWay_QQSVIPOpenReward	314		QQ超級會員開通獎勵				
+LogWay_ChristmasGift	315		聖誕活動				
+LogWay_LiHeChuanQing	316		禮盒傳情				
+LogWay_InDifferBattleAward	317	心魔幻境	心魔幻境獎勵				
+LogWay_RechargeAllDayCardAct	318		每日禮包加碼				
+LogWay_SnowmanAct	319	植樹節活動	植樹節活動				
+LogWay_SnowmanActBox	320	元旦雪人	元旦雪人箱子獎勵				
+LogWay_DaXueZhang	321		打雪仗				
+LogWay_ChatAward	322		口令紅包				
+LogWay_WinterAct	323	冬至節日	冬至節日				
+LogWay_RecordStone	324		銘刻石				
+LogWay_HSLJNewsMail	325		華山論劍最新消息				
+LogWay_DirectLevelUp	326		直升系統				
+LogWay_BiWuZhaoQin	327		比武招親				
+LogWay_TS_CustomTasks	328	師徒	完成佈置任務獎勵				
+LogWay_WishAct	329	許願活動	許願活動				
+LogWay_TS_Dismiss	330	師徒	解除關係				
+LogWay_TS_CancelDismiss	331		取消解除關係				
+LogWay_FriendRecall_Renown	332	玩家召回	獲得名望				
+LogWay_PartnerAwareness	333		同伴覺醒				
+LogWay_NewYearLoginAct	334		登錄領獎活動				
+LogWay_MonsterNianAct	335	年獸	年獸獎勵				
+LogWay_ReduceFatigueAct	336		降低疲勞活動				
+LogWay_NewYearBuyGift	337		新年大禮包	nEndTimeKey			
+LogWay_ChangeTitleText	338		修改自訂稱號				
+LogWay_RegressionPrivilege_O2N	339		回歸活動中老玩家回新服得到元寶專用				
+LogWay_QingRenJie	340		情人節				
+LogWay_NewServerPrivilege	341		回歸特權回新服活動				
+LogWay_IdipDoSendAttachMailExpireReq	342		IDIP發送有時限道具				
+LogWay_WomensDay	343		婦女節				
+LogWay_WomanAct	344	師徒祝福	師徒祝福活動				
+LogWay_BuyDirectEnhance	345		購買運營直強道具				
+LogWay_ArborDayCure	346		植樹節 節流				
+LogWay_TreeAct	347		植樹節 開源				
+LogWay_FurnitureMake	348		傢俱打造				
+LogWay_HouseLevelUp	349		升級家園				
+LogWay_Muse	350		冥想				
+LogWay_MakeZhenYuan	351		真元打造				
+LogWay_QingMingAct	352		清明節				
+LogWay_ZhenYuanSkill	353		真元技能洗練				
+LogWay_HousePlant	354		家園種植				
+LogWay_PlantCure	355	家園協助養護	植物養護				
+LogWay_PlantCrop	356		植物收成				
+LogWay_SellFurniture	357		出售傢俱				
+LogWay_IdipDoSendItemWhiteTimeReq	358		IDIP郵件發送時效道具				
+LogWay_IdipDoValueNimbusReq	359		IDIP修改元氣				
+LogWay_IdipDoValueRechargeReq	360		IDIP修改黎飾				
+LogWay_UseEnergyContainer	361		使用元氣容器				
+LogWay_UseEnergyItem	362		使用元氣道具				
+LogWay_BuyDressMoney	363		購買黎飾				
+LogWay_WulinHonor	364		武林榮譽				
+LogWay_LoverRecallAct	365		往日情緣				
+LogWay_GetBattleQualify	366		獲取戰場資格				
+LogWay_BeautyPageant_Vote	367		武林第一美女投票				
+LogWay_BeautyPageant_Recharge	368		武林第一美女儲值送投票道具				
+LogWay_BeautyPageant_SignUp	369		武林第一美女報名				
+LogWay_NpcBiWuZhaoQin	370		Npc比武招親				
+LogWay_ActivityFuben	371		活動副本				
+LogWay_BeautyPageant_EverydayAward	372		武林第一美女每日活躍				
+LogWay_FathersDay	373		父親節				
+LogWay_WeddingFirework	374		煙花				
+LogWay_WeddingTour	375		婚禮遊城				
+LogWay_GM	376		通過GMWEB或IDIP執行				
+LogWay_WuLinDaHui	377		武林大會				
+LogWay_IdipSendUnattchMail	378		發送無附件系統個人信件				
+LogWay_Wedding	379	婚禮	婚禮				
+LogWay_HouseDefend	380	家園守衛	家園守衛				
+LogWay_ActHonorLevelRank	381		頭銜活動				
+LogWay_InDifferBattleUpgrade	382		心魔進階				
+LogWay_ImperialTomb_StayTime	383	秦始皇陵	掛機時間變化				
+LogWay_Marriage_ChangeTitle	384	結婚	修改稱號				
+LogWay_Marriage_Memorial	385		結婚紀念日				
+LogWay_Marriage_Dismiss	386	離婚	離婚				
+LogWay_Marriage_CashGift	387		送禮金				
+LogWay_XueWeiLevelup	388		沖穴				
+LogWay_Lottery_Award	389		抽獎				
+LogWay_XueWeiUseProtentialItem	390		使用資質丹獲得真氣				
+LogWay_WeddingBook	391		訂婚期				
+LogWay_WeddingWarnBookMail	392		婚期提醒信件				
+LogWay_WeddingOverdueBookMail	393		婚期過期信件				
+LogWay_XueWeiResetAward	394		重置穴位				
+LogWay_JingMaiOpenAward	395		開啟經脈系統時返還真氣				
+LogWay_UseZhenQiItem	396		使用真氣丹				
+LogWay_WeddingMarryAward	397		結婚獎勵				

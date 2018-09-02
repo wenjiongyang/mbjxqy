@@ -1,0 +1,13 @@
+TemplateId	Name	Kind	ShowType	ItemType	DetailType	Level	RequireLevel	RealLevel	Icon	BigIcon	ObjID	Intro	Price	Quality	ItemValue	Sellable	ClassName	ResEffect	FightPower	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3	HoleCount	InsetLevel
+4047	寒霜	HorseShow_1	108	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4048	寒霜倩影	HorseShow_2	109	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4049	小黑	HorseShow_3	110	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4861	紫幽靈鹿	HorseShow_4	118	18	1	1	1		4865	4865		穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	61	25000	1	waiyi																																												
+4862	雲魅靈鹿	HorseShow_5	119	18	1	1	1		4866	4866		穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	71	25000	1	waiyi																																												
+4867	星芒·雲魅靈鹿	HorseShow_6	120	18	1	1	1		4868	4868		穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	71	25000	1	waiyi																																												
+4735	寒霜	HorseShow_1_day30	108	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4736	寒霜倩影	HorseShow_2_day30	109	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4737	小黑	HorseShow_3_day30	110	18	1	1	1					穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	3	25000	1	waiyi																																												
+4865	紫幽靈鹿	HorseShow_4_time	118	18	1	1	1		4865	4865		[FFFE0D]在武林第一美女評選活動中，本服第一所獲得的獎勵[-]\n\n穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	61	25000	1	waiyi																																												
+4866	雲魅靈鹿	HorseShow_5_time	119	18	1	1	1		4866	4866		[FFFE0D]在武林第一美女評選活動中，全區全服前十所獲得的獎勵[-]\n\n穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	71	25000	1	waiyi																																												
+4868	星芒·雲魅靈鹿	HorseShow_6_time	120	18	1	1	1		4868	4868		[FFFE0D]在武林第一美女評選活動中，全區全服第一所獲得的獎勵[-]\n\n穿上後可以改變當前坐騎外觀，不影響原有坐騎附帶的屬性\n	25000	71	25000	1	waiyi																																												

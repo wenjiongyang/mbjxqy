@@ -1,0 +1,31 @@
+StringKey	Name	LevelMin1	LevelMax1	Times1	Count1	LevelMin2	LevelMax2	Times2	Count2	LevelMin3	LevelMax3	Times3	Count3	LevelMin4	LevelMax4	Times4	Count4	LevelMin5	LevelMax5	Times5	Count5
+Rank	武神殿	20	29	3	10	30	39	3	10	40	49	3	10	50	69	3	10	70	200	3	10
+ActivityQuestion	每日答題	20	29			30	39			40	49			50	69			70	200		
+CangBaoTu	藏寶圖	20	29	2	10	30	39	2	10	40	49			50	69			70	200		
+EquipEnhance	裝備強化	20	29	5	10	30	39			40	49			50	69			70	200		
+TeamFuben	組隊秘境	20	29	1	10	30	39			40	49			50	69			70	200		
+PunishTask	懲惡任務	20	29	3	10	30	39	3	10	40	49	3	10	50	69	3	10	70	200	3	10
+ExplorationFuben	寶藏探索	20	29	5	10	30	39	5	10	40	49	5	10	50	68	5	10	70	200		
+Boss	挑戰武林盟主	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+RandomFuben	凌絕峰	20	29			30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+Battle	戰場	20	29			30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+CommerceTask	商會任務	20	29			30	39			40	49	1	10	50	69	1	10	70	200	1	10
+KinDonate	幫派捐獻	20	29	5	10	30	39	5	10	40	49	5	10	50	69	5	10	70	200	5	10
+ChuanGong	幫派傳功	20	29			30	39	1	10	40	49	1	10	50	69			70	200		
+EquipRefinement	裝備洗練	20	29	5	10	30	39	2	10	40	49			50	69			70	200		
+XiuLian	野外修煉	20	29	1	10	30	39	1	10	40	49			50	69			70	200		
+WhiteTigerFuben	白虎堂	20	29			30	39			40	49	1	10	50	69	1	10	70	200	1	10
+FieldBoss	歷代名將	20	29			30	39			40	49			50	69			70	200		
+KinGiftBox	幫派禮盒	20	29			30	39			40	49			50	69			70	200		
+KinGather	幫派烤火	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+EquipStone	魂石鑲嵌	20	29	2	10	30	39			40	49			50	69			70	200		
+TeamBattle	通天塔	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+KinFuben	幫派試煉	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+FactionBattle	門派競技	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+RechargeGift	領取7日或30日禮包獎勵	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+DailyRechargeGift	購買任意每日禮包	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+DomainBattle	攻城戰	20	29			30	39			40	49			50	69	1	20	70	200	1	20
+HeroChallenge	英雄挑戰	20	29			30	39			40	49			69	69	3	10	70	200	3	10
+InDifferBattle	心魔幻境	20	29			30	39			40	49			50	69	1	10	70	200	1	10
+Muse	打坐冥想	20	29			30	39			40	49			50	69	1	10	70	200	1	10
+QunYingHui	群英會	20	29			30	39			40	49			50	69			80	200	1	20

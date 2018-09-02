@@ -1,0 +1,4 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	FixExperience	GouHuoRate	IsNotBYStealLife	IsNotShowShadow	SyncFirst	TransBossNpcTID	TransBossRate
+Show_Guard	677	衛兵	0	1			150	200	300		901	22	1					1500	1500	Setting/Npc/Ai/KeepMoving.ini				18	3									12									
+House_Spokesperson_Lgx	2328	楊大俠	2	0	ProlocutorNpcInHouse		1179	200	300		901	22	1	1696	1			1500	1500					18	3								我有酒，你有故事嗎？	12									
+House_Spokesperson_Zly	2329	真兒	2	0	ProlocutorNpcInHouse		1178	200	300		901	22	1	1697	1			1500	1500					18	3								原本都是一粒沙，被人寵愛，所以才變得珍貴，歲月打磨，終成珍珠	12									

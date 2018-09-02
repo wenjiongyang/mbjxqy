@@ -1,0 +1,14 @@
+MapTID	ResPath
+1003	Scenes/Meshes/jj_jingjichang01/donghua/Main Camera.controller
+999	Scenes/camera/xinshoucun/xsc_qgcam1.controller
+999	Effect/Prefabs/JueSe/xiaoyao/xy_logo.prefab
+999	Effect/Prefabs/JueSe/TR/tr_logo.prefab
+999	Effect/Prefabs/JueSe/taohua/th_logo.prefab
+999	Effect/Prefabs/JueSe/WuDang1/wd_logo.prefab
+999	Effect/Prefabs/JueSe/emei/em_logo.prefab
+999	Effect/Prefabs/JueSe/TW/tw_logo.prefab
+999	Effect/Prefabs/ChangJing/xsc_scene_logo.prefab
+999	Effect/Prefabs/ChangJing/xsc_logo_hei.prefab
+10	Scenes/camera/luoyang/luoyang_cam1.controller
+10	Effect/Prefabs/ChangJing/luoyang_zimu.prefab
+10	Effect/Prefabs/ChangJing/luoyang_cam1.prefab

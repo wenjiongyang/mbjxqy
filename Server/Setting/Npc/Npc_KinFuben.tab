@@ -1,0 +1,36 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate
+Kin_Flag_1	1189	旗幟	0	0	FubenDeath		412	200	300		135	22	1	91	1			1500	1500				1	18	1						NoTurn								
+Kin_Enemy_1	1190	金軍斥候	0	1	FubenDeath		150	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1				
+Kin_Enemy_2	1254	機關戰車	0	1	FubenDeath		154	200	300		812	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_3	1255	銅錘蠻士	0	1	FubenDeath		1107	200	300		812			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3				
+Kin_Enemy_4	1256	反彈衛士	0	1	FubenDeath		180	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3				
+Kin_Enemy_5	1257	蒙面刺客	0	1	FubenDeath		121	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3				
+Kin_Enemy_6	1259	金軍斥候·精英	0	1	FubenDeath		150	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_7	1260	火炮	0	1	FubenDeath		378	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3				
+Kin_Boss_1	1191	金軍大將	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4				
+Kin_Boss_2	1192	金軍大將	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4				
+Kin_Boss_3	1193	金軍大將	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4				
+Kin_Boss_4	1194	金軍大將	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4				
+Kin_Boss_5	1195	金軍大將	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4				
+Kin_Resouce_1	1196	金軍後勤·糧	0	1	FubenDeath		171	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1														
+Kin_Resouce_2	1197	金軍後勤·草	0	1	FubenDeath		181	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1														
+Kin_Resouce_3	1198	金軍後勤·水	0	1	FubenDeath		136	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1														
+Kin_Resouce_4	1199	金軍後勤·鹽	0	1	FubenDeath		142	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1														
+Kin_Resouce_5	1200	金軍後勤·軍餉	0	1	FubenDeath		146	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1														
+Kin_Train	1201	物資車	2	1	KinTrainCar		438	995	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1						NoTurn								
+Kin_Box	1258	寶箱	2	1	KinTrainBox	5|60	352	995	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1						NoTurn								
+Kin_Stone	1203	岩石	0	1	FubenDeath		335	200	300	30	921	22	1	91	1								1	18	1														
+Kin_Enemy_1_2	1290	金軍斥候	0	1	FubenDeath		150	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1				
+Kin_Enemy_2_2	1291	機關戰車	0	1	FubenDeath		154	200	300		813	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_3_2	1292	銅錘蠻士	0	1	FubenDeath		1107	200	300		813			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3				
+Kin_Enemy_4_2	1293	反彈衛士	0	1	FubenDeath		180	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3				
+Kin_Enemy_5_2	1294	蒙面刺客	0	1	FubenDeath		121	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3				
+Kin_Enemy_6_2	1295	金軍斥候·精英	0	1	FubenDeath		150	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_7_2	1296	火炮	0	1	FubenDeath		378	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3				
+Kin_Enemy_1_3	1297	金軍斥候	0	1	FubenDeath		150	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1				
+Kin_Enemy_2_3	1298	機關戰車	0	1	FubenDeath		154	200	300		814	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_3_3	1299	銅錘蠻士	0	1	FubenDeath		1107	200	300		814			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3				
+Kin_Enemy_4_3	1300	反彈衛士	0	1	FubenDeath		180	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3				
+Kin_Enemy_5_3	1301	蒙面刺客	0	1	FubenDeath		121	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3				
+Kin_Enemy_6_3	1302	金軍斥候·精英	0	1	FubenDeath		150	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3				
+Kin_Enemy_7_3	1303	火炮	0	1	FubenDeath		378	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3				

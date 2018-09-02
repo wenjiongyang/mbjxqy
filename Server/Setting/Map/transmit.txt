@@ -1,0 +1,69 @@
+FromMapID	Name	JumpKind	JumpGroup	FromPosX	FromPosY	ToMapID	ToPosX	ToPosY	ToFightState	BeProtected	FromMapDesc	ToMapDesc
+4	TrapTesting1					3	200	200	1		丐幫	丐幫練功房
+4	TrapTesting2					5	300	400	0		丐幫	丐幫小木屋
+6	TrapLock2					6	950	310	0			
+5	LuoyeguToErengu					3	2067	3241	0		丐幫	丐幫小木屋
+3	ErenguToLuoyegu					101	4968	5618	0		丐幫	丐幫小木屋
+3	ErenguToCanghai					1011	2460	2710	0		丐幫	丐幫小木屋
+7	CanghaiToErengu					10	7747	8794	0		丐幫	丐幫小木屋
+9	XinshouToErengu					3	2092	3232	0		丐幫	丐幫小木屋
+9	XinshouToLuoyegu					5	700	700	0		丐幫	丐幫小木屋
+9	XinshouToCanghai					7	1280	1800	0		丐幫	丐幫小木屋
+3	ErenguToXinshou					9	7550	9237	0		丐幫	丐幫小木屋
+9	XinshouToLuoyang					10	7747	8794	0		丐幫	丐幫小木屋
+13	LuoyangToXinshou					9	7550	9237	0		丐幫	丐幫小木屋
+10	LuoyangToCanghai					7	1280	1800	0		丐幫	丐幫小木屋
+404	MlToHs					486	2200	3600	0		苗嶺	衡山腳下
+400	SyyToLysd					499	2100	3000	0		鎖雲淵	離憂山洞
+400	SyyToSyyxw					484	2750	2420	0		鎖雲淵	鎖雲淵小屋
+484	WyxwLeave					999	2600	6100	0		忘憂小屋	忘憂島
+499	LysdToWyg					485	1060	1000	0		離憂山洞	忘憂谷
+401	WysToyds					402	7387	5476	0		武夷山	雁蕩山
+402	YdsToCjsz					483	2766	4386	0		雁蕩山	藏劍山莊
+403	DthToFlb					494	2670	3890	0		洞庭湖	飛龍堡
+494	FlbToDth					403	10659	7546	0		飛龍堡1	洞庭湖
+403	DthToBmsz					498	3570	3030	0		洞庭湖	悲魔山莊
+403	DthToWyd					999	4096	4263	0		洞庭湖	忘憂島
+999	WydToXmhj					495	1400	4550	0		忘憂島	無憂教禁地
+495	WyjdToDth					403	10659	7546	0		無憂教禁地	洞庭湖
+496	ZxlToFlb					497	2700	2100	0		摘星樓	飛龍堡
+403	DthToZxl					496	1600	3700	0		洞庭湖	摘星樓
+497	FlbToDth					403	10659	7546	0		飛龍堡2	洞庭湖
+404	MlToJhd1					487	2200	6800	0		苗嶺	九猴洞
+404	MlToJhd2					480	2200	6800	0		苗嶺	九猴洞
+480	JhdToWyp					488	2000	10860	0		九猴洞	武夷劍派
+488	WypToWyjd					489	2350	5530	0		武夷派	武夷禁地
+489	TrapTask1					405	8005	8253	0		武夷禁地	點蒼山
+406	XsdToHsmd					493	2600	6250	0		響水洞	華山密道
+493	HsmdTpHsp					491	5200	3750	0		華山密道	華山派
+491	HsToXsd					406	6706	7349	0		華山派	響水洞
+405	DcsToLayd					490	5473	4882	0		點蒼山	臨安驛道
+490	LaydToXsd					406	6706	7349	0		臨安驛道	響水洞
+408	JmgToGzc					479	1800	5400	0		劍門關	古戰場
+411	FnsToFnsxy					484	2750	2420	0		伏牛山	伏牛山小屋
+5	Jump1	2				5	9437	10975	0		丐幫	丐幫小木屋
+999	Jump1	2				999	3908	8051	0		新手村	
+999	Jump2	3				999	4938	8749	0		新手村	
+999	Jump3	3				999	5005	6689	0		新手村	
+999	Jump4	2	1			999	4878	2625	0		新手村	
+999	Jump5	5	1			999	4971	1468	0		新手村	
+999	Jump6	3	1			999	6043	1861	0		新手村	
+999	Jump7	3	2			999	5111	1463	0		新手村	
+999	Jump8	5	2			999	5027	2641	0		新手村	
+999	Jump9	2	2			999	3788	2143	0		新手村	
+1012	Jump1	2				1012	5784	5539	0		丐幫	丐幫小木屋
+1012	Jump2	2				1012	6194	5495	0		丐幫	丐幫小木屋
+1012	Jump3	2				1012	6622	5537	0		丐幫	丐幫小木屋
+1012	Jump4	2				1012	7227	5529	0		丐幫	丐幫小木屋
+1012	Jump5	2				1012	5841	1079	0		丐幫	丐幫小木屋
+1012	Jump6	2				1012	6247	1646	0		丐幫	丐幫小木屋
+1012	Jump7	2				1012	6746	2161	0		丐幫	丐幫小木屋
+1012	Jump8	2				1012	7320	2400	0		丐幫	丐幫小木屋
+1100	QSHLToNextFloor1			6040	9110	1101	6000	5650	0		秦始皇一層	秦始皇二層
+1100	QSHLToNextFloor2			12010	12300	1101	6000	5650	0		秦始皇一層	秦始皇二層
+1101	QSHLToUpperStory1			9150	9320	1100	8000	5750	0		秦始皇二層	秦始皇一層
+1101	QSHLToUpperStory2			4150	6560	1100	8000	5750	0		秦始皇二層	秦始皇一層
+1101	QSHLToNextFloor1			6090	9440	1102	5100	6150	0		秦始皇二層	秦始皇三層
+1101	QSHLToNextFloor2			4040	9120	1102	5100	6150	0		秦始皇二層	秦始皇三層
+1102	QSHLToUpperStory1			3400	5250	1101	6000	5650	0		秦始皇三層	秦始皇二層
+1102	QSHLToUpperStory2			6200	8700	1101	6000	5650	0		秦始皇三層	秦始皇二層

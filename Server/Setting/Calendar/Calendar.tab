@@ -1,0 +1,42 @@
+nId	szKey	nLevelMin	nLevelMax	nSort	nStarLevel	szTimeFrameOpen	szActiveTimeFrame	szName	szIconAtlas	szIcon	szTag	szJoinCount	szJoinCountFunc	nTimeGroup	bWeek	szFuncName	szParams	szOpenActivityTip	szWeekIcon	bNotPreview
+1	Boss	20		4	5	OpenDay1A		武林盟主	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	wulinmengzhu	Mark_PK			2		OpenUi	BossPanel		UI/Textures/ActivityPicture/wulinmengzhu.jpg	
+2	CommerceTask	30		24	3	OpenDay2		商會任務	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanghuirenwu	Mark_Single	CommerceTask				DoCommerceTask	CommerceTaskPanel			
+3	Battle	24		10	4		StartBattle	宋金戰場	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Mark_PK	Battle		1		OpenUi	BattleEntrance		UI/Textures/ActivityPicture/songjinzhanchang.jpg	
+4	CangBaoTu	21		25	4			藏寶圖	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	cangbaotu	Mark_Single					OpenUi	ItemBox			
+6	PunishTask	22		18	3			懲惡任務	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	chengjierenwu	Mark_Team	PunishTask				OpenUi	TeamPanel|TeamActivity|PunishTask|PunishTask			
+7	TeamFuben	15		19	3			組隊秘境	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zuduimijing	Mark_Team	TeamFuben				OpenUi	TeamFubenPanel			
+8	ExplorationFuben	19	69	17	4			寶藏探索	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	guanqiatansuo	Mark_Single	MapExplore				OpenUi	FubenSectionPanel|ExplorationFuben			
+9	Rank	17		23	3			武神殿	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	wushendian	Mark_Single	RankBattle				OpenUi	RankPanel			
+10	RandomFuben	30		20	3	OpenDay2		凌絕峰	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingjuefeng	Mark_Team	RandomFuben				GoToRandomFuben				
+11	QunYingHui	80		6	5	OpenLevel99	QYHStartGame	群英會	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Mark_PK			3		OpenUi	QYHEntrance			
+12	FieldBoss	30		5	5	OpenDay7		歷代名將	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Mark_PK			4		OpenUi	BossLeaderPanel|Boss	BossLeaderPanel|Boss	UI/Textures/ActivityPicture/lidaimingjiang.jpg	
+13	FieldLeader	20		17	4	OpenDay3C		野外首領	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaishouling	Mark_PK			5		OpenUi	BossLeaderPanel|Leader	BossLeaderPanel|Leader	UI/Textures/ActivityPicture/yewaishouling.jpg	
+14	ActivityQuestion	23	39	22	3			每日答題	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Single	ActivityQuestion	ActivityQuestion:GetState			ActivityQuestion	ActivityQuestion			
+15	ChuanGong	15		13	5	OpenDay2		幫派傳功	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazuchuangong	Mark_Famliy	ChuangGong	ChuangGong:GetDegreeInfo			OpenKinMember				
+18	KinGather	11		2	5		KinGather	幫派烤火	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazujuji	Mark_Famliy			9		BackToKinMap			UI/Textures/ActivityPicture/jiazukaohuo.jpg	
+21	AdventureFuben	13		21	3			山賊秘窟	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanzeimiku	Mark_Team	AdventureFuben				OpenUi	TeamPanel|TeamActivity|AdventureFuben|AdventureFuben			
+23	HeroChallenge	30		16	4	OpenDay3		英雄挑戰	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazurenwu	Mark_PK	HeroChallenge				OpenUi	HeroChallenge			
+24	KinBattle	999		7	5			幫派戰	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazuzhan	Mark_Famliy			10	1	OpenUi	KinBattle	KinBattle		
+25	WhiteTigerFuben	30		11	4		StartWhiteTiger	白虎堂	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	baihutang	Mark_PK	WhiteTigerFuben		11		JoinWTFuben			UI/Textures/ActivityPicture/baihutang.jpg	
+26	TeamBattle	30		9	5		CheckStartTeamBattle	通天塔	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Mark_Team		TeamBattle:GetLastTimes	12	1	OpenUi	TeamBattlePanel	TeamBattlePanel		
+27	FactionBattle	30		8	5		StartFactionBattle	門派競技	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Mark_PK			13	1	JoinFactionBattle				
+28	KinEscort	30		12	5	OpenDay5		幫派運鏢	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yunbiao	Mark_Famliy		KinEscort:GetDegree	14		AutoPath	952|409		UI/Textures/ActivityPicture/jiazuyunbiao.jpg	
+29	XiuLian	24		15	5			野外修煉	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaixiulian	Mark_Team					OpenUi	FieldPracticePanel			
+30	KinFuben	15		3	5	OpenDay4		幫派試煉	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	Mark_Famliy			15	1	JoinKinTrain				
+31	SeriesFuben	20		25	3			江湖試煉	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Mark_Single					OpenUi	TrialPanel			
+32	FactionMonkey	20		1	5			門派評選	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	toupiao	Mark_Single					OpenUi	FactionMonkeyPanel			
+33	DomainBattle	20		1	5	OpenDomainBattle	StartDomainBattle	攻城戰	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Mark_Famliy			16	1	OpenUi	KinDetailPanel|DomainBattleMain			
+34	CardCollection_1	30		20	3	OpenLevel59		凌絕峰收集	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingjuefengshoucang	Mark_Team		CollectionSystem:GetRandomCompletion			GoToRandomFuben				
+35	HuaShanLunJian	60		1	5	HuaShanLunJian		華山論劍	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Mark_Team			17		OpenUi	HSLJPanel	HSLJPanel		
+36	HuaShanLunJian1	20		1	5	HuaShanLunJian		華山論劍-決賽	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Mark_Team			18		OpenUi	HSLJPanel	HSLJPanel		1
+37	ImperialTomb	60		13	5	OpenDay89		秦始皇陵	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	miyinkuangdong	Mark_Team			19		ImperialTomb			UI/Textures/ActivityPicture/qinshihuangling.jpg	
+38	ImperialTombEmperor	60		1	5	OpenDay89		始皇降世	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qinshihuangling	Mark_Famliy			20	1	ImperialTombEmperor		ImperialTombPanel		
+39	WeekendQuestion	30		18	5			五一江湖動靈機	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	NULL				OpenUi	WeekendQuizPanel			1
+40	IdiomsAct	30		18	5			有緣一線牽	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	IdiomFuben	IdiomFuben:GetDegreeInfo			AutoPath	99|10			1
+41	DefendAct	30		18	5			五一江湖展身手	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	DefendFuben				DefendsAct				1
+42	InDifferBattle	60		1	5		OpenIndiffer	心魔幻境	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Mark_Team			21		OpenUi	DreamlandJoinPanel	DreamlandJoinPanel	UI/Textures/ActivityPicture/xinmohuanjing.jpg	
+43	DaXueZhang	20		12	5			打雪仗	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	Mark_Team		Calendar:GetDXZCount			OpenUi	SnowballPanel	SnowballPanel		1
+44	Muse	60		14	5	OpenDay33		打坐冥想	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	mingxiang	Mark_Single	Muse				GotoMuse				
+45	ImperialTombFemaleEmperor	80		1	5	OpenLevel129Add10		女帝復蘇	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	nvdiyizhong	Mark_Famliy			23	1	ImperialTombFemaleEmperor		ImperialTombPanel|true		
+46	BattleMoba	24		10	4	OpenLevel99		宋金攻防戰	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Mark_PK	Battle		22		OpenUi	BattleEntrance		UI/Textures/ActivityPicture/songjinzhanchang.jpg	
+47	FieldCrossBoss	30		5	5	OpenDay7		跨服名將	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Mark_PK			4		OpenUi	BossLeaderPanel|Boss	BossLeaderPanel|Boss	UI/Textures/ActivityPicture/lidaimingjiang.jpg	

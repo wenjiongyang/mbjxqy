@@ -1,0 +1,116 @@
+szMagicAttrib	szMagicDesc	szMagicDescFunc
+vitality_v	體質  +{1}	
+dexterity_v	敏捷  +{1}	
+strength_v	力量  +{1}	
+energy_v	靈巧  +{1}	
+lifemax_v	生命  +{1}	
+lifemax_p	基礎生命  +{1}%	
+lifecurmax_p	當前生命  +{1}%	
+recover_life_v	生命恢復  +{1}	
+lifereplenish_p	恢復效率  +{1}%	
+runspeed_p	移動速度  +{1}	
+runspeed_v	移動速度  +{1}	
+physical_damage_v	屬性傷害  +{1}	
+physics_potentialdamage_p	基礎攻擊力  +{1}%	
+basic_damage_v	攻擊力  +{1}	
+physical_metaldamage_v	金系傷害  +{1}	
+physical_wooddamage_v	木系傷害  +{1}	
+physical_waterdamage_v	水系傷害  +{1}	
+physical_firedamage_v	火系傷害  +{1}	
+physical_earthdamage_v	土系傷害  +{1}	
+metal_resist_v	金系抗性  +{1}	
+wood_resist_v	木系抗性  +{1}	
+water_resist_v	水系抗性  +{1}	
+fire_resist_v	火系抗性  +{1}	
+earth_resist_v	土系抗性  +{1}	
+all_series_resist_v	全系抗性  +{1}	
+all_series_resist_p	基礎全系抗性  +{1}%	
+ignore_metal_resist_v	忽略金系抗性  +{2}	
+ignore_wood_resist_v	忽略木系抗性  +{2}	
+ignore_water_resist_v	忽略水系抗性  +{2}	
+ignore_fire_resist_v	忽略火系抗性  +{2}	
+ignore_earth_resist_v	忽略土系抗性  +{2}	
+ignore_all_resist_v	忽略全系抗性  +{2}	
+ignore_all_resist	忽略全系抗性  +{2}%	
+attackspeed_v	攻擊速度  +{1}	
+attackrate_v	命中  +{1}	
+attackrate_p	基礎命中  +{1}%	
+defense_v	閃避  +{1}	
+defense_p	基礎閃避  +{1}%	
+miss_alldmg_v	完全閃避  +{1}	
+ignore_defense_v	忽略閃避  +{1}	
+ignore_defense_p	忽略閃避  +{1}%	
+deadlystrike_v	會心機率  +{1}	
+deadlystrike_p	基礎會心幾率  +{1}%	
+deadlystrike_damage_p	會心傷害  +{1}%	
+weaken_deadlystrike_v	抗會心機率  +{1}	
+weaken_deadlystrike_damage_p	會心免傷  +{1}%	
+state_hurt_attackrate	受傷機率  +{1}	
+state_stun_attackrate	眩暈機率  +{1}	
+state_slowall_attackrate	遲緩機率  +{1}	
+state_zhican_attackrate	致纏幾率   +{1}	
+state_palsy_attackrate	麻痹機率  +{1}	
+state_hurt_attacktime	受傷時間  +{1}	
+state_stun_attacktime	眩暈時間  +{1}	
+state_slowall_attacktime	遲緩時間  +{1}	
+state_zhican_attacktime	致纏時間   +{1}	
+state_palsy_attacktime	麻痹時間  +{1}	
+add_seriesstate_rate_v	屬性效果機率  +{1}	
+add_seriesstate_time_v	屬性效果時間  +{1}	
+state_hurt_resistrate	抗受傷機率  +{1}	
+state_stun_resistrate	抗眩暈機率  +{1}	
+state_slowall_resistrate	抗遲緩機率  +{1}	
+state_zhican_resistrate	抗致纏幾率  +{1}	
+state_palsy_resistrate	抗麻痹機率  +{1}	
+state_hurt_resisttime	抗受傷時間  +{1}	
+state_stun_resisttime	抗眩暈時間  +{1}	
+state_slowall_resisttime	抗遲緩時間  +{1}	
+state_zhican_resisttime	抗致纏時間  +{1}	
+state_palsy_resisttime	抗麻痹時間  +{1}	
+resist_allseriesstate_rate_v	抗屬性效果機率  +{1}	
+resist_allseriesstate_time_v	抗屬性效果時間  +{1}	
+resist_allspecialstate_rate_v	抗負面效果機率  +{1}	
+resist_allspecialstate_time_v	抗負面效果時間  +{1}	
+ignore_series_state	清除並免疫屬性效果	
+ignore_abnor_state	清除並免疫負面效果	
+steallife_p	吸取生命  +{1}%	
+steallife_resist_v	吸血抗性  +{1}	
+steallife_resist_p	吸血抗性  +{1}%	
+meleedamagereturn_p	反彈近程傷害  +{1}%	
+rangedamagereturn_p	反彈遠程傷害  +{1}%	
+fightpower_v1	戰力  +{1}	
+series_enhance_v	五行相克強化  +{1}	
+series_abate_v	五行相克弱化  +{1}	
+add_allfaction	門派技能等級  +{1}	
+enhance_final_damage_p	最終攻擊放大  +{1}%	
+reduce_final_damage_p	最終傷害抵消  +{1}%	
+damage4npc_p	對怪物傷害  +{1}%	
+playerdmg_npc_p	抵擋角色傷害  +{1}%	
+userdesc_000		
+state_hurt_ignore	清除並免疫受傷	
+state_confuse_ignore	清除並免疫混亂	
+state_knock_ignore	清除並免疫擊退	
+state_drag_ignore	清除並免疫拉回	
+state_float_ignore	清除並免疫浮空	
+state_freeze_ignore	清除並免疫凍結	
+state_selffreeze_ignore	清除凍結效果	
+state_sleep_ignore	清除並免疫睡眠	
+state_burn_ignore	清除並免疫灼燒	
+state_weak_ignore	清除並免疫虛弱	
+state_silence_ignore	清除並免疫沉默	
+state_slowrun_ignore	清除並免疫緩慢	
+state_fixed_ignore	清除並免疫定身	
+state_zhican_ignore	清除並免疫致纏	
+state_stun_ignore	清除並免疫眩暈	
+state_slowall_ignore	清除並免疫遲緩	
+state_palsy_ignore	清除並免疫麻痹	
+protected	PK保護狀態	
+userdesc_101	太一真氣	
+userdesc_102	兩儀劍法	
+userdesc_103	劍氣縱橫	
+userdesc_104	血月之影	
+userdesc_105	逆轉九陰	
+userdesc_106	真武七截	
+userdesc_107	枯木逢春/涅槃重生	
+userdesc_108	涅槃重生	
+userdesc_109	門派技能等級  +1	

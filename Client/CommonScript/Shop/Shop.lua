@@ -1,0 +1,904 @@
+Require("CommonScript/Item/Define.lua")
+Shop.TREASURE_REFRESH = 14400
+Shop.SHOW_LEVEL = 14
+Shop.MONEY_DEBT_GROUP = 3
+Shop.MONEY_DEBT_BUFF = 2310
+Shop.MONEY_DEBT_ATTR_DEBUFF = 2314
+Shop.MONEY_DEBT_FIGHT_DEBUFF = 2318
+Shop.MONEY_DEBT_START_TIME = 51
+Shop.ShopWares = {
+  Treasure = {},
+  Dress = {},
+  DrugShop = {},
+  WeaponShop = {},
+  WarShop = {},
+  WeddingShop = {}
+}
+Shop.tbShopMoneyType = {
+  DrugShop = "Contrib",
+  WarShop = "Found",
+  WeddingShop = "Gold"
+}
+Shop.tbCustomShopName = {
+  DrugShop = "珍宝坊",
+  WarShop = "战争坊",
+  WeddingShop = "婚礼商店"
+}
+Shop.ACT_LIMIT_TYPE = 66
+Shop.WEEK_LIMIT_TYPE = 7
+Shop.Special_LIMIT_TYPE = 99
+Shop.tbAllDayLimit = {}
+Shop.tbAllWeekLimit = {}
+Shop.tbActivityLimitSell = {}
+function Shop:LoadWares()
+  local tbWares = LoadTabFile("Setting/Shop/Wares.tab", "dddssddssddddddss", nil, {
+    "GoodsId",
+    "TemplateId",
+    "Price",
+    "MoneyType",
+    "ShopType",
+    "Sort",
+    "Discount",
+    "TimeFrame",
+    "CloseTimeFrame",
+    "LimitType",
+    "LimitNum",
+    "HotTip",
+    "MinLevel",
+    "ShowLevel",
+    "ShowVipLevel",
+    "OpenTime",
+    "CloseTime"
+  })
+  for i, v in ipairs(tbWares) do
+    local tbWares = self.ShopWares[v.ShopType]
+    tbWares[v.GoodsId] = {
+      nGoodsId = v.GoodsId,
+      nTemplateId = v.TemplateId,
+      nPrice = v.Price,
+      szMoneyType = v.MoneyType,
+      szShopType = v.ShopType,
+      nSort = v.Sort,
+      nDiscount = v.Discount,
+      nLimitType = v.LimitType ~= 0 and v.LimitType,
+      nLimitNum = v.LimitNum,
+      bHotTip = v.HotTip == 1,
+      szTimeFrame = v.TimeFrame,
+      szCloseTimeFrame = v.CloseTimeFrame,
+      nMinLevel = v.MinLevel,
+      nShowLevel = v.ShowLevel,
+      nShowVipLevel = v.ShowVipLevel,
+      szOpenTime = v.OpenTime,
+      szCloseTime = v.CloseTime
+    }
+  end
+end
+Shop:LoadWares()
+function Shop:LoadEquipMakerSettings()
+  self.tbEquipMakerSettings = LoadTabFile("Setting/Shop/EquipMaker.tab", "dddsddddddsd", nil, {
+    "nId",
+    "nHouse",
+    "nQuality",
+    "szQualityName",
+    "nItem1Id",
+    "nItem2Id",
+    "nItem3Id",
+    "nRate1",
+    "nRate2",
+    "nRate3",
+    "szMoneyType",
+    "nPrice"
+  })
+  local tbTmp = {}
+  local nQualityMin, nQualityMax = math.huge, -1
+  for nId, tb in pairs(self.tbEquipMakerSettings) do
+    tbTmp[tb.nHouse] = tbTmp[tb.nHouse] or {}
+    local nQuality = tb.nQuality
+    tbTmp[tb.nHouse][nQuality] = tbTmp[tb.nHouse][nQuality] or {}
+    table.insert(tbTmp[tb.nHouse][nQuality], nId)
+    if nQualityMax < nQuality then
+      nQualityMax = nQuality
+    end
+    if nQualityMin > nQuality then
+      nQualityMin = nQuality
+    end
+  end
+  self.nEquipMakerQualityMin = nQualityMin
+  self.nEquipMakerQualityMax = nQualityMax
+  for nHouse, tb in pairs(tbTmp) do
+    for nQuality in pairs(tb) do
+      table.sort(tbTmp[nHouse][nQuality], function(nA, nB)
+        return nA < nB
+      end)
+    end
+  end
+  self.tbEquipMakerIdMap = tbTmp
+  local tbRateSettings = LoadTabFile("Setting/Shop/EquipMakerRate.tab", "ddd", nil, {
+    "nTimes",
+    "nCCRate",
+    "nXYRate"
+  })
+  self.tbEquipMakerRateSettings = {}
+  for _, tb in ipairs(tbRateSettings) do
+    self.tbEquipMakerRateSettings[tb.nTimes] = tb
+  end
+end
+Shop:LoadEquipMakerSettings()
+Shop.tbRenownShop = LoadTabFile("Setting/Shop/RenownShop.tab", "dddddds", "nId", {
+  "nId",
+  "nIndex",
+  "nItemId",
+  "nPrice",
+  "nMaxCount",
+  "nRate",
+  "szTimeFrame"
+})
+Shop.tbMoney = LoadTabFile("Setting/MoneySetting.tab", "sdddddssssssss", "MoneyType", {
+  "MoneyType",
+  "SaveKey",
+  "DebtSaveKey",
+  "Value",
+  "ObjId",
+  "Emotion",
+  "Icon",
+  "NumberColor",
+  "StringColor",
+  "Name",
+  "BigIcon",
+  "TipDesc",
+  "IconAtlas",
+  "BigIconAtlas"
+})
+Shop.tbMarketable = LoadTabFile("Setting/Shop/MarketableThing.tab", "ddsd", "TemplateId", {
+  "TemplateId",
+  "Price",
+  "MoneyType",
+  "PlayerLevel"
+})
+function Shop:GetMoneyIcon(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    if szMoneyType == "Found" then
+      return "jianshezijinsmall", "UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab"
+    end
+    Log("GetMoneyIcon Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.Icon, tbMoneySetting.IconAtlas
+end
+function Shop:GetMoneyBigIcon(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    Log("GetMoneyIcon Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.BigIcon, tbMoneySetting.BigIconAtlas
+end
+function Shop:GetMoneyName(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    Log("GetMoneyName Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.Name, "#" .. tbMoneySetting.Emotion
+end
+function Shop:GetMoneyDesc(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    Log("GetMoneyName Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.TipDesc
+end
+function Shop:GetMoneyValue(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    Log("GetMoneyName Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.Value
+end
+function Shop:GetMoneyObjId(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  if not tbMoneySetting then
+    Log("GetMoneyName Failure!" .. szMoneyType)
+    return
+  end
+  return tbMoneySetting.ObjId
+end
+function Shop:IsMoneyType(szMoneyType)
+  local tbMoneySetting = self.tbMoney[szMoneyType]
+  return tbMoneySetting ~= nil
+end
+function Shop:CanBuyWarWare(pPlayer, nTemplateId, nBuyCount, nPrice)
+  local tbItemInfo = DomainBattle.define.tbBattleApplyIds[nTemplateId]
+  if not tbItemInfo then
+    return false, "无商品信息"
+  end
+  if GetTimeFrameState(DomainBattle.define.szOpenTimeFrame) ~= 1 then
+    return false, "时间轴未开放"
+  end
+  if MODULE_GAMESERVER then
+    local tbKin = Kin:GetKinById(pPlayer.dwKinId)
+    if not tbKin then
+      return false, "无家族"
+    end
+    local tbMember = Kin:GetMemberData(pPlayer.dwID)
+    if not tbMember then
+      return false, "无家族"
+    end
+    local nCareer = tbMember:GetCareer()
+    if not DomainBattle.define.tbCanUseItemCareer[nCareer] then
+      return false, "您的权限不足"
+    end
+    local nCurFound = tbKin:GetFound()
+    if nCurFound < nPrice * nBuyCount then
+      return false, "家族建设资金不足"
+    end
+  else
+    if not DomainBattle:CanUseBattleSupplys() then
+      return false, "您的权限不足"
+    end
+    local tbBaseInfo = Kin:GetBaseInfo() or {}
+    if not tbBaseInfo.nFound or tbBaseInfo.nFound < nPrice * nBuyCount then
+      return false, "家族建设资金不足"
+    end
+  end
+  return true
+end
+function Shop:CanBuyGoodsWare(pPlayer, szShopType, nGoodsId, nBuyCount)
+  local tbWare = self:GetGoodsWare(szShopType, nGoodsId)
+  if not tbWare then
+    return false, "不存在该商品"
+  end
+  return self:_CanBuyWare(pPlayer, tbWare, nBuyCount)
+end
+function Shop:_CanBuyWare(pPlayer, tbWare, nBuyCount)
+  nBuyCount = math.floor(nBuyCount)
+  if not nBuyCount or nBuyCount <= 0 then
+    return false, "请选择购买数量"
+  end
+  local nPrice = self:GetPrice(pPlayer, tbWare)
+  local nTemplateId = tbWare.nTemplateId
+  local szShopType = tbWare.szShopType
+  if szShopType == "WarShop" then
+    return self:CanBuyWarWare(pPlayer, nTemplateId, nBuyCount, nPrice)
+  end
+  if not self:HasEnoughMoney(pPlayer, tbWare.szMoneyType, nPrice, nBuyCount) then
+    local szMoneyName = self:GetMoneyName(tbWare.szMoneyType)
+    local szTip = string.format("%s不足", szMoneyName)
+    return false, szTip
+  end
+  if not self:HasEnoughFreeBag(pPlayer, nTemplateId, nBuyCount) then
+    return false, "背包空间不足"
+  end
+  if not self:CheckWareAvaliable(tbWare, pPlayer) then
+    return false, "商品尚未上架"
+  end
+  if tbWare.nMinLevel and tbWare.nMinLevel > pPlayer.nLevel then
+    return false, string.format("角色%s级后可购买", tbWare.nMinLevel)
+  end
+  if tbWare.nLimitType then
+    local nRemainCount = self:GetWareRemainCount(pPlayer, tbWare)
+    if nBuyCount > nRemainCount then
+      return false, "剩余库存不足"
+    end
+  end
+  local bFamiShop, bRand = self:IsFamilyShop(szShopType)
+  if bFamiShop then
+    if pPlayer.dwKinId == 0 then
+      return false, "你没有家族，不能购买"
+    end
+    if bRand then
+      local nDegree = self:GetFamilyWareDegree(pPlayer, szShopType, nTemplateId)
+      if nBuyCount > nDegree then
+        return false, "剩余库存不足"
+      end
+    else
+      local nBuildingId = Shop.tbFamilyShopCharToId[szShopType]
+      local nBuildingLevel = self:GetBuildingLevel(pPlayer, nBuildingId)
+      if nBuildingLevel < tbWare.nLevel then
+        return false, "建筑等级不足"
+      end
+    end
+  end
+  return true
+end
+function Shop:CanBuyWare(pPlayer, szShopType, nTemplateId, nBuyCount)
+  local tbWare = self:GetAWare(szShopType, nTemplateId)
+  if not tbWare then
+    return false, "不存在该商品"
+  end
+  return self:_CanBuyWare(pPlayer, tbWare, nBuyCount)
+end
+function Shop:GetFamilyWareDegree(pPlayer, szShopType, nTemplateId)
+  local nDegree = 0
+  if self.GetFaimlyWareRemainClient then
+    nDegree = self:GetFaimlyWareRemainClient(szShopType, nTemplateId)
+  end
+  if self.GetFamilyWareRemainServer then
+    nDegree = self:GetFamilyWareRemainServer(pPlayer, szShopType, nTemplateId)
+  end
+  return nDegree
+end
+function Shop:CheckWareTimeFrame(tbWare, szTimeFrame)
+  if tbWare.nLimitType == self.WEEK_LIMIT_TYPE then
+    local nOpenTime = CalcTimeFrameOpenTime(szTimeFrame)
+    local nLastWeekStartTime = Lib:GetLocalWeekEndTime() - 604800 + Shop.TREASURE_REFRESH
+    if nOpenTime > nLastWeekStartTime then
+      return false
+    end
+  elseif GetTimeFrameState(szTimeFrame) ~= 1 then
+    return false
+  end
+  return true
+end
+function Shop:CheckWareAvaliable(tbWare, pPlayer)
+  if tbWare.nShowLevel and tbWare.nShowLevel > pPlayer.nLevel then
+    return false
+  end
+  if tbWare.nShowVipLevel and tbWare.nShowVipLevel ~= 0 and pPlayer.GetVipLevel() < tbWare.nShowVipLevel then
+    return false
+  end
+  local szTimeFrame = tbWare.szTimeFrame
+  if not Lib:IsEmptyStr(szTimeFrame) and not self:CheckWareTimeFrame(tbWare, szTimeFrame) then
+    return false
+  end
+  local szCloseTimeFrame = tbWare.szCloseTimeFrame
+  if not Lib:IsEmptyStr(szCloseTimeFrame) and self:CheckWareTimeFrame(tbWare, szCloseTimeFrame) then
+    return false
+  end
+  local nNow = GetTime()
+  if not Lib:IsEmptyStr(tbWare.szOpenTime) and nNow < Lib:ParseDateTime(tbWare.szOpenTime) then
+    return false
+  end
+  if not Lib:IsEmptyStr(tbWare.szCloseTime) and nNow > Lib:ParseDateTime(tbWare.szCloseTime) then
+    return false
+  end
+  return true
+end
+function Shop:CanSellWare(pPlayer, nItemId, nCount)
+  local nCount = math.floor(nCount)
+  if not (nItemId and nCount) or nCount <= 0 then
+    return false, "出售数量错误"
+  end
+  local pItem = pPlayer.GetItemInBag(nItemId)
+  if not pItem then
+    return false, "不存在该物品"
+  end
+  if nCount > pItem.nCount then
+    return false, "物品数量不足"
+  end
+  if not MODULE_GAMESERVER then
+    local nSumPrice, szMoneyType = self:GetSellSumPrice(pPlayer, pItem.dwTemplateId, nCount)
+    if not nSumPrice or not szMoneyType then
+      return false, "无价格配置"
+    end
+  end
+  return true
+end
+function Shop:GetHonorSellWare(dwTemplateId)
+  local tbWare = Shop:GetAWare("Honor", dwTemplateId)
+  if tbWare then
+    return tbWare
+  end
+  tbWare = Shop:GetAWare("Biography", dwTemplateId)
+  if tbWare then
+    return tbWare
+  end
+  local nUnIdentiItem = Item.tbUnidentifyItemList[dwTemplateId]
+  if nUnIdentiItem then
+    tbWare = Shop:GetAWare("Honor", nUnIdentiItem)
+    if tbWare then
+      return tbWare
+    end
+    tbWare = Shop:GetAWare("Biography", nUnIdentiItem)
+    if tbWare then
+      return tbWare
+    end
+  end
+end
+function Shop:HasEnoughFreeBag(pPlayer, nTemplateId, nAddCount)
+  local nFreeBagCount = pPlayer.GetFreeBagCount()
+  local tbBaseInfo = KItem.GetItemBaseProp(nTemplateId)
+  local nStackMax = tbBaseInfo.nStackMax
+  if nStackMax == 0 then
+    return nFreeBagCount - nAddCount > 0
+  else
+    local nCount, tbItems = pPlayer.GetItemCountInAllPos(nTemplateId)
+    local nCurFree = 0
+    for _, pItem in pairs(tbItems) do
+      nCurFree = nCurFree + nStackMax - pItem.nCount
+    end
+    nAddCount = nAddCount - nCurFree
+    local nNeedBag = math.ceil(nAddCount / nStackMax)
+    return nFreeBagCount - nNeedBag >= 0
+  end
+end
+function Shop:HasEnoughMoney(pPlayer, szMoneyType, nPrice, nCount)
+  local nMoneyHave = pPlayer.GetMoney(szMoneyType)
+  return nMoneyHave >= nPrice * nCount
+end
+function Shop:FindMarketableThing(nCheckTemplateId)
+  local tbWare = self.tbMarketable[nCheckTemplateId]
+  if tbWare then
+    local tbData = {
+      nTemplateId = tbWare.TemplateId,
+      nPrice = tbWare.Price,
+      szMoneyType = tbWare.MoneyType,
+      nPlayerLevel = tbWare.PlayerLevel or 0
+    }
+    return tbData
+  end
+end
+function Shop:GetGoodsWare(szShopType, nGoodsId)
+  local tbWares = self.ShopWares[szShopType]
+  if tbWares then
+    return tbWares[nGoodsId]
+  end
+end
+function Shop:GetAWare(szShopType, nTemplateId)
+  local tbWares = self.ShopWares[szShopType]
+  if tbWares then
+    local bFamiShop, bRand = self:IsFamilyShop(szShopType)
+    if bFamiShop then
+      if bRand then
+        for nLevel, tbPool in pairs(tbWares) do
+          for _, tbWares in pairs(tbPool) do
+            if tbWares[nTemplateId] then
+              return tbWares[nTemplateId]
+            end
+          end
+        end
+      else
+        for nLevel, v in pairs(tbWares) do
+          if v[nTemplateId] then
+            return v[nTemplateId]
+          end
+        end
+      end
+    else
+      return tbWares[nTemplateId]
+    end
+  end
+end
+function Shop:GetWareRemainCount(pPlayer, tbWares)
+  local tbRoleLimitInfo = Shop:GetLimitInfo(pPlayer, tbWares.nLimitType)
+  if not tbRoleLimitInfo then
+    return 0
+  end
+  local nKey = self:GetLimitSaveKey(tbWares)
+  return math.max(0, tbWares.nLimitNum - (tbRoleLimitInfo[nKey] or 0))
+end
+function Shop:GetLimitSaveKey(tbWares)
+  return tbWares.nLimitType == Shop.ACT_LIMIT_TYPE and tbWares.nGoodsId or tbWares.nTemplateId
+end
+function Shop:GetUnidentifySellInfo(nTemplateId, nCount, nNormalPriceParam)
+  local tbItemInfo = KItem.GetItemBaseProp(nTemplateId)
+  local szSellMoneyTypeForHigh
+  if tbItemInfo.szClass == "Unidentify" then
+    szSellMoneyTypeForHigh = "Contrib"
+  elseif tbItemInfo.szClass == "UnidentifyZhenYuan" then
+    szSellMoneyTypeForHigh = "Energy"
+  end
+  if not szSellMoneyTypeForHigh then
+    return
+  end
+  local nPrice = MarketStall:GetPriceInfo("item", nTemplateId)
+  if not nPrice then
+    local nResutlItemId = KItem.GetItemExtParam(nTemplateId, 1)
+    local tbItemInfoTar = KItem.GetItemBaseProp(nResutlItemId)
+    if not tbItemInfoTar then
+      Log(nResutlItemId, debug.traceback())
+      return
+    end
+    nPrice = tbItemInfoTar.nPrice / 1000
+  end
+  if tbItemInfo.nDetailType == Item.DetailType_Normal then
+    return math.max(math.floor(nPrice * 100 * nNormalPriceParam) * nCount, 1), "Coin"
+  elseif tbItemInfo.nDetailType == Item.DetailType_Rare or tbItemInfo.nDetailType == Item.DetailType_Inherit then
+    return math.max(math.floor(nPrice * 10 * 0.5) * nCount, 1), szSellMoneyTypeForHigh
+  end
+end
+Shop.tbItemClassSellFunc = {
+  Unidentify = function(self, nTemplateId, nCount, tbItemInfo)
+    return Shop:GetUnidentifySellInfo(nTemplateId, nCount, 0.5)
+  end,
+  UnidentifyZhenYuan = function(self, nTemplateId, nCount)
+    return Shop:GetUnidentifySellInfo(nTemplateId, nCount, 0.35)
+  end,
+  PartnerSkillBook = function(self, nTemplateId, nCount)
+    local nPrice = MarketStall:GetPriceInfo("item", nTemplateId)
+    if nPrice then
+      return math.max(math.floor(nPrice * 10 / 4) * nCount, 1), "Contrib"
+    end
+  end,
+  ComposeMeterial = function(self, nTemplateId, nCount)
+    local nTargerItemId, nComposeNum = Compose.EntityCompose:GetEquipComposeInfo(nTemplateId)
+    if nTargerItemId then
+      local nPrice, szMoneyType = self:GetUnidentifySellInfo(nTargerItemId, 1)
+      if nPrice then
+        return math.max(math.floor(nPrice / nComposeNum) * nCount, 1), szMoneyType
+      end
+    end
+  end,
+  equip = function(self, nTemplateId, nCount, tbItemInfo)
+    local nPrice = tbItemInfo.nPrice / 1000
+    local nUnIdentiItem = Item.tbUnidentifyItemList[nTemplateId]
+    if nUnIdentiItem then
+      local nMarketPrice = MarketStall:GetPriceInfo("item", nUnIdentiItem)
+      if nMarketPrice then
+        nPrice = nMarketPrice
+      end
+    end
+    local szMoneyType = Item.tbSellMoneyType[tbItemInfo.nDetailType]
+    if szMoneyType then
+      if szMoneyType == "Coin" then
+        return math.max(math.floor(nPrice * 100 * 0.3) * nCount, 1), szMoneyType
+      elseif szMoneyType == "Contrib" then
+        return math.max(math.floor(nPrice * 10 * 0.3) * nCount, 1), szMoneyType
+      end
+    end
+  end,
+  ZhenYuan = function(self, nTemplateId, nCount, tbItemInfo)
+    if tbItemInfo.nDetailType == Item.DetailType_Rare or tbItemInfo.nDetailType == Item.DetailType_Inherit then
+      return math.max(math.floor(tbItemInfo.nPrice / 100 * 0.3) * nCount, 1), "Energy"
+    elseif tbItemInfo.nDetailType == Item.DetailType_Normal then
+      return math.max(math.floor(tbItemInfo.nPrice / 10 * 0.2) * nCount, 1), "Coin"
+    end
+  end,
+  Stone = function(self, nTemplateId, nCount, tbItemInfo)
+    local tbQue = StoneMgr:GetStoneLevelQueue(nTemplateId)
+    local v1 = tbQue[1]
+    if not v1 then
+      return
+    end
+    local tbItemBase1 = KItem.GetItemBaseProp(v1)
+    local tbAllowQuality = {1}
+    if GetTimeFrameState("OpenLevel79") == 1 then
+      table.insert(tbAllowQuality, 2)
+    end
+    if GetTimeFrameState("OpenLevel109") == 1 then
+      table.insert(tbAllowQuality, 3)
+    end
+    for _, nSellQuality in ipairs(tbAllowQuality) do
+      if tbItemBase1.nQuality == nSellQuality then
+        local nPrice = MarketStall:GetPriceInfo("item", nTemplateId)
+        if nPrice then
+          return math.max(math.floor(nPrice * 10 * 0.2) * nCount, 1), "Contrib"
+        end
+        break
+      end
+    end
+  end,
+  SkillMaxLevel = function(self, nTemplateId, nCount, tbItemInfo, pPlayer)
+    local tbMaxItem = Item:GetClass("SkillMaxLevel")
+    local bRet, tbSellInfo = tbMaxItem:CheckSellItem(pPlayer, nTemplateId)
+    if not bRet then
+      return
+    end
+    local nValue = tbSellInfo[2] * nCount
+    return nValue, tbSellInfo[1]
+  end,
+  QuickBuyFromMS = function(self, nTemplateId, nCount, tbItemInfo)
+    local nMaxSellLevel
+    local tbTimeFrames = {
+      "OpenDay99",
+      "OpenDay224",
+      "OpenDay399"
+    }
+    for i, v in ipairs(tbTimeFrames) do
+      if GetTimeFrameState(v) == 1 then
+        nMaxSellLevel = i
+      else
+        break
+      end
+    end
+    if not nMaxSellLevel then
+      return
+    end
+    local nMarketPrice = MarketStall:GetPriceInfo("item", nTemplateId)
+    if not nMarketPrice then
+      return
+    end
+    if nMaxSellLevel < tbItemInfo.nLevel then
+      return
+    end
+    return math.max(nMarketPrice * 0.5 * 100 * nCount, 1), "Coin"
+  end
+}
+Shop.tbItemClassSellFunc.EquipMeterial = Shop.tbItemClassSellFunc.ComposeMeterial
+function Shop:GetSellSumPrice(pPlayer, nTemplateId, nCount)
+  local tbWare = self:FindMarketableThing(nTemplateId)
+  if tbWare then
+    if tbWare.nPlayerLevel and pPlayer.nLevel < tbWare.nPlayerLevel then
+      return
+    end
+    local nSumPrice = tbWare.nPrice * nCount
+    nSumPrice = nSumPrice < 1 and 1 or nSumPrice
+    return nSumPrice, tbWare.szMoneyType
+  end
+  local tbItemInfo = KItem.GetItemBaseProp(nTemplateId)
+  local fFunc = self.tbItemClassSellFunc[tbItemInfo.szClass]
+  if fFunc then
+    return fFunc(self, nTemplateId, nCount, tbItemInfo, pPlayer)
+  end
+end
+Shop.FAMILY_SHOP_REFRESH = 14400
+Shop.FAMILY_SHOP_MAX_ITEM = 50
+Shop.tbFamilyShopIdToChar = {
+  [Kin.Def.Building_DrugStore] = "DrugShop",
+  [Kin.Def.Building_WeaponStore] = "WeaponShop",
+  [Kin.Def.Building_FangJuHouse] = "FangJuHouse",
+  [Kin.Def.Building_ShouShiHouse] = "ShouShiHouse",
+  [Kin.Def.Building_War] = "WarShop"
+}
+Shop.tbFamilyShopCharToId = {
+  DrugShop = Kin.Def.Building_DrugStore,
+  WeaponShop = Kin.Def.Building_WeaponStore,
+  FangJuHouse = Kin.Def.Building_FangJuHouse,
+  ShouShiHouse = Kin.Def.Building_ShouShiHouse,
+  WarShop = Kin.Def.Building_War
+}
+Shop.FamilyPool = {
+  DrugShop = {}
+}
+Shop.FamilyPoolPlayerLevelLimit = {
+  DrugShop = {}
+}
+function Shop:LoadFamilyPool()
+  local tbPoolSetting = LoadTabFile("Setting/Shop/FamilyPool.tab", "ddsddddd", nil, {
+    "Level",
+    "PlayerLevel",
+    "ShopType",
+    "Pool",
+    "Count1",
+    "Prob1",
+    "Count2",
+    "Prob2"
+  })
+  for _, v in pairs(tbPoolSetting) do
+    local tbPool = self.FamilyPool[v.ShopType]
+    assert(tbPool, v.ShopType)
+    tbPool[v.Level] = tbPool[v.Level] or {}
+    tbPool[v.Level][v.Pool] = {
+      v.Count1,
+      v.Prob1,
+      v.Count2,
+      v.Prob2
+    }
+    self.FamilyPoolPlayerLevelLimit[v.ShopType][v.Level] = v.PlayerLevel
+  end
+end
+Shop:LoadFamilyPool()
+function Shop:LoadFamilyWares()
+  local tbWares = LoadTabFile("Setting/Shop/FamilyWares.tab", "ddssdddddsdd", nil, {
+    "TemplateId",
+    "Price",
+    "MoneyType",
+    "ShopType",
+    "Sort",
+    "Level",
+    "Pool",
+    "Count",
+    "Discount",
+    "TimeFrame",
+    "HotTip",
+    "MinLevel"
+  })
+  for _, v in pairs(tbWares) do
+    if self.ShopWares[v.ShopType] then
+      local tbWares = self.ShopWares[v.ShopType]
+      tbWares[v.Level] = tbWares[v.Level] or {}
+      local tbPoolWares
+      if v.Pool ~= 0 then
+        tbWares[v.Level][v.Pool] = tbWares[v.Level][v.Pool] or {}
+        tbPoolWares = tbWares[v.Level][v.Pool]
+      else
+        tbPoolWares = tbWares[v.Level]
+      end
+      tbPoolWares[v.TemplateId] = {
+        nTemplateId = v.TemplateId,
+        nPrice = v.Price,
+        szMoneyType = v.MoneyType,
+        szShopType = v.ShopType,
+        nSort = v.Sort,
+        nLevel = v.Level,
+        nPool = v.Pool,
+        nCount = v.Count,
+        nDiscount = v.Discount,
+        bHotTip = v.HotTip == 1,
+        szTimeFrame = v.TimeFrame,
+        nMinLevel = v.MinLevel
+      }
+    end
+  end
+end
+Shop:LoadFamilyWares()
+Shop.tbFamilyDiscount = {}
+function Shop:LoadFamilyDiscount()
+  local tbDiscountSetting = LoadTabFile("Setting/Shop/FamilyDiscount.tab", "sdddddddddd", "ShopType", {
+    "ShopType",
+    "Level1",
+    "Level2",
+    "Level3",
+    "Level4",
+    "Level5",
+    "Level6",
+    "Level7",
+    "Level8",
+    "Level9",
+    "Level10"
+  })
+  for szShopType, v in pairs(tbDiscountSetting) do
+    self.tbFamilyDiscount[szShopType] = {}
+    for i = 1, 10 do
+      assert(v["Level" .. i] > 0, i)
+      self.tbFamilyDiscount[szShopType][i] = v["Level" .. i]
+    end
+  end
+end
+Shop:LoadFamilyDiscount()
+function Shop:GetPrice(pPlayer, tbWares)
+  local nPrice = tbWares.nPrice
+  local szShopType = tbWares.szShopType
+  if self:IsFamilyShop(szShopType) then
+    local nAppealLevel = tbWares.nLevel
+    local nBuildingId = self.tbFamilyShopCharToId[szShopType]
+    local nLevel = self:GetBuildingLevel(pPlayer, nBuildingId)
+    local nDiscount = self:GetFamilyDiscount(szShopType, nLevel)
+    nPrice = nPrice * nDiscount
+    nPrice = math.floor(nPrice + 0.5)
+    nPrice = nPrice < 1 and 1 or nPrice
+    if szShopType == "WarShop" then
+      nDiscount = 8
+      if Activity:__IsActInProcessByType("DomainBattleAct") then
+        nPrice = math.ceil(nPrice * nDiscount / 10)
+        return nPrice, nDiscount
+      end
+    end
+    return nPrice
+  else
+    return nPrice
+  end
+end
+function Shop:GetFamilyDiscount(szShopType, nLevel)
+  local tbDsicountInfo = self.tbFamilyDiscount[szShopType]
+  if not tbDsicountInfo then
+    return 1
+  end
+  local nDiscount = tbDsicountInfo[nLevel] or 10000
+  nDiscount = nDiscount / 10000
+  return nDiscount
+end
+function Shop:GetEquipMakerPrice(pPlayer, nId)
+  local tbSetting = self.tbEquipMakerSettings[nId]
+  local nBuildingLevel = self:GetBuildingLevel(pPlayer, tbSetting.nHouse)
+  local nOpenLevel = tbSetting.nOpenLevel
+  local szShopType = self.tbFamilyShopIdToChar[tbSetting.nHouse]
+  local nDiscount = self:GetFamilyDiscount(szShopType, nBuildingLevel)
+  local nPrice = tbSetting.nPrice * nDiscount
+  nPrice = math.floor(nPrice + 0.5)
+  return nPrice < 1 and 1 or nPrice
+end
+function Shop:GetBuildingLevel(pPlayer, nBuildingId)
+  if self.GetBuildingLevelClient then
+    return self:GetBuildingLevelClient(nBuildingId)
+  end
+  if self.GetBuildingLevelServer then
+    return self:GetBuildingLevelServer(pPlayer, nBuildingId)
+  end
+end
+function Shop:GetShopMoneyType(szShopType)
+  return self.tbShopMoneyType[szShopType]
+end
+function Shop:IsFamilyShop(szShopType)
+  if not self.tbFamilyShopCharToId[szShopType] then
+    return
+  end
+  if self.FamilyPool[szShopType] then
+    return true, true
+  end
+  return true
+end
+Shop.tbEquipMakerQualityTimeFrames = {
+  [3] = "OpenLevel49",
+  [4] = "OpenLevel59",
+  [5] = "OpenLevel69",
+  [6] = "OpenLevel79",
+  [7] = "OpenLevel89",
+  [8] = "OpenLevel99",
+  [9] = "OpenLevel109",
+  [10] = "OpenLevel119",
+  [11] = "OpenLevel129"
+}
+function Shop:IsEquipMakerQualityOpen(nQuality)
+  local szTimeFrame = self.tbEquipMakerQualityTimeFrames[nQuality]
+  if not szTimeFrame or szTimeFrame == "" then
+    return true
+  end
+  return GetTimeFrameState(szTimeFrame) == 1
+end
+function Shop:EquipMakerGetCurMaxQuality()
+  local tbQualities = {}
+  for nQuality in pairs(self.tbEquipMakerQualityTimeFrames) do
+    table.insert(tbQualities, nQuality)
+  end
+  table.sort(tbQualities, function(nA, nB)
+    return nA < nB
+  end)
+  local nCurQuality = 0
+  for _, nQuality in ipairs(tbQualities) do
+    if self:IsEquipMakerQualityOpen(nQuality) then
+      nCurQuality = nQuality
+    else
+      break
+    end
+  end
+  return nCurQuality
+end
+function Shop:EquipMakerGetNextQualityInfo()
+  local tbQualities = {}
+  for nQuality in pairs(self.tbEquipMakerQualityTimeFrames) do
+    table.insert(tbQualities, nQuality)
+  end
+  table.sort(tbQualities, function(nA, nB)
+    return nA < nB
+  end)
+  local nNextQuality = 0
+  for _, nQuality in ipairs(tbQualities) do
+    if not self:IsEquipMakerQualityOpen(nQuality) then
+      nNextQuality = nQuality
+      break
+    end
+  end
+  if nNextQuality <= 0 then
+    return
+  end
+  local szNextTimeFrame = self.tbEquipMakerQualityTimeFrames[nNextQuality]
+  local nOpenTime = CalcTimeFrameOpenTime(szNextTimeFrame)
+  local nNextDay = Lib:GetLocalDay(nOpenTime) - Lib:GetLocalDay()
+  return nNextDay, nNextQuality
+end
+function Shop:CanMakeEquip(pPlayer, nId)
+  if not pPlayer.dwKinId or pPlayer.dwKinId <= 0 then
+    return false, "你没有家族，不能打造"
+  end
+  local tbSetting = self.tbEquipMakerSettings[nId]
+  if not self:IsEquipMakerQualityOpen(tbSetting.nQuality) then
+    return false, "尚未开放"
+  end
+  local nPrice = self:GetEquipMakerPrice(pPlayer, nId)
+  if nPrice > pPlayer.GetMoney(tbSetting.szMoneyType) then
+    return false, string.format("%s不足", Shop:GetMoneyName(tbSetting.szMoneyType))
+  end
+  return true
+end
+Shop.nRenownShopSaveGrp = 109
+Shop.nRenownShopUpdateKey = 255
+Shop.nRenownRefreshOffset = 14400
+function Shop:ShouldRenownShopRefresh(pPlayer)
+  local nLastRefresh = pPlayer.GetUserValue(self.nRenownShopSaveGrp, self.nRenownShopUpdateKey) or 0
+  local nNow = GetTime()
+  return Lib:IsDiffWeek(nLastRefresh, nNow, self.nRenownRefreshOffset)
+end
+function Shop:RenownShopCheckBeforeBuy(pPlayer, nId, nCount)
+  local tbSetting = self.tbRenownShop[nId]
+  if not tbSetting then
+    Log("[x] Shop:RenownShopCheckBeforeBuy, invalid id", nId)
+    return false, "非法参数"
+  end
+  nCount = math.floor(nCount or 0)
+  if not nCount or nCount <= 0 then
+    return false, "请选择购买数量"
+  end
+  local nCost = tbSetting.nPrice * nCount
+  if nCost > pPlayer.GetMoney("Renown") then
+    return false, "名望不足"
+  end
+  local nAvaliableCount = pPlayer.GetUserValue(self.nRenownShopSaveGrp, nId)
+  if nCount > nAvaliableCount then
+    return false, "剩余库存不足"
+  end
+  return true
+end

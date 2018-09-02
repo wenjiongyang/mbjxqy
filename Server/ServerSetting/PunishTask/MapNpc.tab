@@ -1,0 +1,21 @@
+GroupID	IsWhilte	OrgNpcID	NpcID	Rate	Award	CaptainAward	Desc
+1	1	213	212	36	Contrib|30;BasicExp|10;Item|2173|1;Item|3088|1	Contrib|36;BasicExp|12;Item|2276|1;Item|3088|1	20，40地圖，白
+1		219	214	35	Contrib|40;BasicExp|12;Item|2174|1;Item|3089|1	Contrib|48;BasicExp|14;Item|2277|1;Item|3089|1	20，40地圖，綠
+1		218	215	24	Contrib|50;BasicExp|14;Item|2175|1;Item|3090|1	Contrib|60;BasicExp|17;Item|2278|1;Item|3090|1	20，40地圖，藍
+1		220	216	4	Contrib|60;BasicExp|16;Item|2176|1;Item|3091|1	Contrib|72;BasicExp|19;Item|2279|1;Item|3091|1	20，40地圖，紫
+1		221	217	1	Contrib|80;BasicExp|20;Item|2177|1;Item|3092|1	Contrib|96;BasicExp|24;Item|2280|1;Item|3092|1	20，40地圖，橙
+2	1	213	212	28	Contrib|30;BasicExp|10;Item|2173|1;Item|3088|1	Contrib|36;BasicExp|12;Item|2276|1;Item|3088|1	60地圖，白
+2		219	214	30	Contrib|40;BasicExp|12;Item|2174|1;Item|3089|1	Contrib|48;BasicExp|14;Item|2277|1;Item|3089|1	60地圖，綠
+2		218	215	30	Contrib|50;BasicExp|14;Item|2175|1;Item|3090|1	Contrib|60;BasicExp|17;Item|2278|1;Item|3090|1	60地圖，藍
+2		220	216	10	Contrib|60;BasicExp|16;Item|2176|1;Item|3091|1	Contrib|72;BasicExp|19;Item|2279|1;Item|3091|1	60地圖，紫
+2		221	217	2	Contrib|80;BasicExp|20;Item|2177|1;Item|3092|1	Contrib|96;BasicExp|24;Item|2280|1;Item|3092|1	60地圖，橙
+3	1	213	212	18	Contrib|30;BasicExp|10;Item|2173|1;Item|3088|1	Contrib|36;BasicExp|12;Item|2276|1;Item|3088|1	80地圖，白
+3		219	214	28	Contrib|40;BasicExp|12;Item|2174|1;Item|3089|1	Contrib|48;BasicExp|14;Item|2277|1;Item|3089|1	80地圖，綠
+3		218	215	36	Contrib|50;BasicExp|14;Item|2175|1;Item|3090|1	Contrib|60;BasicExp|17;Item|2278|1;Item|3090|1	80地圖，藍
+3		220	216	15	Contrib|60;BasicExp|16;Item|2176|1;Item|3091|1	Contrib|72;BasicExp|19;Item|2279|1;Item|3091|1	80地圖，紫
+3		221	217	3	Contrib|80;BasicExp|20;Item|2177|1;Item|3092|1	Contrib|96;BasicExp|24;Item|2280|1;Item|3092|1	80地圖，橙
+4	1	213	212	18	Contrib|30;BasicExp|10;Item|2173|1;Item|3088|1	Contrib|36;BasicExp|12;Item|2276|1;Item|3088|1	100地圖，白
+4		219	214	28	Contrib|40;BasicExp|12;Item|2174|1;Item|3089|1	Contrib|48;BasicExp|14;Item|2277|1;Item|3089|1	100地圖，綠
+4		218	215	36	Contrib|50;BasicExp|14;Item|2175|1;Item|3090|1	Contrib|60;BasicExp|17;Item|2278|1;Item|3090|1	100地圖，藍
+4		220	216	15	Contrib|60;BasicExp|16;Item|2176|1;Item|3091|1	Contrib|72;BasicExp|19;Item|2279|1;Item|3091|1	100地圖，紫
+4		221	217	3	Contrib|80;BasicExp|20;Item|2177|1;Item|3092|1	Contrib|96;BasicExp|24;Item|2280|1;Item|3092|1	100地圖，橙

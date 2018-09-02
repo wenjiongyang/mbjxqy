@@ -1,0 +1,16 @@
+ItemTID	Class	UseInfo	Channel	Desc	TimeFrame
+1454	SkillHelp	使用後可增加3點技能點	完成主線任務可以獲得	武道德經	
+1430	SkillHelp	使用後可增加1點技能點	高級藏寶圖產出，也可通過擺攤購買	武林秘笈（上）	
+1431	SkillHelp	使用後可增加1點技能點	高級藏寶圖、華山論劍產出，也可通過擺攤購買	武林秘笈（中）	OpenLevel69
+1432	SkillHelp	使用後可增加1點技能點	高級藏寶圖、華山論劍產出，也可通過擺攤購買	武林秘笈（下）	OpenLevel109
+2591	SkillHelp	使用後可增加1點技能點	節日活動產出，也可通過名望商店或擺攤購買	八寶粽	
+2876	SkillHelp	使用後可增加1點技能點	節日活動產出，也可通過名望商店或擺攤購買	月滿西樓	
+3238	AddAttributeItemHelp	增加4項潛能（體質、力量、敏捷、靈巧）各10點	完成主線任務可以獲得	江翻海沸訣要	
+3714	AddAttributeItemHelp	增加4項潛能（體質、力量、敏捷、靈巧）各10點	節日活動產出，也可通過擺攤購買	洗髓經（上）	
+3715	AddAttributeItemHelp	增加4項潛能（體質、力量、敏捷、靈巧）各10點	節日活動產出，也可通過擺攤購買	洗髓經（中）	
+3716	AddAttributeItemHelp	增加4項潛能（體質、力量、敏捷、靈巧）各10點	節日活動產出，也可通過擺攤購買	洗髓經（下）	
+2877	AddAttributeItemHelp	增加4項潛能（體質、力量、敏捷、靈巧）各5點	節日活動產出，也可通過名望商店或擺攤購買	彩雲追月	
+4579	AddSkillMaxLevel	提升技能等級上限1級	通過門派信物兌換	提高技能上限1	OpenLevel119
+4580	AddSkillMaxLevel	提升技能等級上限1級	通過門派信物兌換	提高技能上限2	OpenLevel119
+4581	AddSkillMaxLevel	提升技能等級上限1級	通過門派信物兌換	提高技能上限3	OpenLevel119
+4582	AddSkillMaxLevel	提升技能等級上限1級	通過門派信物兌換	提高技能上限4	OpenLevel119

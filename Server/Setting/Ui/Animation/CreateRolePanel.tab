@@ -1,0 +1,7 @@
+Type	Target	StartFrame	EndFrame	Value1	Value2
+AnchorMove	Anchor3	1	9	{-370,0,0}	{-14.79752,0,0}
+AnchorMove	Anchor3	9	12	{-14.79752,0,0}	{46.13783,0,0}
+AnchorMove	Anchor3	12	13	{46.13783,0,0}	{55.56936,0,0}
+AnchorMove	Anchor3	13	14	{55.56936,0,0}	{58.69631,0,0}
+AnchorMove	Anchor3	14	15	{58.69631,0,0}	{55,0,0}
+Commander		16	16	self:SetEnableSelButton(true)	

@@ -1,0 +1,43 @@
+nMapTemplateId	szTrap	nTaskId	szTrack	Desc
+999	WydToWyxw	8	[url=pos:test,484,2750,2420]	忘憂島→小屋
+484	WyxwLeave	10		忘憂小屋→忘憂島
+484	WyxwLeave	25	[url=pos:test,400,8000,8050]	忘憂小屋→鎖雲淵
+400	SyyToSyyxw	28		鎖雲淵→小屋
+400	SyyToSyyxw	34		鎖雲淵→小屋
+400	SyyToWyjd	38	[url=gotofuben:test, 1, 3, 1]	鎖雲淵→無憂禁地
+400	SyyToLysd	44	[url=pos:test,499,2100,3000]	鎖雲淵→離憂山洞
+499	LysdToFuben	45	[url=gotofuben:test, 1, 4, 1]	離憂山洞→關卡
+499	LysdToWyg	47	[url=pos:test,485,1280,1800]	離憂山洞→忘憂谷
+485	WygToWyxw	49	[url=pos:test,481,3000,2060]	忘憂谷→小屋
+481	WygxwLeave	53	[url=pos:test,999,4096,4263]	忘憂谷小屋→忘憂島
+401	WysToyds	82		武夷山→雁蕩山
+483	YdsToCjsz	104		雁蕩山→藏劍山莊
+403	DthToFlb	131		洞庭湖→飛龍堡
+494	FlbToDth	135		飛龍堡1→洞庭湖
+403	DthToBmsz	139		洞庭湖→悲魔山莊
+403	DthToWyd	158		洞庭湖→忘憂島
+999	WydToXmhj	159		忘憂島→心魔幻境
+495	WyjdToDth	165		無憂禁地→洞庭湖
+403	DthToZxl	167		洞庭湖→摘星樓
+496	ZxlToFlb	173		摘星樓→飛龍堡
+497	FlbToDth	178		飛龍堡2→洞庭湖
+403	DthToBmsz	181		忘憂谷小屋→忘憂島
+404	MlToHs	191	[url=pos:test,486,2200,3600]	苗嶺→衡山腳下
+486	TrapTask1	193	[url=gotofuben:test, 4, 1, 1]	衡山腳下→關卡
+404	MlToJhd1	197		
+487	Trap1	198	[url=gotofuben:test, 4, 2, 1]	九猴洞→關卡
+404	MlToJhd2	237		苗嶺→九猴洞
+480	JhdToWyp	244		九猴洞→武夷派
+488	WypToWyjd	250	[url=pos:test,489,2350,5530]	武夷派→武夷禁地
+489	TrapTask1	260		武夷禁地→段芙蓉
+405	DcsToLayd	262		點蒼山→臨安驛道
+490	LaydToFuben	264	[url=gotofuben:test, 5, 3, 1]	臨安驛道→關卡
+490	LaydToXsd	268		臨安驛道→響水洞
+406	XsdToHsmd	274		響水洞→華山密道
+493	HsmdTpHsp	292		華山密道→華山派
+491	HsToXsd	307		華山派→響水洞
+408	JmgToGzc	330		劍門關→古戰場
+411	FnsToFnsxy	402		
+484	WyxwLeave	404	[url=pos:test,411,14000,3350]	忘憂小屋→忘憂島
+406	JingMaiTaskTrap	3202	[url=gotofuben:test, 9, 1, 1]	經脈任務
+406	JingMaiTaskTrap	3205	[url=gotofuben:test, 9, 2, 1]	經脈任務

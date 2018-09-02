@@ -1,0 +1,51 @@
+GuideName	SaveId	StartLevel	TimeFrame	Fuben	Desc	From	DelLevel	DelTimeFrame
+WorldMap	1	15			地圖	主介面		
+KinJoin	2	11			加入幫派	主介面		
+Jingying	3	25			組長	副本		
+AutoFightSettingGuide	4	12			自動戰鬥設置	主介面		
+AutoFightGuide	5	6			自動戰鬥引導	主介面		
+PickCard	6			2_4	抽卡	同伴		
+Partner	7	9			同伴上陣	同伴		
+SkillUpGrade	8	4			技能升級	技能升級		
+MoneyTreePanel	9	8			搖錢樹	福利		
+SignInAwards	10	9			簽到領獎	福利		
+GrowInvest	11	21			一本萬利	福利		
+EverydayTarget_First	12	20			每日目標領獎	功能		
+EverydayTarget_Preview	13	20			每日目標獎勵預覽	功能		
+Boss	14	20	OpenDay1A		武林盟主	活動		
+CommerceTask	15	30	OpenDay2		商會任務	活動		
+Battle	16	24	OpenDay1A		宋金戰場	活動		
+CangBaoTu	17	21			藏寶圖	活動		
+PunishTask	18	22			懲惡任務	活動		
+TeamFuben	19	15			組隊秘境	活動		
+ExplorationFuben	20	19			寶藏探索	活動	69	
+Rank	21	17			武神殿	活動		
+RandomFuben	22	30	OpenDay2		凌絕峰	活動		
+FieldBoss	23	30	OpenDay7		歷代名將	活動		
+FieldLeader	24	20	OpenDay3C		野外首領	活動		
+ChuanGong	25	15	OpenDay2		幫派傳功	活動		
+KinGather	26	11	OpenDay1		幫派烤火	活動		
+AdventureFuben	27	13			山賊秘窟	活動		
+HeroChallenge	28	30	OpenDay3		英雄挑戰	活動		
+WhiteTigerFuben	30	30	OpenDay3		白虎堂	活動		
+TeamBattle	31	30	OpenDay4		通天塔	活動		
+FactionBattle	32	30	OpenDay4		門派競技	活動		
+KinEscort	33	30	OpenDay5		幫派運鏢	活動		
+XiuLian	34	24			野外修煉	活動		
+KinFuben	35	15	OpenDay4		幫派試煉	活動		
+SeriesFuben	36	20			江湖試煉	活動	40	
+TitleGuide	37	17			頭銜引導	頭銜		
+KinBuildUpgrade	38				打開幫派建築	主介面		
+Enemy	39				仇人	人際		
+PkMode	40	20			Pk模式	主介面		
+RefineGuide	41				洗練引導	洗練		
+MountGuide	42	1			坐騎	主介面		
+BindingMailGuideIOS	43	1			綁定手機引導IOS	角色介面		
+BindingMailGuideAndroid	44	1			綁定手機引導Android	角色介面		
+ImperialTomb	45	60	OpenDay89		秦始皇陵	活動		
+ImperialTombEmperor	46	60	OpenDay89		始皇降世	活動		
+InDifferBattle	47	60	OpenDay118		心魔幻境	活動		
+BtnHome	48	999			家園	主介面		
+ZhuangXiu	49	1			裝修	主介面		
+RechargeGift	50	10			元寶大禮	福利		
+DailyRechargeGift	51	10			每日禮包	福利		

@@ -1,0 +1,294 @@
+StateEffectId	StateName	EffectResID1	SlotID1	EffectResID2	SlotID2	HeadResID	Alpha	ChangeSize	ChangeSizeSpeed	RunActID	HeadWord	MagicDesc	Icon	IconAtlas	NotShowTime	HideBody	HideHead
+114	鋼之鎧甲	114															
+195	首領光環	9031															
+197	精英光環	197															
+198	篝火	198															
+199	修煉珠											打怪經驗：[00ff00]%s[-]倍\n剩餘經驗：[00ff00]%s[-]	BUFF_xiulianzhu	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+213	金鐘罩	9076										全系抗性+[00ff00]all_series_resist_v1[-]點\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n抗屬性效果幾率+[00ff00]resist_allseriesstate_rate_v1[-]\n生命回復+[00ff00]recover_life_v1[-]	TianwangSkill_03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+217	秘笈：野蠻衝撞											攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]\n會心一擊+[00ff00]deadlystrike_v1[-]	Tianwang_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+221	秘笈：霸王怒吼											化解傷害+[00ff00]defuse_damage1[-]點	Tianwang_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+219	破釜沉舟	2416										無敵與每[00ff00]recover_life_p2/15[-]秒回復[00ff00]recover_life_p1%[-]生命	Tianwang_bd03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+225	一騎當千											基礎全系抗性+[00ff00]all_series_resist_p1%[-]	Tianwang_bd07_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+241	驚雷破天											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Tianwang_bd08_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+246	氣蓋八荒											生命上限+[00ff00]lifemax_v1[-]點	Tianwang_bd09_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+247	氣蓋八荒											生命上限+[00ff00]lifemax_v1[-]點	Tianwang_bd09_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+254	秘笈：金鐘罩											全系抗性+[00ff00]all_series_resist_v1[-]點\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]	TianwangSkill_03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+270	金剛伏魔	3270						120	5			免疫異常狀態\n化解傷害+[00ff00]defuse_damage1[-]點	ShaolinSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+273	羅漢陣	273															
+279	立地成佛											基礎全系抗性+[00ff00]all_series_resist_p1%[-]	Shaolin_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+281	金剛怒目	3281										基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n金剛怒目的基礎攻擊+[00ff00]add_usebasedmg_p12%[-]	Shaolin_bd05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+295	秘笈：金剛伏魔											化解傷害+[00ff00]defuse_damage1[-]點\n生命回復+[00ff00]recover_life_v1[-]	Sl_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+307	慈航普度	3306															
+316	秘笈：慈航普渡											免疫屬性狀態	Em_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+318	綿裡藏針											每[00ff00]recover_life_p2/15[-]秒回復[00ff00]recover_life_p1%[-]生命	Emei_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+328	秘笈：天舞寶輪											全系抗性+[00ff00]all_series_resist_v1[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+329	秘笈：天舞寶輪																
+330	秘笈：天舞寶輪											清除並免疫屬性效果與負面效果	Emei_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+331	秘笈：天舞寶輪											基礎移動速度+[00ff00]runspeed_p1%[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+377	秘笈：天舞寶輪											來自峨眉的負面效果：基礎閃避減少[00ff00]defense_p1%[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+380	秘笈：慈航普渡											免疫屬性狀態與回復生命	Em_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+341	佛心慈佑											抗屬性效果機率+[00ff00]resist_allseriesstate_rate_v1[-]\n抗屬性效果時間+[00ff00]resist_allseriesstate_time_v1[-]\n抗負面效果機率+[00ff00]resist_allspecialstate_rate_v1[-]\n抗負面效果時間+[00ff00]resist_allspecialstate_time_v1[-]	Emei_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+342	佛心慈佑											抗屬性效果機率+[00ff00]resist_allseriesstate_rate_v1[-]\n抗屬性效果時間+[00ff00]resist_allseriesstate_time_v1[-]\n抗負面效果機率+[00ff00]resist_allspecialstate_rate_v1[-]\n抗負面效果時間+[00ff00]resist_allspecialstate_time_v1[-]	Emei_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+406	火鳳燎原	406										移動速度+[00ff00]runspeed_v1[-]\n攻速+[00ff00]attackspeed_v1[-]\n基礎閃避+[00ff00]defense_p1%[-]	TaohuaSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+414	秘笈：火鳳燎原											免疫屬性與負面效果	Taohua_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+426	浴火重生											每[00ff00]recover_life_p2/15[-]秒回復[00ff00]recover_life_p1%[-]生命	Taohua_bd07_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+459	秘笈：火鳳燎原											免疫屬性與負面效果\n閃避+[00ff00]defense_v1[-]點	Taohua_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+523	三元歸一	523										基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Xiaoyao_bd07_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+542	逍遙禦風	2888										基礎閃避值+[00ff00]defense_p1%[-]\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]\n移動速度+[00ff00]runspeed_v1[-]	Xiaoyao_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+527	寰宇逍遙遊	527															
+562	悲酥清風											基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Xiaoyao_bd08_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+613	坐忘無我											總抵禦傷害點數：%s	WudangSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+618	太一真氣	2849										清除並免疫屬性效果	Wudang_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+645	真武七截											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Wudang_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+646	真武七截											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Wudang_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+706	魔焰在天	706										攻擊6次後消失	TianrenSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+707	魔焰在天	6707										來自天忍的負面狀態：基礎移動速度[00ff00]減少runspeed_p1%[-]	TianrenSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+711	血月之影									31		隱身狀態：\n移動速度+[00ff00]runspeed_v1[-]\n\n下一次普攻連招：\n攻速+[00ff00]attackspeed_v1[-]\n忽略閃避+[00ff00]ignore_defense_v1[-]\n會心一擊+[00ff00]deadlystrike_v1[-]	TianrenSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+737	聖火焚心	970										移動速度+[00ff00]runspeed_v1[-]\n閃避+[00ff00]defense_p1%[-]\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Tianren_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+743	魔焰七殺											來自天忍的負面狀態：基礎全系抗性[00ff00]減少all_series_resist_p1%[-]	Tianren_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+744	魔焰七殺											閃避+[00ff00]defense_v1[-]點	Tianren_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+752	秘笈：魔焰在天											來自天忍的負面狀態：閃避減少[00ff00]defense_v1[-]點	TianrenSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+757	秘笈：血月之影											基礎閃避+[00ff00]defense_p1%[-]	TianrenSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+758	秘笈：血月之影											免疫屬性效果	TianrenSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+764	秘笈：魔焰在天											來自天忍的負面狀態：\n閃避減少[00ff00]defense_v1[-]點\n基礎全系抗性[00ff00]減少all_series_resist_p1%[-]	TianrenSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+766	秘笈：血月之影											基礎閃避+[00ff00]defense_p1%[-]\n移動速度+[00ff00]runspeed_v1[-]點	TianrenSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+767	秘笈：血月之影											免疫屬性效果	TianrenSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+810	召喚啵啵											“啵啵”	CuiyanSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+818	雪影											移動速度+[00ff00]runspeed_v1[-]\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]	Cuiyan_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+819	雪影											移動速度+[00ff00]runspeed_v1[-]\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]	Cuiyan_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+927	毒瘴術	927															
+930	金剛護體	2416															
+933	不動明王	2416															
+937	枯木逢春	6306															
+939	涅槃重生	2849															
+948	靈犀	948															
+950	心眼	950															
+958	涅槃重生	6306															
+970	明月訣	970															
+973	清心術	973															
+995	悲酥清風	927															
+1001	任務嘆號_綠					1001											
+1002	任務嘆號_藍					1002											
+1003	任務問號_灰					1003											
+1004	任務問號_綠					1004											
+1005	任務問號_藍					1005											
+1006	任務問號_黃					1006											
+1008	任務加速	1008								31							
+1009	自動尋路中										Golden_01|Golden_02|Golden_06|Golden_07|Golden_05						
+1010	自動戰鬥中										Golden_01|Golden_02|Golden_03|Golden_04|Golden_05						
+1011	跟戰中										|Blue_01|Blue_02|Blue_03						
+1012	挖寶中										|Blue_04|Blue_05|Blue_03						
+1057	打怪經驗											打怪經驗：增加[00ff00]enhance_exp_p1%[-]	BUFF_xiulianzhu	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+1059	切磋勝利					1059											
+1060	切磋失敗					1060											
+1062	傳功特效	1062															
+1063	傳功特效_全特效	1063															
+1085	結拜：有福同享											屬性傷害+[00ff00]physical_damage_v1[-]\n生命點數+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]	BUFF_intimacy	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab	1		
+1086	打坐修鍊	1086															
+1087	禁止移動、技能、物品	59															
+1096	同伴腳底光環_白	9032															
+1097	同伴腳底光環_綠	9033															
+1098	同伴腳底光環_藍	9034															
+1099	同伴腳底光環_紫	9035															
+1100	同伴腳底光環_金	9036															
+1105	金鐘罩	9076															
+1367	狂暴噬血							133	5								
+1457	鎖足（禁止輕功）	1457															
+1500	箭頭					1500											
+1501	重傷狀態					4501	700										
+1502	氣絕狀態	1502				4502	700										
+1503	光環_回血	1503															
+1504	光環_加抗	1504															
+1505	光環_加抗_子	1505															
+1506	光環_回血_子	1506															
+1507	回血					4507											
+1508	攻擊力					4508											
+1509	抗性					4509											
+1510	跑速					4510											
+1512	buffball	1512															
+1513	buffball	1513															
+1514	寶箱光環	9012															
+1517	保護狀態						400					保護狀態期間不會受到任何傷害	BUFF_Protect	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+1519	篝火	9044															
+1533	光環_攻速	1533															
+1534	光環_攻速_子	1534															
+1535	光環_傷害	1535															
+1536	光環_傷害_子	1536															
+1537	狂暴	1367	16	7367	15			133	5								
+1676	天王怒氣特效	1676															
+1677	峨嵋怒氣特效	1677															
+1678	桃花怒氣特效	1678															
+1679	逍遙怒氣特效	1679															
+1696	代言人光環_男	1696															
+1697	代言人光環_女	1697															
+1705	buff_攻擊力	1705															
+1732	鼓舞戰吼	197										攻擊力+[00ff00]basic_damage_v1[-]\n生命+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]\n屬性效果機率+[00ff00]add_seriesstate_rate_v1[-]\n屬性效果時間+[00ff00]add_seriesstate_time_v1[-]	Taohua_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+1733	鼓舞戰吼											攻擊力+[00ff00]basic_damage_v1[-]\n生命+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]\n屬性效果機率+[00ff00]add_seriesstate_rate_v1[-]\n屬性效果時間+[00ff00]add_seriesstate_time_v1[-]	Taohua_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+1772	忠貫白日											總抵禦傷害點數：%s	WudangSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+1833	狂熱					4508											
+1883	視野光環（直徑2.8）	1883															
+1884	視野光環（直徑6米）	1453															
+1885	光環秒殺	1885															
+1889	全屏中毒光環_子2	1889															
+2035	致命光環-火	2035															
+2037	抗性光環-火	1504															
+2038	抗性光環-火_子	1505															
+2095	回復光環	2070															
+2251	狂暴噬血																
+2301	新服祝福：共戰											野外修煉打怪獲得的經驗增加[00ff00]10%[-]	meigui_02	UI/Atlas/Item/Item/Item2.prefab			
+2302	新服祝福：財運											通過搖錢樹、每日目標、隨機地宮、野外修煉、商會任務獲得的銀兩增加[00ff00]10%[-]	chongjujianghu	UI/Atlas/Item/Item/Item6.prefab			
+2303	新服祝福：天工											通過幫派捐獻、武神殿、懲惡任務、幫派烤火答題、武林盟主獲得的貢獻增加[00ff00]10%[-]	BUFF_intimacy	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2304	祝福·火											忽略閃避+[00ff00]ignore_defense_v1[-]\n會心機率+[00ff00]deadlystrike_v1[-]	BUFF_Fire	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2305	祝福·土											全系抗性+[00ff00]all_series_resist_v1[-]	BUFF_Earth	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2306	飲酒狀態											  	BUFF_nverhong	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2307	佳節的祝福											屬性傷害+[00ff00]physical_damage_v1[-]\n生命上限+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2308	親密度加成											  	BUFF_intimacy	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2310	欠款											  	Gold	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab	1		
+2311	秦始皇陵停留時間											  	Buff_yemingzhu	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2312	PK保護											  	BUFF_Protect	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2313	滄海月明											打怪經驗：增加[00ff00]enhance_exp_p1%[-]	Buff_canghaiyueming	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+2314	欠款負面狀態											打怪經驗：減少[00ff00]enhance_exp_p1%[-]\n基礎攻擊力：減少[00ff00]physics_potentialdamage_p1%[-]\n基礎全系抗性：減少[00ff00]all_series_resist_p1%[-]	Gold	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab	1		
+2316	臘八粥											幫派烤火可獲得[FFFE0D]額外經驗加成[-]	labazhou	UI/Atlas/Item/Item/Item5.prefab			
+2317	重聚江湖											親密度獲取+[00ff00]100%[-]\n打怪經驗+[00ff00]enhance_exp_p1%[-]\n攻擊力+[00ff00]basic_damage_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]\n生命+[00ff00]lifemax_v1[-]	chongjujianghu	UI/Atlas/Item/Item/Item6.prefab			
+2318	欠款負面狀態											戰力：減少[00ff00]fightpower_v11[-]	Gold	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab	1		
+2319	女俠的青睞											屬性傷害+[00ff00]physical_damage_v1[-]\n生命上限+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]	meigui_02	UI/Atlas/Item/Item/Item2.prefab			
+2320	神秘靈果											對怪物傷害+[00ff00]damage4npc_p1%[-]	ArborDay_04	UI/Atlas/Item/Item/Item7.prefab			
+2321	家園隱藏身體															1	
+2322	清明鬼魂狀態	1502					700										
+2323	家園隱身躲貓貓															1	
+2515	哲別光環技能	9044															
+2522	袁承志光環技能	9044															
+2527	葉無心光環技能	9044															
+2563	納蘭真光環技能	9044															
+2554	劈空掌					9053											
+2398	光環_反彈	2398															
+2399	光環_反彈_子	2399															
+2400	光環_反射	2400															
+2401	光環_反射_子	2401															
+2402	視野光環（小）	1454															
+2403	視野光環（大）	95															
+2404	中毒光環	2404															
+2405	強力（buff）	2405															
+2416	無敵-被動	2416															
+2468	中毒光環	1396															
+2497	火焰陷阱	2497															
+2646	白狼入陣	2646															
+2708	反彈（buff）	2708															
+2709	荊棘（buff）	2709															
+2776	定身免拉	59															
+2784	混亂光環	1883															
+2844	龍象九重					2844											
+2845	龍象九重_子					2845											
+2849	雪映紅塵_特效	2849															
+2858	訣別					4508											
+2886	羈絆符	2886															
+2888	風雪步法	2888															
+2900	滄海月明_特效	2900															
+2978	精忠報國	1367						130									
+3029	嗜血之意	1367						130									
+3056	變小至80%							80									
+3057	變小至60%							60									
+3058	變小至40%							40									
+3059	變小至20%							20									
+3066	長生不老	2416															
+3070	站立10秒_無敵	2416					700										
+3077	始皇降臨	14															
+3078	始皇降臨					6034											
+3106	旋風陷阱	1887															
+3109	火焰陷阱	2497															
+3115	無敵光環	13115		13116													
+3116	無敵光環_子	2416															
+3166	著手回春					4507						每[00ff00]recover_life_p2/15[-]秒回復[00ff00]recover_life_p1%[-]生命	buff_recover	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3167	不滅劍意					4508						基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	buff_adddamage	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3168	金剛不壞					4509						基礎全系抗性+[00ff00]all_series_resist_p1%[-]	buff_series	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3169	風馳電掣					4510						移動速度+[00ff00]runspeed_p1%[-]	buff_runspeed	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3191	會心之力	970										會心一擊+[00ff00]deadlystrike_v1[-]\n會心傷害+[00ff00]deadlystrike_damage_p1%[-]	buff_huixin	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3192	金剛護體	2416										免疫傷害與控制	buff_wudi	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3217	激怒					13217		133	5								
+3272	同伴覺醒_大模型	13272						120	120								
+3273	同伴覺醒_常規	13273						120	120								
+3274	同伴覺醒_地面動物1	13274						120	120								
+3275	同伴覺醒_地面動物2	13275						120	120								
+3255	輪回往生	2849															
+3256	輪回往生	6306															
+3263	高級金剛	3306															
+3366	踏冰訣	13366										移動速度+[00ff00]runspeed_v1[-]	BUFF_Wood	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3367	乘霜式	13367										雪球的飛行速度+[00ff00]100%[-]	BUFF_Water	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3370	雪影舞	13370										免疫控制狀態	BUFF_Gold	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3371	堅冰御	13371										抵禦傷害[00ff00]100%[-]	BUFF_Fire	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3448	秘笈：霸王怒吼											化解傷害+[00ff00]defuse_damage1[-]點	Tianwang_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3450	秘笈：金鐘罩											全系抗性+[00ff00]all_series_resist_v1[-]點\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n回復效率+[00ff00]lifereplenish_p1%[-]	TianwangSkill_03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3452	秘笈：野蠻衝撞											攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]\n會心一擊+[00ff00]deadlystrike_v1[-]	Tianwang_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3458	秘笈：金剛伏魔											化解傷害+[00ff00]defuse_damage1[-]點\n生命回復+[00ff00]recover_life_v1[-]\n抗負面效果幾率+[00ff00]resist_allspecialstate_rate_v1[-]點	ShaolinSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3549	隱藏名字																1
+3550	夫妻同心											屬性傷害+[00ff00]physical_damage_v1[-]\n生命上限+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]\n閃避+[00ff00]defense_v1[-]	tongxinguo	UI/Atlas/Item/Item/Item9.prefab			
+3551	新人的祝福											屬性傷害+[00ff00]physical_damage_v1[-]\n生命上限+[00ff00]lifemax_v1[-]\n全系抗性+[00ff00]all_series_resist_v1[-]	ArborDay_01	UI/Atlas/Item/Item/Item7.prefab			
+3701	測試金											抵擋角色傷害+[00ff00]playerdmg_npc_p1%[-]	BUFF_Gold	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3702	測試木											完全閃避+[00ff00]miss_alldmg_v1[-]	BUFF_Wood	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3703	測試水											吸取生命抗性+[00ff00]steallife_resist_v1[-]	BUFF_Water	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3704	測試火											吸取生命抗性+[00ff00]steallife_resist_p1%[-]	BUFF_Fire	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3705	測試土											吸取生命+[00ff00]steallife_p1%[-]	BUFF_Earth	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3716	仇恨物件標識					13716											
+3767	塔防標記					13767											
+3805	免疫狀態	13805										清除並免疫屬性與負面狀態	Wudang_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+3921	女帝之力	13921															
+4015	淬毒術											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n會心傷害+[00ff00]deadlystrike_damage_p1%[-]	Tangmen_bd01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4016	淬毒術											會心傷害+[00ff00]deadlystrike_damage_p1%[-]	Tangmen_bd01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4020	心眼											忽略閃避+[00ff00]ignore_defense_v1[-]\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Tangmen_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4028	移形換影											隱身狀態	Tangmen_bd07_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4040	秘笈：迷影縱											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Tm_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4045	秘笈：迷影縱											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n	Tm_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4046	秘笈：迷影縱											免疫屬性狀態	Tm_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4057	秘笈：迷影縱											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n閃避+[00ff00]defense_v1[-]	Tm_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4119	混元乾坤											閃避+[00ff00]defense_v1[-]	Kunlun_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4120	混元乾坤											來自崑崙的負面狀態：[00ff00]減少[-]閃避值[00ff00]defense_v1[-]點	Kunlun_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4134	秘笈：仙人指路											攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Kl_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4137	秘笈：混沌劍陣											移動速度+[00ff00]runspeed_v1[-]	Kl_mj01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4140	秘笈：仙人指路											攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Kl_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4143	秘笈：混沌劍陣											移動速度+[00ff00]runspeed_v1[-]\n抗屬性效果幾率+[00ff00]resist_allseriesstate_rate_v1[-]點\n抗負面效果幾率+[00ff00]resist_allspecialstate_rate_v1[-]點	Kl_mj01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4146	秘笈：仙人指路											攻擊速度+[00ff00]attackspeed_v1[-]\n基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Kl_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4150	秘笈：混沌劍陣											移動速度+[00ff00]runspeed_v1[-]\n抗屬性效果幾率+[00ff00]resist_allseriesstate_rate_v1[-]點\n抗負面效果幾率+[00ff00]resist_allspecialstate_rate_v1[-]點	Kl_mj01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4153	天清地濁											基礎閃避+[00ff00]defense_p1%[-]\n攻擊速度+[00ff00]attackspeed_v1[-]點\n眩暈幾率+[00ff00]state_stun_attackrate1[-]點\n眩暈時間+[00ff00]state_stun_attacktime1[-]點	Kunlun_bd08_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4211	醉蝶狂舞	24211								31		移動速度+[00ff00]runspeed_v1[-]\n基礎閃避+[00ff00]defense_p1%[-]	GaibangSkill_05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4219	滑不溜手											閃避+[00ff00]defense_v1[-]	Gaibang_bd06_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4223	游龍決											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Gaibang_bd01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4224	游龍決											每[00ff00]recover_life_p2/15[-]秒回復[00ff00]recover_life_p1%[-]生命	Gaibang_bd01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4241	秘笈：醉蝶狂舞											移動速度+[00ff00]runspeed_v1[-]\n基礎閃避+[00ff00]defense_p1%[-]	Gb_mj04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4250	秘笈：困龍功											來自丐幫的負面狀態：基礎全系抗性[00ff00]減少all_series_resist_p1%[-]	Gb_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4301	中毒	14305															
+4312	召喚毒蟲											靈蛇	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4314	召喚毒蟲											碧蟾	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4316	召喚毒蟲											赤蠍	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4318	召喚毒蟲											風蜈	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4320	召喚毒蟲											墨蜘	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4336	迷心蠱					24336						來自五毒的負面狀態：受到毒攻傷害提升[00ff00]recdot_wood_p1%[-]	WuduSkill_04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4341	百毒穿心											基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Wudu_bd05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4342	百毒穿心											基礎會心幾率+[00ff00]deadlystrike_p1%[-]	Wudu_bd05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4348	回魂秘咒	14348										受到傷害轉換成生命回復	Wudu_bd07_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4325	碧蟾											來自五毒的負面狀態：木系抗性[00ff00]減少wood_resist_v1[-]點	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4330	風蜈											來自五毒的負面狀態：閃避[00ff00]減少defense_v1[-]點	WuduSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4371	秘笈：陰風蝕骨											攻擊速度+[00ff00]attackspeed_v1[-]	Wdu_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4375	秘笈：碧蟾											來自五毒的負面狀態：木系抗性[00ff00]減少wood_resist_v1[-]點	Wdu_mj04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4378	秘笈：風蜈											來自五毒的負面狀態：閃避[00ff00]減少defense_v1[-]點	Wdu_mj04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4381	秘笈：迷心蠱											來自五毒的負面狀態：主動技能冷卻時間+[00ff00]allfactionskill_cd1/15[-]秒	Wdu_mj01_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4410	心劍	34410										每次普攻命中提升自身屬性：\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4411	心劍											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4413	峰插雲景	1457										鎖足狀態，禁止使用輕功	CangjianSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4418	鶴歸孤山											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	Cangjian_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4419	鶴歸孤山											來自藏劍的負面狀態：\n基礎攻擊力[00ff00]減少physics_potentialdamage_p1%[-]\n毒攻傷害[00ff00]減少add_dottype_wood_p2%[-]	Cangjian_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4432	映波鎖瀾	14432										來自藏劍的負面狀態：基礎移動速度[00ff00]減少runspeed_p1%[-]	Cangjian_bd04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4443	秘笈：心劍											會心一擊+[00ff00]deadlystrike_v1[-]	Cj_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4449	秘笈：心劍											會心一擊+[00ff00]deadlystrike_v1[-]	Cj_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4451	秘笈：平湖斷月	14432										來自藏劍的負面狀態：基礎移動速度[00ff00]減少runspeed_p1%[-]	Cj_mj03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4456	秘笈：心劍											會心一擊+[00ff00]deadlystrike_v1[-]\n攻擊速度+[00ff00]attackspeed_v1[-]	Cj_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4458	秘笈：平湖斷月	14432										來自藏劍的負面狀態：基礎移動速度[00ff00]減少runspeed_p1%[-]	Cj_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4459	秘笈：平湖斷月	2849										免疫屬性效果與負面效果	Cj_mj02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4462	秘笈：峰插雲景											來自藏劍的負面狀態：基礎全系抗性[00ff00]減少all_series_resist_p1%[-]	Cj_mj04_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4488	心劍	34410										每次普攻命中提升自身屬性：\n基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4489	心劍											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4509	雲生結海	1008										基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n反彈近程傷害+[00ff00]meleedamagereturn_p1%[-]\n反彈遠程傷害+[00ff00]rangedamagereturn_p1%[-]	ChanggeSkill_03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4510	雲生結海	1008										基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n基礎全系抗性+[00ff00]all_series_resist_p1%[-]\n反彈近程傷害+[00ff00]meleedamagereturn_p1%[-]\n反彈遠程傷害+[00ff00]rangedamagereturn_p1%[-]	ChanggeSkill_03_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4519	江逐月天											來自長歌的負面狀態：\n基礎命中[00ff00]減少attackrate_p1%[-]\n基礎會心[00ff00]減少deadlystrike_p1%[-]	ChanggeSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4520	江逐月天											基礎攻擊力+[00ff00]physics_potentialdamage_p1%[-]\n攻擊速度+[00ff00]attackspeed_v1[-]\n移動速度+[00ff00]runspeed_v1[-]	ChanggeSkill_02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4528	魔音纏繞	14528										來自長歌的負面狀態：\n基礎攻擊力[00ff00]減少physics_potentialdamage_p1%[-]\n基礎命中[00ff00]減少attackrate_p1%[-]\n基礎會心[00ff00]減少deadlystrike_p1%[-]\n基礎全系抗性[00ff00]減少all_series_resist_p1%[-]	Changge_bd05_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			
+4542	陽春白雪	14542										在陽春白雪的持續時間內，回復效果無效	Changge_bd02_buff	UI/Atlas/NewAtlas/RoleHead/RoleHead.prefab			

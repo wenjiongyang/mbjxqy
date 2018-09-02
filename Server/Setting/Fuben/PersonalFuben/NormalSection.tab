@@ -1,0 +1,48 @@
+nSectionIdx	nSubSectionIdx	nFubenIndex	szTitle		szUiTypeName	szUiAtlas	nNeedTaskId	nType	bFFHideUi	ExtPosition
+1	1	1	雪山古道	經過數月的休養，身體已恢復得差不多了，不知當日究竟是誰痛下毒手，也許事發之地會留下一些線索，所以你決定先行探查一番……	Fuben6_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+1	2	2	離憂山	和納蘭真一起來到離憂山找銀絲草，在最後找到被蜂王守護的銀絲草，擊敗蜂王，納蘭真採集銀絲草。	Fuben3_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+1	3	3	無憂禁地	非戰：到無憂禁地洞口偷聽到納蘭潛凜和弟子的對話。	Fuben4_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	400|14050|2900|500|38
+1	4	4	離憂山洞	三人一起闖關	Fuben1_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	1	5	呼嘯棧道	楊影楓出手相助，擊敗圍困姑娘的武林人士及頭目。他們似乎在搶奪什麼東西。	Fuben5_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	2	6	藏劍山莊	通過莊丁的巡邏，副本最後偷聽到卓非凡與紫軒的對話	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	3	7	忘憂旅道	聽到飛龍叛徒逼迫月眉兒的對話，明白了彼此的身份，月眉兒由於多日疲累加情緒激動昏了過去。	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+2	4	8	心魔陣	在無憂教闖心魔陣。依次擊敗卓非凡、紫軒、納蘭潛凜和納蘭真的幻影，最後擊敗心魔。	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	5	9	藏劍幽谷	擊敗飛龍堡來攔截的敵人	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	402|10850|3560|500|102
+2	6	10	劍氣峰	揭穿卓非凡的陰謀並擊敗他，偷襲楊影楓時被反手殺死。	Fuben1_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	402|3000|2800|500|108
+3	1	11	天山古道	與紫衣姑娘及其蒼鷹戰鬥，擊敗她後進行劇情對話，被要求送其回家。	Fuben4_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|8200|5180|500|119
+3	2	33	修武密地	楊影楓來到落葉谷找孟知秋比武，我得趕去觀摩一番……	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+3	3	12	紅葉穀	離開飛龍堡的路上進入副本救下被綁架的女子。	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|15500|11140|500|136
+3	4	13	凌絕峰	在凌絕峰對決月眉兒，其不承認抓走真兒。戰鬥最後真兒即時出現，避免了錯殺月眉兒的悲劇。	Fuben3_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|14100|3800|500|141
+3	5	14	無憂禁地	與薔薇一起在無憂教禁地救下納蘭真和月眉兒，但是三女卻在門口又被抓走，被告知去摘星樓談談。	Fuben6_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	495|10000|5400|500|161
+3	6	15	摘星地牢	拒絕加入無憂教，救下被關押的紫軒	Fuben3_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	496|9000|10600|500|170
+3	7	16	通天塔	在通天塔救出薔薇	Fuben6_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	497|8100|6900|500|176
+3	8	17	悲魔山莊	在四女的觀戰下於悲魔山莊擊敗納蘭潛凜，其臨死前，希望楊影楓好好照顧納自己的女兒	Fuben7_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	404|15600|9400|500|187
+4	1	18	衡山腳下	在盧青滿懷感慨的訴說下，你仿佛回到了數十年前，那個獨孤劍痛失師尊，尋找血書為師傅復仇的雨夜……	Fuben5_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+4	2	19	九猴洞	欲上華山，先過九猴。昔日為華山派用於鍛煉弟子的天然猴洞，如今早已不復當年模樣，	Fuben7_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	487|2100|5600|500|198
+4	3	20	福緣莊	和張如夢、獨孤劍一起擊敗路達及其手下	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+4	4	21	碧霞島	在碧霞島擊敗殺手和頭目採花賊，救下張琳心和何梅	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	405|6100|10500|500|225
+4	5	22	臨安城東	與張如夢戰鬥，張如夢剩餘30%血量時通過。觸發蒙面女子救走張如夢的劇情	Fuben4_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	405|14550|14020|500|233
+5	1	23	武夷派	清理武夷派中的五色教弟子，見到張林。	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	488|3000|6300|500|246
+5	2	24	武夷禁地	在武夷禁地擊敗五色教殺手及頭目，救下柳中原。	Fuben8_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	489|3600|5550|500|253
+5	3	25	臨安驛道	擊退重傷的南宮滅。	Fuben1_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	490|7400|5500|500|264
+5	4	26	暗影竹林	擊敗姚公子及其手下，抓住姚公子。其低於30%血量時非戰投降。	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	493|5500|6400|500|280
+5	5	27	幽暗地牢	擊敗監獄中的敵人，救下李三和天王右使楊湖。	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	493|5500|6400|500|287
+6	1	28	長安郊外	抓住華山弟子林對兒，其低於30%血量時非戰投降。	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	491|2200|3750|500|296
+6	2	29	華山派	在華山派擊敗林海及其走狗	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	491|8050|7520|500|305
+6	3	30	少林幽谷	與無相大師戰鬥，血量低於30%劇情展現其逃跑。	Fuben4_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	406|9350|10850|500|317
+6	4	31	古戰場	偽裝潛入金軍大營，劇情展現如何勸服陸文龍。	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	479|2510|1040|500|334
+6	5	32	蕭瑟戰場	與南宮滅戰鬥，血量低於25%時獨孤劍施展天魔解體大法擊殺南宮滅。	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+7	1	34	天山淒道	張琳心為救獨孤劍，獨自來到天山尋找雪蓮王	Fuben2_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+7	2	35	洞庭迷宮	獨孤劍通過洞庭迷宮	Fuben5_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|4050|14300|500|372
+7	3	36	天王校場	獨孤劍與楊瑛發現封玉書背叛天王幫的面目	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|7660|9240|500|378
+7	4	37	五色老巢	在方員外山莊大戰五色教	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|5310|4820|500|387
+7	5	38	三魔絕地	獨孤劍闖三魔陣	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	411|14000|8770|500|392
+7	6	39	悲泣荒穀	張如夢與南宮彩虹大戰劍門關	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|14180|6970|500|399
+7	7	40	鳳凰山	擊敗方勉	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|13150|3550|500|408
+8	1	41	狂風穀	通過地下廢墟來到狂沙鎮。	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+8	2	42	葬馬崗	調查鐵門寨事件初遇燕若雪，並一起擊敗葬馬崗山賊。	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+8	3	43	府衙密室	去府衙奪取官印以從上官豹處獲得玉圭。	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+8	4	44	風雪山莊	在這裡大戰趙升權，失敗。	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+8	5	45	唐門幽徑	在唐門開戰，擊敗唐瀟，但被門主唐離制服。	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+9	1	46	密洞洞天	掉進洞窟，開啟經脈	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+9	2	47	密洞洞天	掉進洞窟，開啟經脈	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	

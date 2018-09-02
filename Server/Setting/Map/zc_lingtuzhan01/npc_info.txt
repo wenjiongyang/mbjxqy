@@ -1,0 +1,13 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme
+NpcTrapToDXC	去稻香村		73	50	1	1	4241	12084	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToBLX	去巴陵縣		73	50	1	1	4243	9540	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToJJC	去江津村		73	50	1	1	4241	6958	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToYLZ	去永樂鎮		73	50	1	1	4356	4051	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateN	北城門		1732	50	1	1	12918	11022	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateM	中城門		1732	50	1	1	12922	8273	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateS	南城門		1732	50	1	1	12918	5611	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_sun	日耀龍柱		1732	50	1	1	15536	8278	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_moon	月華龍柱		1732	50	1	1	15536	11012	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_star	星輝龍柱		1732	50	1	1	15539	5577	0	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	後營障礙		104	50		1	19478	8105	64	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	後營障礙		104	50		1	19475	8460	64	-1	0	0		0	0	0	0	0	0	0	0

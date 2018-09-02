@@ -1,0 +1,13 @@
+CGID	Des	Event	Param1	Param2	Param3	Param4	Param5	Param6
+1	隱藏UI	SetAllUiVisable	0					
+1	鏡頭動畫	PlayCameraAnimation	Scenes/camera/xsc_cam1.controller					
+1	關閉UI	CloseWindow	BgBlackAll					
+1	加入黑名單	ShowAllRepresentObj	0					
+1	顯示玩家	ShowPlayer	1					
+1	播放特效	PlayEffect	9110	0	0	0	1	
+1	禁止操作	ForbiddenOperation	1					
+1	特效動畫	PlayCameraEffect	9109					
+1	顯示其他玩家	ShowAllRepresentObj	1	149				
+1	打開UI	OpenWindow	InterludeDescribePanel					
+1	關閉UI	CloseWindowTimer	InterludeDescribePanel	143				
+1		End	147					

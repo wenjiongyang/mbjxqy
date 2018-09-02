@@ -1,0 +1,1683 @@
+ResId	ResFile	ResFile2	ResAttribID	ResAttribID2	Desc
+1	Player/Doodads/weapons/Prefabs/m2_h006.prefab	Player/Doodads/weapons/Prefabs/m2_h006.prefab			天王锤1
+2	Player/Doodads/weapons/Prefabs/m2_h002.prefab	Player/Doodads/weapons/Prefabs/m2_h002.prefab			天王锤2
+3	Player/Doodads/weapons/Prefabs/m2_h001.prefab	Player/Doodads/weapons/Prefabs/m2_h001.prefab			天王锤3
+4	Player/Doodads/weapons/Prefabs/m2_h003.prefab	Player/Doodads/weapons/Prefabs/m2_h003.prefab			天王锤4
+5	Player/Doodads/weapons/Prefabs/m2_h005.prefab	Player/Doodads/weapons/Prefabs/m2_h005.prefab			天王锤5
+6	Player/Doodads/weapons/Prefabs/m2_h004.prefab	Player/Doodads/weapons/Prefabs/m2_h004.prefab			天王锤6
+7	Player/Doodads/weapons/Prefabs/m2_h008.prefab	Player/Doodads/weapons/Prefabs/m2_h008.prefab			天王锤7
+8	Player/Doodads/weapons/Prefabs/m2_h009.prefab	Player/Doodads/weapons/Prefabs/m2_h009.prefab	10001	10001	天王锤8
+9	Player/Doodads/weapons/Prefabs/m2_h010.prefab	Player/Doodads/weapons/Prefabs/m2_h010.prefab	10301	10302	天王锤9
+10	Player/Doodads/weapons/Prefabs/m2_h011.prefab	Player/Doodads/weapons/Prefabs/m2_h011.prefab	10311	10311	天王锤10
+11		Player/Doodads/weapons/Prefabs/f2_s002.prefab			峨眉剑1
+12		Player/Doodads/weapons/Prefabs/f2_s003.prefab			峨眉剑2
+13		Player/Doodads/weapons/Prefabs/f2_s006.prefab			峨眉剑3
+14		Player/Doodads/weapons/Prefabs/f2_s004.prefab			峨眉剑4
+15		Player/Doodads/weapons/Prefabs/f2_s005.prefab			峨眉剑5
+16		Player/Doodads/weapons/Prefabs/f2_s007.prefab			峨眉剑6
+17		Player/Doodads/weapons/Prefabs/f2_s008.prefab			峨眉剑7
+18		Player/Doodads/weapons/Prefabs/f2_s009.prefab		10002	峨眉剑8
+19		Player/Doodads/weapons/Prefabs/f2_s010.prefab		10302	峨眉剑9
+20		Player/Doodads/weapons/Prefabs/f2_s011.prefab		10312	峨眉剑10
+21	Player/Doodads/weapons/Prefabs/f1_a004.prefab				桃花弓1
+22	Player/Doodads/weapons/Prefabs/f1_a002.prefab				桃花弓2
+23	Player/Doodads/weapons/Prefabs/f1_a003.prefab				桃花弓3
+24	Player/Doodads/weapons/Prefabs/f1_a005.prefab				桃花弓4
+25	Player/Doodads/weapons/Prefabs/f1_a006.prefab				桃花弓5
+26	Player/Doodads/weapons/Prefabs/f1_a007.prefab				桃花弓6
+27	Player/Doodads/weapons/Prefabs/f1_a008.prefab				桃花弓7
+28	Player/Doodads/weapons/Prefabs/f1_a009.prefab			10003	桃花弓8
+29	Player/Doodads/weapons/Prefabs/f1_a010.prefab			10303	桃花弓9
+30	Player/Doodads/weapons/Prefabs/f1_a011.prefab			10313	桃花弓10
+31		Player/Doodads/weapons/Prefabs/m1_l002.prefab			逍遥枪1
+32		Player/Doodads/weapons/Prefabs/m1_l003.prefab			逍遥枪2
+33		Player/Doodads/weapons/Prefabs/m1_l005.prefab			逍遥枪3
+34		Player/Doodads/weapons/Prefabs/m1_l007.prefab			逍遥枪4
+35		Player/Doodads/weapons/Prefabs/m1_l006.prefab			逍遥枪5
+36		Player/Doodads/weapons/Prefabs/m1_l004.prefab			逍遥枪6
+37		Player/Doodads/weapons/Prefabs/m1_l008.prefab			逍遥枪7
+38		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10004	逍遥枪8
+39		Player/Doodads/weapons/Prefabs/m1_l010.prefab		10304	逍遥枪9
+40		Player/Doodads/weapons/Prefabs/m1_l011.prefab		10314	逍遥枪10
+41	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab			武当剑1
+42	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab			武当剑2
+43	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab			武当剑3
+44	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab			武当剑4
+45	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab			武当剑5
+46	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab			武当剑6
+47	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab			武当剑7
+48	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	10005	10005	武当剑8
+49	Player/Doodads/weapons/Prefabs/m3_s010_L.prefab	Player/Doodads/weapons/Prefabs/m3_s010_R.prefab	10305	10305	武当剑9
+50	Player/Doodads/weapons/Prefabs/m3_s011_L.prefab	Player/Doodads/weapons/Prefabs/m3_s011_R.prefab	10315	10315	武当剑10
+51	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab			天忍刺1
+52	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab			天忍刺2
+53	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab			天忍刺3
+54	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab			天忍刺4
+55	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab			天忍刺5
+56	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab			天忍刺6
+57	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab			天忍刺7
+58	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	10006	10006	天忍刺8
+59	Player/Doodads/weapons/Prefabs/f3_d010_l.prefab	Player/Doodads/weapons/Prefabs/f3_d010_r.prefab	10306	10306	天忍刺9
+60	Player/Doodads/weapons/Prefabs/f3_d011_l.prefab	Player/Doodads/weapons/Prefabs/f3_d011_r.prefab	10316	10316	天忍刺10
+61		Player/Doodads/weapons/Prefabs/m4_w002.prefab			少林棍1
+62		Player/Doodads/weapons/Prefabs/m4_w003.prefab			少林棍2
+63		Player/Doodads/weapons/Prefabs/m4_w004.prefab			少林棍3
+64		Player/Doodads/weapons/Prefabs/m4_w005.prefab			少林棍4
+65		Player/Doodads/weapons/Prefabs/m4_w006.prefab			少林棍5
+66		Player/Doodads/weapons/Prefabs/m4_w007.prefab			少林棍6
+67		Player/Doodads/weapons/Prefabs/m4_w009.prefab			少林棍7
+68		Player/Doodads/weapons/Prefabs/m4_w008.prefab			少林棍8
+69		Player/Doodads/weapons/Prefabs/m4_w010.prefab		10307	少林棍9
+70		Player/Doodads/weapons/Prefabs/m4_w011.prefab		10317	少林棍10
+71		Player/Doodads/weapons/Prefabs/f4_k005.prefab			翠烟伞1
+72		Player/Doodads/weapons/Prefabs/f4_k006.prefab			翠烟伞2
+73		Player/Doodads/weapons/Prefabs/f4_k002.prefab			翠烟伞3
+74		Player/Doodads/weapons/Prefabs/f4_k003.prefab			翠烟伞4
+75		Player/Doodads/weapons/Prefabs/f4_k004.prefab			翠烟伞5
+76		Player/Doodads/weapons/Prefabs/f4_k007.prefab			翠烟伞6
+77		Player/Doodads/weapons/Prefabs/f4_k008.prefab			翠烟伞7
+78		Player/Doodads/weapons/Prefabs/f4_k009.prefab			翠烟伞8
+79		Player/Doodads/weapons/Prefabs/f4_k010.prefab		10308	翠烟伞9
+80		Player/Doodads/weapons/Prefabs/f4_k011.prefab		10318	翠烟伞10
+101	Player/Doodads/weapons/Prefabs/m2_h007.prefab	Player/Doodads/weapons/Prefabs/m2_h007.prefab			天王出生锤
+102		Player/Doodads/weapons/Prefabs/f2_s001.prefab			峨眉出生剑
+103	Player/Doodads/weapons/Prefabs/f1_a001.prefab				桃花出生弓
+104		Player/Doodads/weapons/Prefabs/m1_l001.prefab			逍遥出生枪
+105	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab			武当出生剑
+106	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab			天忍出生刺
+107		Player/Doodads/weapons/Prefabs/m4_w001.prefab			少林出生棍
+108		Player/Doodads/weapons/Prefabs/f4_k001.prefab			翠烟出生伞
+109	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	10009	10009	唐门出生弩
+110	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	10010	10010	昆仑出生剑
+111		Player/Doodads/weapons/Prefabs/m6_h001.prefab		10321	丐帮出生棍
+112		Player/Doodads/weapons/Prefabs/f6_h001.prefab		10322	五毒出生笛
+113	Player/Doodads/weapons/Prefabs/m7_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_s001_r.prefab	10323	10323	藏剑出生剑
+114		Player/Doodads/weapons/Prefabs/f7_s001.prefab		10324	长歌出生扇
+115	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab		10325	15门派出生武器
+116	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab		10326	16门派出生武器
+117		Player/Doodads/weapons/Prefabs/m4_w001.prefab		10327	17门派出生武器
+118		Player/Doodads/weapons/Prefabs/f4_k001.prefab		10328	18门派出生武器
+119	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab		10329	19门派出生武器
+120	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab		10330	20门派出生武器
+601	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	10021	10021	唐门弩1
+602	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	10022	10022	唐门弩2
+603	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	10023	10023	唐门弩3
+604	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	10024	10024	唐门弩4
+605	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	10025	10025	唐门弩8
+606	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	10026	10026	唐门弩6
+607	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	10027	10027	唐门弩5
+608	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	10028	10028	唐门弩7
+609	Player/Doodads/weapons/Prefabs/m5_a010_l.prefab	Player/Doodads/weapons/Prefabs/m5_a010_r.prefab	10029	10029	唐门弩9
+610	Player/Doodads/weapons/Prefabs/m5_a011_l.prefab	Player/Doodads/weapons/Prefabs/m5_a011_r.prefab	10030	10030	唐门弩10
+611	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	10011	10011	昆仑剑1
+612	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	10012	10012	昆仑剑2
+613	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	10013	10013	昆仑剑3
+614	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	10014	10014	昆仑剑4
+615	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	10015	10015	昆仑剑5
+616	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	10016	10016	昆仑剑6
+617	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	10017	10017	昆仑剑7
+618	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	10018	10018	昆仑剑8
+619	Player/Doodads/weapons/Prefabs/f5_s010_l.prefab	Player/Doodads/weapons/Prefabs/f5_s010_r.prefab	10019	10019	昆仑剑9
+620	Player/Doodads/weapons/Prefabs/f5_s011_l.prefab	Player/Doodads/weapons/Prefabs/f5_s011_r.prefab	10020	10020	昆仑剑10
+621		Player/Doodads/weapons/Prefabs/m6_h002.prefab		10331	丐帮棍1
+622		Player/Doodads/weapons/Prefabs/m6_h003.prefab		10332	丐帮棍2
+623		Player/Doodads/weapons/Prefabs/m6_h004.prefab		10333	丐帮棍3
+624		Player/Doodads/weapons/Prefabs/m6_h005.prefab		10334	丐帮棍4
+625		Player/Doodads/weapons/Prefabs/m6_h006.prefab		10335	丐帮棍5
+626		Player/Doodads/weapons/Prefabs/m6_h007.prefab		10336	丐帮棍6
+627		Player/Doodads/weapons/Prefabs/m6_h008.prefab		10337	丐帮棍7
+628		Player/Doodads/weapons/Prefabs/m6_h009.prefab		10338	丐帮棍8
+629		Player/Doodads/weapons/Prefabs/m6_h010.prefab		10339	丐帮棍9
+630		Player/Doodads/weapons/Prefabs/m6_h011.prefab		10340	丐帮棍10
+631		Player/Doodads/weapons/Prefabs/f6_h002.prefab		10341	五毒笛1
+632		Player/Doodads/weapons/Prefabs/f6_h003.prefab		10342	五毒笛2
+633		Player/Doodads/weapons/Prefabs/f6_h004.prefab		10343	五毒笛3
+634		Player/Doodads/weapons/Prefabs/f6_h005.prefab		10344	五毒笛4
+635		Player/Doodads/weapons/Prefabs/f6_h006.prefab		10345	五毒笛5
+636		Player/Doodads/weapons/Prefabs/f6_h007.prefab		10346	五毒笛6
+637		Player/Doodads/weapons/Prefabs/f6_h008.prefab		10347	五毒笛7
+638		Player/Doodads/weapons/Prefabs/f6_h009.prefab		10348	五毒笛8
+639		Player/Doodads/weapons/Prefabs/f6_h010.prefab		10349	五毒笛9
+640		Player/Doodads/weapons/Prefabs/f6_h011.prefab		10350	五毒笛10
+641	Player/Doodads/weapons/Prefabs/m7_s002_l.prefab	Player/Doodads/weapons/Prefabs/m7_s002_r.prefab	10351	10351	藏剑剑1
+642	Player/Doodads/weapons/Prefabs/m7_s003_l.prefab	Player/Doodads/weapons/Prefabs/m7_s003_r.prefab	10352	10352	藏剑剑2
+643	Player/Doodads/weapons/Prefabs/m7_s004_l.prefab	Player/Doodads/weapons/Prefabs/m7_s004_r.prefab	10353	10353	藏剑剑3
+644	Player/Doodads/weapons/Prefabs/m7_s005_l.prefab	Player/Doodads/weapons/Prefabs/m7_s005_r.prefab	10354	10354	藏剑剑4
+645	Player/Doodads/weapons/Prefabs/m7_s006_l.prefab	Player/Doodads/weapons/Prefabs/m7_s006_r.prefab	10355	10355	藏剑剑5
+646	Player/Doodads/weapons/Prefabs/m7_s007_l.prefab	Player/Doodads/weapons/Prefabs/m7_s007_r.prefab	10356	10356	藏剑剑6
+647	Player/Doodads/weapons/Prefabs/m7_s008_l.prefab	Player/Doodads/weapons/Prefabs/m7_s008_r.prefab	10357	10357	藏剑剑7
+648	Player/Doodads/weapons/Prefabs/m7_s009_l.prefab	Player/Doodads/weapons/Prefabs/m7_s009_r.prefab	10358	10358	藏剑剑8
+649	Player/Doodads/weapons/Prefabs/m7_s010_l.prefab	Player/Doodads/weapons/Prefabs/m7_s010_r.prefab	10359	10359	藏剑剑9
+650	Player/Doodads/weapons/Prefabs/m7_s011_l.prefab	Player/Doodads/weapons/Prefabs/m7_s011_r.prefab	10360	10360	藏剑剑10
+651		Player/Doodads/weapons/Prefabs/f7_s002.prefab		10361	长歌扇1
+652		Player/Doodads/weapons/Prefabs/f7_s003.prefab		10362	长歌扇2
+653		Player/Doodads/weapons/Prefabs/f7_s004.prefab		10363	长歌扇3
+654		Player/Doodads/weapons/Prefabs/f7_s005.prefab		10364	长歌扇4
+655		Player/Doodads/weapons/Prefabs/f7_s006.prefab		10365	长歌扇5
+656		Player/Doodads/weapons/Prefabs/f7_s007.prefab		10366	长歌扇6
+657		Player/Doodads/weapons/Prefabs/f7_s008.prefab		10367	长歌扇7
+658		Player/Doodads/weapons/Prefabs/f7_s009.prefab		10368	长歌扇8
+659		Player/Doodads/weapons/Prefabs/f7_s010.prefab		10369	长歌扇9
+660		Player/Doodads/weapons/Prefabs/f7_s011.prefab		10370	长歌扇10
+661		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10371	15门派武器1
+662		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10372	15门派武器2
+663		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10373	15门派武器3
+664		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10374	15门派武器4
+665		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10375	15门派武器5
+666		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10376	15门派武器6
+667		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10377	15门派武器7
+668		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10378	15门派武器8
+669		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10379	15门派武器9
+670		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10380	15门派武器10
+671		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10381	16门派武器1
+672		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10382	16门派武器2
+673		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10383	16门派武器3
+674		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10384	16门派武器4
+675		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10385	16门派武器5
+676		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10386	16门派武器6
+677		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10387	16门派武器7
+678		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10388	16门派武器8
+679		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10389	16门派武器9
+680		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10390	16门派武器10
+681		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10391	17门派武器1
+682		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10392	17门派武器2
+683		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10393	17门派武器3
+684		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10394	17门派武器4
+685		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10395	17门派武器5
+686		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10396	17门派武器6
+687		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10397	17门派武器7
+688		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10398	17门派武器8
+689		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10399	17门派武器9
+690		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10400	17门派武器10
+691		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10401	18门派武器1
+692		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10402	18门派武器2
+693		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10403	18门派武器3
+694		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10404	18门派武器4
+695		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10405	18门派武器5
+696		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10406	18门派武器6
+697		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10407	18门派武器7
+698		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10408	18门派武器8
+699		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10409	18门派武器9
+700		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10410	18门派武器10
+701		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10411	19门派武器1
+702		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10412	19门派武器2
+703		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10413	19门派武器3
+704		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10414	19门派武器4
+705		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10415	19门派武器5
+706		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10416	19门派武器6
+707		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10417	19门派武器7
+708		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10418	19门派武器8
+709		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10419	19门派武器9
+710		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10420	19门派武器10
+711		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10421	20门派武器1
+712		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10422	20门派武器2
+713		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10423	20门派武器3
+714		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10424	20门派武器4
+715		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10425	20门派武器5
+716		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10426	20门派武器6
+717		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10427	20门派武器7
+718		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10428	20门派武器8
+719		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10429	20门派武器9
+720		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10430	20门派武器10
+801	Player/Doodads/weapons/Prefabs/m2_h012.prefab	Player/Doodads/weapons/Prefabs/m2_h012.prefab	10431	10431	天王锤11
+802	Player/Doodads/weapons/Prefabs/m2_h002.prefab	Player/Doodads/weapons/Prefabs/m2_h002.prefab	10432	10432	天王锤12
+803	Player/Doodads/weapons/Prefabs/m2_h001.prefab	Player/Doodads/weapons/Prefabs/m2_h001.prefab	10433	10433	天王锤13
+804	Player/Doodads/weapons/Prefabs/m2_h003.prefab	Player/Doodads/weapons/Prefabs/m2_h003.prefab	10434	10434	天王锤14
+805	Player/Doodads/weapons/Prefabs/m2_h005.prefab	Player/Doodads/weapons/Prefabs/m2_h005.prefab	10435	10435	天王锤15
+806	Player/Doodads/weapons/Prefabs/m2_h004.prefab	Player/Doodads/weapons/Prefabs/m2_h004.prefab	10436	10436	天王锤16
+807	Player/Doodads/weapons/Prefabs/m2_h008.prefab	Player/Doodads/weapons/Prefabs/m2_h008.prefab	10437	10437	天王锤17
+808	Player/Doodads/weapons/Prefabs/m2_h009.prefab	Player/Doodads/weapons/Prefabs/m2_h009.prefab	10438	10438	天王锤18
+809	Player/Doodads/weapons/Prefabs/m2_h010.prefab	Player/Doodads/weapons/Prefabs/m2_h010.prefab	10439	10439	天王锤19
+810	Player/Doodads/weapons/Prefabs/m2_h011.prefab	Player/Doodads/weapons/Prefabs/m2_h011.prefab	10440	10440	天王锤20
+811		Player/Doodads/weapons/Prefabs/f2_s012.prefab		10441	峨眉剑11
+812		Player/Doodads/weapons/Prefabs/f2_s003.prefab		10442	峨眉剑12
+813		Player/Doodads/weapons/Prefabs/f2_s006.prefab		10443	峨眉剑13
+814		Player/Doodads/weapons/Prefabs/f2_s004.prefab		10444	峨眉剑14
+815		Player/Doodads/weapons/Prefabs/f2_s005.prefab		10445	峨眉剑15
+816		Player/Doodads/weapons/Prefabs/f2_s007.prefab		10446	峨眉剑16
+817		Player/Doodads/weapons/Prefabs/f2_s008.prefab		10447	峨眉剑17
+818		Player/Doodads/weapons/Prefabs/f2_s009.prefab		10448	峨眉剑18
+819		Player/Doodads/weapons/Prefabs/f2_s010.prefab		10449	峨眉剑19
+820		Player/Doodads/weapons/Prefabs/f2_s011.prefab		10450	峨眉剑20
+821	Player/Doodads/weapons/Prefabs/f1_a012.prefab		10451		桃花弓11
+822	Player/Doodads/weapons/Prefabs/f1_a002.prefab		10452		桃花弓12
+823	Player/Doodads/weapons/Prefabs/f1_a003.prefab		10453		桃花弓13
+824	Player/Doodads/weapons/Prefabs/f1_a005.prefab		10454		桃花弓14
+825	Player/Doodads/weapons/Prefabs/f1_a006.prefab		10455		桃花弓15
+826	Player/Doodads/weapons/Prefabs/f1_a007.prefab		10456		桃花弓16
+827	Player/Doodads/weapons/Prefabs/f1_a008.prefab		10457		桃花弓17
+828	Player/Doodads/weapons/Prefabs/f1_a009.prefab		10458		桃花弓18
+829	Player/Doodads/weapons/Prefabs/f1_a010.prefab		10459		桃花弓19
+830	Player/Doodads/weapons/Prefabs/f1_a011.prefab		10460		桃花弓20
+831		Player/Doodads/weapons/Prefabs/m1_l012.prefab		10461	逍遥枪11
+832		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10462	逍遥枪12
+833		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10463	逍遥枪13
+834		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10464	逍遥枪14
+835		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10465	逍遥枪15
+836		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10466	逍遥枪16
+837		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10467	逍遥枪17
+838		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10468	逍遥枪18
+839		Player/Doodads/weapons/Prefabs/m1_l010.prefab		10469	逍遥枪19
+840		Player/Doodads/weapons/Prefabs/m1_l011.prefab		10470	逍遥枪20
+841	Player/Doodads/weapons/Prefabs/m3_s012_L.prefab	Player/Doodads/weapons/Prefabs/m3_s012_R.prefab	10471	10471	武当剑11
+842	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	10472	10472	武当剑12
+843	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	10473	10473	武当剑13
+844	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	10474	10474	武当剑14
+845	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	10475	10475	武当剑15
+846	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	10476	10476	武当剑16
+847	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	10477	10477	武当剑17
+848	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	10478	10478	武当剑18
+849	Player/Doodads/weapons/Prefabs/m3_s010_L.prefab	Player/Doodads/weapons/Prefabs/m3_s010_R.prefab	10479	10479	武当剑19
+850	Player/Doodads/weapons/Prefabs/m3_s011_L.prefab	Player/Doodads/weapons/Prefabs/m3_s011_R.prefab	10480	10480	武当剑20
+851	Player/Doodads/weapons/Prefabs/f3_d012_l.prefab	Player/Doodads/weapons/Prefabs/f3_d012_r.prefab	10481	10481	天忍刺11
+852	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	10482	10482	天忍刺12
+853	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	10483	10483	天忍刺13
+854	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	10484	10484	天忍刺14
+855	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	10485	10485	天忍刺15
+856	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	10486	10486	天忍刺16
+857	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	10487	10487	天忍刺17
+858	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	10488	10488	天忍刺18
+859	Player/Doodads/weapons/Prefabs/f3_d010_l.prefab	Player/Doodads/weapons/Prefabs/f3_d010_r.prefab	10489	10489	天忍刺19
+860	Player/Doodads/weapons/Prefabs/f3_d011_l.prefab	Player/Doodads/weapons/Prefabs/f3_d011_r.prefab	10490	10490	天忍刺20
+861		Player/Doodads/weapons/Prefabs/m4_w012.prefab		10491	少林棍11
+862		Player/Doodads/weapons/Prefabs/m4_w003.prefab		10492	少林棍12
+863		Player/Doodads/weapons/Prefabs/m4_w004.prefab		10493	少林棍13
+864		Player/Doodads/weapons/Prefabs/m4_w005.prefab		10494	少林棍14
+865		Player/Doodads/weapons/Prefabs/m4_w006.prefab		10495	少林棍15
+866		Player/Doodads/weapons/Prefabs/m4_w007.prefab		10496	少林棍16
+867		Player/Doodads/weapons/Prefabs/m4_w009.prefab		10497	少林棍17
+868		Player/Doodads/weapons/Prefabs/m4_w008.prefab		10498	少林棍18
+869		Player/Doodads/weapons/Prefabs/m4_w010.prefab		10499	少林棍19
+870		Player/Doodads/weapons/Prefabs/m4_w011.prefab		10500	少林棍20
+871		Player/Doodads/weapons/Prefabs/f4_k012.prefab		10501	翠烟伞11
+872		Player/Doodads/weapons/Prefabs/f4_k006.prefab		10502	翠烟伞12
+873		Player/Doodads/weapons/Prefabs/f4_k002.prefab		10503	翠烟伞13
+874		Player/Doodads/weapons/Prefabs/f4_k003.prefab		10504	翠烟伞14
+875		Player/Doodads/weapons/Prefabs/f4_k004.prefab		10505	翠烟伞15
+876		Player/Doodads/weapons/Prefabs/f4_k007.prefab		10506	翠烟伞16
+877		Player/Doodads/weapons/Prefabs/f4_k008.prefab		10507	翠烟伞17
+878		Player/Doodads/weapons/Prefabs/f4_k009.prefab		10508	翠烟伞18
+879		Player/Doodads/weapons/Prefabs/f4_k010.prefab		10509	翠烟伞19
+880		Player/Doodads/weapons/Prefabs/f4_k011.prefab		10510	翠烟伞20
+881	Player/Doodads/weapons/Prefabs/m5_a012_l.prefab	Player/Doodads/weapons/Prefabs/m5_a012_r.prefab	10511	10511	唐门弩11
+882	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	10512	10512	唐门弩12
+883	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	10513	10513	唐门弩13
+884	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	10514	10514	唐门弩14
+885	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	10515	10515	唐门弩15
+886	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	10516	10516	唐门弩16
+887	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	10517	10517	唐门弩17
+888	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	10518	10518	唐门弩18
+889	Player/Doodads/weapons/Prefabs/m5_a010_l.prefab	Player/Doodads/weapons/Prefabs/m5_a010_r.prefab	10519	10519	唐门弩19
+890	Player/Doodads/weapons/Prefabs/m5_a011_l.prefab	Player/Doodads/weapons/Prefabs/m5_a011_r.prefab	10520	10520	唐门弩20
+891	Player/Doodads/weapons/Prefabs/f5_s012_l.prefab	Player/Doodads/weapons/Prefabs/f5_s012_r.prefab	10521	10521	昆仑剑11
+892	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	10522	10522	昆仑剑12
+893	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	10523	10523	昆仑剑13
+894	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	10524	10524	昆仑剑14
+895	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	10525	10525	昆仑剑15
+896	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	10526	10526	昆仑剑16
+897	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	10527	10527	昆仑剑17
+898	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	10528	10528	昆仑剑18
+899	Player/Doodads/weapons/Prefabs/f5_s010_l.prefab	Player/Doodads/weapons/Prefabs/f5_s010_r.prefab	10529	10529	昆仑剑19
+900	Player/Doodads/weapons/Prefabs/f5_s011_l.prefab	Player/Doodads/weapons/Prefabs/f5_s011_r.prefab	10530	10530	昆仑剑20
+901		Player/Doodads/weapons/Prefabs/m6_h012.prefab		10531	丐帮棍11
+902		Player/Doodads/weapons/Prefabs/m6_h003.prefab		10532	丐帮棍12
+903		Player/Doodads/weapons/Prefabs/m6_h004.prefab		10533	丐帮棍13
+904		Player/Doodads/weapons/Prefabs/m6_h005.prefab		10534	丐帮棍14
+905		Player/Doodads/weapons/Prefabs/m6_h006.prefab		10535	丐帮棍15
+906		Player/Doodads/weapons/Prefabs/m6_h007.prefab		10536	丐帮棍16
+907		Player/Doodads/weapons/Prefabs/m6_h008.prefab		10537	丐帮棍17
+908		Player/Doodads/weapons/Prefabs/m6_h009.prefab		10538	丐帮棍18
+909		Player/Doodads/weapons/Prefabs/m6_h010.prefab		10539	丐帮棍19
+910		Player/Doodads/weapons/Prefabs/m6_h011.prefab		10540	丐帮棍20
+911		Player/Doodads/weapons/Prefabs/f6_h012.prefab		10541	五毒笛11
+912		Player/Doodads/weapons/Prefabs/f6_h003.prefab		10542	五毒笛12
+913		Player/Doodads/weapons/Prefabs/f6_h004.prefab		10543	五毒笛13
+914		Player/Doodads/weapons/Prefabs/f6_h005.prefab		10544	五毒笛14
+915		Player/Doodads/weapons/Prefabs/f6_h006.prefab		10545	五毒笛15
+916		Player/Doodads/weapons/Prefabs/f6_h007.prefab		10546	五毒笛16
+917		Player/Doodads/weapons/Prefabs/f6_h008.prefab		10547	五毒笛17
+918		Player/Doodads/weapons/Prefabs/f6_h009.prefab		10548	五毒笛18
+919		Player/Doodads/weapons/Prefabs/f6_h010.prefab		10549	五毒笛19
+920		Player/Doodads/weapons/Prefabs/f6_h011.prefab		10550	五毒笛20
+921	Player/Doodads/weapons/Prefabs/m7_s012_l.prefab	Player/Doodads/weapons/Prefabs/m7_s012_r.prefab	10551	10551	藏剑剑11
+922	Player/Doodads/weapons/Prefabs/m7_s003_l.prefab	Player/Doodads/weapons/Prefabs/m7_s003_r.prefab	10552	10552	藏剑剑12
+923	Player/Doodads/weapons/Prefabs/m7_s004_l.prefab	Player/Doodads/weapons/Prefabs/m7_s004_r.prefab	10553	10553	藏剑剑13
+924	Player/Doodads/weapons/Prefabs/m7_s005_l.prefab	Player/Doodads/weapons/Prefabs/m7_s005_r.prefab	10554	10554	藏剑剑14
+925	Player/Doodads/weapons/Prefabs/m7_s006_l.prefab	Player/Doodads/weapons/Prefabs/m7_s006_r.prefab	10555	10555	藏剑剑15
+926	Player/Doodads/weapons/Prefabs/m7_s007_l.prefab	Player/Doodads/weapons/Prefabs/m7_s007_r.prefab	10556	10556	藏剑剑16
+927	Player/Doodads/weapons/Prefabs/m7_s008_l.prefab	Player/Doodads/weapons/Prefabs/m7_s008_r.prefab	10557	10557	藏剑剑17
+928	Player/Doodads/weapons/Prefabs/m7_s009_l.prefab	Player/Doodads/weapons/Prefabs/m7_s009_r.prefab	10558	10558	藏剑剑18
+929	Player/Doodads/weapons/Prefabs/m7_s010_l.prefab	Player/Doodads/weapons/Prefabs/m7_s010_r.prefab	10559	10559	藏剑剑19
+930	Player/Doodads/weapons/Prefabs/m7_s011_l.prefab	Player/Doodads/weapons/Prefabs/m7_s011_r.prefab	10560	10560	藏剑剑20
+931		Player/Doodads/weapons/Prefabs/f7_s012.prefab		10561	长歌扇11
+932		Player/Doodads/weapons/Prefabs/f7_s003.prefab		10562	长歌扇12
+933		Player/Doodads/weapons/Prefabs/f7_s004.prefab		10563	长歌扇13
+934		Player/Doodads/weapons/Prefabs/f7_s005.prefab		10564	长歌扇14
+935		Player/Doodads/weapons/Prefabs/f7_s006.prefab		10565	长歌扇15
+936		Player/Doodads/weapons/Prefabs/f7_s007.prefab		10566	长歌扇16
+937		Player/Doodads/weapons/Prefabs/f7_s008.prefab		10567	长歌扇17
+938		Player/Doodads/weapons/Prefabs/f7_s009.prefab		10568	长歌扇18
+939		Player/Doodads/weapons/Prefabs/f7_s010.prefab		10569	长歌扇19
+940		Player/Doodads/weapons/Prefabs/f7_s011.prefab		10570	长歌扇20
+941		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10571	15门派武器11
+942		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10572	15门派武器12
+943		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10573	15门派武器13
+944		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10574	15门派武器14
+945		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10575	15门派武器15
+946		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10576	15门派武器16
+947		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10577	15门派武器17
+948		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10578	15门派武器18
+949		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10579	15门派武器19
+950		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10580	15门派武器20
+951		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10581	16门派武器11
+952		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10582	16门派武器12
+953		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10583	16门派武器13
+954		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10584	16门派武器14
+955		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10585	16门派武器15
+956		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10586	16门派武器16
+957		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10587	16门派武器17
+958		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10588	16门派武器18
+959		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10589	16门派武器19
+960		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10590	16门派武器20
+961		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10591	17门派武器11
+962		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10592	17门派武器12
+963		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10593	17门派武器13
+964		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10594	17门派武器14
+965		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10595	17门派武器15
+966		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10596	17门派武器16
+967		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10597	17门派武器17
+968		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10598	17门派武器18
+969		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10599	17门派武器19
+970		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10600	17门派武器20
+971		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10601	18门派武器11
+972		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10602	18门派武器12
+973		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10603	18门派武器13
+974		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10604	18门派武器14
+975		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10605	18门派武器15
+976		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10606	18门派武器16
+977		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10607	18门派武器17
+978		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10608	18门派武器18
+979		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10609	18门派武器19
+980		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10610	18门派武器20
+981		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10611	19门派武器11
+982		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10612	19门派武器12
+983		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10613	19门派武器13
+984		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10614	19门派武器14
+985		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10615	19门派武器15
+986		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10616	19门派武器16
+987		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10617	19门派武器17
+988		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10618	19门派武器18
+989		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10619	19门派武器19
+990		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10620	19门派武器20
+991		Player/Doodads/weapons/Prefabs/m1_l002.prefab		10621	20门派武器11
+992		Player/Doodads/weapons/Prefabs/m1_l003.prefab		10622	20门派武器12
+993		Player/Doodads/weapons/Prefabs/m1_l005.prefab		10623	20门派武器13
+994		Player/Doodads/weapons/Prefabs/m1_l007.prefab		10624	20门派武器14
+995		Player/Doodads/weapons/Prefabs/m1_l006.prefab		10625	20门派武器15
+996		Player/Doodads/weapons/Prefabs/m1_l004.prefab		10626	20门派武器16
+997		Player/Doodads/weapons/Prefabs/m1_l008.prefab		10627	20门派武器17
+998		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10628	20门派武器18
+999		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10629	20门派武器19
+1000		Player/Doodads/weapons/Prefabs/m1_l009.prefab		10630	20门派武器20
+1001	Player/Doodads/weapons/Prefabs/m2_h007.prefab	Player/Doodads/weapons/Prefabs/m2_h007.prefab	11001	11001	天王出生锤·偏色1
+1002	Player/Doodads/weapons/Prefabs/m2_h007.prefab	Player/Doodads/weapons/Prefabs/m2_h007.prefab	11002	11002	天王出生锤·偏色2
+1003	Player/Doodads/weapons/Prefabs/m2_h007.prefab	Player/Doodads/weapons/Prefabs/m2_h007.prefab	11003	11003	天王出生锤·偏色3
+1004	Player/Doodads/weapons/Prefabs/m2_h006.prefab	Player/Doodads/weapons/Prefabs/m2_h006.prefab	11004	11004	天王锤1·偏色1
+1005	Player/Doodads/weapons/Prefabs/m2_h006.prefab	Player/Doodads/weapons/Prefabs/m2_h006.prefab	11005	11005	天王锤1·偏色2
+1006	Player/Doodads/weapons/Prefabs/m2_h006.prefab	Player/Doodads/weapons/Prefabs/m2_h006.prefab	11006	11006	天王锤1·偏色3
+1007	Player/Doodads/weapons/Prefabs/m2_h002.prefab	Player/Doodads/weapons/Prefabs/m2_h002.prefab	11007	11007	天王锤2·偏色1
+1008	Player/Doodads/weapons/Prefabs/m2_h002.prefab	Player/Doodads/weapons/Prefabs/m2_h002.prefab	11008	11008	天王锤2·偏色2
+1009	Player/Doodads/weapons/Prefabs/m2_h002.prefab	Player/Doodads/weapons/Prefabs/m2_h002.prefab	11009	11009	天王锤2·偏色3
+1010	Player/Doodads/weapons/Prefabs/m2_h001.prefab	Player/Doodads/weapons/Prefabs/m2_h001.prefab	11010	11010	天王锤3·偏色1
+1011	Player/Doodads/weapons/Prefabs/m2_h001.prefab	Player/Doodads/weapons/Prefabs/m2_h001.prefab	11011	11011	天王锤3·偏色2
+1012	Player/Doodads/weapons/Prefabs/m2_h001.prefab	Player/Doodads/weapons/Prefabs/m2_h001.prefab	11012	11012	天王锤3·偏色3
+1013	Player/Doodads/weapons/Prefabs/m2_h003.prefab	Player/Doodads/weapons/Prefabs/m2_h003.prefab	11013	11013	天王锤4·偏色1
+1014	Player/Doodads/weapons/Prefabs/m2_h003.prefab	Player/Doodads/weapons/Prefabs/m2_h003.prefab	11014	11014	天王锤4·偏色2
+1015	Player/Doodads/weapons/Prefabs/m2_h003.prefab	Player/Doodads/weapons/Prefabs/m2_h003.prefab	11015	11015	天王锤4·偏色3
+1016	Player/Doodads/weapons/Prefabs/m2_h005.prefab	Player/Doodads/weapons/Prefabs/m2_h005.prefab	11016	11016	天王锤5·偏色1
+1017	Player/Doodads/weapons/Prefabs/m2_h005.prefab	Player/Doodads/weapons/Prefabs/m2_h005.prefab	11017	11017	天王锤5·偏色2
+1018	Player/Doodads/weapons/Prefabs/m2_h005.prefab	Player/Doodads/weapons/Prefabs/m2_h005.prefab	11018	11018	天王锤5·偏色3
+1019	Player/Doodads/weapons/Prefabs/m2_h004.prefab	Player/Doodads/weapons/Prefabs/m2_h004.prefab	11019	11019	天王锤6·偏色1
+1020	Player/Doodads/weapons/Prefabs/m2_h004.prefab	Player/Doodads/weapons/Prefabs/m2_h004.prefab	11020	11020	天王锤6·偏色2
+1021	Player/Doodads/weapons/Prefabs/m2_h004.prefab	Player/Doodads/weapons/Prefabs/m2_h004.prefab	11021	11021	天王锤6·偏色3
+1022	Player/Doodads/weapons/Prefabs/m2_h008.prefab	Player/Doodads/weapons/Prefabs/m2_h008.prefab	11022	11022	天王锤7·偏色1
+1023	Player/Doodads/weapons/Prefabs/m2_h008.prefab	Player/Doodads/weapons/Prefabs/m2_h008.prefab	11023	11023	天王锤7·偏色2
+1024	Player/Doodads/weapons/Prefabs/m2_h008.prefab	Player/Doodads/weapons/Prefabs/m2_h008.prefab	11024	11024	天王锤7·偏色3
+1025	Player/Doodads/weapons/Prefabs/m2_h009.prefab	Player/Doodads/weapons/Prefabs/m2_h009.prefab	11025	11025	天王锤8·偏色1
+1026	Player/Doodads/weapons/Prefabs/m2_h009.prefab	Player/Doodads/weapons/Prefabs/m2_h009.prefab	11026	11026	天王锤8·偏色2
+1027	Player/Doodads/weapons/Prefabs/m2_h009.prefab	Player/Doodads/weapons/Prefabs/m2_h009.prefab	11027	11027	天王锤8·偏色3
+1028	Player/Doodads/weapons/Prefabs/m2_h010.prefab	Player/Doodads/weapons/Prefabs/m2_h010.prefab	11028	11028	天王锤9·偏色1
+1029	Player/Doodads/weapons/Prefabs/m2_h010.prefab	Player/Doodads/weapons/Prefabs/m2_h010.prefab	11029	11029	天王锤9·偏色2
+1030	Player/Doodads/weapons/Prefabs/m2_h010.prefab	Player/Doodads/weapons/Prefabs/m2_h010.prefab	11030	11030	天王锤9·偏色3
+1031	Player/Doodads/weapons/Prefabs/m2_h011.prefab	Player/Doodads/weapons/Prefabs/m2_h011.prefab	11031	11031	天王锤10·偏色1
+1032	Player/Doodads/weapons/Prefabs/m2_h011.prefab	Player/Doodads/weapons/Prefabs/m2_h011.prefab	11032	11032	天王锤10·偏色2
+1033	Player/Doodads/weapons/Prefabs/m2_h011.prefab	Player/Doodads/weapons/Prefabs/m2_h011.prefab	11033	11033	天王锤10·偏色3
+1034	Player/Doodads/weapons/Prefabs/m2_h012.prefab	Player/Doodads/weapons/Prefabs/m2_h012.prefab	11034	11034	天王锤11·偏色1
+1035	Player/Doodads/weapons/Prefabs/m2_h012.prefab	Player/Doodads/weapons/Prefabs/m2_h012.prefab	11035	11035	天王锤11·偏色2
+1036	Player/Doodads/weapons/Prefabs/m2_h012.prefab	Player/Doodads/weapons/Prefabs/m2_h012.prefab	11036	11036	天王锤11·偏色3
+1101		Player/Doodads/weapons/Prefabs/f2_s001.prefab		11101	峨眉出生剑·偏色1
+1102		Player/Doodads/weapons/Prefabs/f2_s001.prefab		11102	峨眉出生剑·偏色2
+1103		Player/Doodads/weapons/Prefabs/f2_s001.prefab		11103	峨眉出生剑·偏色3
+1104		Player/Doodads/weapons/Prefabs/f2_s002.prefab		11104	峨眉剑1·偏色1
+1105		Player/Doodads/weapons/Prefabs/f2_s002.prefab		11105	峨眉剑1·偏色2
+1106		Player/Doodads/weapons/Prefabs/f2_s002.prefab		11106	峨眉剑1·偏色3
+1107		Player/Doodads/weapons/Prefabs/f2_s003.prefab		11107	峨眉剑2·偏色1
+1108		Player/Doodads/weapons/Prefabs/f2_s003.prefab		11108	峨眉剑2·偏色2
+1109		Player/Doodads/weapons/Prefabs/f2_s003.prefab		11109	峨眉剑2·偏色3
+1110		Player/Doodads/weapons/Prefabs/f2_s006.prefab		11110	峨眉剑3·偏色1
+1111		Player/Doodads/weapons/Prefabs/f2_s006.prefab		11111	峨眉剑3·偏色2
+1112		Player/Doodads/weapons/Prefabs/f2_s006.prefab		11112	峨眉剑3·偏色3
+1113		Player/Doodads/weapons/Prefabs/f2_s004.prefab		11113	峨眉剑4·偏色1
+1114		Player/Doodads/weapons/Prefabs/f2_s004.prefab		11114	峨眉剑4·偏色2
+1115		Player/Doodads/weapons/Prefabs/f2_s004.prefab		11115	峨眉剑4·偏色3
+1116		Player/Doodads/weapons/Prefabs/f2_s005.prefab		11116	峨眉剑5·偏色1
+1117		Player/Doodads/weapons/Prefabs/f2_s005.prefab		11117	峨眉剑5·偏色2
+1118		Player/Doodads/weapons/Prefabs/f2_s005.prefab		11118	峨眉剑5·偏色3
+1119		Player/Doodads/weapons/Prefabs/f2_s007.prefab		11119	峨眉剑6·偏色1
+1120		Player/Doodads/weapons/Prefabs/f2_s007.prefab		11120	峨眉剑6·偏色2
+1121		Player/Doodads/weapons/Prefabs/f2_s007.prefab		11121	峨眉剑6·偏色3
+1122		Player/Doodads/weapons/Prefabs/f2_s008.prefab		11122	峨眉剑7·偏色1
+1123		Player/Doodads/weapons/Prefabs/f2_s008.prefab		11123	峨眉剑7·偏色2
+1124		Player/Doodads/weapons/Prefabs/f2_s008.prefab		11124	峨眉剑7·偏色3
+1125		Player/Doodads/weapons/Prefabs/f2_s009.prefab		11125	峨眉剑8·偏色1
+1126		Player/Doodads/weapons/Prefabs/f2_s009.prefab		11126	峨眉剑8·偏色2
+1127		Player/Doodads/weapons/Prefabs/f2_s009.prefab		11127	峨眉剑8·偏色3
+1128		Player/Doodads/weapons/Prefabs/f2_s010.prefab		11128	峨眉剑9·偏色1
+1129		Player/Doodads/weapons/Prefabs/f2_s010.prefab		11129	峨眉剑9·偏色2
+1130		Player/Doodads/weapons/Prefabs/f2_s010.prefab		11130	峨眉剑9·偏色3
+1131		Player/Doodads/weapons/Prefabs/f2_s011.prefab		11131	峨眉剑10·偏色1
+1132		Player/Doodads/weapons/Prefabs/f2_s011.prefab		11132	峨眉剑10·偏色2
+1133		Player/Doodads/weapons/Prefabs/f2_s011.prefab		11133	峨眉剑10·偏色3
+1134		Player/Doodads/weapons/Prefabs/f2_s012.prefab		11134	峨眉剑11·偏色1
+1135		Player/Doodads/weapons/Prefabs/f2_s012.prefab		11135	峨眉剑11·偏色2
+1136		Player/Doodads/weapons/Prefabs/f2_s012.prefab		11136	峨眉剑11·偏色3
+1201	Player/Doodads/weapons/Prefabs/f1_a001.prefab		11201		桃花出生弓·偏色1
+1202	Player/Doodads/weapons/Prefabs/f1_a001.prefab		11202		桃花出生弓·偏色2
+1203	Player/Doodads/weapons/Prefabs/f1_a001.prefab		11203		桃花出生弓·偏色3
+1204	Player/Doodads/weapons/Prefabs/f1_a004.prefab		11204		桃花弓1·偏色1
+1205	Player/Doodads/weapons/Prefabs/f1_a004.prefab		11205		桃花弓1·偏色2
+1206	Player/Doodads/weapons/Prefabs/f1_a004.prefab		11206		桃花弓1·偏色3
+1207	Player/Doodads/weapons/Prefabs/f1_a002.prefab		11207		桃花弓2·偏色1
+1208	Player/Doodads/weapons/Prefabs/f1_a002.prefab		11208		桃花弓2·偏色2
+1209	Player/Doodads/weapons/Prefabs/f1_a002.prefab		11209		桃花弓2·偏色3
+1210	Player/Doodads/weapons/Prefabs/f1_a003.prefab		11210		桃花弓3·偏色1
+1211	Player/Doodads/weapons/Prefabs/f1_a003.prefab		11211		桃花弓3·偏色2
+1212	Player/Doodads/weapons/Prefabs/f1_a003.prefab		11212		桃花弓3·偏色3
+1213	Player/Doodads/weapons/Prefabs/f1_a005.prefab		11213		桃花弓4·偏色1
+1214	Player/Doodads/weapons/Prefabs/f1_a005.prefab		11214		桃花弓4·偏色2
+1215	Player/Doodads/weapons/Prefabs/f1_a005.prefab		11215		桃花弓4·偏色3
+1216	Player/Doodads/weapons/Prefabs/f1_a006.prefab		11216		桃花弓5·偏色1
+1217	Player/Doodads/weapons/Prefabs/f1_a006.prefab		11217		桃花弓5·偏色2
+1218	Player/Doodads/weapons/Prefabs/f1_a006.prefab		11218		桃花弓5·偏色3
+1219	Player/Doodads/weapons/Prefabs/f1_a007.prefab		11219		桃花弓6·偏色1
+1220	Player/Doodads/weapons/Prefabs/f1_a007.prefab		11220		桃花弓6·偏色2
+1221	Player/Doodads/weapons/Prefabs/f1_a007.prefab		11221		桃花弓6·偏色3
+1222	Player/Doodads/weapons/Prefabs/f1_a008.prefab		11222		桃花弓7·偏色1
+1223	Player/Doodads/weapons/Prefabs/f1_a008.prefab		11223		桃花弓7·偏色2
+1224	Player/Doodads/weapons/Prefabs/f1_a008.prefab		11224		桃花弓7·偏色3
+1225	Player/Doodads/weapons/Prefabs/f1_a009.prefab		11225		桃花弓8·偏色1
+1226	Player/Doodads/weapons/Prefabs/f1_a009.prefab		11226		桃花弓8·偏色2
+1227	Player/Doodads/weapons/Prefabs/f1_a009.prefab		11227		桃花弓8·偏色3
+1228	Player/Doodads/weapons/Prefabs/f1_a010.prefab		11228		桃花弓9·偏色1
+1229	Player/Doodads/weapons/Prefabs/f1_a010.prefab		11229		桃花弓9·偏色2
+1230	Player/Doodads/weapons/Prefabs/f1_a010.prefab		11230		桃花弓9·偏色3
+1231	Player/Doodads/weapons/Prefabs/f1_a011.prefab		11231		桃花弓10·偏色1
+1232	Player/Doodads/weapons/Prefabs/f1_a011.prefab		11232		桃花弓10·偏色2
+1233	Player/Doodads/weapons/Prefabs/f1_a011.prefab		11233		桃花弓10·偏色3
+1234	Player/Doodads/weapons/Prefabs/f1_a012.prefab		11234		桃花弓11·偏色1
+1235	Player/Doodads/weapons/Prefabs/f1_a012.prefab		11235		桃花弓11·偏色2
+1236	Player/Doodads/weapons/Prefabs/f1_a012.prefab		11236		桃花弓11·偏色3
+1301		Player/Doodads/weapons/Prefabs/m1_l001.prefab		11301	逍遥出生枪·偏色1
+1302		Player/Doodads/weapons/Prefabs/m1_l001.prefab		11302	逍遥出生枪·偏色2
+1303		Player/Doodads/weapons/Prefabs/m1_l001.prefab		11303	逍遥出生枪·偏色3
+1304		Player/Doodads/weapons/Prefabs/m1_l002.prefab		11304	逍遥枪1·偏色1
+1305		Player/Doodads/weapons/Prefabs/m1_l002.prefab		11305	逍遥枪1·偏色2
+1306		Player/Doodads/weapons/Prefabs/m1_l002.prefab		11306	逍遥枪1·偏色3
+1307		Player/Doodads/weapons/Prefabs/m1_l003.prefab		11307	逍遥枪2·偏色1
+1308		Player/Doodads/weapons/Prefabs/m1_l003.prefab		11308	逍遥枪2·偏色2
+1309		Player/Doodads/weapons/Prefabs/m1_l003.prefab		11309	逍遥枪2·偏色3
+1310		Player/Doodads/weapons/Prefabs/m1_l005.prefab		11310	逍遥枪3·偏色1
+1311		Player/Doodads/weapons/Prefabs/m1_l005.prefab		11311	逍遥枪3·偏色2
+1312		Player/Doodads/weapons/Prefabs/m1_l005.prefab		11312	逍遥枪3·偏色3
+1313		Player/Doodads/weapons/Prefabs/m1_l007.prefab		11313	逍遥枪4·偏色1
+1314		Player/Doodads/weapons/Prefabs/m1_l007.prefab		11314	逍遥枪4·偏色2
+1315		Player/Doodads/weapons/Prefabs/m1_l007.prefab		11315	逍遥枪4·偏色3
+1316		Player/Doodads/weapons/Prefabs/m1_l006.prefab		11316	逍遥枪5·偏色1
+1317		Player/Doodads/weapons/Prefabs/m1_l006.prefab		11317	逍遥枪5·偏色2
+1318		Player/Doodads/weapons/Prefabs/m1_l006.prefab		11318	逍遥枪5·偏色3
+1319		Player/Doodads/weapons/Prefabs/m1_l004.prefab		11319	逍遥枪6·偏色1
+1320		Player/Doodads/weapons/Prefabs/m1_l004.prefab		11320	逍遥枪6·偏色2
+1321		Player/Doodads/weapons/Prefabs/m1_l004.prefab		11321	逍遥枪6·偏色3
+1322		Player/Doodads/weapons/Prefabs/m1_l008.prefab		11322	逍遥枪7·偏色1
+1323		Player/Doodads/weapons/Prefabs/m1_l008.prefab		11323	逍遥枪7·偏色2
+1324		Player/Doodads/weapons/Prefabs/m1_l008.prefab		11324	逍遥枪7·偏色3
+1325		Player/Doodads/weapons/Prefabs/m1_l009.prefab		11325	逍遥枪8·偏色1
+1326		Player/Doodads/weapons/Prefabs/m1_l009.prefab		11326	逍遥枪8·偏色2
+1327		Player/Doodads/weapons/Prefabs/m1_l009.prefab		11327	逍遥枪8·偏色3
+1328		Player/Doodads/weapons/Prefabs/m1_l010.prefab		11328	逍遥枪9·偏色1
+1329		Player/Doodads/weapons/Prefabs/m1_l010.prefab		11329	逍遥枪9·偏色2
+1330		Player/Doodads/weapons/Prefabs/m1_l010.prefab		11330	逍遥枪9·偏色3
+1331		Player/Doodads/weapons/Prefabs/m1_l011.prefab		11331	逍遥枪10·偏色1
+1332		Player/Doodads/weapons/Prefabs/m1_l011.prefab		11332	逍遥枪10·偏色2
+1333		Player/Doodads/weapons/Prefabs/m1_l011.prefab		11333	逍遥枪10·偏色3
+1334		Player/Doodads/weapons/Prefabs/m1_l012.prefab		11334	逍遥枪11·偏色1
+1335		Player/Doodads/weapons/Prefabs/m1_l012.prefab		11335	逍遥枪11·偏色2
+1336		Player/Doodads/weapons/Prefabs/m1_l012.prefab		11336	逍遥枪11·偏色3
+1401	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	11401	11401	武当出生剑·偏色1
+1402	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	11402	11402	武当出生剑·偏色2
+1403	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	11403	11403	武当出生剑·偏色3
+1404	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	11404	11404	武当剑1·偏色1
+1405	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	11405	11405	武当剑1·偏色2
+1406	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	11406	11406	武当剑1·偏色3
+1407	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	11407	11407	武当剑2·偏色1
+1408	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	11408	11408	武当剑2·偏色2
+1409	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	11409	11409	武当剑2·偏色3
+1410	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	11410	11410	武当剑3·偏色1
+1411	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	11411	11411	武当剑3·偏色2
+1412	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	11412	11412	武当剑3·偏色3
+1413	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	11413	11413	武当剑4·偏色1
+1414	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	11414	11414	武当剑4·偏色2
+1415	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	11415	11415	武当剑4·偏色3
+1416	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	11416	11416	武当剑5·偏色1
+1417	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	11417	11417	武当剑5·偏色2
+1418	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	11418	11418	武当剑5·偏色3
+1419	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	11419	11419	武当剑6·偏色1
+1420	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	11420	11420	武当剑6·偏色2
+1421	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	11421	11421	武当剑6·偏色3
+1422	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	11422	11422	武当剑7·偏色1
+1423	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	11423	11423	武当剑7·偏色2
+1424	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	11424	11424	武当剑7·偏色3
+1425	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	11425	11425	武当剑8·偏色1
+1426	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	11426	11426	武当剑8·偏色2
+1427	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	11427	11427	武当剑8·偏色3
+1428	Player/Doodads/weapons/Prefabs/m3_s010_L.prefab	Player/Doodads/weapons/Prefabs/m3_s010_R.prefab	11428	11428	武当剑9·偏色1
+1429	Player/Doodads/weapons/Prefabs/m3_s010_L.prefab	Player/Doodads/weapons/Prefabs/m3_s010_R.prefab	11429	11429	武当剑9·偏色2
+1430	Player/Doodads/weapons/Prefabs/m3_s010_L.prefab	Player/Doodads/weapons/Prefabs/m3_s010_R.prefab	11430	11430	武当剑9·偏色3
+1431	Player/Doodads/weapons/Prefabs/m3_s011_L.prefab	Player/Doodads/weapons/Prefabs/m3_s011_R.prefab	11431	11431	武当剑10·偏色1
+1432	Player/Doodads/weapons/Prefabs/m3_s011_L.prefab	Player/Doodads/weapons/Prefabs/m3_s011_R.prefab	11432	11432	武当剑10·偏色2
+1433	Player/Doodads/weapons/Prefabs/m3_s011_L.prefab	Player/Doodads/weapons/Prefabs/m3_s011_R.prefab	11433	11433	武当剑10·偏色3
+1434	Player/Doodads/weapons/Prefabs/m3_s012_L.prefab	Player/Doodads/weapons/Prefabs/m3_s012_R.prefab	11434	11434	武当剑11·偏色1
+1435	Player/Doodads/weapons/Prefabs/m3_s012_L.prefab	Player/Doodads/weapons/Prefabs/m3_s012_R.prefab	11435	11435	武当剑11·偏色2
+1436	Player/Doodads/weapons/Prefabs/m3_s012_L.prefab	Player/Doodads/weapons/Prefabs/m3_s012_R.prefab	11436	11436	武当剑11·偏色3
+1501	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	11501	11501	天忍出生刺·偏色1
+1502	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	11502	11502	天忍出生刺·偏色2
+1503	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	11503	11503	天忍出生刺·偏色3
+1504	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	11504	11504	天忍刺1·偏色1
+1505	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	11505	11505	天忍刺1·偏色2
+1506	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	11506	11506	天忍刺1·偏色3
+1507	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	11507	11507	天忍刺2·偏色1
+1508	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	11508	11508	天忍刺2·偏色2
+1509	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	11509	11509	天忍刺2·偏色3
+1510	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	11510	11510	天忍刺3·偏色1
+1511	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	11511	11511	天忍刺3·偏色2
+1512	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	11512	11512	天忍刺3·偏色3
+1513	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	11513	11513	天忍刺4·偏色1
+1514	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	11514	11514	天忍刺4·偏色2
+1515	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	11515	11515	天忍刺4·偏色3
+1516	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	11516	11516	天忍刺5·偏色1
+1517	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	11517	11517	天忍刺5·偏色2
+1518	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	11518	11518	天忍刺5·偏色3
+1519	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	11519	11519	天忍刺6·偏色1
+1520	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	11520	11520	天忍刺6·偏色2
+1521	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	11521	11521	天忍刺6·偏色3
+1522	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	11522	11522	天忍刺7·偏色1
+1523	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	11523	11523	天忍刺7·偏色2
+1524	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	11524	11524	天忍刺7·偏色3
+1525	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	11525	11525	天忍刺8·偏色1
+1526	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	11526	11526	天忍刺8·偏色2
+1527	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	11527	11527	天忍刺8·偏色3
+1528	Player/Doodads/weapons/Prefabs/f3_d010_l.prefab	Player/Doodads/weapons/Prefabs/f3_d010_r.prefab	11528	11528	天忍刺9·偏色1
+1529	Player/Doodads/weapons/Prefabs/f3_d010_l.prefab	Player/Doodads/weapons/Prefabs/f3_d010_r.prefab	11529	11529	天忍刺9·偏色2
+1530	Player/Doodads/weapons/Prefabs/f3_d010_l.prefab	Player/Doodads/weapons/Prefabs/f3_d010_r.prefab	11530	11530	天忍刺9·偏色3
+1531	Player/Doodads/weapons/Prefabs/f3_d011_l.prefab	Player/Doodads/weapons/Prefabs/f3_d011_r.prefab	11531	11531	天忍刺10·偏色1
+1532	Player/Doodads/weapons/Prefabs/f3_d011_l.prefab	Player/Doodads/weapons/Prefabs/f3_d011_r.prefab	11532	11532	天忍刺10·偏色2
+1533	Player/Doodads/weapons/Prefabs/f3_d011_l.prefab	Player/Doodads/weapons/Prefabs/f3_d011_r.prefab	11533	11533	天忍刺10·偏色3
+1534	Player/Doodads/weapons/Prefabs/f3_d012_l.prefab	Player/Doodads/weapons/Prefabs/f3_d012_r.prefab	11534	11534	天忍刺11·偏色1
+1535	Player/Doodads/weapons/Prefabs/f3_d012_l.prefab	Player/Doodads/weapons/Prefabs/f3_d012_r.prefab	11535	11535	天忍刺11·偏色2
+1536	Player/Doodads/weapons/Prefabs/f3_d012_l.prefab	Player/Doodads/weapons/Prefabs/f3_d012_r.prefab	11536	11536	天忍刺11·偏色3
+1601		Player/Doodads/weapons/Prefabs/m4_w001.prefab		11601	少林出生棍·偏色1
+1602		Player/Doodads/weapons/Prefabs/m4_w001.prefab		11602	少林出生棍·偏色2
+1603		Player/Doodads/weapons/Prefabs/m4_w001.prefab		11603	少林出生棍·偏色3
+1604		Player/Doodads/weapons/Prefabs/m4_w002.prefab		11604	少林棍1·偏色1
+1605		Player/Doodads/weapons/Prefabs/m4_w002.prefab		11605	少林棍1·偏色2
+1606		Player/Doodads/weapons/Prefabs/m4_w002.prefab		11606	少林棍1·偏色3
+1607		Player/Doodads/weapons/Prefabs/m4_w003.prefab		11607	少林棍2·偏色1
+1608		Player/Doodads/weapons/Prefabs/m4_w003.prefab		11608	少林棍2·偏色2
+1609		Player/Doodads/weapons/Prefabs/m4_w003.prefab		11609	少林棍2·偏色3
+1610		Player/Doodads/weapons/Prefabs/m4_w004.prefab		11610	少林棍3·偏色1
+1611		Player/Doodads/weapons/Prefabs/m4_w004.prefab		11611	少林棍3·偏色2
+1612		Player/Doodads/weapons/Prefabs/m4_w004.prefab		11612	少林棍3·偏色3
+1613		Player/Doodads/weapons/Prefabs/m4_w005.prefab		11613	少林棍4·偏色1
+1614		Player/Doodads/weapons/Prefabs/m4_w005.prefab		11614	少林棍4·偏色2
+1615		Player/Doodads/weapons/Prefabs/m4_w005.prefab		11615	少林棍4·偏色3
+1616		Player/Doodads/weapons/Prefabs/m4_w006.prefab		11616	少林棍5·偏色1
+1617		Player/Doodads/weapons/Prefabs/m4_w006.prefab		11617	少林棍5·偏色2
+1618		Player/Doodads/weapons/Prefabs/m4_w006.prefab		11618	少林棍5·偏色3
+1619		Player/Doodads/weapons/Prefabs/m4_w007.prefab		11619	少林棍6·偏色1
+1620		Player/Doodads/weapons/Prefabs/m4_w007.prefab		11620	少林棍6·偏色2
+1621		Player/Doodads/weapons/Prefabs/m4_w007.prefab		11621	少林棍6·偏色3
+1622		Player/Doodads/weapons/Prefabs/m4_w009.prefab		11622	少林棍7·偏色1
+1623		Player/Doodads/weapons/Prefabs/m4_w009.prefab		11623	少林棍7·偏色2
+1624		Player/Doodads/weapons/Prefabs/m4_w009.prefab		11624	少林棍7·偏色3
+1625		Player/Doodads/weapons/Prefabs/m4_w008.prefab		11625	少林棍8·偏色1
+1626		Player/Doodads/weapons/Prefabs/m4_w008.prefab		11626	少林棍8·偏色2
+1627		Player/Doodads/weapons/Prefabs/m4_w008.prefab		11627	少林棍8·偏色3
+1628		Player/Doodads/weapons/Prefabs/m4_w010.prefab		11628	少林棍9·偏色1
+1629		Player/Doodads/weapons/Prefabs/m4_w010.prefab		11629	少林棍9·偏色2
+1630		Player/Doodads/weapons/Prefabs/m4_w010.prefab		11630	少林棍9·偏色3
+1631		Player/Doodads/weapons/Prefabs/m4_w011.prefab		11631	少林棍10·偏色1
+1632		Player/Doodads/weapons/Prefabs/m4_w011.prefab		11632	少林棍10·偏色2
+1633		Player/Doodads/weapons/Prefabs/m4_w011.prefab		11633	少林棍10·偏色3
+1634		Player/Doodads/weapons/Prefabs/m4_w012.prefab		11634	少林棍11·偏色1
+1635		Player/Doodads/weapons/Prefabs/m4_w012.prefab		11635	少林棍11·偏色2
+1636		Player/Doodads/weapons/Prefabs/m4_w012.prefab		11636	少林棍11·偏色3
+1701		Player/Doodads/weapons/Prefabs/f4_k001.prefab		11701	翠烟出生伞·偏色1
+1702		Player/Doodads/weapons/Prefabs/f4_k001.prefab		11702	翠烟出生伞·偏色2
+1703		Player/Doodads/weapons/Prefabs/f4_k001.prefab		11703	翠烟出生伞·偏色3
+1704		Player/Doodads/weapons/Prefabs/f4_k005.prefab		11704	翠烟伞1·偏色1
+1705		Player/Doodads/weapons/Prefabs/f4_k005.prefab		11705	翠烟伞1·偏色2
+1706		Player/Doodads/weapons/Prefabs/f4_k005.prefab		11706	翠烟伞1·偏色3
+1707		Player/Doodads/weapons/Prefabs/f4_k006.prefab		11707	翠烟伞2·偏色1
+1708		Player/Doodads/weapons/Prefabs/f4_k006.prefab		11708	翠烟伞2·偏色2
+1709		Player/Doodads/weapons/Prefabs/f4_k006.prefab		11709	翠烟伞2·偏色3
+1710		Player/Doodads/weapons/Prefabs/f4_k002.prefab		11710	翠烟伞3·偏色1
+1711		Player/Doodads/weapons/Prefabs/f4_k002.prefab		11711	翠烟伞3·偏色2
+1712		Player/Doodads/weapons/Prefabs/f4_k002.prefab		11712	翠烟伞3·偏色3
+1713		Player/Doodads/weapons/Prefabs/f4_k003.prefab		11713	翠烟伞4·偏色1
+1714		Player/Doodads/weapons/Prefabs/f4_k003.prefab		11714	翠烟伞4·偏色2
+1715		Player/Doodads/weapons/Prefabs/f4_k003.prefab		11715	翠烟伞4·偏色3
+1716		Player/Doodads/weapons/Prefabs/f4_k004.prefab		11716	翠烟伞5·偏色1
+1717		Player/Doodads/weapons/Prefabs/f4_k004.prefab		11717	翠烟伞5·偏色2
+1718		Player/Doodads/weapons/Prefabs/f4_k004.prefab		11718	翠烟伞5·偏色3
+1719		Player/Doodads/weapons/Prefabs/f4_k007.prefab		11719	翠烟伞6·偏色1
+1720		Player/Doodads/weapons/Prefabs/f4_k007.prefab		11720	翠烟伞6·偏色2
+1721		Player/Doodads/weapons/Prefabs/f4_k007.prefab		11721	翠烟伞6·偏色3
+1722		Player/Doodads/weapons/Prefabs/f4_k008.prefab		11722	翠烟伞7·偏色1
+1723		Player/Doodads/weapons/Prefabs/f4_k008.prefab		11723	翠烟伞7·偏色2
+1724		Player/Doodads/weapons/Prefabs/f4_k008.prefab		11724	翠烟伞7·偏色3
+1725		Player/Doodads/weapons/Prefabs/f4_k009.prefab		11725	翠烟伞8·偏色1
+1726		Player/Doodads/weapons/Prefabs/f4_k009.prefab		11726	翠烟伞8·偏色2
+1727		Player/Doodads/weapons/Prefabs/f4_k009.prefab		11727	翠烟伞8·偏色3
+1728		Player/Doodads/weapons/Prefabs/f4_k010.prefab		11728	翠烟伞9·偏色1
+1729		Player/Doodads/weapons/Prefabs/f4_k010.prefab		11729	翠烟伞9·偏色2
+1730		Player/Doodads/weapons/Prefabs/f4_k010.prefab		11730	翠烟伞9·偏色3
+1731		Player/Doodads/weapons/Prefabs/f4_k011.prefab		11731	翠烟伞10·偏色1
+1732		Player/Doodads/weapons/Prefabs/f4_k011.prefab		11732	翠烟伞10·偏色2
+1733		Player/Doodads/weapons/Prefabs/f4_k011.prefab		11733	翠烟伞10·偏色3
+1734		Player/Doodads/weapons/Prefabs/f4_k012.prefab		11734	翠烟伞11·偏色1
+1735		Player/Doodads/weapons/Prefabs/f4_k012.prefab		11735	翠烟伞11·偏色2
+1736		Player/Doodads/weapons/Prefabs/f4_k012.prefab		11736	翠烟伞11·偏色3
+1801	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	11801	11801	唐门出生弩·偏色1
+1802	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	11802	11802	唐门出生弩·偏色2
+1803	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	11803	11803	唐门出生弩·偏色3
+1804	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	11804	11804	唐门弩1·偏色1
+1805	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	11805	11805	唐门弩1·偏色2
+1806	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	11806	11806	唐门弩1·偏色3
+1807	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	11807	11807	唐门弩2·偏色1
+1808	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	11808	11808	唐门弩2·偏色2
+1809	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	11809	11809	唐门弩2·偏色3
+1810	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	11810	11810	唐门弩3·偏色1
+1811	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	11811	11811	唐门弩3·偏色2
+1812	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	11812	11812	唐门弩3·偏色3
+1813	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	11813	11813	唐门弩4·偏色1
+1814	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	11814	11814	唐门弩4·偏色2
+1815	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	11815	11815	唐门弩4·偏色3
+1816	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	11816	11816	唐门弩5·偏色1
+1817	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	11817	11817	唐门弩5·偏色2
+1818	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	11818	11818	唐门弩5·偏色3
+1819	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	11819	11819	唐门弩6·偏色1
+1820	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	11820	11820	唐门弩6·偏色2
+1821	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	11821	11821	唐门弩6·偏色3
+1822	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	11822	11822	唐门弩7·偏色1
+1823	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	11823	11823	唐门弩7·偏色2
+1824	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	11824	11824	唐门弩7·偏色3
+1825	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	11825	11825	唐门弩8·偏色1
+1826	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	11826	11826	唐门弩8·偏色2
+1827	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	11827	11827	唐门弩8·偏色3
+1828	Player/Doodads/weapons/Prefabs/m5_a010_l.prefab	Player/Doodads/weapons/Prefabs/m5_a010_r.prefab	11828	11828	唐门弩9·偏色1
+1829	Player/Doodads/weapons/Prefabs/m5_a010_l.prefab	Player/Doodads/weapons/Prefabs/m5_a010_r.prefab	11829	11829	唐门弩9·偏色2
+1830	Player/Doodads/weapons/Prefabs/m5_a010_l.prefab	Player/Doodads/weapons/Prefabs/m5_a010_r.prefab	11830	11830	唐门弩9·偏色3
+1831	Player/Doodads/weapons/Prefabs/m5_a011_l.prefab	Player/Doodads/weapons/Prefabs/m5_a011_r.prefab	11831	11831	唐门弩10·偏色1
+1832	Player/Doodads/weapons/Prefabs/m5_a011_l.prefab	Player/Doodads/weapons/Prefabs/m5_a011_r.prefab	11832	11832	唐门弩10·偏色2
+1833	Player/Doodads/weapons/Prefabs/m5_a011_l.prefab	Player/Doodads/weapons/Prefabs/m5_a011_r.prefab	11833	11833	唐门弩10·偏色3
+1834	Player/Doodads/weapons/Prefabs/m5_a012_l.prefab	Player/Doodads/weapons/Prefabs/m5_a012_r.prefab	11834	11834	唐门弩11·偏色1
+1835	Player/Doodads/weapons/Prefabs/m5_a012_l.prefab	Player/Doodads/weapons/Prefabs/m5_a012_r.prefab	11835	11835	唐门弩11·偏色2
+1836	Player/Doodads/weapons/Prefabs/m5_a012_l.prefab	Player/Doodads/weapons/Prefabs/m5_a012_r.prefab	11836	11836	唐门弩11·偏色3
+1901	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	11901	11901	昆仑出生剑·偏色1
+1902	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	11902	11902	昆仑出生剑·偏色2
+1903	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	11903	11903	昆仑出生剑·偏色3
+1904	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	11904	11904	昆仑剑1·偏色1
+1905	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	11905	11905	昆仑剑1·偏色2
+1906	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	11906	11906	昆仑剑1·偏色3
+1907	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	11907	11907	昆仑剑2·偏色1
+1908	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	11908	11908	昆仑剑2·偏色2
+1909	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	11909	11909	昆仑剑2·偏色3
+1910	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	11910	11910	昆仑剑3·偏色1
+1911	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	11911	11911	昆仑剑3·偏色2
+1912	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	11912	11912	昆仑剑3·偏色3
+1913	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	11913	11913	昆仑剑4·偏色1
+1914	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	11914	11914	昆仑剑4·偏色2
+1915	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	11915	11915	昆仑剑4·偏色3
+1916	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	11916	11916	昆仑剑5·偏色1
+1917	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	11917	11917	昆仑剑5·偏色2
+1918	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	11918	11918	昆仑剑5·偏色3
+1919	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	11919	11919	昆仑剑6·偏色1
+1920	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	11920	11920	昆仑剑6·偏色2
+1921	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	11921	11921	昆仑剑6·偏色3
+1922	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	11922	11922	昆仑剑7·偏色1
+1923	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	11923	11923	昆仑剑7·偏色2
+1924	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	11924	11924	昆仑剑7·偏色3
+1925	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	11925	11925	昆仑剑8·偏色1
+1926	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	11926	11926	昆仑剑8·偏色2
+1927	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	11927	11927	昆仑剑8·偏色3
+1928	Player/Doodads/weapons/Prefabs/f5_s010_l.prefab	Player/Doodads/weapons/Prefabs/f5_s010_r.prefab	11928	11928	昆仑剑9·偏色1
+1929	Player/Doodads/weapons/Prefabs/f5_s010_l.prefab	Player/Doodads/weapons/Prefabs/f5_s010_r.prefab	11929	11929	昆仑剑9·偏色2
+1930	Player/Doodads/weapons/Prefabs/f5_s010_l.prefab	Player/Doodads/weapons/Prefabs/f5_s010_r.prefab	11930	11930	昆仑剑9·偏色3
+1931	Player/Doodads/weapons/Prefabs/f5_s011_l.prefab	Player/Doodads/weapons/Prefabs/f5_s011_r.prefab	11931	11931	昆仑剑10·偏色1
+1932	Player/Doodads/weapons/Prefabs/f5_s011_l.prefab	Player/Doodads/weapons/Prefabs/f5_s011_r.prefab	11932	11932	昆仑剑10·偏色2
+1933	Player/Doodads/weapons/Prefabs/f5_s011_l.prefab	Player/Doodads/weapons/Prefabs/f5_s011_r.prefab	11933	11933	昆仑剑10·偏色3
+1934	Player/Doodads/weapons/Prefabs/f5_s012_l.prefab	Player/Doodads/weapons/Prefabs/f5_s012_r.prefab	11934	11934	昆仑剑11·偏色1
+1935	Player/Doodads/weapons/Prefabs/f5_s012_l.prefab	Player/Doodads/weapons/Prefabs/f5_s012_r.prefab	11935	11935	昆仑剑11·偏色2
+1936	Player/Doodads/weapons/Prefabs/f5_s012_l.prefab	Player/Doodads/weapons/Prefabs/f5_s012_r.prefab	11936	11936	昆仑剑11·偏色3
+2001		Player/Doodads/weapons/Prefabs/m6_h001.prefab		12001	丐帮出生棍·偏色1
+2002		Player/Doodads/weapons/Prefabs/m6_h001.prefab		12002	丐帮出生棍·偏色2
+2003		Player/Doodads/weapons/Prefabs/m6_h001.prefab		12003	丐帮出生棍·偏色3
+2004		Player/Doodads/weapons/Prefabs/m6_h002.prefab		12004	丐帮棍1·偏色1
+2005		Player/Doodads/weapons/Prefabs/m6_h002.prefab		12005	丐帮棍1·偏色2
+2006		Player/Doodads/weapons/Prefabs/m6_h002.prefab		12006	丐帮棍1·偏色3
+2007		Player/Doodads/weapons/Prefabs/m6_h003.prefab		12007	丐帮棍2·偏色1
+2008		Player/Doodads/weapons/Prefabs/m6_h003.prefab		12008	丐帮棍2·偏色2
+2009		Player/Doodads/weapons/Prefabs/m6_h003.prefab		12009	丐帮棍2·偏色3
+2010		Player/Doodads/weapons/Prefabs/m6_h004.prefab		12010	丐帮棍3·偏色1
+2011		Player/Doodads/weapons/Prefabs/m6_h004.prefab		12011	丐帮棍3·偏色2
+2012		Player/Doodads/weapons/Prefabs/m6_h004.prefab		12012	丐帮棍3·偏色3
+2013		Player/Doodads/weapons/Prefabs/m6_h005.prefab		12013	丐帮棍4·偏色1
+2014		Player/Doodads/weapons/Prefabs/m6_h005.prefab		12014	丐帮棍4·偏色2
+2015		Player/Doodads/weapons/Prefabs/m6_h005.prefab		12015	丐帮棍4·偏色3
+2016		Player/Doodads/weapons/Prefabs/m6_h006.prefab		12016	丐帮棍5·偏色1
+2017		Player/Doodads/weapons/Prefabs/m6_h006.prefab		12017	丐帮棍5·偏色2
+2018		Player/Doodads/weapons/Prefabs/m6_h006.prefab		12018	丐帮棍5·偏色3
+2019		Player/Doodads/weapons/Prefabs/m6_h007.prefab		12019	丐帮棍6·偏色1
+2020		Player/Doodads/weapons/Prefabs/m6_h007.prefab		12020	丐帮棍6·偏色2
+2021		Player/Doodads/weapons/Prefabs/m6_h007.prefab		12021	丐帮棍6·偏色3
+2022		Player/Doodads/weapons/Prefabs/m6_h008.prefab		12022	丐帮棍7·偏色1
+2023		Player/Doodads/weapons/Prefabs/m6_h008.prefab		12023	丐帮棍7·偏色2
+2024		Player/Doodads/weapons/Prefabs/m6_h008.prefab		12024	丐帮棍7·偏色3
+2025		Player/Doodads/weapons/Prefabs/m6_h009.prefab		12025	丐帮棍8·偏色1
+2026		Player/Doodads/weapons/Prefabs/m6_h009.prefab		12026	丐帮棍8·偏色2
+2027		Player/Doodads/weapons/Prefabs/m6_h009.prefab		12027	丐帮棍8·偏色3
+2028		Player/Doodads/weapons/Prefabs/m6_h010.prefab		12028	丐帮棍9·偏色1
+2029		Player/Doodads/weapons/Prefabs/m6_h010.prefab		12029	丐帮棍9·偏色2
+2030		Player/Doodads/weapons/Prefabs/m6_h010.prefab		12030	丐帮棍9·偏色3
+2031		Player/Doodads/weapons/Prefabs/m6_h011.prefab		12031	丐帮棍10·偏色1
+2032		Player/Doodads/weapons/Prefabs/m6_h011.prefab		12032	丐帮棍10·偏色2
+2033		Player/Doodads/weapons/Prefabs/m6_h011.prefab		12033	丐帮棍10·偏色3
+2034		Player/Doodads/weapons/Prefabs/m6_h012.prefab		12034	丐帮棍11·偏色1
+2035		Player/Doodads/weapons/Prefabs/m6_h012.prefab		12035	丐帮棍11·偏色2
+2036		Player/Doodads/weapons/Prefabs/m6_h012.prefab		12036	丐帮棍11·偏色3
+2101		Player/Doodads/weapons/Prefabs/f6_h001.prefab		12101	五毒出生笛·偏色1
+2102		Player/Doodads/weapons/Prefabs/f6_h001.prefab		12102	五毒出生笛·偏色2
+2103		Player/Doodads/weapons/Prefabs/f6_h001.prefab		12103	五毒出生笛·偏色3
+2104		Player/Doodads/weapons/Prefabs/f6_h002.prefab		12104	五毒笛1·偏色1
+2105		Player/Doodads/weapons/Prefabs/f6_h002.prefab		12105	五毒笛1·偏色2
+2106		Player/Doodads/weapons/Prefabs/f6_h002.prefab		12106	五毒笛1·偏色3
+2107		Player/Doodads/weapons/Prefabs/f6_h003.prefab		12107	五毒笛2·偏色1
+2108		Player/Doodads/weapons/Prefabs/f6_h003.prefab		12108	五毒笛2·偏色2
+2109		Player/Doodads/weapons/Prefabs/f6_h003.prefab		12109	五毒笛2·偏色3
+2110		Player/Doodads/weapons/Prefabs/f6_h004.prefab		12110	五毒笛3·偏色1
+2111		Player/Doodads/weapons/Prefabs/f6_h004.prefab		12111	五毒笛3·偏色2
+2112		Player/Doodads/weapons/Prefabs/f6_h004.prefab		12112	五毒笛3·偏色3
+2113		Player/Doodads/weapons/Prefabs/f6_h005.prefab		12113	五毒笛4·偏色1
+2114		Player/Doodads/weapons/Prefabs/f6_h005.prefab		12114	五毒笛4·偏色2
+2115		Player/Doodads/weapons/Prefabs/f6_h005.prefab		12115	五毒笛4·偏色3
+2116		Player/Doodads/weapons/Prefabs/f6_h006.prefab		12116	五毒笛5·偏色1
+2117		Player/Doodads/weapons/Prefabs/f6_h006.prefab		12117	五毒笛5·偏色2
+2118		Player/Doodads/weapons/Prefabs/f6_h006.prefab		12118	五毒笛5·偏色3
+2119		Player/Doodads/weapons/Prefabs/f6_h007.prefab		12119	五毒笛6·偏色1
+2120		Player/Doodads/weapons/Prefabs/f6_h007.prefab		12120	五毒笛6·偏色2
+2121		Player/Doodads/weapons/Prefabs/f6_h007.prefab		12121	五毒笛6·偏色3
+2122		Player/Doodads/weapons/Prefabs/f6_h008.prefab		12122	五毒笛7·偏色1
+2123		Player/Doodads/weapons/Prefabs/f6_h008.prefab		12123	五毒笛7·偏色2
+2124		Player/Doodads/weapons/Prefabs/f6_h008.prefab		12124	五毒笛7·偏色3
+2125		Player/Doodads/weapons/Prefabs/f6_h009.prefab		12125	五毒笛8·偏色1
+2126		Player/Doodads/weapons/Prefabs/f6_h009.prefab		12126	五毒笛8·偏色2
+2127		Player/Doodads/weapons/Prefabs/f6_h009.prefab		12127	五毒笛8·偏色3
+2128		Player/Doodads/weapons/Prefabs/f6_h010.prefab		12128	五毒笛9·偏色1
+2129		Player/Doodads/weapons/Prefabs/f6_h010.prefab		12129	五毒笛9·偏色2
+2130		Player/Doodads/weapons/Prefabs/f6_h010.prefab		12130	五毒笛9·偏色3
+2131		Player/Doodads/weapons/Prefabs/f6_h011.prefab		12131	五毒笛10·偏色1
+2132		Player/Doodads/weapons/Prefabs/f6_h011.prefab		12132	五毒笛10·偏色2
+2133		Player/Doodads/weapons/Prefabs/f6_h011.prefab		12133	五毒笛10·偏色3
+2134		Player/Doodads/weapons/Prefabs/f6_h012.prefab		12134	五毒笛11·偏色1
+2135		Player/Doodads/weapons/Prefabs/f6_h012.prefab		12135	五毒笛11·偏色2
+2136		Player/Doodads/weapons/Prefabs/f6_h012.prefab		12136	五毒笛11·偏色3
+2201	Player/Doodads/weapons/Prefabs/m7_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_s001_r.prefab	12201	12201	藏剑出生武器·偏色1
+2202	Player/Doodads/weapons/Prefabs/m7_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_s001_r.prefab	12202	12202	藏剑出生武器·偏色2
+2203	Player/Doodads/weapons/Prefabs/m7_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_s001_r.prefab	12203	12203	藏剑出生武器·偏色3
+2204	Player/Doodads/weapons/Prefabs/m7_s002_l.prefab	Player/Doodads/weapons/Prefabs/m7_s002_r.prefab	12204	12204	藏剑武器1·偏色1
+2205	Player/Doodads/weapons/Prefabs/m7_s002_l.prefab	Player/Doodads/weapons/Prefabs/m7_s002_r.prefab	12205	12205	藏剑武器1·偏色2
+2206	Player/Doodads/weapons/Prefabs/m7_s002_l.prefab	Player/Doodads/weapons/Prefabs/m7_s002_r.prefab	12206	12206	藏剑武器1·偏色3
+2207	Player/Doodads/weapons/Prefabs/m7_s003_l.prefab	Player/Doodads/weapons/Prefabs/m7_s003_r.prefab	12207	12207	藏剑武器2·偏色1
+2208	Player/Doodads/weapons/Prefabs/m7_s003_l.prefab	Player/Doodads/weapons/Prefabs/m7_s003_r.prefab	12208	12208	藏剑武器2·偏色2
+2209	Player/Doodads/weapons/Prefabs/m7_s003_l.prefab	Player/Doodads/weapons/Prefabs/m7_s003_r.prefab	12209	12209	藏剑武器2·偏色3
+2210	Player/Doodads/weapons/Prefabs/m7_s004_l.prefab	Player/Doodads/weapons/Prefabs/m7_s004_r.prefab	12210	12210	藏剑武器3·偏色1
+2211	Player/Doodads/weapons/Prefabs/m7_s004_l.prefab	Player/Doodads/weapons/Prefabs/m7_s004_r.prefab	12211	12211	藏剑武器3·偏色2
+2212	Player/Doodads/weapons/Prefabs/m7_s004_l.prefab	Player/Doodads/weapons/Prefabs/m7_s004_r.prefab	12212	12212	藏剑武器3·偏色3
+2213	Player/Doodads/weapons/Prefabs/m7_s005_l.prefab	Player/Doodads/weapons/Prefabs/m7_s005_r.prefab	12213	12213	藏剑武器4·偏色1
+2214	Player/Doodads/weapons/Prefabs/m7_s005_l.prefab	Player/Doodads/weapons/Prefabs/m7_s005_r.prefab	12214	12214	藏剑武器4·偏色2
+2215	Player/Doodads/weapons/Prefabs/m7_s005_l.prefab	Player/Doodads/weapons/Prefabs/m7_s005_r.prefab	12215	12215	藏剑武器4·偏色3
+2216	Player/Doodads/weapons/Prefabs/m7_s006_l.prefab	Player/Doodads/weapons/Prefabs/m7_s006_r.prefab	12216	12216	藏剑武器5·偏色1
+2217	Player/Doodads/weapons/Prefabs/m7_s006_l.prefab	Player/Doodads/weapons/Prefabs/m7_s006_r.prefab	12217	12217	藏剑武器5·偏色2
+2218	Player/Doodads/weapons/Prefabs/m7_s006_l.prefab	Player/Doodads/weapons/Prefabs/m7_s006_r.prefab	12218	12218	藏剑武器5·偏色3
+2219	Player/Doodads/weapons/Prefabs/m7_s007_l.prefab	Player/Doodads/weapons/Prefabs/m7_s007_r.prefab	12219	12219	藏剑武器6·偏色1
+2220	Player/Doodads/weapons/Prefabs/m7_s007_l.prefab	Player/Doodads/weapons/Prefabs/m7_s007_r.prefab	12220	12220	藏剑武器6·偏色2
+2221	Player/Doodads/weapons/Prefabs/m7_s007_l.prefab	Player/Doodads/weapons/Prefabs/m7_s007_r.prefab	12221	12221	藏剑武器6·偏色3
+2222	Player/Doodads/weapons/Prefabs/m7_s008_l.prefab	Player/Doodads/weapons/Prefabs/m7_s008_r.prefab	12222	12222	藏剑武器7·偏色1
+2223	Player/Doodads/weapons/Prefabs/m7_s008_l.prefab	Player/Doodads/weapons/Prefabs/m7_s008_r.prefab	12223	12223	藏剑武器7·偏色2
+2224	Player/Doodads/weapons/Prefabs/m7_s008_l.prefab	Player/Doodads/weapons/Prefabs/m7_s008_r.prefab	12224	12224	藏剑武器7·偏色3
+2225	Player/Doodads/weapons/Prefabs/m7_s009_l.prefab	Player/Doodads/weapons/Prefabs/m7_s009_r.prefab	12225	12225	藏剑武器8·偏色1
+2226	Player/Doodads/weapons/Prefabs/m7_s009_l.prefab	Player/Doodads/weapons/Prefabs/m7_s009_r.prefab	12226	12226	藏剑武器8·偏色2
+2227	Player/Doodads/weapons/Prefabs/m7_s009_l.prefab	Player/Doodads/weapons/Prefabs/m7_s009_r.prefab	12227	12227	藏剑武器8·偏色3
+2228	Player/Doodads/weapons/Prefabs/m7_s010_l.prefab	Player/Doodads/weapons/Prefabs/m7_s010_r.prefab	12228	12228	藏剑武器9·偏色1
+2229	Player/Doodads/weapons/Prefabs/m7_s010_l.prefab	Player/Doodads/weapons/Prefabs/m7_s010_r.prefab	12229	12229	藏剑武器9·偏色2
+2230	Player/Doodads/weapons/Prefabs/m7_s010_l.prefab	Player/Doodads/weapons/Prefabs/m7_s010_r.prefab	12230	12230	藏剑武器9·偏色3
+2231	Player/Doodads/weapons/Prefabs/m7_s011_l.prefab	Player/Doodads/weapons/Prefabs/m7_s011_r.prefab	12231	12231	藏剑武器10·偏色1
+2232	Player/Doodads/weapons/Prefabs/m7_s011_l.prefab	Player/Doodads/weapons/Prefabs/m7_s011_r.prefab	12232	12232	藏剑武器10·偏色2
+2233	Player/Doodads/weapons/Prefabs/m7_s011_l.prefab	Player/Doodads/weapons/Prefabs/m7_s011_r.prefab	12233	12233	藏剑武器10·偏色3
+2234	Player/Doodads/weapons/Prefabs/m7_s012_l.prefab	Player/Doodads/weapons/Prefabs/m7_s012_r.prefab	12234	12234	藏剑武器11·偏色1
+2235	Player/Doodads/weapons/Prefabs/m7_s012_l.prefab	Player/Doodads/weapons/Prefabs/m7_s012_r.prefab	12235	12235	藏剑武器11·偏色2
+2236	Player/Doodads/weapons/Prefabs/m7_s012_l.prefab	Player/Doodads/weapons/Prefabs/m7_s012_r.prefab	12236	12236	藏剑武器11·偏色3
+2301		Player/Doodads/weapons/Prefabs/f7_s001.prefab		12301	长歌出生武器·偏色1
+2302		Player/Doodads/weapons/Prefabs/f7_s001.prefab		12302	长歌出生武器·偏色2
+2303		Player/Doodads/weapons/Prefabs/f7_s001.prefab		12303	长歌出生武器·偏色3
+2304		Player/Doodads/weapons/Prefabs/f7_s002.prefab		12304	长歌武器1·偏色1
+2305		Player/Doodads/weapons/Prefabs/f7_s002.prefab		12305	长歌武器1·偏色2
+2306		Player/Doodads/weapons/Prefabs/f7_s002.prefab		12306	长歌武器1·偏色3
+2307		Player/Doodads/weapons/Prefabs/f7_s003.prefab		12307	长歌武器2·偏色1
+2308		Player/Doodads/weapons/Prefabs/f7_s003.prefab		12308	长歌武器2·偏色2
+2309		Player/Doodads/weapons/Prefabs/f7_s003.prefab		12309	长歌武器2·偏色3
+2310		Player/Doodads/weapons/Prefabs/f7_s004.prefab		12310	长歌武器3·偏色1
+2311		Player/Doodads/weapons/Prefabs/f7_s004.prefab		12311	长歌武器3·偏色2
+2312		Player/Doodads/weapons/Prefabs/f7_s004.prefab		12312	长歌武器3·偏色3
+2313		Player/Doodads/weapons/Prefabs/f7_s005.prefab		12313	长歌武器4·偏色1
+2314		Player/Doodads/weapons/Prefabs/f7_s005.prefab		12314	长歌武器4·偏色2
+2315		Player/Doodads/weapons/Prefabs/f7_s005.prefab		12315	长歌武器4·偏色3
+2316		Player/Doodads/weapons/Prefabs/f7_s006.prefab		12316	长歌武器5·偏色1
+2317		Player/Doodads/weapons/Prefabs/f7_s006.prefab		12317	长歌武器5·偏色2
+2318		Player/Doodads/weapons/Prefabs/f7_s006.prefab		12318	长歌武器5·偏色3
+2319		Player/Doodads/weapons/Prefabs/f7_s007.prefab		12319	长歌武器6·偏色1
+2320		Player/Doodads/weapons/Prefabs/f7_s007.prefab		12320	长歌武器6·偏色2
+2321		Player/Doodads/weapons/Prefabs/f7_s007.prefab		12321	长歌武器6·偏色3
+2322		Player/Doodads/weapons/Prefabs/f7_s008.prefab		12322	长歌武器7·偏色1
+2323		Player/Doodads/weapons/Prefabs/f7_s008.prefab		12323	长歌武器7·偏色2
+2324		Player/Doodads/weapons/Prefabs/f7_s008.prefab		12324	长歌武器7·偏色3
+2325		Player/Doodads/weapons/Prefabs/f7_s009.prefab		12325	长歌武器8·偏色1
+2326		Player/Doodads/weapons/Prefabs/f7_s009.prefab		12326	长歌武器8·偏色2
+2327		Player/Doodads/weapons/Prefabs/f7_s009.prefab		12327	长歌武器8·偏色3
+2328		Player/Doodads/weapons/Prefabs/f7_s010.prefab		12328	长歌武器9·偏色1
+2329		Player/Doodads/weapons/Prefabs/f7_s010.prefab		12329	长歌武器9·偏色2
+2330		Player/Doodads/weapons/Prefabs/f7_s010.prefab		12330	长歌武器9·偏色3
+2331		Player/Doodads/weapons/Prefabs/f7_s011.prefab		12331	长歌武器10·偏色1
+2332		Player/Doodads/weapons/Prefabs/f7_s011.prefab		12332	长歌武器10·偏色2
+2333		Player/Doodads/weapons/Prefabs/f7_s011.prefab		12333	长歌武器10·偏色3
+2334		Player/Doodads/weapons/Prefabs/f7_s012.prefab		12334	长歌武器11·偏色1
+2335		Player/Doodads/weapons/Prefabs/f7_s012.prefab		12335	长歌武器11·偏色2
+2336		Player/Doodads/weapons/Prefabs/f7_s012.prefab		12336	长歌武器11·偏色3
+2401	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12401	12401	15门派出生武器·偏色1
+2402	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12402	12402	15门派出生武器·偏色2
+2403	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12403	12403	15门派出生武器·偏色3
+2404	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	12404	12404	15门派武器1·偏色1
+2405	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	12405	12405	15门派武器1·偏色2
+2406	Player/Doodads/weapons/Prefabs/m3_s006_L.prefab	Player/Doodads/weapons/Prefabs/m3_s006_R.prefab	12406	12406	15门派武器1·偏色3
+2407	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	12407	12407	15门派武器2·偏色1
+2408	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	12408	12408	15门派武器2·偏色2
+2409	Player/Doodads/weapons/Prefabs/m3_s007_L.prefab	Player/Doodads/weapons/Prefabs/m3_s007_R.prefab	12409	12409	15门派武器2·偏色3
+2410	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	12410	12410	15门派武器3·偏色1
+2411	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	12411	12411	15门派武器3·偏色2
+2412	Player/Doodads/weapons/Prefabs/m3_s003_L.prefab	Player/Doodads/weapons/Prefabs/m3_s003_R.prefab	12412	12412	15门派武器3·偏色3
+2413	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	12413	12413	15门派武器4·偏色1
+2414	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	12414	12414	15门派武器4·偏色2
+2415	Player/Doodads/weapons/Prefabs/m3_s004_L.prefab	Player/Doodads/weapons/Prefabs/m3_s004_R.prefab	12415	12415	15门派武器4·偏色3
+2416	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	12416	12416	15门派武器5·偏色1
+2417	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	12417	12417	15门派武器5·偏色2
+2418	Player/Doodads/weapons/Prefabs/m3_s005_L.prefab	Player/Doodads/weapons/Prefabs/m3_s005_R.prefab	12418	12418	15门派武器5·偏色3
+2419	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	12419	12419	15门派武器6·偏色1
+2420	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	12420	12420	15门派武器6·偏色2
+2421	Player/Doodads/weapons/Prefabs/m3_s002_L.prefab	Player/Doodads/weapons/Prefabs/m3_s002_R.prefab	12421	12421	15门派武器6·偏色3
+2422	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	12422	12422	15门派武器7·偏色1
+2423	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	12423	12423	15门派武器7·偏色2
+2424	Player/Doodads/weapons/Prefabs/m3_s008_L.prefab	Player/Doodads/weapons/Prefabs/m3_s008_R.prefab	12424	12424	15门派武器7·偏色3
+2425	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	12425	12425	15门派武器8·偏色1
+2426	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	12426	12426	15门派武器8·偏色2
+2427	Player/Doodads/weapons/Prefabs/m3_s009_L.prefab	Player/Doodads/weapons/Prefabs/m3_s009_R.prefab	12427	12427	15门派武器8·偏色3
+2428	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12428	12428	15门派武器9·偏色1
+2429	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12429	12429	15门派武器9·偏色2
+2430	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12430	12430	15门派武器9·偏色3
+2431	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12431	12431	15门派武器10·偏色1
+2432	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12432	12432	15门派武器10·偏色2
+2433	Player/Doodads/weapons/Prefabs/m3_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_s001_R.prefab	12433	12433	15门派武器10·偏色3
+2501	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12501	12501	16门派出生武器·偏色1
+2502	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12502	12502	16门派出生武器·偏色2
+2503	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12503	12503	16门派出生武器·偏色3
+2504	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	12504	12504	16门派武器1·偏色1
+2505	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	12505	12505	16门派武器1·偏色2
+2506	Player/Doodads/weapons/Prefabs/f3_d004_l.prefab	Player/Doodads/weapons/Prefabs/f3_d004_r.prefab	12506	12506	16门派武器1·偏色3
+2507	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	12507	12507	16门派武器2·偏色1
+2508	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	12508	12508	16门派武器2·偏色2
+2509	Player/Doodads/weapons/Prefabs/f3_d002_l.prefab	Player/Doodads/weapons/Prefabs/f3_d002_r.prefab	12509	12509	16门派武器2·偏色3
+2510	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	12510	12510	16门派武器3·偏色1
+2511	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	12511	12511	16门派武器3·偏色2
+2512	Player/Doodads/weapons/Prefabs/f3_d006_l.prefab	Player/Doodads/weapons/Prefabs/f3_d006_r.prefab	12512	12512	16门派武器3·偏色3
+2513	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	12513	12513	16门派武器4·偏色1
+2514	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	12514	12514	16门派武器4·偏色2
+2515	Player/Doodads/weapons/Prefabs/f3_d007_l.prefab	Player/Doodads/weapons/Prefabs/f3_d007_r.prefab	12515	12515	16门派武器4·偏色3
+2516	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	12516	12516	16门派武器5·偏色1
+2517	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	12517	12517	16门派武器5·偏色2
+2518	Player/Doodads/weapons/Prefabs/f3_d005_l.prefab	Player/Doodads/weapons/Prefabs/f3_d005_r.prefab	12518	12518	16门派武器5·偏色3
+2519	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	12519	12519	16门派武器6·偏色1
+2520	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	12520	12520	16门派武器6·偏色2
+2521	Player/Doodads/weapons/Prefabs/f3_d003_l.prefab	Player/Doodads/weapons/Prefabs/f3_d003_r.prefab	12521	12521	16门派武器6·偏色3
+2522	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	12522	12522	16门派武器7·偏色1
+2523	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	12523	12523	16门派武器7·偏色2
+2524	Player/Doodads/weapons/Prefabs/f3_d008_l.prefab	Player/Doodads/weapons/Prefabs/f3_d008_r.prefab	12524	12524	16门派武器7·偏色3
+2525	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	12525	12525	16门派武器8·偏色1
+2526	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	12526	12526	16门派武器8·偏色2
+2527	Player/Doodads/weapons/Prefabs/f3_d009_l.prefab	Player/Doodads/weapons/Prefabs/f3_d009_r.prefab	12527	12527	16门派武器8·偏色3
+2528	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12528	12528	16门派武器9·偏色1
+2529	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12529	12529	16门派武器9·偏色2
+2530	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12530	12530	16门派武器9·偏色3
+2531	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12531	12531	16门派武器10·偏色1
+2532	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12532	12532	16门派武器10·偏色2
+2533	Player/Doodads/weapons/Prefabs/f3_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_d001_r.prefab	12533	12533	16门派武器10·偏色3
+2601		Player/Doodads/weapons/Prefabs/m4_w001.prefab		12601	17门派出生武器·偏色1
+2602		Player/Doodads/weapons/Prefabs/m4_w001.prefab		12602	17门派出生武器·偏色2
+2603		Player/Doodads/weapons/Prefabs/m4_w001.prefab		12603	17门派出生武器·偏色3
+2604		Player/Doodads/weapons/Prefabs/m4_w002.prefab		12604	17门派武器1·偏色1
+2605		Player/Doodads/weapons/Prefabs/m4_w002.prefab		12605	17门派武器1·偏色2
+2606		Player/Doodads/weapons/Prefabs/m4_w002.prefab		12606	17门派武器1·偏色3
+2607		Player/Doodads/weapons/Prefabs/m4_w003.prefab		12607	17门派武器2·偏色1
+2608		Player/Doodads/weapons/Prefabs/m4_w003.prefab		12608	17门派武器2·偏色2
+2609		Player/Doodads/weapons/Prefabs/m4_w003.prefab		12609	17门派武器2·偏色3
+2610		Player/Doodads/weapons/Prefabs/m4_w004.prefab		12610	17门派武器3·偏色1
+2611		Player/Doodads/weapons/Prefabs/m4_w004.prefab		12611	17门派武器3·偏色2
+2612		Player/Doodads/weapons/Prefabs/m4_w004.prefab		12612	17门派武器3·偏色3
+2613		Player/Doodads/weapons/Prefabs/m4_w005.prefab		12613	17门派武器4·偏色1
+2614		Player/Doodads/weapons/Prefabs/m4_w005.prefab		12614	17门派武器4·偏色2
+2615		Player/Doodads/weapons/Prefabs/m4_w005.prefab		12615	17门派武器4·偏色3
+2616		Player/Doodads/weapons/Prefabs/m4_w006.prefab		12616	17门派武器5·偏色1
+2617		Player/Doodads/weapons/Prefabs/m4_w006.prefab		12617	17门派武器5·偏色2
+2618		Player/Doodads/weapons/Prefabs/m4_w006.prefab		12618	17门派武器5·偏色3
+2619		Player/Doodads/weapons/Prefabs/m4_w007.prefab		12619	17门派武器6·偏色1
+2620		Player/Doodads/weapons/Prefabs/m4_w007.prefab		12620	17门派武器6·偏色2
+2621		Player/Doodads/weapons/Prefabs/m4_w007.prefab		12621	17门派武器6·偏色3
+2622		Player/Doodads/weapons/Prefabs/m4_w009.prefab		12622	17门派武器7·偏色1
+2623		Player/Doodads/weapons/Prefabs/m4_w009.prefab		12623	17门派武器7·偏色2
+2624		Player/Doodads/weapons/Prefabs/m4_w009.prefab		12624	17门派武器7·偏色3
+2625		Player/Doodads/weapons/Prefabs/m4_w008.prefab		12625	17门派武器8·偏色1
+2626		Player/Doodads/weapons/Prefabs/m4_w008.prefab		12626	17门派武器8·偏色2
+2627		Player/Doodads/weapons/Prefabs/m4_w008.prefab		12627	17门派武器8·偏色3
+2628		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12628	17门派武器9·偏色1
+2629		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12629	17门派武器9·偏色2
+2630		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12630	17门派武器9·偏色3
+2631		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12631	17门派武器10·偏色1
+2632		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12632	17门派武器10·偏色2
+2633		Player/Doodads/weapons/Prefabs/m4_w010.prefab		12633	17门派武器10·偏色3
+2701		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12701	18门派出生武器·偏色1
+2702		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12702	18门派出生武器·偏色2
+2703		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12703	18门派出生武器·偏色3
+2704		Player/Doodads/weapons/Prefabs/f4_k005.prefab		12704	18门派武器1·偏色1
+2705		Player/Doodads/weapons/Prefabs/f4_k005.prefab		12705	18门派武器1·偏色2
+2706		Player/Doodads/weapons/Prefabs/f4_k005.prefab		12706	18门派武器1·偏色3
+2707		Player/Doodads/weapons/Prefabs/f4_k006.prefab		12707	18门派武器2·偏色1
+2708		Player/Doodads/weapons/Prefabs/f4_k006.prefab		12708	18门派武器2·偏色2
+2709		Player/Doodads/weapons/Prefabs/f4_k006.prefab		12709	18门派武器2·偏色3
+2710		Player/Doodads/weapons/Prefabs/f4_k002.prefab		12710	18门派武器3·偏色1
+2711		Player/Doodads/weapons/Prefabs/f4_k002.prefab		12711	18门派武器3·偏色2
+2712		Player/Doodads/weapons/Prefabs/f4_k002.prefab		12712	18门派武器3·偏色3
+2713		Player/Doodads/weapons/Prefabs/f4_k003.prefab		12713	18门派武器4·偏色1
+2714		Player/Doodads/weapons/Prefabs/f4_k003.prefab		12714	18门派武器4·偏色2
+2715		Player/Doodads/weapons/Prefabs/f4_k003.prefab		12715	18门派武器4·偏色3
+2716		Player/Doodads/weapons/Prefabs/f4_k004.prefab		12716	18门派武器5·偏色1
+2717		Player/Doodads/weapons/Prefabs/f4_k004.prefab		12717	18门派武器5·偏色2
+2718		Player/Doodads/weapons/Prefabs/f4_k004.prefab		12718	18门派武器5·偏色3
+2719		Player/Doodads/weapons/Prefabs/f4_k007.prefab		12719	18门派武器6·偏色1
+2720		Player/Doodads/weapons/Prefabs/f4_k007.prefab		12720	18门派武器6·偏色2
+2721		Player/Doodads/weapons/Prefabs/f4_k007.prefab		12721	18门派武器6·偏色3
+2722		Player/Doodads/weapons/Prefabs/f4_k008.prefab		12722	18门派武器7·偏色1
+2723		Player/Doodads/weapons/Prefabs/f4_k008.prefab		12723	18门派武器7·偏色2
+2724		Player/Doodads/weapons/Prefabs/f4_k008.prefab		12724	18门派武器7·偏色3
+2725		Player/Doodads/weapons/Prefabs/f4_k009.prefab		12725	18门派武器8·偏色1
+2726		Player/Doodads/weapons/Prefabs/f4_k009.prefab		12726	18门派武器8·偏色2
+2727		Player/Doodads/weapons/Prefabs/f4_k009.prefab		12727	18门派武器8·偏色3
+2728		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12728	18门派武器9·偏色1
+2729		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12729	18门派武器9·偏色2
+2730		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12730	18门派武器9·偏色3
+2731		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12731	18门派武器10·偏色1
+2732		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12732	18门派武器10·偏色2
+2733		Player/Doodads/weapons/Prefabs/f4_k001.prefab		12733	18门派武器10·偏色3
+2801	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	12801	12801	19门派出生武器·偏色1
+2802	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	12802	12802	19门派出生武器·偏色2
+2803	Player/Doodads/weapons/Prefabs/m5_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_a001_r.prefab	12803	12803	19门派出生武器·偏色3
+2804	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12804	12804	19门派武器1·偏色1
+2805	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12805	12805	19门派武器1·偏色2
+2806	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12806	12806	19门派武器1·偏色3
+2807	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	12807	12807	19门派武器2·偏色1
+2808	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	12808	12808	19门派武器2·偏色2
+2809	Player/Doodads/weapons/Prefabs/m5_a003_l.prefab	Player/Doodads/weapons/Prefabs/m5_a003_r.prefab	12809	12809	19门派武器2·偏色3
+2810	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	12810	12810	19门派武器3·偏色1
+2811	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	12811	12811	19门派武器3·偏色2
+2812	Player/Doodads/weapons/Prefabs/m5_a004_l.prefab	Player/Doodads/weapons/Prefabs/m5_a004_r.prefab	12812	12812	19门派武器3·偏色3
+2813	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	12813	12813	19门派武器4·偏色1
+2814	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	12814	12814	19门派武器4·偏色2
+2815	Player/Doodads/weapons/Prefabs/m5_a005_l.prefab	Player/Doodads/weapons/Prefabs/m5_a005_r.prefab	12815	12815	19门派武器4·偏色3
+2816	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	12816	12816	19门派武器5·偏色1
+2817	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	12817	12817	19门派武器5·偏色2
+2818	Player/Doodads/weapons/Prefabs/m5_a009_l.prefab	Player/Doodads/weapons/Prefabs/m5_a009_r.prefab	12818	12818	19门派武器5·偏色3
+2819	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	12819	12819	19门派武器6·偏色1
+2820	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	12820	12820	19门派武器6·偏色2
+2821	Player/Doodads/weapons/Prefabs/m5_a007_l.prefab	Player/Doodads/weapons/Prefabs/m5_a007_r.prefab	12821	12821	19门派武器6·偏色3
+2822	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	12822	12822	19门派武器7·偏色1
+2823	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	12823	12823	19门派武器7·偏色2
+2824	Player/Doodads/weapons/Prefabs/m5_a006_l.prefab	Player/Doodads/weapons/Prefabs/m5_a006_r.prefab	12824	12824	19门派武器7·偏色3
+2825	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	12825	12825	19门派武器8·偏色1
+2826	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	12826	12826	19门派武器8·偏色2
+2827	Player/Doodads/weapons/Prefabs/m5_a008_l.prefab	Player/Doodads/weapons/Prefabs/m5_a008_r.prefab	12827	12827	19门派武器8·偏色3
+2828	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12828	12828	19门派武器9·偏色1
+2829	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12829	12829	19门派武器9·偏色2
+2830	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12830	12830	19门派武器9·偏色3
+2831	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12831	12831	19门派武器10·偏色1
+2832	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12832	12832	19门派武器10·偏色2
+2833	Player/Doodads/weapons/Prefabs/m5_a002_l.prefab	Player/Doodads/weapons/Prefabs/m5_a002_r.prefab	12833	12833	19门派武器10·偏色3
+2901	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	12901	12901	20门派出生武器·偏色1
+2902	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	12902	12902	20门派出生武器·偏色2
+2903	Player/Doodads/weapons/Prefabs/f5_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_s001_r.prefab	12903	12903	20门派出生武器·偏色3
+2904	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12904	12904	20门派武器1·偏色1
+2905	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12905	12905	20门派武器1·偏色2
+2906	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12906	12906	20门派武器1·偏色3
+2907	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	12907	12907	20门派武器2·偏色1
+2908	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	12908	12908	20门派武器2·偏色2
+2909	Player/Doodads/weapons/Prefabs/f5_s003_l.prefab	Player/Doodads/weapons/Prefabs/f5_s003_r.prefab	12909	12909	20门派武器2·偏色3
+2910	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	12910	12910	20门派武器3·偏色1
+2911	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	12911	12911	20门派武器3·偏色2
+2912	Player/Doodads/weapons/Prefabs/f5_s004_l.prefab	Player/Doodads/weapons/Prefabs/f5_s004_r.prefab	12912	12912	20门派武器3·偏色3
+2913	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	12913	12913	20门派武器4·偏色1
+2914	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	12914	12914	20门派武器4·偏色2
+2915	Player/Doodads/weapons/Prefabs/f5_s005_l.prefab	Player/Doodads/weapons/Prefabs/f5_s005_r.prefab	12915	12915	20门派武器4·偏色3
+2916	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	12916	12916	20门派武器5·偏色1
+2917	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	12917	12917	20门派武器5·偏色2
+2918	Player/Doodads/weapons/Prefabs/f5_s006_l.prefab	Player/Doodads/weapons/Prefabs/f5_s006_r.prefab	12918	12918	20门派武器5·偏色3
+2919	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	12919	12919	20门派武器6·偏色1
+2920	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	12920	12920	20门派武器6·偏色2
+2921	Player/Doodads/weapons/Prefabs/f5_s007_l.prefab	Player/Doodads/weapons/Prefabs/f5_s007_r.prefab	12921	12921	20门派武器6·偏色3
+2922	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	12922	12922	20门派武器7·偏色1
+2923	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	12923	12923	20门派武器7·偏色2
+2924	Player/Doodads/weapons/Prefabs/f5_s008_l.prefab	Player/Doodads/weapons/Prefabs/f5_s008_r.prefab	12924	12924	20门派武器7·偏色3
+2925	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	12925	12925	20门派武器8·偏色1
+2926	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	12926	12926	20门派武器8·偏色2
+2927	Player/Doodads/weapons/Prefabs/f5_s009_l.prefab	Player/Doodads/weapons/Prefabs/f5_s009_r.prefab	12927	12927	20门派武器8·偏色3
+2928	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12928	12928	20门派武器9·偏色1
+2929	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12929	12929	20门派武器9·偏色2
+2930	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12930	12930	20门派武器9·偏色3
+2931	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12931	12931	20门派武器10·偏色1
+2932	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12932	12932	20门派武器10·偏色2
+2933	Player/Doodads/weapons/Prefabs/f5_s002_l.prefab	Player/Doodads/weapons/Prefabs/f5_s002_r.prefab	12933	12933	20门派武器10·偏色3
+3001	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13001	13001	天王外装锤1·颜色1
+3002	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13002	13002	天王外装锤1·颜色2
+3003	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13003	13003	天王外装锤1·颜色3
+3004	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13004	13004	天王外装锤1·颜色4
+3005	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13005	13005	天王外装锤2·颜色1
+3006	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13006	13006	天王外装锤2·颜色2
+3007	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13007	13007	天王外装锤2·颜色3
+3008	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13008	13008	天王外装锤2·颜色4
+3009	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13009	13009	天王外装锤3·颜色1
+3010	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13010	13010	天王外装锤3·颜色2
+3011	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13011	13011	天王外装锤3·颜色3
+3012	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13012	13012	天王外装锤3·颜色4
+3013	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13013	13013	天王外装锤4·颜色1
+3014	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13014	13014	天王外装锤4·颜色2
+3015	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13015	13015	天王外装锤4·颜色3
+3016	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13016	13016	天王外装锤4·颜色4
+3017	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13017	13017	天王外装锤5·颜色1
+3018	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13018	13018	天王外装锤5·颜色2
+3019	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13019	13019	天王外装锤5·颜色3
+3020	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13020	13020	天王外装锤5·颜色4
+3021	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13021	13021	天王外装锤6·颜色1
+3022	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13022	13022	天王外装锤6·颜色2
+3023	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13023	13023	天王外装锤6·颜色3
+3024	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13024	13024	天王外装锤6·颜色4
+3025	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13025	13025	天王外装锤7·颜色1
+3026	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13026	13026	天王外装锤7·颜色2
+3027	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13027	13027	天王外装锤7·颜色3
+3028	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13028	13028	天王外装锤7·颜色4
+3029	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13029	13029	天王外装锤8·颜色1
+3030	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13030	13030	天王外装锤8·颜色2
+3031	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13031	13031	天王外装锤8·颜色3
+3032	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13032	13032	天王外装锤8·颜色4
+3033	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13033	13033	天王外装锤9·颜色1
+3034	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13034	13034	天王外装锤9·颜色2
+3035	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13035	13035	天王外装锤9·颜色3
+3036	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13036	13036	天王外装锤9·颜色4
+3037	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13037	13037	天王外装锤10·颜色1
+3038	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13038	13038	天王外装锤10·颜色2
+3039	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13039	13039	天王外装锤10·颜色3
+3040	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	Player/Doodads/weapons/Prefabs/m2_w_h001.prefab	13040	13040	天王外装锤10·颜色4
+3101		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13101	峨眉外装剑1·颜色1
+3102		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13102	峨眉外装剑1·颜色2
+3103		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13103	峨眉外装剑1·颜色3
+3104		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13104	峨眉外装剑1·颜色4
+3105		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13105	峨眉外装剑2·颜色1
+3106		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13106	峨眉外装剑2·颜色2
+3107		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13107	峨眉外装剑2·颜色3
+3108		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13108	峨眉外装剑2·颜色4
+3109		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13109	峨眉外装剑3·颜色1
+3110		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13110	峨眉外装剑3·颜色2
+3111		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13111	峨眉外装剑3·颜色3
+3112		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13112	峨眉外装剑3·颜色4
+3113		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13113	峨眉外装剑4·颜色1
+3114		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13114	峨眉外装剑4·颜色2
+3115		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13115	峨眉外装剑4·颜色3
+3116		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13116	峨眉外装剑4·颜色4
+3117		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13117	峨眉外装剑5·颜色1
+3118		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13118	峨眉外装剑5·颜色2
+3119		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13119	峨眉外装剑5·颜色3
+3120		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13120	峨眉外装剑5·颜色4
+3121		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13121	峨眉外装剑6·颜色1
+3122		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13122	峨眉外装剑6·颜色2
+3123		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13123	峨眉外装剑6·颜色3
+3124		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13124	峨眉外装剑6·颜色4
+3125		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13125	峨眉外装剑7·颜色1
+3126		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13126	峨眉外装剑7·颜色2
+3127		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13127	峨眉外装剑7·颜色3
+3128		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13128	峨眉外装剑7·颜色4
+3129		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13129	峨眉外装剑8·颜色1
+3130		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13130	峨眉外装剑8·颜色2
+3131		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13131	峨眉外装剑8·颜色3
+3132		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13132	峨眉外装剑8·颜色4
+3133		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13133	峨眉外装剑9·颜色1
+3134		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13134	峨眉外装剑9·颜色2
+3135		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13135	峨眉外装剑9·颜色3
+3136		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13136	峨眉外装剑9·颜色4
+3137		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13137	峨眉外装剑10·颜色1
+3138		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13138	峨眉外装剑10·颜色2
+3139		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13139	峨眉外装剑10·颜色3
+3140		Player/Doodads/weapons/Prefabs/f2_w_s001.prefab		13140	峨眉外装剑10·颜色4
+3201	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13201		桃花外装锤1·颜色1
+3202	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13202		桃花外装锤1·颜色2
+3203	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13203		桃花外装锤1·颜色3
+3204	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13204		桃花外装锤1·颜色4
+3205	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13205		桃花外装锤2·颜色1
+3206	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13206		桃花外装锤2·颜色2
+3207	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13207		桃花外装锤2·颜色3
+3208	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13208		桃花外装锤2·颜色4
+3209	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13209		桃花外装锤3·颜色1
+3210	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13210		桃花外装锤3·颜色2
+3211	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13211		桃花外装锤3·颜色3
+3212	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13212		桃花外装锤3·颜色4
+3213	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13213		桃花外装锤4·颜色1
+3214	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13214		桃花外装锤4·颜色2
+3215	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13215		桃花外装锤4·颜色3
+3216	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13216		桃花外装锤4·颜色4
+3217	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13217		桃花外装锤5·颜色1
+3218	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13218		桃花外装锤5·颜色2
+3219	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13219		桃花外装锤5·颜色3
+3220	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13220		桃花外装锤5·颜色4
+3221	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13221		桃花外装锤6·颜色1
+3222	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13222		桃花外装锤6·颜色2
+3223	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13223		桃花外装锤6·颜色3
+3224	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13224		桃花外装锤6·颜色4
+3225	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13225		桃花外装锤7·颜色1
+3226	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13226		桃花外装锤7·颜色2
+3227	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13227		桃花外装锤7·颜色3
+3228	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13228		桃花外装锤7·颜色4
+3229	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13229		桃花外装锤8·颜色1
+3230	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13230		桃花外装锤8·颜色2
+3231	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13231		桃花外装锤8·颜色3
+3232	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13232		桃花外装锤8·颜色4
+3233	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13233		桃花外装锤9·颜色1
+3234	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13234		桃花外装锤9·颜色2
+3235	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13235		桃花外装锤9·颜色3
+3236	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13236		桃花外装锤9·颜色4
+3237	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13237		桃花外装锤10·颜色1
+3238	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13238		桃花外装锤10·颜色2
+3239	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13239		桃花外装锤10·颜色3
+3240	Player/Doodads/weapons/Prefabs/f1_w_a001.prefab		13240		桃花外装锤10·颜色4
+3301		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13301	逍遥外装枪1·颜色1
+3302		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13302	逍遥外装枪1·颜色2
+3303		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13303	逍遥外装枪1·颜色3
+3304		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13304	逍遥外装枪1·颜色4
+3305		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13305	逍遥外装枪2·颜色1
+3306		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13306	逍遥外装枪2·颜色2
+3307		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13307	逍遥外装枪2·颜色3
+3308		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13308	逍遥外装枪2·颜色4
+3309		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13309	逍遥外装枪3·颜色1
+3310		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13310	逍遥外装枪3·颜色2
+3311		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13311	逍遥外装枪3·颜色3
+3312		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13312	逍遥外装枪3·颜色4
+3313		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13313	逍遥外装枪4·颜色1
+3314		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13314	逍遥外装枪4·颜色2
+3315		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13315	逍遥外装枪4·颜色3
+3316		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13316	逍遥外装枪4·颜色4
+3317		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13317	逍遥外装枪5·颜色1
+3318		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13318	逍遥外装枪5·颜色2
+3319		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13319	逍遥外装枪5·颜色3
+3320		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13320	逍遥外装枪5·颜色4
+3321		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13321	逍遥外装枪6·颜色1
+3322		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13322	逍遥外装枪6·颜色2
+3323		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13323	逍遥外装枪6·颜色3
+3324		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13324	逍遥外装枪6·颜色4
+3325		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13325	逍遥外装枪7·颜色1
+3326		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13326	逍遥外装枪7·颜色2
+3327		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13327	逍遥外装枪7·颜色3
+3328		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13328	逍遥外装枪7·颜色4
+3329		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13329	逍遥外装枪8·颜色1
+3330		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13330	逍遥外装枪8·颜色2
+3331		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13331	逍遥外装枪8·颜色3
+3332		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13332	逍遥外装枪8·颜色4
+3333		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13333	逍遥外装枪9·颜色1
+3334		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13334	逍遥外装枪9·颜色2
+3335		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13335	逍遥外装枪9·颜色3
+3336		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13336	逍遥外装枪9·颜色4
+3337		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13337	逍遥外装枪10·颜色1
+3338		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13338	逍遥外装枪10·颜色2
+3339		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13339	逍遥外装枪10·颜色3
+3340		Player/Doodads/weapons/Prefabs/m1_w_l001.prefab		13340	逍遥外装枪10·颜色4
+3401		Player/Doodads/weapons/Prefabs/m3_w_s001.prefab		13401	武当外装剑1·颜色1
+3402		Player/Doodads/weapons/Prefabs/m3_w_s001.prefab		13402	武当外装剑1·颜色2
+3403		Player/Doodads/weapons/Prefabs/m3_w_s001.prefab		13403	武当外装剑1·颜色3
+3404		Player/Doodads/weapons/Prefabs/m3_w_s001.prefab		13404	武当外装剑1·颜色4
+3405	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13405	13405	武当外装剑2·颜色1
+3406	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13406	13406	武当外装剑2·颜色2
+3407	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13407	13407	武当外装剑2·颜色3
+3408	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13408	13408	武当外装剑2·颜色4
+3409	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13409	13409	武当外装剑3·颜色1
+3410	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13410	13410	武当外装剑3·颜色2
+3411	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13411	13411	武当外装剑3·颜色3
+3412	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13412	13412	武当外装剑3·颜色4
+3413	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13413	13413	武当外装剑4·颜色1
+3414	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13414	13414	武当外装剑4·颜色2
+3415	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13415	13415	武当外装剑4·颜色3
+3416	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13416	13416	武当外装剑4·颜色4
+3417	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13417	13417	武当外装剑5·颜色1
+3418	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13418	13418	武当外装剑5·颜色2
+3419	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13419	13419	武当外装剑5·颜色3
+3420	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13420	13420	武当外装剑5·颜色4
+3421	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13421	13421	武当外装剑6·颜色1
+3422	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13422	13422	武当外装剑6·颜色2
+3423	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13423	13423	武当外装剑6·颜色3
+3424	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13424	13424	武当外装剑6·颜色4
+3425	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13425	13425	武当外装剑7·颜色1
+3426	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13426	13426	武当外装剑7·颜色2
+3427	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13427	13427	武当外装剑7·颜色3
+3428	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13428	13428	武当外装剑7·颜色4
+3429	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13429	13429	武当外装剑8·颜色1
+3430	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13430	13430	武当外装剑8·颜色2
+3431	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13431	13431	武当外装剑8·颜色3
+3432	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13432	13432	武当外装剑8·颜色4
+3433	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13433	13433	武当外装剑9·颜色1
+3434	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13434	13434	武当外装剑9·颜色2
+3435	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13435	13435	武当外装剑9·颜色3
+3436	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13436	13436	武当外装剑9·颜色4
+3437	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13437	13437	武当外装剑10·颜色1
+3438	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13438	13438	武当外装剑10·颜色2
+3439	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13439	13439	武当外装剑10·颜色3
+3440	Player/Doodads/weapons/Prefabs/m3_w_s001_L.prefab	Player/Doodads/weapons/Prefabs/m3_w_s001_R.prefab	13440	13440	武当外装剑10·颜色4
+3501	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13501	13501	天忍外装刺1·颜色1
+3502	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13502	13502	天忍外装刺1·颜色2
+3503	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13503	13503	天忍外装刺1·颜色3
+3504	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13504	13504	天忍外装刺1·颜色4
+3505	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13505	13505	天忍外装刺2·颜色1
+3506	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13506	13506	天忍外装刺2·颜色2
+3507	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13507	13507	天忍外装刺2·颜色3
+3508	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13508	13508	天忍外装刺2·颜色4
+3509	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13509	13509	天忍外装刺3·颜色1
+3510	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13510	13510	天忍外装刺3·颜色2
+3511	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13511	13511	天忍外装刺3·颜色3
+3512	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13512	13512	天忍外装刺3·颜色4
+3513	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13513	13513	天忍外装刺4·颜色1
+3514	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13514	13514	天忍外装刺4·颜色2
+3515	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13515	13515	天忍外装刺4·颜色3
+3516	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13516	13516	天忍外装刺4·颜色4
+3517	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13517	13517	天忍外装刺5·颜色1
+3518	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13518	13518	天忍外装刺5·颜色2
+3519	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13519	13519	天忍外装刺5·颜色3
+3520	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13520	13520	天忍外装刺5·颜色4
+3521	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13521	13521	天忍外装刺6·颜色1
+3522	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13522	13522	天忍外装刺6·颜色2
+3523	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13523	13523	天忍外装刺6·颜色3
+3524	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13524	13524	天忍外装刺6·颜色4
+3525	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13525	13525	天忍外装刺7·颜色1
+3526	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13526	13526	天忍外装刺7·颜色2
+3527	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13527	13527	天忍外装刺7·颜色3
+3528	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13528	13528	天忍外装刺7·颜色4
+3529	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13529	13529	天忍外装刺8·颜色1
+3530	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13530	13530	天忍外装刺8·颜色2
+3531	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13531	13531	天忍外装刺8·颜色3
+3532	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13532	13532	天忍外装刺8·颜色4
+3533	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13533	13533	天忍外装刺9·颜色1
+3534	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13534	13534	天忍外装刺9·颜色2
+3535	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13535	13535	天忍外装刺9·颜色3
+3536	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13536	13536	天忍外装刺9·颜色4
+3537	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13537	13537	天忍外装刺10·颜色1
+3538	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13538	13538	天忍外装刺10·颜色2
+3539	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13539	13539	天忍外装刺10·颜色3
+3540	Player/Doodads/weapons/Prefabs/f3_w_d001_l.prefab	Player/Doodads/weapons/Prefabs/f3_w_d001_r.prefab	13540	13540	天忍外装刺10·颜色4
+3601		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13601	少林外装棍1·颜色1
+3602		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13602	少林外装棍1·颜色2
+3603		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13603	少林外装棍1·颜色3
+3604		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13604	少林外装棍1·颜色4
+3605		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13605	少林外装棍2·颜色1
+3606		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13606	少林外装棍2·颜色2
+3607		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13607	少林外装棍2·颜色3
+3608		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13608	少林外装棍2·颜色4
+3609		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13609	少林外装棍3·颜色1
+3610		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13610	少林外装棍3·颜色2
+3611		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13611	少林外装棍3·颜色3
+3612		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13612	少林外装棍3·颜色4
+3613		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13613	少林外装棍4·颜色1
+3614		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13614	少林外装棍4·颜色2
+3615		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13615	少林外装棍4·颜色3
+3616		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13616	少林外装棍4·颜色4
+3617		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13617	少林外装棍5·颜色1
+3618		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13618	少林外装棍5·颜色2
+3619		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13619	少林外装棍5·颜色3
+3620		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13620	少林外装棍5·颜色4
+3621		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13621	少林外装棍6·颜色1
+3622		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13622	少林外装棍6·颜色2
+3623		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13623	少林外装棍6·颜色3
+3624		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13624	少林外装棍6·颜色4
+3625		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13625	少林外装棍7·颜色1
+3626		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13626	少林外装棍7·颜色2
+3627		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13627	少林外装棍7·颜色3
+3628		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13628	少林外装棍7·颜色4
+3629		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13629	少林外装棍8·颜色1
+3630		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13630	少林外装棍8·颜色2
+3631		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13631	少林外装棍8·颜色3
+3632		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13632	少林外装棍8·颜色4
+3633		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13633	少林外装棍9·颜色1
+3634		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13634	少林外装棍9·颜色2
+3635		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13635	少林外装棍9·颜色3
+3636		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13636	少林外装棍9·颜色4
+3637		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13637	少林外装棍10·颜色1
+3638		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13638	少林外装棍10·颜色2
+3639		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13639	少林外装棍10·颜色3
+3640		Player/Doodads/weapons/Prefabs/m4_w_w001.prefab		13640	少林外装棍10·颜色4
+3701		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13701	翠烟外装伞1·颜色1
+3702		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13702	翠烟外装伞1·颜色2
+3703		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13703	翠烟外装伞1·颜色3
+3704		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13704	翠烟外装伞1·颜色4
+3705		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13705	翠烟外装伞2·颜色1
+3706		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13706	翠烟外装伞2·颜色2
+3707		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13707	翠烟外装伞2·颜色3
+3708		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13708	翠烟外装伞2·颜色4
+3709		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13709	翠烟外装伞3·颜色1
+3710		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13710	翠烟外装伞3·颜色2
+3711		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13711	翠烟外装伞3·颜色3
+3712		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13712	翠烟外装伞3·颜色4
+3713		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13713	翠烟外装伞4·颜色1
+3714		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13714	翠烟外装伞4·颜色2
+3715		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13715	翠烟外装伞4·颜色3
+3716		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13716	翠烟外装伞4·颜色4
+3717		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13717	翠烟外装伞5·颜色1
+3718		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13718	翠烟外装伞5·颜色2
+3719		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13719	翠烟外装伞5·颜色3
+3720		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13720	翠烟外装伞5·颜色4
+3721		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13721	翠烟外装伞6·颜色1
+3722		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13722	翠烟外装伞6·颜色2
+3723		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13723	翠烟外装伞6·颜色3
+3724		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13724	翠烟外装伞6·颜色4
+3725		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13725	翠烟外装伞7·颜色1
+3726		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13726	翠烟外装伞7·颜色2
+3727		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13727	翠烟外装伞7·颜色3
+3728		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13728	翠烟外装伞7·颜色4
+3729		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13729	翠烟外装伞8·颜色1
+3730		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13730	翠烟外装伞8·颜色2
+3731		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13731	翠烟外装伞8·颜色3
+3732		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13732	翠烟外装伞8·颜色4
+3733		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13733	翠烟外装伞9·颜色1
+3734		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13734	翠烟外装伞9·颜色2
+3735		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13735	翠烟外装伞9·颜色3
+3736		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13736	翠烟外装伞9·颜色4
+3737		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13737	翠烟外装伞10·颜色1
+3738		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13738	翠烟外装伞10·颜色2
+3739		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13739	翠烟外装伞10·颜色3
+3740		Player/Doodads/weapons/Prefabs/f4_w_k001.prefab		13740	翠烟外装伞10·颜色4
+3801	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13801	13801	唐门外装弩1·颜色1
+3802	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13802	13802	唐门外装弩1·颜色2
+3803	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13803	13803	唐门外装弩1·颜色3
+3804	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13804	13804	唐门外装弩1·颜色4
+3805	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13805	13805	唐门外装弩2·颜色1
+3806	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13806	13806	唐门外装弩2·颜色2
+3807	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13807	13807	唐门外装弩2·颜色3
+3808	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13808	13808	唐门外装弩2·颜色4
+3809	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13809	13809	唐门外装弩3·颜色1
+3810	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13810	13810	唐门外装弩3·颜色2
+3811	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13811	13811	唐门外装弩3·颜色3
+3812	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13812	13812	唐门外装弩3·颜色4
+3813	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13813	13813	唐门外装弩4·颜色1
+3814	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13814	13814	唐门外装弩4·颜色2
+3815	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13815	13815	唐门外装弩4·颜色3
+3816	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13816	13816	唐门外装弩4·颜色4
+3817	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13817	13817	唐门外装弩5·颜色1
+3818	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13818	13818	唐门外装弩5·颜色2
+3819	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13819	13819	唐门外装弩5·颜色3
+3820	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13820	13820	唐门外装弩5·颜色4
+3821	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13821	13821	唐门外装弩6·颜色1
+3822	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13822	13822	唐门外装弩6·颜色2
+3823	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13823	13823	唐门外装弩6·颜色3
+3824	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13824	13824	唐门外装弩6·颜色4
+3825	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13825	13825	唐门外装弩7·颜色1
+3826	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13826	13826	唐门外装弩7·颜色2
+3827	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13827	13827	唐门外装弩7·颜色3
+3828	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13828	13828	唐门外装弩7·颜色4
+3829	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13829	13829	唐门外装弩8·颜色1
+3830	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13830	13830	唐门外装弩8·颜色2
+3831	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13831	13831	唐门外装弩8·颜色3
+3832	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13832	13832	唐门外装弩8·颜色4
+3833	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13833	13833	唐门外装弩9·颜色1
+3834	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13834	13834	唐门外装弩9·颜色2
+3835	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13835	13835	唐门外装弩9·颜色3
+3836	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13836	13836	唐门外装弩9·颜色4
+3837	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13837	13837	唐门外装弩10·颜色1
+3838	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13838	13838	唐门外装弩10·颜色2
+3839	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13839	13839	唐门外装弩10·颜色3
+3840	Player/Doodads/weapons/Prefabs/m5_w_a001_l.prefab	Player/Doodads/weapons/Prefabs/m5_w_a001_r.prefab	13840	13840	唐门外装弩10·颜色4
+3901	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13901	13901	昆仑外装剑1·颜色1
+3902	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13902	13902	昆仑外装剑1·颜色2
+3903	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13903	13903	昆仑外装剑1·颜色3
+3904	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13904	13904	昆仑外装剑1·颜色4
+3905	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13905	13905	昆仑外装剑2·颜色1
+3906	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13906	13906	昆仑外装剑2·颜色2
+3907	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13907	13907	昆仑外装剑2·颜色3
+3908	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13908	13908	昆仑外装剑2·颜色4
+3909	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13909	13909	昆仑外装剑3·颜色1
+3910	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13910	13910	昆仑外装剑3·颜色2
+3911	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13911	13911	昆仑外装剑3·颜色3
+3912	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13912	13912	昆仑外装剑3·颜色4
+3913	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13913	13913	昆仑外装剑4·颜色1
+3914	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13914	13914	昆仑外装剑4·颜色2
+3915	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13915	13915	昆仑外装剑4·颜色3
+3916	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13916	13916	昆仑外装剑4·颜色4
+3917	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13917	13917	昆仑外装剑5·颜色1
+3918	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13918	13918	昆仑外装剑5·颜色2
+3919	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13919	13919	昆仑外装剑5·颜色3
+3920	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13920	13920	昆仑外装剑5·颜色4
+3921	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13921	13921	昆仑外装剑6·颜色1
+3922	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13922	13922	昆仑外装剑6·颜色2
+3923	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13923	13923	昆仑外装剑6·颜色3
+3924	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13924	13924	昆仑外装剑6·颜色4
+3925	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13925	13925	昆仑外装剑7·颜色1
+3926	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13926	13926	昆仑外装剑7·颜色2
+3927	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13927	13927	昆仑外装剑7·颜色3
+3928	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13928	13928	昆仑外装剑7·颜色4
+3929	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13929	13929	昆仑外装剑8·颜色1
+3930	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13930	13930	昆仑外装剑8·颜色2
+3931	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13931	13931	昆仑外装剑8·颜色3
+3932	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13932	13932	昆仑外装剑8·颜色4
+3933	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13933	13933	昆仑外装剑9·颜色1
+3934	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13934	13934	昆仑外装剑9·颜色2
+3935	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13935	13935	昆仑外装剑9·颜色3
+3936	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13936	13936	昆仑外装剑9·颜色4
+3937	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13937	13937	昆仑外装剑10·颜色1
+3938	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13938	13938	昆仑外装剑10·颜色2
+3939	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13939	13939	昆仑外装剑10·颜色3
+3940	Player/Doodads/weapons/Prefabs/f5_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/f5_w_s001_r.prefab	13940	13940	昆仑外装剑10·颜色4
+4001		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14001	丐帮外装棍1·颜色1
+4002		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14002	丐帮外装棍1·颜色2
+4003		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14003	丐帮外装棍1·颜色3
+4004		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14004	丐帮外装棍1·颜色4
+4005		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14005	丐帮外装棍2·颜色1
+4006		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14006	丐帮外装棍2·颜色2
+4007		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14007	丐帮外装棍2·颜色3
+4008		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14008	丐帮外装棍2·颜色4
+4009		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14009	丐帮外装棍3·颜色1
+4010		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14010	丐帮外装棍3·颜色2
+4011		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14011	丐帮外装棍3·颜色3
+4012		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14012	丐帮外装棍3·颜色4
+4013		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14013	丐帮外装棍4·颜色1
+4014		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14014	丐帮外装棍4·颜色2
+4015		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14015	丐帮外装棍4·颜色3
+4016		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14016	丐帮外装棍4·颜色4
+4017		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14017	丐帮外装棍5·颜色1
+4018		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14018	丐帮外装棍5·颜色2
+4019		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14019	丐帮外装棍5·颜色3
+4020		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14020	丐帮外装棍5·颜色4
+4021		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14021	丐帮外装棍6·颜色1
+4022		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14022	丐帮外装棍6·颜色2
+4023		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14023	丐帮外装棍6·颜色3
+4024		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14024	丐帮外装棍6·颜色4
+4025		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14025	丐帮外装棍7·颜色1
+4026		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14026	丐帮外装棍7·颜色2
+4027		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14027	丐帮外装棍7·颜色3
+4028		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14028	丐帮外装棍7·颜色4
+4029		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14029	丐帮外装棍8·颜色1
+4030		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14030	丐帮外装棍8·颜色2
+4031		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14031	丐帮外装棍8·颜色3
+4032		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14032	丐帮外装棍8·颜色4
+4033		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14033	丐帮外装棍9·颜色1
+4034		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14034	丐帮外装棍9·颜色2
+4035		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14035	丐帮外装棍9·颜色3
+4036		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14036	丐帮外装棍9·颜色4
+4037		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14037	丐帮外装棍10·颜色1
+4038		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14038	丐帮外装棍10·颜色2
+4039		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14039	丐帮外装棍10·颜色3
+4040		Player/Doodads/weapons/Prefabs/m6_w_h001.prefab		14040	丐帮外装棍10·颜色4
+4101		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14101	五毒外装笛1·颜色1
+4102		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14102	五毒外装笛1·颜色2
+4103		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14103	五毒外装笛1·颜色3
+4104		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14104	五毒外装笛1·颜色4
+4105		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14105	五毒外装笛2·颜色1
+4106		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14106	五毒外装笛2·颜色2
+4107		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14107	五毒外装笛2·颜色3
+4108		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14108	五毒外装笛2·颜色4
+4109		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14109	五毒外装笛3·颜色1
+4110		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14110	五毒外装笛3·颜色2
+4111		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14111	五毒外装笛3·颜色3
+4112		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14112	五毒外装笛3·颜色4
+4113		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14113	五毒外装笛4·颜色1
+4114		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14114	五毒外装笛4·颜色2
+4115		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14115	五毒外装笛4·颜色3
+4116		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14116	五毒外装笛4·颜色4
+4117		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14117	五毒外装笛5·颜色1
+4118		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14118	五毒外装笛5·颜色2
+4119		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14119	五毒外装笛5·颜色3
+4120		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14120	五毒外装笛5·颜色4
+4121		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14121	五毒外装笛6·颜色1
+4122		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14122	五毒外装笛6·颜色2
+4123		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14123	五毒外装笛6·颜色3
+4124		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14124	五毒外装笛6·颜色4
+4125		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14125	五毒外装笛7·颜色1
+4126		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14126	五毒外装笛7·颜色2
+4127		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14127	五毒外装笛7·颜色3
+4128		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14128	五毒外装笛7·颜色4
+4129		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14129	五毒外装笛8·颜色1
+4130		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14130	五毒外装笛8·颜色2
+4131		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14131	五毒外装笛8·颜色3
+4132		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14132	五毒外装笛8·颜色4
+4133		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14133	五毒外装笛9·颜色1
+4134		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14134	五毒外装笛9·颜色2
+4135		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14135	五毒外装笛9·颜色3
+4136		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14136	五毒外装笛9·颜色4
+4137		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14137	五毒外装笛10·颜色1
+4138		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14138	五毒外装笛10·颜色2
+4139		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14139	五毒外装笛10·颜色3
+4140		Player/Doodads/weapons/Prefabs/f6_w_h001.prefab		14140	五毒外装笛10·颜色4
+4201	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14201	14201	藏剑外装剑1·颜色1
+4202	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14202	14202	藏剑外装剑1·颜色2
+4203	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14203	14203	藏剑外装剑1·颜色3
+4204	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14204	14204	藏剑外装剑1·颜色4
+4205	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14205	14205	藏剑外装剑2·颜色1
+4206	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14206	14206	藏剑外装剑2·颜色2
+4207	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14207	14207	藏剑外装剑2·颜色3
+4208	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14208	14208	藏剑外装剑2·颜色4
+4209	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14209	14209	藏剑外装剑3·颜色1
+4210	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14210	14210	藏剑外装剑3·颜色2
+4211	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14211	14211	藏剑外装剑3·颜色3
+4212	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14212	14212	藏剑外装剑3·颜色4
+4213	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14213	14213	藏剑外装剑4·颜色1
+4214	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14214	14214	藏剑外装剑4·颜色2
+4215	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14215	14215	藏剑外装剑4·颜色3
+4216	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14216	14216	藏剑外装剑4·颜色4
+4217	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14217	14217	藏剑外装剑5·颜色1
+4218	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14218	14218	藏剑外装剑5·颜色2
+4219	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14219	14219	藏剑外装剑5·颜色3
+4220	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14220	14220	藏剑外装剑5·颜色4
+4221	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14221	14221	藏剑外装剑6·颜色1
+4222	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14222	14222	藏剑外装剑6·颜色2
+4223	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14223	14223	藏剑外装剑6·颜色3
+4224	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14224	14224	藏剑外装剑6·颜色4
+4225	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14225	14225	藏剑外装剑7·颜色1
+4226	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14226	14226	藏剑外装剑7·颜色2
+4227	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14227	14227	藏剑外装剑7·颜色3
+4228	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14228	14228	藏剑外装剑7·颜色4
+4229	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14229	14229	藏剑外装剑8·颜色1
+4230	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14230	14230	藏剑外装剑8·颜色2
+4231	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14231	14231	藏剑外装剑8·颜色3
+4232	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14232	14232	藏剑外装剑8·颜色4
+4233	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14233	14233	藏剑外装剑9·颜色1
+4234	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14234	14234	藏剑外装剑9·颜色2
+4235	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14235	14235	藏剑外装剑9·颜色3
+4236	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14236	14236	藏剑外装剑9·颜色4
+4237	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14237	14237	藏剑外装剑10·颜色1
+4238	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14238	14238	藏剑外装剑10·颜色2
+4239	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14239	14239	藏剑外装剑10·颜色3
+4240	Player/Doodads/weapons/Prefabs/m7_w_s001_l.prefab	Player/Doodads/weapons/Prefabs/m7_w_s001_r.prefab	14240	14240	藏剑外装剑10·颜色4
+4301		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14301	长歌外装扇1·颜色1
+4302		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14302	长歌外装扇1·颜色2
+4303		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14303	长歌外装扇1·颜色3
+4304		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14304	长歌外装扇1·颜色4
+4305		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14305	长歌外装扇2·颜色1
+4306		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14306	长歌外装扇2·颜色2
+4307		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14307	长歌外装扇2·颜色3
+4308		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14308	长歌外装扇2·颜色4
+4309		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14309	长歌外装扇3·颜色1
+4310		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14310	长歌外装扇3·颜色2
+4311		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14311	长歌外装扇3·颜色3
+4312		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14312	长歌外装扇3·颜色4
+4313		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14313	长歌外装扇4·颜色1
+4314		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14314	长歌外装扇4·颜色2
+4315		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14315	长歌外装扇4·颜色3
+4316		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14316	长歌外装扇4·颜色4
+4317		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14317	长歌外装扇5·颜色1
+4318		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14318	长歌外装扇5·颜色2
+4319		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14319	长歌外装扇5·颜色3
+4320		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14320	长歌外装扇5·颜色4
+4321		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14321	长歌外装扇6·颜色1
+4322		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14322	长歌外装扇6·颜色2
+4323		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14323	长歌外装扇6·颜色3
+4324		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14324	长歌外装扇6·颜色4
+4325		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14325	长歌外装扇7·颜色1
+4326		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14326	长歌外装扇7·颜色2
+4327		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14327	长歌外装扇7·颜色3
+4328		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14328	长歌外装扇7·颜色4
+4329		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14329	长歌外装扇8·颜色1
+4330		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14330	长歌外装扇8·颜色2
+4331		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14331	长歌外装扇8·颜色3
+4332		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14332	长歌外装扇8·颜色4
+4333		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14333	长歌外装扇9·颜色1
+4334		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14334	长歌外装扇9·颜色2
+4335		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14335	长歌外装扇9·颜色3
+4336		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14336	长歌外装扇9·颜色4
+4337		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14337	长歌外装扇10·颜色1
+4338		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14338	长歌外装扇10·颜色2
+4339		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14339	长歌外装扇10·颜色3
+4340		Player/Doodads/weapons/Prefabs/f7_w_s001.prefab		14340	长歌外装扇10·颜色4

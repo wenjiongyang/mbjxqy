@@ -1,0 +1,22 @@
+XinShouLogin.tbDef = XinShouLogin.tbDef or {}
+local tbDef = XinShouLogin.tbDef
+tbDef.nFubenMapID = 1
+tbDef.nNpcTID = 511
+tbDef.nNpcLevel = 70
+tbDef.nPlayXinShouCG = 1
+tbDef.tbFactionBuff = {
+  [1] = 2202,
+  [2] = 2203,
+  [3] = 2204,
+  [4] = 2205,
+  [5] = 2206,
+  [6] = 2207,
+  [7] = 2208,
+  [8] = 2209,
+  [9] = 2210,
+  [10] = 2211,
+  [11] = 2212,
+  [12] = 2213,
+  [13] = 2221,
+  [14] = 2222
+}

@@ -1,0 +1,14 @@
+Name	Level	PowerValue	ImgPrefix	NeedPower	TimeFrame	RepairTimeFrame	NeedFubenStar	ItemID	ItemCount	IsNotice
+超凡	1	200	Title1_	100	OpenLevel39					
+出尘	2	600	Title2_	8000	OpenLevel39					
+惊鸿	3	1200	Title3_	15000	OpenLevel39					
+凌云	4	2400	Title4_	24000	OpenLevel39			1393	2	1
+御空	5	4800	Title5_	48000	OpenLevel39			1393	4	1
+潜龙	6	8800	Title6_	80000	OpenLevel39			1394	4	1
+傲世	7	16800	Title7_	150000	OpenLevel39			1394	8	1
+倚天	8	16800	Title8_	300000	OpenLevel39			1395	8	1
+至尊	9	32000	Title9_	600000	OpenLevel39			1395	16	1
+武圣	10	72000	Title10_	1200000	OpenLevel39			1396	12	1
+无双	11	144000	Title11_	2400000	OpenDay188			1396	24	1
+传说	12	300000	Title12_	5000000	OpenDay720			1397	30	1
+神话	13	600000	Title13_	10000000	OpenDay720			1397	60	1

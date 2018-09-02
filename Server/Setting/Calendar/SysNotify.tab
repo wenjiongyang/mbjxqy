@@ -1,0 +1,12 @@
+StringKey	LevelMin	LimitFunc	Name	Message	BeforSec	DefaultSel
+Boss	20		武林盟主	挑戰武林盟主開啟，速來挑戰吧	300	1
+Battle	24		宋金戰場	最熱血澎湃的宋金戰場開戰了！	0	0
+FieldBoss	30		歷代名將	挑戰歷代名將開啟，速來挑戰吧	300	1
+KinGather	11	NeedKin	幫派烤火	幫派聚集時間到了，快來參加吧！	300	1
+DomainBattle	20	NeedKin	攻城戰	攻城戰開啟，速來挑戰吧！	300	1
+FactionBattle	30		門派競技	門派競技即將開啟，快來挑戰門派新人王！	300	1
+TeamBattle	30		通天塔	通天塔即將開啟，等你來挑戰7層！	300	1
+KinFuben	30	NeedKin	幫派試煉	幫派試煉時間到了，快和幫派好友一起試煉吧！	300	1
+ImperialTombEmperor	60	NeedKin	始皇降世	秦始皇即將現身於世，與幫派一同前往挑戰吧！	300	1
+InDifferBattle	60		心魔幻境	心魔幻境即將開啟！無差別競技，感受純操作的競技快感。	300	0
+ImperialTombFemaleEmperor	60	NeedKin	女帝復蘇	武則天即將復蘇於世，與幫派一同前往挑戰吧！	300	1

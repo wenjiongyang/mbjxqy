@@ -1,0 +1,7 @@
+nSectionIdx	nSubSectionIdx	nMapTemplateId	nMinLevel	szOpenTimeFrame	szName	szSprite	szAtlas	szFubenDesc	szAward	szShowItem	szMissionSumup
+1	1	300	15	OpenLevel39	藏劍山莊	Mijing_03	UI/Atlas/Fuben/FubenMap_01.prefab	藏劍山莊的秘密之所，此處既是鑄劍池，亦是葬劍塚，是劍誕生之所，也是其終結之地		Item|1709|1;Item|2430|1;Item|1173|1;	
+1	2	301	15	OpenLevel49	武夷禁地	Mijing_02	UI/Atlas/Fuben/FubenMap_01.prefab	江南霹靂堂研製火藥、暗器的基地		Item|1721|1;Item|2430|1;Item|1174|1;	
+1	3	302	15	OpenLevel69	熔火霹靂	Mijing_01	UI/Atlas/Fuben/FubenMap_01.prefab	五毒教長老勾冊醉心研究屍蠱，建立的秘密基地		Item|1768|1;Item|2431|1;Item|1176|1;	
+1	4	303	15	OpenLevel89	翠竹幽谷	Mijing_04	UI/Atlas/Fuben/FubenMap_01.prefab	蜀南某處竹林，唐影與秋依水相約此處，然而卻來了一位不速之客......		Item|1770|1;Item|2431|1;Item|1178|1;	
+1	5	304	15	OpenLevel109	呼嘯棧道	Mijing_05	UI/Atlas/Fuben/FubenMap_02.prefab	呼嘯棧道地勢奇詭，風從迷霧中送來陣陣淒厲的尖叫，逝去靈魂的怨念在此處凝聚......		Item|3855|1;Item|2431|1;Item|1180|1;	
+1	6	305	15	OpenLevel129	雪峰硝煙	Mijing_06	UI/Atlas/Fuben/FubenMap_02.prefab	此地曾是南方武人抗金的營地，叛徒出賣導致營地被金軍重兵包圍，風雪中夾雜著慘烈的血腥味......		Item|4874|1;Item|2431|1;Item|5611|1;	

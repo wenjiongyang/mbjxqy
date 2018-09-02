@@ -1,0 +1,31 @@
+SkillId	CastType	CastRadius	DamageRadius	desc
+206	target	750	170	野蛮冲撞
+310	direction	600		江海凝波
+407	direction	700		飞火流星
+410	target	900	200	九曜连珠
+412	direction	900		穿云破月
+510	direction	700		白虹贯日
+609	target	1000	200	剑飞惊天
+615	target	1000	270	天地无极
+611	direction	1000		人剑合一
+708	direction	700		死亡回旋
+722	target	1000	170	摄魂乱心
+266	direction	700		降龙棍
+268	direction	700		大力金刚指
+806	direction	700		天罗璇玑
+808	target	900	270	雨打梨花
+4008	target	700	120	暴雨梨花
+4010	direction	550		迷影纵
+4106	direction	700		仙人指路
+4110	direction	600		啸风三连击
+4206	direction	700		亢龙有悔
+4208	target	700	210	困龙功
+4213	target	700	270	龙战于野
+4309	target	1000	200	阴风蚀骨
+4334	target	700	130	迷心蛊
+4339	target	1000	270	万蛊蚀心
+4406	direction	900		九溪弥烟
+4408	target	750	170	平湖断月
+4413	target	700	270	峰插云景
+4506	direction	700		平沙雁落
+4518	target	700	340	江逐月天

@@ -1,0 +1,14 @@
+nId	szDesc	nLevelMin	nLevelMax	szTimeFrameOpen	szActiveTimeFrame	nNeed
+1	參加2次宋金戰場	24			StartBattle	2
+2	參加2次歷代名將	30		OpenDay7		2
+3	參加1次通天塔	30			CheckStartTeamBattle	1
+4	參加1次幫派運鏢	30		OpenDay5		1
+5	參加1次門派競技	30			StartFactionBattle	1
+6	參加2次野外首領	20		OpenDay3C		2
+7	參加1次幫派試煉	15		OpenDay4		1
+8	參加1次攻城戰	20		OpenDomainBattle	StartDomainBattle	1
+9	參加1次白虎堂	30			StartWhiteTiger	1
+10	參加3次武林盟主	20		OpenDay1A		3
+11	參加3次幫派烤火	11			KinGather	3
+12	參加1次心魔幻境	60			OpenIndiffer	1
+13	參加1次始皇降世	60		OpenDay89		1

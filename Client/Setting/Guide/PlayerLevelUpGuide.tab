@@ -1,0 +1,46 @@
+szType	nLevel	nPreferential	szParam	nLight	nCalendarId	bShowTicket	szIconAltas	szIconSprite	szName	szDesc	
+Level	10		15				UI/Atlas/Item/Item/Item3.prefab	horse_lv1	坐骑	15级可获得	nPreferential：显示的优先级，越大优先级越高
+Level	15		18				UI/Atlas/Home/HomeScreenAtlas.prefab	touxian_01	头衔	18级可获得	
+Level	18		20				UI/Atlas/NewAtlas/Equipment/WudangEquipment02.prefab	WD_Weapon_T2_Q1	紫色武器	20级可获得	
+Level	20		24				UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金战场	24级可参加	
+Level	24		27				UI/Atlas/Item/Item/Item.prefab	WuDaoDeJing	武道德经(技能点)	27级可获得	
+Level	27		30				UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaishouling	野外首领	30级可参与争夺	
+OpenServer	24	1	1;18:00-20:45		3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金战场	今晚20:30	nCalendarId：点击事件，目前只支持点击跳到日历
+PreView	30	1	8:00-21:00		27		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	门派竞技	今晚21:00	
+PreView	30	1	21:00-21:05	1	27		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	门派竞技	正在报名	
+PreView	30	1	8:00-21:00		26	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	通天塔	今晚21:00	bShowTicket: 是否显示资格赛门票
+PreView	30	1	21:00-21:05	1	26	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	通天塔	正在报名	
+PreView	20	1	8:00-21:00		33		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	攻城战	今晚21:00	
+PreView	20	1	21:00-21:05	1	33		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	攻城战	正在报名	
+PreView	20	1	8:00-21:00		30		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	家族试炼	今晚21:00	
+PreView	20	1	21:00-21:05	1	30		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	家族试炼	正在报名	
+PreView	80	1	8:00-21:00		11		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	群英会	今晚21:00	
+PreView	80	1	21:00-21:05	1	11		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	群英会	正在报名	
+PreView	30	2	15:25-15:35	1	12		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	历代名将	正在进行	
+PreView	30	2	21:55-22:05	1	12		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	历代名将	正在进行	
+PreView	60	1	21:05-21:30		35		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	华山论剑	今晚21:30	
+PreView	60	1	21:30-21:55		35		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	华山论剑	正在比赛	
+PreView	20	1	21:05-21:30		36		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	华山论剑-决赛	今晚21:30	
+PreView	20	1	21:30-21:45		36		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	华山论剑-决赛	正在比赛	
+PreView	60	1	21:55-22:05	1	38		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qinshihuangling	始皇降世	正在进行	
+PreView	80	1	21:55-22:05	1	45		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	nvdiyizhong	女帝复苏	正在进行	
+ByServer	24	2	BattleCross	1	3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		正在进行	
+ByServer	24	2	BattleHundred	1	3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		正在进行	
+ByServer	24	2	BattleMonth	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		正在进行	
+ByServer	24	2	BattleSeason	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		正在进行	
+ByServer	24	2	BattleYear	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		正在进行	
+ActShow	20	2	DaXueZhang;13:30-13:44		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	打雪仗	正在进行	szParam说明：第一个参数为活动Type，第二个参数为时间范围，中间用";""隔开"
+ActShow	20	2	DaXueZhang;16:00-16:14		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	打雪仗	正在进行	szParam说明：第一个参数为活动Type，第二个参数为时间范围，中间用";""隔开"
+ActShow	20	2	DaXueZhang;20:00-20:14		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	打雪仗	正在进行	szParam说明：第一个参数为活动Type，第二个参数为时间范围，中间用";""隔开"
+PreView	60	2	16:00-16:30		42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	下午16:25	
+PreView	60	3	16:25-16:30	1	42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	正在报名	
+PreView	60	2	20:00-20:31		42	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	今晚20:26	
+PreView	60	3	20:26-20:31	1	42	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	正在报名	
+PreView	60	2	22:05-22:30		42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	今晚22:25	
+PreView	60	3	22:25-22:30	1	42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	心魔幻境	正在报名	
+PreView	24	2	16:00-16:30		46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	下午16:30	
+PreView	24	3	16:30-16:35	1	46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	正在报名	
+PreView	24	2	20:00-20:30		46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	今晚20:30	
+PreView	24	3	20:30-20:35	1	46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	正在报名	
+PreView	24	2	22:00-22:30		46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	今晚22:30	
+PreView	24	3	22:30-22:35	1	46		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	宋金攻防战	正在报名	

@@ -1,0 +1,15 @@
+goto_ty	1205	6519
+Out_sn	1520	6495
+goto_sn	6171	18080
+Out_ty	5887	18062
+sn	906	3587
+sn	6251	8948
+ty	995	12577
+ty	12515	24113
+GoOut	1967	18145
+Entrance	2322	18120
+chuangong	1557	6592
+chuangong	1555	6424
+xuyuanshu	5532	21036
+PackupRange	1414	7268
+PackupRange	2767	7345

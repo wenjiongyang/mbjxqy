@@ -1,0 +1,410 @@
+Name	Path	IsPreLoad	Layer	Desc	BlackBg	AutoHideInFightMode	IsStay	OpenSound	CloseSound	OpenAni	CloseAni	BackBtnClose
+Login	UI/Prefabs/Login/Login_v1.prefab		LAYER_NORMAL	登录								
+LoginBg	UI/Prefabs/Login/Login_Bg.prefab		LAYER_NORMAL	登录背景	1							
+SituationalDialogue	UI/Prefabs/SituationalDialogue.prefab		LAYER_NORMAL	剧情对话						SituationalDialogueOpen		
+MessageBox	UI/Prefabs/Tips&notice/MessageBox.prefab		LAYER_POPUP	通用弹窗				8002	8003	NormalOpen		
+Commander	UI/Prefabs/Debug/Commander.prefab		LAYER_DEBUG	姬爱母界面								
+HomeScreenTask	UI/Prefabs/HomeScreen/HomeScreenTask.prefab		LAYER_HOME	主界面-任务								
+HomeScreenBattle	UI/Prefabs/HomeScreen/HomeScreenBattle.prefab		LAYER_HOME	主界面-技能			1					
+HomeScreenExpBar	UI/Prefabs/HomeScreen/HomeScreenExpBar.prefab		LAYER_HOME	主界面-经验								
+Task	UI/Prefabs/Task/NewTask.prefab		LAYER_NORMAL	任务	1			8002	8003	NormalOpen	NormalClose	1
+PkMode	UI/Prefabs/HomeScreen/Modewidget.prefab		LAYER_HOME	PK模式								
+PkModeGuide	UI/Prefabs/HomeScreen/ModeWidgetGuide.prefab		LAYER_GUIDE	PK模式导引								
+TeamRequestQueue	UI/Prefabs/Team/TeamRequestQueue.prefab		LAYER_NORMAL	队伍申请列表						NormalOpen		
+RoleHead	UI/Prefabs/Role/RoleHead.prefab		LAYER_HOME	角色头像								
+ChatLargePanel	UI/Prefabs/ChatNew/ChatLargePanel.prefab		LAYER_NORMAL	聊天详细								
+ChatRightPopup	UI/Prefabs/ChatNew/ChatRightPopup.prefab		LAYER_POPUP	聊天互动表情								
+CopyTipPanel	UI/Prefabs/ChatNew/CopyTipPanel.prefab		LAYER_NORMAL	复制								
+ChatSmall	UI/Prefabs/Chat/ChatSmall.prefab		LAYER_HOME	主界面-聊天								
+FakeJoyStick	UI/Prefabs/FakeJoyStick.prefab		LAYER_HOME	假摇杆界面								
+HomeScreenFuben	UI/Prefabs/Fuben/HomeScreenFuben.prefab		LAYER_HOME	战斗主界面-副本信息								
+PersonalFubenEntrance	UI/Prefabs/Fuben/FubenEntrance.prefab		LAYER_NORMAL	普通关卡主界面	1					NormalOpen	NormalClose	
+PersonalFubenSucces	UI/Prefabs/Fuben/PersonalFubenSuccesPanel.prefab		LAYER_NORMAL	关卡-战斗胜利	1							
+PersonalFubenFail	UI/Prefabs/Fuben/PersonalFubenFail.prefab		LAYER_NORMAL	关卡-战斗失败	1					NormalOpen	NormalClose	
+PersonalFubenDeath	UI/Prefabs/Fuben/DeathInformationPopup.prefab		LAYER_NORMAL	关卡-死亡弹窗	1					NormalOpen	NormalClose	
+GetPosition	UI/Prefabs/GetPosition.prefab		LAYER_DEBUG									
+GetNotice	UI/Prefabs/Tips&notice/GetNotice.prefab		LAYER_INFO									
+ItemBox	UI/Prefabs/Role&BagPannle.prefab		LAYER_NORMAL	背包	1			8002	8003	NormalOpen	NormalClose	1
+TaskNotice	UI/Prefabs/Tips&notice/TaskNotice.prefab		LAYER_INFO									
+SystemNotice	UI/Prefabs/Tips&notice/SystemNotice.prefab		LAYER_INFO				1					
+LoadingTips	UI/Prefabs/Tips&notice/LoadingTips.prefab		LAYER_LOADING				1					
+TopButton	UI/Prefabs/HomeScreen/HomeScreenTopButton.prefab		LAYER_HOME	主界面-功能按钮集			1					
+NpcStrip	UI/Prefabs/NPCstrip.prefab		LAYER_INFO									
+LogMsg	UI/Prefabs/Debug/LogMsg.prefab		LAYER_DEBUG									
+SkillPanel	UI/Prefabs/Skill/SkillPanel.prefab		LAYER_NORMAL	技能主界面	1			8002	8003	NormalOpen	NormalClose	1
+EquipTips	UI/Prefabs/Tips&notice/equipmengttipspanle.prefab		LAYER_POPUP	装备信息界面						NormalOpen		1
+SkillCheatsPanel	UI/Prefabs/Skill/SkillCheatsPanel.prefab		LAYER_POPUP	秘籍信息界面						NormalOpen		1
+SkillCheatsComparePanel	UI/Prefabs/Skill/SkillCheatsPanel.prefab		LAYER_POPUP	秘籍信息对比界面						NormalOpen		1
+CheatsOperationPanel	UI/Prefabs/Skill/CheatsPanel.prefab		LAYER_NORMAL	秘籍操作界面	1					NormalOpen		1
+CompareTips	UI/Prefabs/Tips&notice/equipmengttipspanle.prefab		LAYER_POPUP	同伴信息界面						NormalOpen		1
+HomeScreenMiniMap	UI/Prefabs/HomeScreen/HomeScreenMiniMap.prefab		LAYER_HOME	主界面-小地图								
+BattleTopButton	UI/Prefabs/HomeScreen/BattleTopButton.prefab		LAYER_HOME	战斗主界面-背包回城								
+TeamFubenEntrance	UI/Prefabs/Fuben/FubenDetails.prefab		LAYER_NORMAL	组队副本详细信息界面	1					NormalOpen	NormalClose	1
+RandomFubenMission	UI/Prefabs/Fuben/MijingAccountPanle.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+TeamFubenMission	UI/Prefabs/Fuben/MijingAccountPanle_Team.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+CommonDeathPopup	UI/Prefabs/Tips&notice/CommonDeathPopup.prefab		LAYER_NORMAL							NormalOpen		
+CommonShop	UI/Prefabs/Shop/CommonShop.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+MiniMap	UI/Prefabs/MiniMap/MiniMap.prefab		LAYER_NORMAL	中地图	1					NormalOpen	NormalClose	1
+BattleLabel	UI/Prefabs/Label.prefab		LAYER_HOME									
+WorldMap	UI/Prefabs/MiniMap/WorldMap.prefab		LAYER_NORMAL	世界地图	1					NormalOpen	NormalClose	1
+RefinementPanel	UI/Prefabs/Strengthen/Refinement.prefab		LAYER_POPUP									1
+SocialPanel	UI/Prefabs/SocialNew/SocialPanel.prefab		LAYER_NORMAL	社交界面	1			8002	8003	NormalOpen	NormalClose	1
+Partner	UI/Prefabs/Companion/CompanionPanel.prefab		LAYER_NORMAL	貌似是同伴界面	1			8002	8003	NormalOpen	NormalClose	1
+StrengthenPanel	UI/Prefabs/Strengthen/StrengthenPanel.prefab		LAYER_NORMAL	强化界面	1					NormalOpen	NormalClose	1
+WantedTips	UI/Prefabs/SocialNew/PublishWantedPanel.prefab		LAYER_POPUP	通缉弹窗						NormalOpen		
+ChatSetting	UI/Prefabs/Chat/ChatSetting.prefab		LAYER_NORMAL	聊天设定	1					NormalOpen		1
+WantedAccountS	UI/Prefabs/SocialNew/RevengeSettlePanel.prefab		LAYER_NORMAL	通缉结算界面	1					NormalOpen	NormalClose	
+ChatItemPopup	UI/Prefabs/Chat/ChatItemPopup.prefab		LAYER_POPUP									1
+FubenSectionPanel	UI/Prefabs/Fuben/FubenSelectionPanel.prefab		LAYER_NORMAL	副本章卡牌列表	1	1				NormalOpen	NormalClose	1
+RefineNotice	UI/Prefabs/Strengthen/RefineNotice.prefab		LAYER_POPUP									
+CreateRole	UI/Prefabs/Login/CreateRolePanel.prefab		LAYER_HOME	创建角色								
+MissionAward	UI/Prefabs/Fuben/MissionAwardPanel.prefab		LAYER_NORMAL	事后奖励	1					NormalOpen	NormalClose	
+Setting	UI/Prefabs/Setting/Setting.prefab		LAYER_NORMAL	设置界面	1					NormalOpen	NormalClose	1
+RankPanel	UI/Prefabs/Rank/RankPanel.prefab		LAYER_NORMAL	武神殿	1			8002	8003	NormalOpen	NormalClose	1
+FamilyDonation	UI/Prefabs/Family/FamilyDonationPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+CardPickingResult	UI/Prefabs/Companion/CardPickingResult.prefab		LAYER_NORMAL	抽卡结果	1					NormalOpen	NormalClose	
+ChatEmotionLink	UI/Prefabs/ChatNew/ChatEmotionLinkPanel.prefab		LAYER_NORMAL									1
+NpcDialog	UI/Prefabs/Npc/NpcDialogue.prefab		LAYER_NORMAL	默认对话						NormalOpen		
+EquipStarAttribTips	UI/Prefabs/Tips&notice/EquipStarAttribTipsNew.prefab		LAYER_POPUP									1
+DebrisPanel	UI/Prefabs/Duobao/DuobaoPanel.prefab		LAYER_NORMAL	碎片抢夺	1			8002	8003	NormalOpen	NormalClose	
+DebrisRobList	UI/Prefabs/Duobao/FragSnatchTarget.prefab		LAYER_NORMAL	碎片抢夺列表	1					NormalOpen	NormalClose	
+DebrisFlipCard	UI/Prefabs/Duobao/FragSnatchFailure.prefab		LAYER_NORMAL	碎片抢夺失败翻牌	1					NormalOpen	NormalClose	
+DebrisResult	UI/Prefabs/Duobao/ComposeSuccessAni.prefab		LAYER_NORMAL	碎片抢夺合成结果	1					NormalOpen	NormalClose	
+DebrisAvoidRob	UI/Prefabs/Duobao/SaleforMSJP.prefab		LAYER_NORMAL	碎片抢夺购买免战						NormalOpen		
+DebrisMoreRobResult	UI/Prefabs/Duobao/FragmentSnathAccount.prefab		LAYER_NORMAL	碎片抢夺连续抢夺结果						NormalOpen		
+BossPanel	UI/Prefabs/Boss/Boss.prefab		LAYER_NORMAL	挑战武林盟主主界面	1	1				NormalOpen	NormalClose	1
+BossRobList	UI/Prefabs/Boss/BossRobList.prefab		LAYER_NORMAL	挑战武林盟主抢夺列表界面						NormalOpen		1
+BossRobResult	UI/Prefabs/Boss/BossRobResult.prefab		LAYER_NORMAL	挑战武林盟主抢夺结算界面	1					NormalOpen	NormalClose	
+ShowAward	UI/Prefabs/Tips&notice/ShowAward.prefab		LAYER_NORMAL	通用获得奖励接口	1					NormalOpen	NormalClose	
+QuickUseItem	UI/Prefabs/TreasureMap.prefab		LAYER_NORMAL	看起来像是快速使用道具						NormalOpen		
+MyAuctionPanel	UI/Prefabs/Family/MyAuctionPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+HomeScreenBattleInfo	UI/Prefabs/BattleField/HomeScreenBattleInfo.prefab		LAYER_HOME	战场信息								
+BattleReport	UI/Prefabs/BattleField/BattleReport.prefab		LAYER_NORMAL	战场战报	1					NormalOpen	NormalClose	1
+CommerceTaskPanel	UI/Prefabs/Task/CommerceTaskPanel.prefab		LAYER_NORMAL	商会任务	1			8002	8003	NormalOpen	NormalClose	1
+VoiceRecord	UI/Prefabs/Chat/VoicePanle.prefab		LAYER_INFO	录音提示界面								
+CommerceHelpPanel	UI/Prefabs/Task/CommerceHelpPanel.prefab		LAYER_POPUP									
+LevelUpPopup	UI/Prefabs/Role/LevelUp.prefab		LAYER_POPUP	升级弹窗界面						NormalOpen		
+AchievementPanel	UI/Prefabs/Achievement/AchievementPanel.prefab		LAYER_NORMAL	成就界面	1			8002	8003	NormalOpen	NormalClose	1
+BattleEntrance	UI/Prefabs/BattleField/BattleEntrance.prefab		LAYER_NORMAL	战场报名	1					NormalOpen	NormalClose	1
+AchievementDisplay	UI/Prefabs/Achievement/AchievementDisplay.prefab		LAYER_NORMAL							AchievementOpen	AchievementMove	
+FubenStarAward	UI/Prefabs/Fuben/FubenStarAward.prefab		LAYER_NORMAL	关卡星级奖励						NormalOpen		
+TitleChangePanel	UI/Prefabs/TitleChangePanel.prefab		LAYER_POPUP	更换称号						NormalOpen		1
+ChatAchievementPopup	UI/Prefabs/Achievement/ChatAchievementPopup.prefab		LAYER_POPUP									1
+NotifyMsgList	UI/Prefabs/Tips&notice/NewsPanel.prefab		LAYER_NORMAL	处理消息列表	1					NormalOpen	NormalClose	1
+DungeonInviteList	UI/Prefabs/Dungeons/InvitePanel.prefab		LAYER_NORMAL	地宫邀请列表						NormalOpen		1
+BgBlack	UI/Prefabs/HomeScreen/BgBlack.prefab		LAYER_BG	探索黑色遮挡								
+HelperList	UI/Prefabs/Helper/SelectHelper.prefab		LAYER_NORMAL	助战列表						NormalOpen		
+ExplorationFubenPanel	UI/Prefabs/Fuben/ExplorationFubenPanel.prefab		LAYER_HOME	地图探索								1
+MeetEnemyPanel	UI/Prefabs/Fuben/MeetEnemyPanel.prefab		LAYER_NORMAL	探索遇敌						NormalOpen		
+PartnerDetail	UI/Prefabs/Companion/CompanionDetailPanel.prefab		LAYER_NORMAL	同伴详细信息界面	1					NormalOpen	NormalClose	1
+KinJoinPanel	UI/Prefabs/NewFamily/JoinFamilyPanel.prefab		LAYER_NORMAL	加入家族界面	1					NormalOpen	NormalClose	1
+KinCreatePanel	UI/Prefabs/NewFamily/CreateFamily.prefab		LAYER_NORMAL	创建家族界面	1					NormalOpen	NormalClose	1
+KinDetailPanel	UI/Prefabs/NewFamily/FamilyPanel.prefab		LAYER_NORMAL	家族详细界面	1			8002	8003	NormalOpen	NormalClose	1
+KinApplyList	UI/Prefabs/NewFamily/ApplyListPanel.prefab		LAYER_NORMAL	家族申请界面	1					NormalOpen	NormalClose	1
+KinRecruit	UI/Prefabs/NewFamily/RecruitPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinMgrPanel	UI/Prefabs/NewFamily/KinMgrPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinChangeCareer	UI/Prefabs/NewFamily/FamilyCareer.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinAnswerPanel	UI/Prefabs/NewFamily/AnswerPanel.prefab		LAYER_NORMAL	家族答题界面						NormalOpen		
+KinDicePanel	UI/Prefabs/NewFamily/DicePanel.prefab		LAYER_NORMAL									
+KinDeclareEditor	UI/Prefabs/NewFamily/FamilyDeclarationPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+ViewRolePanel	UI/Prefabs/OthersDetailPanel.prefab		LAYER_NORMAL	查看玩家						NormalOpen		1
+MapLoading	UI/Prefabs/Loading/Loading.prefab	1	LAYER_LOADING	切换场景读条			1					
+MailDetailedPanel	UI/Prefabs/Chat/MailDetailedPanel.prefab		LAYER_NORMAL	邮箱内容								1
+CalendarPanel	UI/Prefabs/Calendar/Calendar.prefab		LAYER_NORMAL	活动日历	1					NormalOpen	NormalClose	1
+ActivityTip	UI/Prefabs/Calendar/ActivityTip.prefab		LAYER_POPUP									1
+AutoSkillSetting	UI/Prefabs/AutoSkillSetting.prefab		LAYER_NORMAL	自动战斗设置界面	1					NormalOpen	NormalClose	1
+FightPowerTip	UI/Prefabs/Tips&notice/FightPowerTip.prefab		LAYER_INFO									
+ViewFight	UI/Prefabs/Chat/ViewFight.prefab		LAYER_NORMAL	UI战斗								
+Guide	UI/Prefabs/Guide.prefab		LAYER_GUIDE	引导界面								
+ColorMsgPanel	UI/Prefabs/ChatNew/ColorPanel.prefab		LAYER_NORMAL									1
+PrayPanel	UI/Prefabs/Pray/PrayPanel.prefab		LAYER_NORMAL	祈福界面	1					NormalOpen	NormalClose	1
+FriendApplyPanel	UI/Prefabs/SocialNew/FriendApplyPanel.prefab		LAYER_NORMAL	好友申请列表						NormalOpen		1
+AddFriendPanel	UI/Prefabs/SocialNew/AddFriendPanel.prefab		LAYER_NORMAL	查找添加好友						NormalOpen		1
+RightPopup	UI/Prefabs/RightPopup.prefab		LAYER_POPUP	右键菜单操作列表								1
+RoleInformationPanel	UI/Prefabs/Role/RoleInformationPanel.prefab		LAYER_NORMAL	角色头像信息	1					NormalOpen		1
+ChuangGongPanel	UI/Prefabs/Chat/ChuangGongPanel.prefab		LAYER_NORMAL	传功						NormalOpen	NormalClose	
+PortraitSelectPanel	UI/Prefabs/Role/HeadSelectPanel.prefab		LAYER_NORMAL	角色头像选择	1					NormalOpen	NormalClose	1
+QYHbattleInfo	UI/Prefabs/QueYingHui/QYHbattleInfo.prefab		LAYER_NORMAL									
+QYHEntrance	UI/Prefabs/QueYingHui/QYHEntrance.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+QYHAccount	UI/Prefabs/QueYingHui/QYHAccount.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+QYHLeftInfo	UI/Prefabs/QueYingHui/QYHLeftInfo.prefab		LAYER_NORMAL									
+BattleFieldTips	UI/Prefabs/BattleField/TipsForKills.prefab		LAYER_INFO	战场中屏提示信息								
+WelfareActivity	UI/Prefabs/WelfareActivities/WelfareActivities.prefab		LAYER_NORMAL	福利界面	1					NormalOpen	NormalClose	1
+ChangeName	UI/Prefabs/Role/ChangeNamePanel.prefab		LAYER_NORMAL	改名字						NormalOpen		1
+RankBoardPanel	UI/Prefabs/Rank/RankingListPanel.prefab		LAYER_NORMAL	排行榜	1					NormalOpen	NormalClose	1
+AutoLeaveTip	UI/Prefabs/Fuben/AutomaticallyLeavePanel.prefab		LAYER_INFO	探索自动离开的提示								
+NumberKeyboard	UI/Prefabs/Shop/KeyboardPanel.prefab		LAYER_POPUP	数字键盘								1
+AchievementTitle	UI/Prefabs/Achievement/AchievementTipPanel.prefab		LAYER_POPUP	成就页面称号弹框								
+ActivityQuestion	UI/Prefabs/Quiz/Quiz.prefab		LAYER_NORMAL	答题活动ui	1					NormalOpen	NormalClose	1
+KinMailPanel	UI/Prefabs/NewFamily/FamliyMailPanel.prefab		LAYER_NORMAL	家族邮件								1
+SpecialLife	UI/Prefabs/SpecialLife.prefab		LAYER_NORMAL	Boss大血条								
+PartnerItemComposePanel	UI/Prefabs/Companion/CompanionRelevantPanel.prefab		LAYER_NORMAL	同伴装备合成		1						
+TeamFubenPanel	UI/Prefabs/Fuben/TeamFuebnPanel.prefab		LAYER_NORMAL	组队副本	1					NormalOpen	NormalClose	1
+MissionAwardList	UI/Prefabs/Fuben/MissionAwardList.prefab		LAYER_NORMAL	事后奖励补领UI	1					NormalOpen	NormalClose	
+PartnerItemGainPanel	UI/Prefabs/Companion/CompanionEquipmentPanel.prefab		LAYER_NORMAL	装备获取列表		1						
+TeamPanel	UI/Prefabs/Team/TeamPanel.prefab		LAYER_NORMAL	队伍界面	1					NormalOpen	NormalClose	1
+AwardTips	UI/Prefabs/Tips&notice/AwardTips.prefab		LAYER_POPUP	通用奖励界面	1					NormalOpen		
+CompanionShow	UI/Prefabs/Companion/CompanionRecruitPanel.prefab		LAYER_NORMAL	同伴展示	1					NormalOpen		
+ReadyGo	UI/Prefabs/Yibuzhandou/ReadyGo.prefab		LAYER_INFO	三二一开始界面								
+RankBattleResult	UI/Prefabs/Yibuzhandou/RankBattleResult.prefab		LAYER_NORMAL	武神殿结算界面	1					NormalOpen	NormalClose	
+ItemTips	UI/Prefabs/Tips&notice/BigItemTips.prefab		LAYER_POPUP	通用道具信息界面						NormalOpen		1
+InputBox	UI/Prefabs/Tips&notice/InputBox.prefab		LAYER_POPUP	通用输入弹窗						NormalOpen		1
+RockerGuidePanel	UI/Prefabs/RockerGuidePanel.prefab		LAYER_NORMAL									
+KinBuildingLevelUp	UI/Prefabs/NewFamily/FamilyBuildingLevelup.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinVaultPanel	UI/Prefabs/NewFamily/FamilyVaultPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinStore	UI/Prefabs/Family/FamilyStore.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+QYHLeavePanel	UI/Prefabs/QueYingHui/QYHLeavePanel.prefab		LAYER_HOME									
+PlayerLevelUp	UI/Prefabs/Role/LevelUpPanel.prefab		LAYER_NORMAL	玩家升级属性展示						NormalOpen	NormalClose	
+HonorLevelPanel	UI/Prefabs/Role/TitlePanel.prefab		LAYER_NORMAL	头衔	1					NormalOpen	NormalClose	1
+HonorLevelUp	UI/Prefabs/Role/TitleUp.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+HeroChallenge	UI/Prefabs/HeroChallenge/HeroChallenge.prefab		LAYER_NORMAL	英雄挑战	1					NormalOpen	NormalClose	1
+HeroChallengeChosse	UI/Prefabs/HeroChallenge/RoleChoose.prefab		LAYER_NORMAL	英雄挑战选择	1					NormalOpen	NormalClose	1
+TeammateSelectPop	UI/Prefabs/Team/TeammateSelectPop.prefab		LAYER_POPUP									1
+FloatingWindowDisplay	UI/Prefabs/QuickUse.prefab		LAYER_HOME	道具快速使用浮窗		1				NormalOpen		
+SkillShow	UI/Prefabs/Skill/SkillTipPanel.prefab		LAYER_POPUP	技能详细展示界面	1					NormalOpen		1
+PartnerExpUse	UI/Prefabs/Companion/CompanionExpUsePanel.prefab		LAYER_POPUP	同伴使用经验药水UI						NormalOpen		1
+KinFireDisplay	UI/Prefabs/NewFamily/FamilyRoastPanel.prefab		LAYER_NORMAL	篝火详细信息								
+StarAwardList	UI/Prefabs/Fuben/StarAwardList.prefab		LAYER_NORMAL	星级奖励列表						NormalOpen		
+RoleHeadPop	UI/Prefabs/Tips&notice/RoleHeadPop.prefab		LAYER_NORMAL	点击人物弹出头像						NormalOpen		
+UseItemPop	UI/Prefabs/Tips&notice/RoleHeadPopUse.prefab		LAYER_NORMAL	活动使用道具						NormalOpen		
+GeneralHelpPanel	UI/Prefabs/Help/Help.prefab		LAYER_POPUP	通用帮助						NormalOpen		1
+RockerGuideNpcPanel	UI/Prefabs/RockerGuideNpcPanel.prefab		LAYER_NORMAL									
+NoticePanel	UI/Prefabs/Login/NoticePanel.prefab		LAYER_NORMAL	游戏公告						NormalOpen		1
+HonorLevelPayPop	UI/Prefabs/Role/HonorLevelPayPop.prefab		LAYER_NORMAL									
+BossResult	UI/Prefabs/Boss/BossResult.prefab		LAYER_NORMAL		1	1				NormalOpen	NormalClose	1
+BossLeaderPanel	UI/Prefabs/Calendar/BossLeaderPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+SnowballPanel	UI/Prefabs/Calendar/SnowballPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+ChangeFactionPanel	UI/Prefabs/ChangeFactionPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJPanel	UI/Prefabs/HuaShanLunJian/HSLJPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+TeamRelatedPanel	UI/Prefabs/HuaShanLunJian/TeamRelatedPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+CreateTeamPanel	UI/Prefabs/HuaShanLunJian/CreateTeamPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJAccount	UI/Prefabs/HuaShanLunJian/HSLJAccount.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJBattleInfo	UI/Prefabs/HuaShanLunJian/HSLJBattleInfo.prefab		LAYER_HOME									
+HSLJBattlefieldPanel	UI/Prefabs/HuaShanLunJian/HSLJBattlefieldPanel.prefab		LAYER_NORMAL		1							
+TeamDetailsPanel	UI/Prefabs/HuaShanLunJian/TeamDetailsPanel.prefab		LAYER_NORMAL		1							
+AssistCompanionPanel	UI/Prefabs/HuaShanLunJian/AssistCompanionPanel.prefab		LAYER_NORMAL							NormalOpen	NormalClose	
+GuessingChampionPanel	UI/Prefabs/HuaShanLunJian/GuessingChampionPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+GuessingStakePanel	UI/Prefabs/HuaShanLunJian/GuessingStakePanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+GuessingSurePanel	UI/Prefabs/HuaShanLunJian/GuessingSurePanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+PlayerNumberPanel	UI/Prefabs/HuaShanLunJian/PlayerNumberPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+SkillAuxiliaryPanel	UI/Prefabs/Skill/SkillAuxiliaryPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+ExpUpPanel	UI/Prefabs/Calendar/ExpUpPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+FamilyCampPanel	UI/Prefabs/NewFamily/FamilyCampPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+BuffTip	UI/Prefabs/Tips&notice/BuffTip.prefab		LAYER_NORMAL									1
+KinNestDisplay	UI/Prefabs/NewFamily/KinNestDisplay.prefab		LAYER_NORMAL	盗贼巢穴详细信息								
+AttributeDescription	UI/Prefabs/Tips&notice/AttributeDescription.prefab		LAYER_POPUP	属性描述信息								1
+QuickBuyOrUse	UI/Prefabs/Tips&notice/AlternativeUse.prefab		LAYER_NORMAL	快速使用道具或者购买次数						NormalOpen		1
+ScreenRecord	UI/Prefabs/HomeScreen/HomeScreenVideo.prefab		LAYER_POPUP	录像停止界面								
+StrongerPanel	UI/Prefabs/BecomeStronger/StrongerPanel.prefab		LAYER_NORMAL	我要变强	1					NormalOpen	NormalClose	1
+TeamActivityHelp	UI/Prefabs/Team/TeamActivityHelp.prefab		LAYER_NORMAL									1
+KinBattle	UI/Prefabs/NewFamily/FamilyWar.prefab		LAYER_NORMAL	家族战	1					NormalOpen	NormalClose	1
+SetNumber	UI/Prefabs/NewFamily/FamilyWarSetting.prefab											1
+AssistTools	UI/Prefabs/Debug/AssistTools.prefab		LAYER_DEBUG	协助工具								
+GameMsg	UI/Prefabs/Debug/GameMsg.prefab		LAYER_DEBUG	游戏信息视图								
+CardPreview	UI/Prefabs/Companion/CompanionpreviewPanel.prefab		LAYER_NORMAL	抽卡预览	1					NormalOpen	NormalClose	1
+TeamBattlePanel	UI/Prefabs/Calendar/StarTowerPanel.prefab		LAYER_NORMAL	通天塔报名界面	1							1
+TeamBattleInfo	UI/Prefabs/Calendar/StarTowerBattleInfo.prefab		LAYER_NORMAL	通天塔战斗比分								
+TeamBattleAccount	UI/Prefabs/Calendar/StarTowerAccount.prefab		LAYER_NORMAL	通天塔展示与结算界面	1					ShengLiSuaDongHua		
+Reload	UI/Prefabs/Debug/Reload.prefab		LAYER_DEBUG	重新加载脚本界面								
+FactionBattlePanel	UI/Prefabs/Calendar/FactionAthleticsPanel.prefab		LAYER_NORMAL	门派竞技界面	1					NormalOpen	NormalClose	1
+FactionReportPanel	UI/Prefabs/Calendar/FactionReport.prefab		LAYER_NORMAL	门派竞技开关按钮						NormalOpen	NormalClose	
+EverydayTargetAwardTip	UI/Prefabs/Calendar/CalendarAwardTipPanel.prefab		LAYER_NORMAL	每日目标奖励tip								1
+FactionBattleRankEffect	UI/Prefabs/Calendar/FactionAthleticsRankingPanel.prefab		LAYER_INFO	门派竞技晋级特效								
+FieldPracticePanel	UI/Prefabs/Field/FieldPracticePanel.prefab		LAYER_NORMAL	修炼	1					NormalOpen	NormalClose	1
+AuctionPanel	UI/Prefabs/transaction/TransactionPanel.prefab		LAYER_NORMAL	拍卖界面	1					NormalOpen	NormalClose	1
+AuctionRecordPanel	UI/Prefabs/Family/AuctionRecordPanel.prefab		LAYER_NORMAL	拍卖记录	1					NormalOpen	NormalClose	1
+LoginAwardsPanel	UI/Prefabs/WelfareActivities/NewServerReward/LoginAwardsPanel.prefab		LAYER_NORMAL	登录领奖	1					NormalOpen	NormalClose	1
+TaskFinish	UI/Prefabs/Task/TaskPanel.prefab		LAYER_NORMAL	任务奖励UI								1
+MarketStallPanel	UI/Prefabs/transaction/StallPanel.prefab		LAYER_NORMAL	摆摊界面	1					NormalOpen	NormalClose	1
+MarketStallBuyPanel	UI/Prefabs/transaction/ItemsPurchasePanel.prefab		LAYER_NORMAL	摆摊购买						NormalOpen	NormalClose	1
+MarketStallSellPanel	UI/Prefabs/transaction/ItemsSalePanel.prefab		LAYER_NORMAL	摆摊出售						NormalOpen	NormalClose	1
+ItemSellPanel	UI/Prefabs/transaction/ItemsSellPanel.prefab		LAYER_NORMAL	物品出售						NormalOpen	NormalClose	1
+BgBlackAll	UI/Prefabs/HomeScreen/BgBlackAll.prefab		LAYER_HOME	全黑背景								
+CreateNameInput	UI/Prefabs/Login/NamePanel.prefab		LAYER_POPUP	输入角色名字	1							
+InterludeDescribePanel	UI/Prefabs/Login/InterludeDescribePanel.prefab		LAYER_NORMAL	初始介绍						InterludeDescribe	InterludeDescribeClose	
+KinTrainMatPanel	UI/Prefabs/NewFamily/FamilyTestPanel.prefab		LAYER_NORMAL	家族试炼物资车ui	1					NormalOpen	NormalClose	1
+SurveyPanel	UI/Prefabs/SurveryPanel.prefab		LAYER_NORMAL	问卷调查	1					NormalOpen	NormalClose	1
+BossReferral	UI/Prefabs/Fuben/BossDebutPanel.prefab		LAYER_NORMAL	关卡中Boss出场介绍								
+StoryBlackBg	UI/Prefabs/Fuben/BlackScreenPlotPanel.prefab		LAYER_NORMAL	剧情黑屏								
+LingJueFengLayerPanel	UI/Prefabs/Fuben/LingJueFengLayerPanel.prefab		LAYER_INFO	凌绝峰UI特效								
+TaskStoryBlackPanel	UI/Prefabs/Task/TaskStoryPanel.prefab		LAYER_NORMAL	任务黑屏对话						TaskStoryPanelOpen	TaskStoryPanelClose	
+SwornFriendsConnectPanel	UI/Prefabs/Task/SwornFriendsConnectPanel.prefab		LAYER_NORMAL	结拜对白						TaskStoryPanelOpen	TaskStoryPanelClose	
+SwornFriendsTitlePanel	UI/Prefabs/SocialNew/SwornPanel.prefab 		LAYER_NORMAL	结拜主称号						NormalOpen	NormalClose	
+SwornFriendsPersonalTitlePanel	UI/Prefabs/SocialNew/PersonalSwornPanel.prefab 		LAYER_NORMAL	结拜个人称号						NormalOpen	NormalClose	
+SwornFriendsConnected	UI/Prefabs/SocialNew/SwornEffectsPanel.prefab		LAYER_POPUP	结拜成功弹窗界面						NormalOpen		
+NearbyTeamPanel	UI/Prefabs/Team/NearTeamPanel.prefab		LAYER_NORMAL	附近队伍查看界面						NormalOpen	NormalClose	1
+PartnerArrayPanel	UI/Prefabs/Companion/CompanionArrayPanel.prefab		LAYER_NORMAL	同伴出战布阵界面	1							1
+BossLeaderOutputPanel	UI/Prefabs/Calendar/BossLeaderOutputPanel.prefab		LAYER_NORMAL	名将伤害输出								1
+PartnerSelectSkillBook	UI/Prefabs/Companion/CompanionSkillBookPanel.prefab		LAYER_POPUP	同伴选择技能书UI						NormalOpen		1
+PartnerStoryPanel	UI/Prefabs/Companion/CompanionStoryPanel.prefab		LAYER_POPUP	同伴故事传记UI						NormalOpen		1
+PartnerSelectCoverSkill	UI/Prefabs/Companion/CompanionSkillBookCoverPanel.prefab		LAYER_NORMAL	同伴选择要覆盖技能UI						NormalOpen		1
+RedBagPanel	UI/Prefabs/NewFamily/FamilyRedPaperPanel.prefab		LAYER_NORMAL	家族红包	1					NormalOpen	NormalClose	1
+RedBagDetailPanel	UI/Prefabs/NewFamily/GetRedPaperPanel.prefab		LAYER_POPUP	家族红包						NormalOpen	NormalClose	1
+ChapterPanel	UI/Prefabs/Fuben/ChapterPanel.prefab		LAYER_NORMAL	章节表现	1					ChapterPanel		
+GiftSystem	UI/Prefabs/SocialNew/GiftSystemPanel.prefab		LAYER_NORMAL	礼物	1					NormalOpen	NormalClose	1
+GiftPlay	UI/Prefabs/SocialNew/GiftPlayPanel.prefab		LAYER_NORMAL	礼物特效						NormalOpen	NormalClose	
+PartnerProtential	UI/Prefabs/Companion/CompanionQualityUpPanel.prefab		LAYER_NORMAL	同伴使用资质丹UI								1
+ItemSelectPanel	UI/Prefabs/Tips&notice/ItemSelectPanel.prefab		LAYER_POPUP	选择性道具UI								1
+PartnerSkillTips	UI/Prefabs/Companion/CompanionSkillTipPanel.prefab		LAYER_POPUP	技能详细展示界面	1					NormalOpen	NormalClose	1
+PartnerReInitPanel	UI/Prefabs/Companion/CompanionWashingPanel.prefab		LAYER_NORMAL	同伴洗髓	1					NormalOpen	NormalClose	
+EquipMakerPanel	UI/Prefabs/NewFamily/EquipMakerPanel.prefab		LAYER_NORMAL	兵甲坊	1					NormalOpen	NormalClose	1
+MessageBoxBig	UI/Prefabs/Tips&notice/MessageBoxBig.prefab		LAYER_POPUP	通用弹窗(大)				8002	8003	NormalOpen		
+AsyncPartner	UI/Prefabs/Yibuzhandou/AsyncPanel.prefab		LAYER_HOME	异步战斗同伴列表								1
+TeamBattleResultPanel	UI/Prefabs/Calendar/StarTowerAccountFinal.prefab		LAYER_NORMAL	通天塔结算	1					NormalOpen	NormalClose	1
+FlowerBoxPlay	UI/Prefabs/SocialNew/GiftPlayAllPanel.prefab		LAYER_NORMAL	99玫瑰幸运草						NormalOpen	NormalClose	
+ShowSkillPreView	UI/Prefabs/Login/ShowSkillPreView.prefab		LAYER_HOME	登录技能展示								
+HomeScreenVoice	UI/Prefabs/HomeScreen/HomeScreenVoice.prefab		LAYER_HOME	主界面-实时语音								
+TrialPanel	UI/Prefabs/Calendar/TrialPanel.prefab		LAYER_NORMAL	剧情挑战	1							1
+FiveElements	UI/Prefabs/FiveElements.prefab		LAYER_NORMAL	五行关系	1							
+SupplementBox	UI/Prefabs/WelfareActivities/RewardBackPanel.prefab		LAYER_NORMAL	补领弹窗								1
+PrivilegePanel	UI/Prefabs/Role/PrivilegePanel.prefab		LAYER_NORMAL	登入特权						NormalOpen		1
+NewInformationPanel	UI/Prefabs/Calendar/NewInformationPanel.prefab		LAYER_NORMAL	最新消息	1					NormalOpen	NormalClose	1
+HomeScreenCommunity	UI/Prefabs/HomeScreen/HomeScreenCommunity.prefab		LAYER_NORMAL	主界面社交						NormalOpen		1
+SharePanel	UI/Prefabs/SharePanel.prefab		LAYER_POPUP	分享界面						NormalOpen		1
+ShowOffPanel	UI/Prefabs/ShowOffPanel.prefab		LAYER_NORMAL	分享详细界面						NormalOpen		1
+FactionMonkeyPanel	UI/Prefabs/Calendar/ElectionPanel.prefab		LAYER_NORMAL	门派大师兄						NormalOpen	NormalClose	1
+PartnerGradeLevelup	UI/Prefabs/Companion/CompanionPotentialUpPanel.prefab		LAYER_POPUP	同伴突破显示								
+DomainBattleReport	UI/Prefabs/NewFamily/TerritoryBattlefieldPanel.prefab 		LAYER_NORMAL	领土战战报	1					NormalOpen	NormalClose	1
+StoneTipsPanel	UI/Prefabs/Tips&notice/BigItemTips2.prefab		LAYER_POPUP	魂石道具信息界面						NormalOpen		1
+DomainBattleTip	UI/Prefabs/NewFamily/TerritoryTipPanel.prefab		LAYER_NORMAL	领土提示						NormalOpen	NormalClose	1
+DomainBattleHomeInfo	UI/Prefabs/NewFamily/TerritoryInfoPanel.prefab		LAYER_HOME	领土战的主界面								1
+WaiyiPreview	UI/Prefabs/Role/DressColour.prefab		LAYER_NORMAL	外装预览染色	1					NormalOpen		1
+WhiteTigerFubenEntryList	UI/Prefabs/Calendar/BaihutangEnterPanel.prefab		LAYER_NORMAL									
+LeavePanel	UI/Prefabs/LeavePanel.prefab		LAYER_HOME	离开界面								
+TeamMatchPanel	UI/Prefabs/Team/TeamMatchingPanel.prefab		LAYER_NORMAL	队伍匹配界面						NormalOpen		1
+GMListPanel	UI/Prefabs/Debug/GMList.prefab		LAYER_NORMAL	GM界面						NormalOpen	NormalClose	
+KinChangeName	UI/Prefabs/NewFamily/FamilyChangeNamePanel.prefab		LAYER_NORMAL	改家族名字						NormalOpen		1
+CardCollection	UI/Prefabs/Tips&notice/CardCollectionTips.prefab		LAYER_NORMAL	收集册								1
+CollectionCardList	UI/Prefabs/Tips&notice/CardCheckPanel.prefab		LAYER_NORMAL	卡片列表查看								1
+GrowInvestPanel	UI/Prefabs/WelfareActivities/GrowInvestPanel.prefab		LAYER_POPUP	一本万利推送提示						NormalOpen	NormalClose	1
+OnlineOnHookPanel	UI/Prefabs/Tips&notice/Managed.prefab		LAYER_NORMAL	在线托管						NormalOpen	NormalClose	1
+ExchangePanel	UI/Prefabs/Exchange.prefab		LAYER_NORMAL	兑换						NormalOpen	NormalClose	1
+DomainMap	UI/Prefabs/MiniMap/TerritoryMapPanel.prefab		LAYER_NORMAL	领地地图	1					NormalOpen	NormalClose	1
+ArenaPanel	UI/Prefabs/Arena/ArenaPanel.prefab		LAYER_NORMAL	擂台挑战						NormalOpen	NormalClose	1
+ChallengerPanel	UI/Prefabs/Arena/SelectChallengerPanel.prefab		LAYER_NORMAL	擂台挑战申请						NormalOpen	NormalClose	
+ArenaAccount	UI/Prefabs/Arena/ArenaAccount.prefab		LAYER_NORMAL	擂台对战信息展示	1					ArenaAccount		
+ArenaBattleInfo	UI/Prefabs/Arena/ArenaBattleInfo.prefab		LAYER_NORMAL	擂台战斗比分								
+ArenaChallengerInfoPanel	UI/Prefabs/Arena/ArenaChallengeInfo.prefab		LAYER_NORMAL	挑战信息								
+WatchMenuPanel	UI/Prefabs/Arena/ArenaMatchPanel.prefab		LAYER_NORMAL	观战								
+VaultDonationPanel	UI/Prefabs/NewFamily/VaultDonationPanel.prefab		LAYER_NORMAL	捐献次数						NormalOpen	NormalClose	1
+BloodPanel	UI/Prefabs/NewFamily/BloodPanel.prefab		LAYER_HOME	大血条								
+StudentReportPanel	UI/Prefabs/MasterApprentice/ApprenticeTarget.prefab		LAYER_NORMAL	师徒目标汇报						NormalOpen	NormalClose	
+TeacherGiftPanel	UI/Prefabs/MasterApprentice/MasterGivePanel.prefab		LAYER_NORMAL	师徒赠送	1					NormalOpen	NormalClose	
+TeacherDeclarationPanel	UI/Prefabs/MasterApprentice/MasterDeclarationPanel.prefab		LAYER_NORMAL	收徒公告						NormalOpen	NormalClose	
+TeacherRewardPanel	UI/Prefabs/MasterApprentice/MasterAwardPanel.prefab		LAYER_NORMAL	出师奖励预览	1					NormalOpen	NormalClose	
+QixiPoemPanel	UI/Prefabs/Calendar/DoubleSeventhFestivalInterlude.prefab		LAYER_NORMAL									
+QixiAnimationPanel	UI/Prefabs/Calendar/HuaBanYuFengguPanel.prefab		LAYER_NORMAL									
+QixiSendGiftPanel	UI/Prefabs/Calendar/DoubleSeventhFestivalGifePanel.prefab		LAYER_NORMAL									
+GatherBoxAnimation	UI/Prefabs/Tips&notice/KinGatherPanel.prefab		LAYER_NORMAL									
+FBInvitationPanel	UI/Prefabs/SocialNew/FBInvitationPanel.prefab		LAYER_NORMAL									1
+EvaluatePanel	UI/Prefabs/EvaluatePanel.prefab		LAYER_NORMAL									
+EquipmentEvolutionPanel	UI/Prefabs/Strengthen/EquipmentEvolutionPanel.prefab		LAYER_NORMAL	装备进化	1					NormalOpen	NormalClose	
+RefinePanel	UI/Prefabs/Strengthen/RefinePanel.prefab		LAYER_POPUP	装备精炼	1							
+ImperialTombPanel	UI/Prefabs/Calendar/ImperialTombPanel.prefab		LAYER_NORMAL		1							1
+RegressionPrivilegePanel	UI/Prefabs/WelfareActivities/WelcomeBack/WelcomeBackPanel.prefab		LAYER_NORMAL	回归特权	1							
+HomeScreenTip	UI/Prefabs/Fuben/HomeScreenTip.prefab		LAYER_INFO	凌绝峰提示								
+JuanZhouPanel	UI/Prefabs/Tips&notice/ReelTipPanel.prefab		LAYER_NORMAL	卷轴道具面板								
+BlessPanel	UI/Prefabs/Calendar/BlessingPanel.prefab		LAYER_NORMAL	送祝福	1							
+BlessPanelWord	UI/Prefabs/Calendar/NewYearBlessingPanel.prefab		LAYER_NORMAL	送祝福2	1							
+AgreementPanel	UI/Prefabs/Login/AgreementPanel.prefab		LAYER_NORMAL	用户协议								
+Comment	UI/Prefabs/Tips&notice/CommentPanel.prefab		LAYER_NORMAL	引导评论								
+DreamlandPanel	UI/Prefabs/Calendar/DreamlandPanel.prefab		LAYER_NORMAL	心魔幻境选门派	1							
+DreamlandGivePanel	UI/Prefabs/Calendar/DreamlandGivePanel.prefab		LAYER_NORMAL	心魔幻境赠送								
+DreamlandMapPanel	UI/Prefabs/Calendar/DreamlandMapPanel.prefab		LAYER_NORMAL	心魔幻境中地图								
+RedPaperSharePanel	UI/Prefabs/Tips&notice/RedPaperSharePanel.prefab		LAYER_NORMAL	微信红包						NormalOpen		
+DreamlandLevelUpPanel	UI/Prefabs/Calendar/DreamlandLevelUpPanel.prefab		LAYER_NORMAL	心魔幻境装备升级								
+WeekendQuizPanel	UI/Prefabs/Quiz/WeekendQuizPanel.prefab 		LAYER_NORMAL	每日答题						NormalOpen	NormalClose	
+DreamlandInfoPanel	UI/Prefabs/Calendar/DreamlandInfoPanel.prefab		LAYER_HOME	心魔幻境主界面								
+DreamlandCheatsPanel	UI/Prefabs/Calendar/DreamlandCheatsPanel.prefab		LAYER_NORMAL	心魔幻境角色装备	1							
+DreamlandShopPanel	UI/Prefabs/Calendar/DreamlandShopPanel.prefab		LAYER_NORMAL	心魔幻境出售列表								
+HorsePanel	UI/Prefabs/MountsPanel.prefab		LAYER_NORMAL	坐骑界面	1					NormalOpen		1
+TxtWeixinGameCenter	UI/Prefabs/Rank/TxtGameCenter.prefab		LAYER_NORMAL	微信中心登入提示文字						NormalOpen		1
+DreamlandJoinPanel	UI/Prefabs/Calendar/DreamlandJoinPanel.prefab		LAYER_NORMAL	心魔幻境报名	1							
+DreamlandStrengthenPanel	UI/Prefabs/Calendar/DreamlandStrengthenPanel.prefab		LAYER_NORMAL	心魔强化界面								
+DreamlandReportPanel	UI/Prefabs/Calendar/DreamlandReportPanel.prefab		LAYER_NORMAL	心魔战报	1							
+SnowballEffectPanel	UI/Prefabs/Calendar/SnowballEffectPanel.prefab		LAYER_NORMAL	飘雪特效						NormalOpen	NormalClose	
+InscriptionChangePanel	UI/Prefabs/Tips&notice/InscriptionChangePanel.prefab		LAYER_NORMAL	铭刻石替换								
+BiWuZhaoQinPanel	UI/Prefabs/Calendar/OpenMarriagePanel.prefab		LAYER_NORMAL	招亲界面	1							
+TextSelectPanel	UI/Prefabs/Calendar/TitleSeletePanel.prefab		LAYER_POPUP	文本选择器								
+BiWuZhaoQinList	UI/Prefabs/Calendar/JoinMarriagePanel.prefab		LAYER_NORMAL	参与招亲界面	1							
+QQFriendApplyPanel	UI/Prefabs/SocialNew/QQFriendApplyPanel.prefab		LAYER_NORMAL	QQ添加好友界面	1					NormalOpen		
+TxtTipPanel	UI/Prefabs/Tips&notice/TxtTipPanel.prefab		LAYER_POPUP	文本tips						NormalOpen		
+WishingPanel	UI/Prefabs/Calendar/WishingTreePanel.prefab		LAYER_NORMAL									
+WishListPanel	UI/Prefabs/Calendar/WishListPanel.prefab		LAYER_NORMAL									
+WishListCheckPanel	UI/Prefabs/Calendar/WishListChackPanel.prefab		LAYER_NORMAL									
+FightTablePanel	UI/Prefabs/Calendar/TournamentMarriagePanel.prefab		LAYER_NORMAL	对战表界面	1					NormalOpen	NormalClose	
+MainShowOffPanel	UI/Prefabs/MainCityShowOffPanel.prefab		LAYER_NORMAL	炫耀界面	1					NormalOpen		
+FriendRecallPanel	UI/Prefabs/WelfareActivities/WelcomeBack/PartnersBackPanel.prefab		LAYER_NORMAL	玩家召回	1							
+PartnerAwarenessPanel	UI/Prefabs/Companion/CompanionAwakenPanel.prefab		LAYER_NORMAL	同伴觉醒UI	1							
+PartnerSelectPanel	UI/Prefabs/Companion/CompanionAwakenSelectPanel.prefab		LAYER_POPUP	同伴选择UI								
+LoginActNpcPanel	UI/Prefabs/WelfareActivities/NewServerReward/NewYearNpcPanel.prefab		LAYER_NORMAL	新年登录活动NPC	1							
+NewYearTxtPanel	UI/Prefabs/Calendar/NewYearTxtPanel.prefab		LAYER_NORMAL	送祝福文字输入								
+ChouJiangEffectPanel	UI/Prefabs/RoosterEffectsPanel.prefab		LAYER_NORMAL	抽奖特效								
+TextSelectPanel2	UI/Prefabs/Calendar/MarriageTitlePanel.prefab		LAYER_POPUP	文本选择器，两条								
+QingRenJieDazuoPanel	UI/Prefabs/Calendar/QingrenjieEffectsPanel.prefab		LAYER_NORMAL									
+QingRenJieInvitePanel	UI/Prefabs/Calendar/QingrenjieInteractionPanel.prefab		LAYER_NORMAL									
+QingRenJieTitlePanel	UI/Prefabs/Calendar/QingrenjieTitlePanel.prefab		LAYER_NORMAL									
+MessageBoxInput	UI/Prefabs/Tips&notice/MessageBoxInput.prefab		LAYER_POPUP	输入弹窗				8002	8003	NormalOpen		
+SendGiftPanel	UI/Prefabs/SocialNew/DanGivePanel.prefab		LAYER_NORMAL	送礼	1							
+FriendImpressionPanel	UI/Prefabs/SocialNew/FriendImpressionPanel.prefab		LAYER_NORMAL	好友标签	1							
+FriendImpressionAgreePanel	UI/Prefabs/SocialNew/FriendImpressionAgreePanel.prefab		LAYER_NORMAL	好友标签描述								
+ChatHostList	UI/Prefabs/ChatNew/AnchorPanel.prefab		LAYER_NORMAL	主播排期列表	1							
+HouseDecorationPanel	UI/Prefabs/Home/HomeSettingPanel.prefab		LAYER_NORMAL	家园装修UI								
+FurnitureMake	UI/Prefabs/Home/HomeMakePanel.prefab		LAYER_NORMAL	家具打造UI	1							
+HouseComfortablePanle	UI/Prefabs/Home/HomeComfortablePanle.prefab		LAYER_POPUP	家园舒适度UI								
+HouseComfortableDetailsPanle	UI/Prefabs/Home/HomeComfortableDetailsPanle.prefab		LAYER_POPUP	家具增加舒适度详情UI								
+HouseManagerPanel	UI/Prefabs/Home/HomeManagePanel.prefab		LAYER_NORMAL	家园管理UI	1							
+HouseSharePanel	UI/Prefabs/Home/HomeSharePanel.prefab		LAYER_NORMAL	家园屏幕快照分享								
+FurnitureOptUi	UI/Prefabs/Home/HomeUsePanel.prefab		LAYER_POPUP	家具使用UI								
+HouseCameraPanel	UI/Prefabs/Home/HomeCameraPanel.prefab		LAYER_POPUP	拍照视角								
+VitalitySkillPanel	UI/Prefabs/Tips&notice/VitalitySkillPanel.prefab		LAYER_NORMAL	真元技能升级	1							
+PlantHelpCurePanel	UI/Prefabs/Home/HomeAssistPanel.prefab		LAYER_NORMAL	协助养护	1							
+PlantCurePanel	UI/Prefabs/Tips&notice/PlantTipPanel.prefab		LAYER_NORMAL	植物养护	1							
+PlantCureConfirmPanel	UI/Prefabs/Tips&notice/PlantPromptPanel.prefab		LAYER_NORMAL	植物养护确认								
+VitalityEffectPanel	UI/Prefabs/Strengthen/VitalityEffectPanel.prefab		LAYER_POPUP	冥思特效								
+PlantStatePanel	UI/Prefabs/Home/HomePlantPanel.prefab		LAYER_HOME	植物状态提示								
+HouseInvitePanel	UI/Prefabs/Home/HomeInvitePanel.prefab		LAYER_POPUP	邀请入住								
+ProgressBarPanel	UI/Prefabs/Tips&notice/BarPanel.prefab		LAYER_NORMAL	进度条						NormalOpen	NormalClose	
+ItemTemplateSellPanel	UI/Prefabs/Home/HomeSellPanel.prefab		LAYER_NORMAL	模板物品出售						NormalOpen	NormalClose	1
+HomeSettingGuide	UI/Prefabs/Home/HomeSettingGuide.prefab		LAYER_NORMAL		1							
+AchievementList	UI/Prefabs/Achievement/AchievementFurniturePanel.prefab		LAYER_NORMAL		1							
+MuseEffectPanel	UI/Prefabs/Strengthen/VitalityEffectPanel2.prefab		LAYER_NORMAL	冥想特效						NormalOpen	NormalClose	
+BattleRankEffectPanel	UI/Prefabs/Effect/BattleRankEffectPanel.prefab		LAYER_INFO	战场资格赛获得特效								
+OperationSet	UI/Prefabs/OperationSetPanel.prefab		LAYER_NORMAL	快捷键配置	1					NormalOpen		1
+GrowFlowersPanel	UI/Prefabs/FestivaIActivity/GrowFlowersPanel.prefab		LAYER_NORMAL	节日家园种树活动						NormalOpen		
+AthleticsHonor	UI/Prefabs/Calendar/HonorPanel.prefab		LAYER_NORMAL	武林荣誉	1							
+AthleticsHonorTip	UI/Prefabs/Calendar/HonorTipPanel.prefab		LAYER_NORMAL	武林荣誉								
+AthleticsHonorAni	UI/Prefabs/Calendar/HonorRankPanel.prefab		LAYER_NORMAL	武林荣誉								
+ShowGainItem	UI/Prefabs/Effect/AnniversaryBoxPanel.prefab		LAYER_NORMAL	展示物品UI	1							
+BeautyCompetitionPanel	UI/Prefabs/Calendar/BeautyCompetitionPanel.prefab		LAYER_NORMAL	武林第一美女赠送列表						NormalOpen		1
+NpcBiWuZhaoQinUi	UI/Prefabs/SocialNew/SpokespersonPanel.prefab		LAYER_NORMAL	Npc比武招亲Ui	1							
+PortraitItemPreviewPanel	UI/Prefabs/Tips&notice/HeadPreviewPanel.prefab		LAYER_NORMAL									
+LockScreenPanel	UI/Prefabs/LockScreenPanel.prefab		LAYER_INFO	锁屏								
+CardPickRecordPanel	UI/Prefabs/Companion/CompanionRecordPanel.prefab		LAYER_NORMAL	招募提示和历史	1					NormalOpen		1
+WLDHJoinPanel	UI/Prefabs/WuLinDaHui/WLDHJoinPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+WLDHRankPanel	UI/Prefabs/WuLinDaHui/WLDHRankPanel.prefab		LAYER_NORMAL							NormalOpen		
+WLDHBattlefieldPanel	UI/Prefabs/WuLinDaHui/WLDHBattlefieldPanel.prefab		LAYER_NORMAL	决赛战报	1					NormalOpen		
+WeddingInterludePanel	UI/Prefabs/Marry/WeddingInterludePanel.prefab		LAYER_NORMAL	拜堂开始特效界面								
+WeddingHeadPointPanel	UI/Prefabs/Marry/WeddingHeadPointPanel.prefab		LAYER_NORMAL	拜堂跟随主角名字界面								
+WeddingTxtPanel	UI/Prefabs/Marry/WeddingTxtPanel.prefab		LAYER_NORMAL	婚礼类似黑条提示								
+CampBattleInfo	UI/Prefabs/CampBattle/CampBattleInfo.prefab		LAYER_HOME	阵营战场信息								
+CampBattlePanel	UI/Prefabs/CampBattle/CampBattlePanel.prefab		LAYER_NORMAL	阵营战场对阵信息	1							
+SkillBookEquipPanel	UI/Prefabs/Skill/SkillBookEquipPanel.prefab		LAYER_NORMAL		1							1
+JingMaiPanel	UI/Prefabs/Meridian/MeridianPanel.prefab		LAYER_NORMAL	经脉系统	1							
+ChatPrefixPanel	UI/Prefabs/ChatNew/ChatPrefixPanel.prefab		LAYER_NORMAL	聊天前缀设置	1					NormalOpen		1
+JingMaiTipsPanel	UI/Prefabs/Meridian/MeridianTipPanel.prefab		LAYER_NORMAL	经脉附加属性界面								
+MarriageRequestPanel	UI/Prefabs/Marry/MarriageRequestPanel.prefab		LAYER_NORMAL	求婚界面						NormalOpen		
+JingMaiMapPanel	UI/Prefabs/Meridian/MeridianMapPanel.prefab		LAYER_NORMAL		1							
+YanHuaAniPanel	UI/Prefabs/Effect/Yanhua_520.prefab		LAYER_NORMAL	求婚烟花特效界面								
+MarriageTitlePanel	UI/Prefabs/Marry/MarryTitlePanel.prefab		LAYER_POPUP	修改结婚称号								
+MarriagePaperPanel	UI/Prefabs/Marry/MarryBookPanel.prefab		LAYER_NORMAL	婚书	1							
+WeddingBookPanel	UI/Prefabs/Marry/MarryPanel.prefab		LAYER_NORMAL	预订婚礼界面	1					NormalOpen		
+WeddingBookDetailPanel	UI/Prefabs/Marry/MarryReservePanel.prefab		LAYER_NORMAL	预订婚礼详情界面	1					NormalOpen		
+WeddingCashGiftPanel	UI/Prefabs/Marry/MarryCashGiftPanel.prefab		LAYER_POPUP	送礼金	1							
+WeddingChoosePromisePanel	UI/Prefabs/Marry/MarryOathPanel.prefab		LAYER_NORMAL	求婚选择誓言界面								
+WeddingEnterPanel	UI/Prefabs/Marry/MarryEnterPanel.prefab		LAYER_NORMAL	申请进入婚礼界面								
+WeddingWelcomeApplyPanel	UI/Prefabs/Marry/MarrySendPanel.prefab		LAYER_NORMAL	邀请进入婚礼界面								
+WeddingDatePanel	UI/Prefabs/Marry/MarryDatePanel.prefab		LAYER_NORMAL	选择婚期时间界面						NormalOpen		
+WeddingSendPromisePanel	UI/Prefabs/Marry/MarrySwearPanel.prefab		LAYER_NORMAL	结婚山盟海誓界面								
+WeddingWelcomePanel	UI/Prefabs/Marry/MarryCardPanel.prefab		LAYER_NORMAL	结婚请柬详情界面	1							
+WeddingBlessingPanel	UI/Prefabs/Marry/MarryBlessing.prefab		LAYER_NORMAL	结婚送祝福界面								

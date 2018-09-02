@@ -1,0 +1,6 @@
+NpcName	NpcTemplateId	TimeFrame	NpcLevel
+执法铁卫	1834	OpenLevel89	85
+执法铁卫	1834	OpenLevel99	95
+执法铁卫	1834	OpenLevel109	105
+执法铁卫	1834	OpenLevel119	115
+执法铁卫	1834	OpenLevel129	125

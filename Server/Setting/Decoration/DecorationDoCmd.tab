@@ -1,0 +1,43 @@
+nDecorationId	Desc	nTypeId	bSaveType	szCmd1	szCmd2	szCmd3	szCmd4	szCmd5
+5010	月上柳梢頭：點燈	0	1	SetActive|0|light|1	ChangeShader|10|cj_luoyang_dengzhu02|FTGame/CommonNpc			
+5010	月上柳梢頭：滅燈	-1	0	SetActive|0|light|0	ChangeShader|0|cj_luoyang_dengzhu02|FTGame/ObjRep			
+5012	花崗石燈	0	1	SetActive|0|light|1	ChangeShader|10|sy_ludeng03_d|FTGame/CommonNpc			
+5012	花崗石燈	-1	0	SetActive|0|light|0	ChangeShader|0|sy_ludeng03_d|FTGame/ObjRep			
+5013	雲紋鑲金石燈	0	1	SetActive|0|light|1	ChangeShader|10|sy_ludeng02_d|FTGame/CommonNpc			
+5013	雲紋鑲金石燈	-1	0	SetActive|0|light|0	ChangeShader|0|sy_ludeng02_d|FTGame/ObjRep			
+3501	松木燈	0	1	SetActive|0|light|1	ChangeShader|10|sn_jiayuan_deng01_01_d|FTGame/CommonNpc			
+3501	松木燈	-1	0	SetActive|0|light|0	ChangeShader|0|sn_jiayuan_deng01_01_d|FTGame/ObjRep			
+3502	樺木燈	0	1	SetActive|0|light|1	ChangeShader|10|sn_jiayuan_deng02_01_d|FTGame/CommonNpc			
+3502	樺木燈	-1	0	SetActive|0|light|0	ChangeShader|0|sn_jiayuan_deng02_01_d|FTGame/ObjRep			
+3503	墨香燈	0	1	SetActive|0|light|1	ChangeShader|10|sn_jiayuan_deng03_01_d|FTGame/CommonNpc			
+3503	墨香燈	-1	0	SetActive|0|light|0	ChangeShader|0|sn_jiayuan_deng03_01_d|FTGame/ObjRep			
+3504	幻彩流光燈	0	1	SetActive|0|light|1	ChangeShader|10|sn_jiayuan_deng04_01_d|FTGame/CommonNpc			
+3504	幻彩流光燈	-1	0	SetActive|0|light|0	ChangeShader|0|sn_jiayuan_deng04_01_d|FTGame/ObjRep			
+3505	紫檀鎏金燈	0	1	SetActive|0|light|1	ChangeShader|10|sn_jiayuan_deng05_01_d|FTGame/CommonNpc			
+3505	紫檀鎏金燈	-1	0	SetActive|0|light|0	ChangeShader|0|sn_jiayuan_deng05_01_d|FTGame/ObjRep			
+4501	孩童秋千：秋千搖擺幅度	0	0	PlayAnimation|0|a02|4|1|1				
+4505	月明花影	0	0	PlayAnimation|0|a02|4|1|1				
+501	松木櫥櫃：開櫃	0	1	SetActive|0|sn_jiayuan_guizi01_01_k|1	SetActive|0|sn_jiayuan_guizi01_01|0			
+501	松木櫥櫃：關櫃	-1	0	SetActive|0|sn_jiayuan_guizi01_01_k|0	SetActive|0|sn_jiayuan_guizi01_01|1			
+502	樺木櫥櫃	0	1	SetActive|0|sn_jiayuan_guizi02_01_k|1	SetActive|0|sn_jiayuan_guizi02_01|0			
+502	樺木櫥櫃	-1	0	SetActive|0|sn_jiayuan_guizi02_01_k|0	SetActive|0|sn_jiayuan_guizi02_01|1			
+503	墨香櫥櫃	0	1	SetActive|0|sn_jiayuan_guizi03_01_k|1	SetActive|0|sn_jiayuan_guizi03_01|0			
+503	墨香櫥櫃	-1	0	SetActive|0|sn_jiayuan_guizi03_01_k|0	SetActive|0|sn_jiayuan_guizi03_01|1			
+504	幻彩流光櫥櫃	0	1	SetActive|0|sn_jiayuan_guizi04_01_k|1	SetActive|0|sn_jiayuan_guizi04_01|0			
+504	幻彩流光櫥櫃	-1	0	SetActive|0|sn_jiayuan_guizi04_01_k|0	SetActive|0|sn_jiayuan_guizi04_01|1			
+505	紫檀鎏金櫥櫃	0	1	SetActive|0|sn_jiayuan_guizi05_01_k|1	SetActive|0|sn_jiayuan_guizi05_01|0			
+505	紫檀鎏金櫥櫃	-1	0	SetActive|0|sn_jiayuan_guizi05_01_k|0	SetActive|0|sn_jiayuan_guizi05_01|1			
+4512	樺木鼓架	0	0	PlaySound|0|1005|2600	SetActive|0|sy_yueqi04_dianji|0	SetActive|0|sy_yueqi04_dianji|1		
+4513	燕語	0	0	PlaySound|0|1006|2600	PlayAnimation|0|a02|4|1|1	SetActive|0|sy_yueqi01_dianji|0	SetActive|0|sy_yueqi01_dianji|1	
+4514	編鐘	0	0	PlaySound|0|1007|2600	PlayAnimation|0|a02|4|1|1	SetActive|0|sy_yueqi02_dianji|0	SetActive|0|sy_yueqi02_dianji|1	
+4515	遏雲	0	0	PlaySound|0|1004|2600	PlayAnimation|0|a02|4|1|1	SetActive|0|sy_yueqi03_dianji|0	SetActive|0|sy_yueqi03_dianji|1	
+3015	銅雀香爐	0	1	SetActive|0|sn_jiayuan_xianglu04s_yanwu|1				
+3015	銅雀香爐	-1	0	SetActive|0|sn_jiayuan_xianglu04s_yanwu|0				
+3016	玉蓮香爐	0	1	SetActive|0|sn_jiayuan_xianglu02s_yanwu|1				
+3016	玉蓮香爐	-1	0	SetActive|0|sn_jiayuan_xianglu02s_yanwu|0				
+3017	熟銅香爐	0	1	SetActive|0|sn_jiayuan_xianglu01s_yanwu|1				
+3017	熟銅香爐	-1	0	SetActive|0|sn_jiayuan_xianglu01s_yanwu|0				
+3018	七繡雲香	0	1	SetActive|0|sn_jiayuan_xianglu03s_yanwu|1				
+3018	七繡雲香	-1	0	SetActive|0|sn_jiayuan_xianglu03s_yanwu|0				
+3019	翠玉爐襯紫金葫蘆	0	1	SetActive|0|sn_jiayuan_xianglu05s_yanwu|1				
+3019	翠玉爐襯紫金葫蘆	-1	0	SetActive|0|sn_jiayuan_xianglu05s_yanwu|0				

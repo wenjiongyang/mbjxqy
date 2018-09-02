@@ -1,0 +1,18 @@
+nGoodsId	nTemplateId	Name	nPrice	nLimitNum	szMoneyType	szShopType	nSort	nDiscount	szTimeFrame	szCloseTimeFrame	szOpenTime	szCloseTime
+10000	785	黃金鑰匙	15	300	Gold	Treasure	1	7				2017.12.3 23:59:59
+10003	2569	染色劑	208	10	SilverBoard	Dress	1	7				2017.12.10 23:59:59
+6040	6358	邪魅狷狂無敵寶箱	3880	1	SilverBoard	Dress	2	7				2017.12.10 23:59:59
+6041	6344	【天王】狂客	1880	1	SilverBoard	Dress	3	7				2017.12.10 23:59:59
+6042	6345	【峨眉】狷者	1880	1	SilverBoard	Dress	4	7				2017.12.10 23:59:59
+6043	6346	【桃花】魅靈	1880	1	SilverBoard	Dress	5	7				2017.12.10 23:59:59
+6044	6347	【逍遙】邪俠	1880	1	SilverBoard	Dress	6	7				2017.12.10 23:59:59
+6045	6348	【武當】邪俠	1880	1	SilverBoard	Dress	7	7				2017.12.10 23:59:59
+6046	6349	【天忍】狷者	1880	1	SilverBoard	Dress	8	7				2017.12.10 23:59:59
+6047	6350	【少林】狂客	1880	1	SilverBoard	Dress	9	7				2017.12.10 23:59:59
+6048	6351	【翠煙】魅靈	1880	1	SilverBoard	Dress	10	7				2017.12.10 23:59:59
+6049	6352	【唐門】邪俠	1880	1	SilverBoard	Dress	11	7				2017.12.10 23:59:59
+6050	6353	【昆侖】狷者	1880	1	SilverBoard	Dress	12	7				2017.12.10 23:59:59
+6051	6354	【丐幫】狂客	1880	1	SilverBoard	Dress	13	7				2017.12.10 23:59:59
+6052	6355	【五毒】魅靈	1880	1	SilverBoard	Dress	14	7				2017.12.10 23:59:59
+6053	6356	【藏劍】邪俠	1880	1	SilverBoard	Dress	15	7				2017.12.10 23:59:59
+6054	6357	【長歌】魅靈	1880	1	SilverBoard	Dress	16	7				2017.12.10 23:59:59

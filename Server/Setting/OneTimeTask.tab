@@ -1,0 +1,68 @@
+TimeFrame	Day	Name	ScriptFunc	WeekDay	Time1	Time2	Time3	Time4	Time5	Time6	Time7	Time8	Time9	Time10	Param1	Param2	Param3	Param4	Param5
+OpenLevel39	1	幫派傳功、商會任務、凌絕峰	SendTimeFrameMail		4:05										OpenDay2	1	活動預告\n    【預告】%date開放新內容：幫派傳功、商會任務、凌絕峰。\n   活動詳情請查看活動日曆介面的預告分頁！	Coin|1000	
+OpenLevel39	1	20級野外首領、英雄挑戰、白虎堂	SendTimeFrameMail		4:05										OpenDay3	1	活動預告\n    【預告】%date開放新內容：20級野外首領、英雄挑戰、白虎堂。\n   活動詳情請查看活動日曆介面的預告分頁！	Coin|1000	
+OpenLevel39	1	門派競技	SendTimeFrameMail	26	4:05										OpenDay4	1	門派競技通知\n    諸位同門袍澤，如今我派愈發繁榮，門下精英輩出，故師尊欲舉行盛舉——門派競技，但凡我派弟子均可參與，先以混戰形式交手，剩餘者再以一對一的形式角逐最終勝者，最終勝者將榮獲本派「新人王」之稱號，諸位同門，努力為此榮耀戰鬥吧！\n\n   門派競技將于%date開啟！\n   活動詳情請查看活動日曆介面！	Coin|1000	1
+OpenLevel39	1	幫派試煉	SendTimeFrameMail	14	4:05										OpenDay4	1	活動預告\n    【預告】%date開放新內容：幫派試煉。\n   活動詳情請查看活動日曆介面！	Coin|1000	1
+OpenLevel39	2	通天塔	SendTimeFrameMail	25	4:05										OpenDay4	1	活動預告\n    【預告】%date開放新內容：通天塔。\n   活動詳情請查看活動日曆介面！	Coin|1000	1
+OpenLevel39	3	幫派運鏢	SendTimeFrameMail		4:05										OpenDay5	1	活動預告\n    【預告】%date開放新內容：幫派運鏢。\n   活動詳情請查看活動日曆介面的預告分頁！	Coin|1000	
+OpenLevel49	2	49級上限	SendTimeFrameMail		4:05										OpenLevel49	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放3階裝備打造、角色等級限制開放至49級。	Coin|1000	
+OpenLevel49	2	40級野外首領	SendTimeFrameMail		4:05										OpenDay6	1	活動預告\n    【預告】%date開放新內容：40級野外首領。\n   活動詳情請查看活動日曆介面的野外首領活動介紹！	Coin|1000	
+OpenLevel49	2	40級歷代名將	SendTimeFrameMail		4:05										OpenDay7	1	活動預告\n    【預告】%date開放新內容：40級歷代名將。\n   活動詳情請查看活動日曆介面的預告分頁！	Coin|1000	
+OpenLevel59	3	59級上限	SendTimeFrameMail		4:05										OpenLevel59	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放4階裝備打造、角色等級限制開放至59級。	Coin|1000	
+OpenLevel59	3	攻城戰	SendTimeFrameMail	15	4:05										OpenDomainBattle	1	活動預告\n    【預告】%date開放新內容：攻城戰。\n   各位武林同道，一起來為自己的幫派爭奪領地吧！我們的最終目標是進軍襄陽，奪取城主榮耀。\n   活動詳情請查看活動日曆介面！	Coin|1000	1
+OpenLevel59	3	凌絕峰收集活動	SendTimeFrameMail		4:05										OpenLevel59	1	活動預告\n    【預告】%date開放新內容：凌絕峰收集活動。\n   各位大俠，開放59級等級上限後，挑戰凌絕峰將獲得卡片憑證，收集起來與大家一起比拼排行，獲得高額獎勵。\n   活動詳情請查看活動日曆介面！	Coin|1000	
+OpenLevel59	-1	師徒系統	SendTimeFrameMail		4:05										OpenLevel59	1	活動預告\n    【預告】%date開放新內容：師徒系統。\n    達到[FFFE0D]50級[-]以上的的俠士可以與達到[FFFE0D]20級[-]以上的小俠士結為師徒關係，雙方等級差需要[FFFE0D]≥5級[-]，處理師徒關係可前往忘憂島找上官飛龍。\n    [FFFE0D]提升劍俠尊享等級可以縮減雙方等級差要求\n    劍俠尊享6：雙方等級差需要≥4級\n    劍俠尊享9：雙方等級差需要≥3級\n    劍俠尊享12：雙方等級差需要≥2級[-]	Coin|1000	
+OpenLevel59	1	開服戰力沖榜活動	StartPowerRank		0:00														
+OpenLevel59	3	攻城戰開啟	DeclareWarDomainBattle	26	4:01														
+OpenLevel59	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel69	4	69級上限	SendTimeFrameMail		4:05										OpenLevel69	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放5階裝備打造、角色等級限制開放至69級。	Coin|1000	
+OpenLevel69	4	凌絕峰噩夢難度	SendTimeFrameMail		4:05										OpenLevel69	1	活動預告\n    【預告】%date開放新內容：凌絕峰噩夢難度。\n   活動詳情請查看活動日曆介面凌絕峰的相關説明資訊！	Coin|1000	
+OpenLevel69	-1	婚姻系統開放	SendTimeFrameMail		4:05										OpenLevel69	1	活動預告\n    【預告】%date開放新內容：婚姻系統。\n    [FFFE0D]訂婚：[-]與心儀的[FFFE0D]異性[-]物件組隊，由其中一方使用[ff8f06][url=openwnd:緣定今生, ItemTips, "Item", nil, 6155][-]發起求婚。[FFFE0D]需雙方等級達到50級、親密度達到30級。[-]\n    [FFFE0D]成婚：[-]雙方結成訂婚關係後，可前往襄陽城找[00FF00][url=npc:月老, 2371, 10][-]預定婚禮，完婚後雙方還能獲得獨有的[FFFE0D]稱號、傢俱、禮服、婚書[-]等獎勵	Coin|1000	
+OpenLevel69	4	華山論劍	SendTimeFrameMail		4:05										HuaShanLunJian	1	活動預告\n    【預告】%date開放新內容：華山論劍。\n   各位武林同道，成立自己的戰隊，登臨華山之巔爭奪武林至尊的名號吧。\n   注意：活動正式開放需要處於每月的[FFFE0D]7號~15號之間[-]，請各位大俠留意活動時間。\n   活動詳情請查看活動日曆！	Coin|1000	
+OpenLevel69	1	珍寶閣降價	SendTimeFrameMail	1	4:05										OpenLevel69	1	每週限購降價\n    隨著伺服器開放69級等級上限，商會老闆萬金財決定降價珍寶閣【每週限購】內的部分物品，助力諸位俠士早日成為武林翹楚。\n    [FFFE0D]藍水晶[-]\n    價格：160元寶[FFFE0D]（新上架物品）[-]\n    [FFFE0D]無暇的神秘礦石[-]\n    價格：640元寶[FFFE0D]（新上架物品）[-]\n    [FFFE0D]白水晶[-]\n    原價：8元寶            現價：6元寶\n    [FFFE0D]綠水晶[-]\n    原價：40元寶          現價：35元寶\n    [FFFE0D]未雕琢的神秘礦石[-]\n    原價：30元寶          現價：25元寶\n    [FFFE0D]普通的神秘礦石[-]\n    原價：160元寶        現價：140元寶		
+OpenLevel69	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel69	4	60級野外首領	SendTimeFrameMail		4:05										OpenDay35	1	活動預告\n    【預告】%date開放新內容：60級野外首領。\n   活動詳情請查看活動日曆介面的野外首領活動介紹！	Coin|1000	
+OpenDay52	4	60級歷代名將	SendTimeFrameMail		4:05										OpenDay52	1	活動預告\n    【預告】%date開放新內容：60級歷代名將。\n   活動詳情請查看活動日曆介面的歷代名將活動介紹！	Coin|1000	
+OpenLevel79	6	79級上限	SendTimeFrameMail		4:05										OpenLevel79	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放6階裝備打造、開放同伴經脈系統、角色等級限制開放至79級。	Coin|1000	
+OpenLevel79	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel79	6	同伴經脈	SendTimeFrameMail		4:05											67	公孫惜花的飛鴿傳書\n見信好：\n    武林盟得到消息，江湖奇人玄天道人公佈了一些[FFFE0D]打通經脈[-]的神秘功法，傳言經脈打通後能大大[FFFE0D]加強同伴[-]的武功修為，對各位武林俠士也有[FFFE0D]極大的幫助[-]。少俠若達到[FFFE0D]70級[-]請速來隱香樓找奴家，奴家有話對你說！	Coin|1000	
+OpenLevel79	12	秦始皇陵開放	SendTimeFrameMail		4:05										OpenDay89	1	活動預告\n    【預告】%date開放新內容：諸位俠士，武林中風雲變幻，竟有一批盜墓賊發現了通往秦始皇陵的線索，今日江湖中鬧得沸沸揚揚，俠士若是有興致，不妨也去查探一番，或許會有意料之外的收穫。\n\n   此外，由於皇陵吸引了大批武林高手前往，皇陵開放後，[FFFE0D]每日下午15：30的歷代名將將關閉！[-]\n   活動詳情請查看活動日曆介面的秦始皇陵活動介紹！	Coin|1000	
+OpenLevel89	8	89級上限	SendTimeFrameMail		4:05										OpenLevel89	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放7階裝備打造、角色等級限制開放至89級。	Coin|1000	
+OpenLevel89	1	珍寶閣降價	SendTimeFrameMail	1	4:05										OpenLevel89	1	每週限購降價\n    隨著伺服器開放89級等級上限，商會老闆萬金財決定降價珍寶閣【每週限購】內的部分物品，助力諸位俠士早日成為武林翹楚。\n    [FFFE0D]紫水晶[-]\n    價格：640元寶[FFFE0D]（新上架物品）[-]\n    [FFFE0D]白水晶[-]\n    原價：6元寶            現價：5元寶\n    [FFFE0D]綠水晶[-]\n    原價：35元寶          現價：30元寶\n    [FFFE0D]藍水晶[-]\n    原價：160元寶        現價：140元寶\n    [FFFE0D]未雕琢的神秘礦石[-]\n    原價：25元寶          現價：20元寶\n    [FFFE0D]普通的神秘礦石[-]\n    原價：140元寶        現價：120元寶\n    [FFFE0D]無暇的神秘礦石[-]\n    原價：640元寶        現價：560元寶		
+OpenLevel89	8	80級野外首領	SendTimeFrameMail		4:05										OpenDay116	1	活動預告\n    【預告】%date開放新內容：80級野外首領。\n   活動詳情請查看活動日曆介面的野外首領活動介紹！	Coin|1000	
+OpenLevel89	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel89	8	80級歷代名將	SendTimeFrameMail		4:05										OpenDay128	1	活動預告\n    【預告】%date開放新內容：80級歷代名將。\n   活動詳情請查看活動日曆介面的歷代名將活動介紹！	Coin|1000	
+OpenLevel89	15	秦始皇陵黃金圖譜變更	SendTimeFrameMail		4:05										OpenDay153	1	活動預告\n    【預告】%date秦始皇陵黃金圖譜產出提示:秦始皇陵中千變萬化，內蘊天機，今日起始皇降世將新增黃金武器、黃金玉佩的圖譜，請諸位俠士周知！\n   活動詳情請查看活動日曆介面的始皇降世活動介紹！	Coin|1000	
+OpenLevel99	10	角色等級99級	SendTimeFrameMail		4:05										OpenLevel99	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放8階裝備打造、角色等級限制開放至99級。	Coin|1000	
+OpenLevel99	10	凌絕峰苦痛難度	SendTimeFrameMail		4:05										OpenLevel99	1	活動預告\n    【預告】%date開放新內容：凌絕峰苦痛難度。\n   活動詳情請查看活動日曆介面凌絕峰的相關説明資訊！	Coin|1000	
+OpenLevel99	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel109	12	角色等級109級	SendTimeFrameMail		4:05										OpenLevel109	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放9階裝備打造、角色等級限制開放至109級。	Coin|1000	
+OpenLevel109	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel109	12	100級野外首領	SendTimeFrameMail		4:05										OpenDay251	1	活動預告\n    【預告】%date開放新內容：100級野外首領。\n   活動詳情請查看活動日曆介面的野外首領活動介紹！	Coin|1000	
+OpenLevel89	10	跨服通天塔	SendTimeFrameMail	26	4:05										OpenLevel89	1	跨服通天塔開啟\n    各位俠士，通天塔活動迎來了新的階段，開啟了跨服模式。通天塔起始層數將會提高一層，在最後一輪競技中，將有可能遇到來自其他伺服器的對手。通天塔全新八層，等你來挑戰！		
+OpenLevel89	8	心魔幻境	SendTimeFrameMail	135	4:05										OpenDay118	1	活動預告\n    【預告】%date開放新內容：心魔幻境\n    3人組隊跨服無差別競技，[FFFE0D]固定80級、不攜帶同伴、初始擁有相同的戰力水準[-]。擺脫裝備和等級的桎梏，感受純操作的競技快感！\n   活動詳情請查看活動日曆介面的心魔幻境活動介紹！	Coin|1000	1
+OpenLevel99	5	無雙頭銜	SendTimeFrameMail		4:05										OpenDay188	1	頭銜開放預告\n    諸位俠士！[FFFE0D]「無雙」[-]頭銜將於%date開放，屆時滿足條件的俠士即可消耗[FFFE0D]帝皇令[-]完成晉升。	Coin|1000	
+OpenLevel99	16	秦始皇同伴掉落	SendTimeFrameMail	36	4:05										OpenDay204	1	活動預告\n    [FFFE0D]SSS級同伴「秦始皇」[-]產出提示：秦始皇陵中千變萬化，內蘊天機，%date起始皇降世將新增[FFFE0D]SSS級同伴「秦始皇」[-]，請諸位俠士周知！\n   活動詳情請查看活動日曆介面的始皇降世活動介紹！	Coin|1000	1
+OpenLevel99	18	秦始皇本命武器掉落	SendTimeFrameMail	36	4:05										OpenDay234	1	活動預告\n    秦始皇本命武器「泰阿劍」即將重見天日！\n    %date起[FFFE0D]始皇降世[-]將新增產出[FFFE0D]秦始皇本命武器「泰阿劍」[-]，請諸位俠士周知！\n   活動詳情請查看活動日曆介面的始皇降世活動介紹！	Coin|1000	1
+OpenLevel89	15	開放同伴覺醒功能	SendTimeFrameMail		4:05										OpenDay159	1	同伴覺醒預告\n    諸位俠士！同伴覺醒功能將於%date開放，覺醒後的同伴將永久提升各項潛能，[FFFE0D]正式開放同伴覺醒後可在【同伴】介面進行相關操作[-]。\n\n                                               [00FF00][url=openwnd:覺醒規則, GeneralHelpPanel, "PartnerAwarenessHelp"][-]	Coin|1000	
+OpenLevel119	15	角色等級119級	SendTimeFrameMail		4:05										OpenLevel119	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放10階裝備打造、角色等級限制開放至119級。	Coin|1000	
+OpenLevel119	10	門派秘卷	SendTimeFrameMail		4:05										OpenLevel119	1	活動預告\n    【預告】%date開放新內容：門派信物將可兌換門派秘卷。\n   詳情請查看技能介面中的技能道具分頁！	Coin|1000	
+OpenLevel119	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel119	15	110級歷代名將	SendTimeFrameMail		4:05										OpenDay353	1	活動預告\n    【預告】%date開放新內容：110級歷代名將。\n   活動詳情請查看活動日曆介面的歷代名將活動介紹！	Coin|1000	
+OpenLevel129	17	角色等級129級	SendTimeFrameMail		4:05										OpenLevel129	1	活動預告\n    【預告】%date開放新內容：幫派建築（兵甲坊、首飾坊、防具坊）開放11階裝備打造、角色等級限制開放至129級。	Coin|1000	
+OpenLevel109	1	珍寶閣降價	SendTimeFrameMail	1	4:05										OpenLevel109	1	每週限購降價\n    隨著伺服器開放109級等級上限，商會老闆萬金財決定降價珍寶閣【每週限購】內的部分物品，助力諸位俠士早日成為武林翹楚。\n    [FFFE0D]綠水晶[-]\n    原價：30元寶          現價：25元寶\n    [FFFE0D]藍水晶[-]\n    原價：140元寶        現價：120元寶\n    [FFFE0D]紫水晶[-]\n    原價：640元寶        現價：560元寶\n    [FFFE0D]普通的神秘礦石[-]\n    原價：120元寶        現價：100元寶\n    [FFFE0D]無暇的神秘礦石[-]\n    原價：560元寶        現價：480元寶		
+OpenLevel109	17	完顏洪烈同伴掉落	SendTimeFrameMail	15	4:05										OpenDay279	1	活動預告\n    [FFFE0D]SSS級同伴「完顏洪烈」[-]產出提示：%date起始攻城戰將新增產出[FFFE0D]SSS級同伴「完顏洪烈」[-]，請諸位俠士周知！\n   詳情請查看活動日曆介面的攻城戰介紹！	Coin|1000	
+OpenLevel69	-1	開放家園系統	SendTimeFrameMail		4:05										OpenDay33	1	家園開放預告\n    諸位俠士，[FFFE0D]家園系統[-]將於%date開放，屆時可前往[FFFE0D][url=npc:真兒, 2279, 10][-]處接受家園建造任務，完成後即可免費獲得屬於自己的一片小天地。\n\n                                               [00FF00][url=openwnd:家園介紹, GeneralHelpPanel, "HouseHelp"][-]	Coin|1000	
+OpenLevel79	3	開放3級家園	SendTimeFrameMail		4:05										OpenDay69	1	活動預告\n    【預告】%date開放新內容：家園等級限制開放至3級。	Coin|1000	
+OpenLevel79	3	開放3級傢俱製作	SendTimeFrameMail		4:05										OpenDay99	1	活動預告\n    【預告】%date開放新內容：傢俱坊開放3級傢俱製作。	Coin|1000	
+OpenLevel89	4	開放4級家園	SendTimeFrameMail		4:05										OpenDay114	1	活動預告\n    【預告】%date開放新內容：家園等級限制開放至4級。	Coin|1000	
+OpenLevel99	5	開放5級家園	SendTimeFrameMail		4:05										OpenDay174	1	活動預告\n    【預告】%date開放新內容：家園等級限制開放至5級。	Coin|1000	
+OpenLevel99	4	開放4級傢俱製作	SendTimeFrameMail		4:05										OpenDay224	1	活動預告\n    【預告】%date開放新內容：傢俱坊開放4級傢俱製作	Coin|1000	
+OpenLevel109	3	開放6級家園	SendTimeFrameMail		4:05										OpenDay249	1	活動預告\n    【預告】%date開放新內容：家園等級限制開放至6級。	Coin|1000	
+OpenLevel119	5	開放5級傢俱製作	SendTimeFrameMail		4:05										OpenDay399	1	活動預告\n    【預告】%date開放新內容：傢俱坊開放5級傢俱製作	Coin|1000	
+OpenLevel109	20	完顏洪烈本命武器掉落	SendTimeFrameMail	15	4:05										OpenDay279	1	活動預告\n    完顏洪烈本命武器「金龍禦鷹手」即將重見天日！\n    %date起[FFFE0D]攻城戰[-]將新增產出[FFFE0D]完顏洪烈本命武器「金龍禦鷹手」[-]，請諸位俠士周知！\n   活動詳情請查看活動日曆介面的攻城戰活動介紹！	Coin|1000	1
+OpenLevel119	1	珍寶閣降價	SendTimeFrameMail	1	4:05										OpenLevel119	1	每週限購降價\n    隨著伺服器開放119級等級上限，商會老闆萬金財決定降價珍寶閣【每週限購】內的部分物品，助力諸位俠士早日成為武林翹楚。\n    [FFFE0D]藍水晶[-]\n    原價：120元寶        現價：100元寶\n    [FFFE0D]紫水晶[-]\n    原價：560元寶        現價：480元寶\n    [FFFE0D]破損的神秘礦石[-]\n    原價：20元寶          現價：15元寶\n    [FFFE0D]普通的神秘礦石[-]\n    原價：100元寶        現價：80元寶\n    [FFFE0D]無暇的神秘礦石[-]\n    原價：480元寶        現價：400元寶		
+OpenLevel129	1	行腳商人	SendTimeFrameMail		4:05											1	賈有錢的飛鴿傳書\n見信好：\n    江湖只知商會萬金財，卻少有人知我行腳商賈有錢。此次西行收穫頗多，我將會在拍賣行[FFFE0D]停留3天[-]，[FFFE0D]每天19:05[-]開設專場拍賣。屆時將競拍[FFFE0D]各類稀有珍品[-]，諸位俠士們可不要錯過哦！	Coin|1000	
+OpenLevel129	25	女帝復蘇	SendTimeFrameMail		4:05										OpenLevel129Add10	1	活動預告\n    【預告】%date開放新內容：女帝復蘇\n   各位武林同道，女帝武則天將復蘇於世，還請諸位俠士早日做好準備，與幫派成員一同前往。\n   活動詳情請查看活動日曆介面！	Coin|1000	
+OpenDay353	-1	跨服歷代名將開啟	SendActNewInfomation		4:05										跨服歷代名將開啟	CrossLDMJ	OpenDay353	3	
+OpenLevel139	20	角色等級139級	SendTimeFrameMail		4:05										OpenLevel139	1	活動預告\n    【預告】%date開放新內容：角色等級限制開放至139級。	Coin|1000	

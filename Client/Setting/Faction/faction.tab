@@ -1,0 +1,15 @@
+nId	szName	szIcon	szBigIcon	szWordIcon	szSelectIcon	StatueNpc	nJumpSkillId1	nJumpSkillId2	nJumpSkillId3	nJumpSkillId4	nJumpSkillId5	nJumpSkillId6	nJumpSkillId7	nJumpSkillId8	nJumpSkillId9	nJumpSkillId10
+1	天王	faction_hammer	FactionIcon_Tianwang02	Faction_Tianwang	FactionSelect_TW	1	7	11	1019	1023	1027					1045
+2	峨嵋	FactionSword	FactionIcon_Emei02	Faction_Emei	FactionSelect_EM	2	8	12	1020	1024	1028					1046
+3	桃花	FactionBow	FactionIcon_Taohua02	Faction_Taohua	FactionSelect_TH	3	9	13	1021	1025	1029					1047
+4	逍遥	FactionLancer	FactionIcon_Xiaoyao02	Faction_Xiaoyao	FactionSelect_XY	4	10	14	1022	1026	1030					1048
+5	武当	FactionWudang	FactionIcon_Wudang02	Faction_Wudang	FactionSelect_WD	5	1033	1034	1035	1036	1037					1049
+6	天忍	FactionTianren	FactionIcon_Tianren02	Faction_Tianren	FactionSelect_TR	6	1039	1040	1041	1042	1043					1050
+7	少林	FactionShaolin	FactionIcon_Shaolin02	Faction_Shaolin	FactionSelect_SL	1	1067	1068	1069	1070	1071					1073
+8	翠烟	FactionCuiyan	FactionIcon_Cuiyan02	Faction_Cuiyan	FactionSelect_CY	2	1075	1076	1077	1078	1079					1081
+9	唐门	FactionTangmen	FactionIcon_Tangmen02	Faction_Tangmen	FactionSelect_TM	3	3427	3428	3429	3430	3431					3433
+10	昆仑	FactionKunlun	FactionIcon_Kunlun02	Faction_Kunlun	FactionSelect_KL	4	3435	3436	3437	3438	3439					3441
+11	丐帮	FactionGaibang	FactionIcon_Gaibang02	Faction_Gaibang	FactionSelect_GB	3	3461	3462	3463	3464	3465					3467
+12	五毒	FactionWudu	FactionIcon_Wudu02	Faction_Wudu	FactionSelect_WD2	4	3469	3470	3471	3472	3473					3475
+13	藏剑	FactionCangJian	FactionIcon_Cangjian02	Faction_Cangjian	FactionSelect_CJ	3	3524	3525	3526	3527	3528					3530
+14	长歌	FactionChangGe	FactionIcon_Changge02	Faction_Changge	FactionSelect_CG	4	3532	3533	3534	3535	3536					3538

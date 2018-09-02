@@ -1,0 +1,517 @@
+TemplateId	NextTemplateId	Name	Debris	InsetType	FightPower	Weapon	Helm	Cuff	Armor	Belt	Boots	Necklace	Ring	Pendant	Amulet	AttribType1	Value11	Value21	Value31	AttribType2	Value12	Value22	Value32
+201	230	生命寶石碎片	1	0																			
+230	231	生命寶石1級		0	20		1	1		1	1					lifemax_v	240						
+231	232	生命宝石2级		0	60		1	1		1	1					lifemax_v	480						
+232		生命宝石3级		0	180		1	1		1	1					lifemax_v	840						
+233		生命宝石4级		0	540		1	1		1	1					lifemax_v	1200						
+234		生命宝石5级		0	1650		1	1		1	1					lifemax_v	1680						
+235		生命宝石6级		0	5000		1	1		1	1					lifemax_v	2160						
+236		生命宝石7级		0	15000		1	1		1	1					lifemax_v	3080						
+237		生命宝石8级		0	45000		1	1		1	1					lifemax_v	4000						
+238		生命宝石9级		0	45000		1	1		1	1					lifemax_v	4000						
+202	240	攻擊寶石碎片	1	0																			
+240	241	攻擊寶石1級		0	20							1	1	1	1	physical_damage_v	12		12				
+241	242	攻击宝石2级		0	60							1	1	1	1	physical_damage_v	24		24				
+242		攻击宝石3级		0	180							1	1	1	1	physical_damage_v	42		42				
+243		攻击宝石4级		0	540							1	1	1	1	physical_damage_v	60		60				
+244		攻击宝石5级		0	1650							1	1	1	1	physical_damage_v	84		84				
+245		攻击宝石6级		0	5000							1	1	1	1	physical_damage_v	108		108				
+246		攻击宝石7级		0	15000							1	1	1	1	physical_damage_v	154		154				
+247		攻击宝石8级		0	45000							1	1	1	1	physical_damage_v	200		200				
+248		攻击宝石9级		0	45000							1	1	1	1	physical_damage_v	200		200				
+203	250	抗性寶石碎片	1	0																			
+250	251	抗性寶石1級		0	20		1	1	1	1						all_series_resist_v	6						
+251	252	抗性宝石2级		0	60		1	1	1	1						all_series_resist_v	12						
+252		抗性宝石3级		0	180		1	1	1	1						all_series_resist_v	21						
+253		抗性宝石4级		0	540		1	1	1	1						all_series_resist_v	30						
+254		抗性宝石5级		0	1650		1	1	1	1						all_series_resist_v	42						
+255		抗性宝石6级		0	5000		1	1	1	1						all_series_resist_v	54						
+256		抗性宝石7级		0	15000		1	1	1	1						all_series_resist_v	77						
+257		抗性宝石8级		0	45000		1	1	1	1						all_series_resist_v	100						
+258		抗性宝石9级		0	45000		1	1	1	1						all_series_resist_v	100						
+204	260	忽抗寶石碎片	1	0																			
+260	261	忽抗寶石1級		0	20	1						1	1	1		ignore_all_resist_v	100	6					
+261	262	忽抗宝石2级		0	60	1						1	1	1		ignore_all_resist_v	100	12					
+262		忽抗宝石3级		0	180	1						1	1	1		ignore_all_resist_v	100	21					
+263		忽抗宝石4级		0	540	1						1	1	1		ignore_all_resist_v	100	30					
+264		忽抗宝石5级		0	1650	1						1	1	1		ignore_all_resist_v	100	42					
+265		忽抗宝石6级		0	5000	1						1	1	1		ignore_all_resist_v	100	54					
+266		忽抗宝石7级		0	15000	1						1	1	1		ignore_all_resist_v	100	77					
+267		忽抗宝石8级		0	45000	1						1	1	1		ignore_all_resist_v	100	100					
+268		忽抗宝石9级		0	45000	1						1	1	1		ignore_all_resist_v	100	100					
+205	270	閃避寶石碎片	1	0																			
+270	271	閃避寶石1級		0	20		1	1	1		1					defense_v	24						
+271	272	闪避宝石2级		0	60		1	1	1		1					defense_v	48						
+272	273	闪避宝石3级		0	180		1	1	1		1					defense_v	84						
+273	274	闪避宝石4级		0	540		1	1	1		1					defense_v	120						
+274	275	闪避宝石5级		0	1650		1	1	1		1					defense_v	168						
+275	276	闪避宝石6级		0	5000		1	1	1		1					defense_v	216						
+276	277	闪避宝石7级		0	15000		1	1	1		1					defense_v	308						
+277		闪避宝石8级		0	45000		1	1	1		1					defense_v	400						
+278		闪避宝石9级		0	45000		1	1	1		1					defense_v	400						
+206	280	忽閃寶石碎片	1	0																			
+280	281	忽閃寶石1級		0	20	1						1	1		1	ignore_defense_v	24						
+281	282	忽闪宝石2级		0	60	1						1	1		1	ignore_defense_v	48						
+282	283	忽闪宝石3级		0	180	1						1	1		1	ignore_defense_v	84						
+283	284	忽闪宝石4级		0	540	1						1	1		1	ignore_defense_v	120						
+284	285	忽闪宝石5级		0	1650	1						1	1		1	ignore_defense_v	168						
+285	286	忽闪宝石6级		0	5000	1						1	1		1	ignore_defense_v	216						
+286	287	忽闪宝石7级		0	15000	1						1	1		1	ignore_defense_v	308						
+287		忽闪宝石8级		0	45000	1						1	1		1	ignore_defense_v	400						
+288		忽闪宝石9级		0	45000	1						1	1		1	ignore_defense_v	400						
+207	290	會心寶石碎片	1	0																			
+290	291	會心寶石1級		0	20	1						1		1	1	deadlystrike_v	12						
+291	292	会心宝石2级		0	60	1						1		1	1	deadlystrike_v	24						
+292	293	会心宝石3级		0	180	1						1		1	1	deadlystrike_v	42						
+293	294	会心宝石4级		0	540	1						1		1	1	deadlystrike_v	60						
+294	295	会心宝石5级		0	1650	1						1		1	1	deadlystrike_v	84						
+295	296	会心宝石6级		0	5000	1						1		1	1	deadlystrike_v	108						
+296	297	会心宝石7级		0	15000	1						1		1	1	deadlystrike_v	154						
+297		会心宝石8级		0	45000	1						1		1	1	deadlystrike_v	200						
+298		会心宝石9级		0	45000	1						1		1	1	deadlystrike_v	200						
+208	300	減會心寶石碎片	1	0																			
+300	301	減會心寶石1級		0	20			1	1	1	1					weaken_deadlystrike_v	12						
+301	302	减会心宝石2级		0	60			1	1	1	1					weaken_deadlystrike_v	24						
+302	303	减会心宝石3级		0	180			1	1	1	1					weaken_deadlystrike_v	42						
+303	304	减会心宝石4级		0	540			1	1	1	1					weaken_deadlystrike_v	60						
+304	305	减会心宝石5级		0	1650			1	1	1	1					weaken_deadlystrike_v	84						
+305	306	减会心宝石6级		0	5000			1	1	1	1					weaken_deadlystrike_v	108						
+306	307	减会心宝石7级		0	15000			1	1	1	1					weaken_deadlystrike_v	154						
+307		减会心宝石8级		0	45000			1	1	1	1					weaken_deadlystrike_v	200						
+308		减会心宝石9级		0	45000			1	1	1	1					weaken_deadlystrike_v	200						
+209	310	效果寶石碎片	1	0																			
+310	311	效果寶石1級		0	20	1							1	1	1	add_seriesstate_rate_v	6						
+311	312	效果宝石2级		0	60	1							1	1	1	add_seriesstate_rate_v	12						
+312	313	效果宝石3级		0	180	1							1	1	1	add_seriesstate_rate_v	21						
+313	314	效果宝石4级		0	540	1							1	1	1	add_seriesstate_rate_v	30						
+314	315	效果宝石5级		0	1650	1							1	1	1	add_seriesstate_rate_v	42						
+315	316	效果宝石6级		0	5000	1							1	1	1	add_seriesstate_rate_v	54						
+316	317	效果宝石7级		0	15000	1							1	1	1	add_seriesstate_rate_v	77						
+317		效果宝石8级		0	45000	1							1	1	1	add_seriesstate_rate_v	100						
+318		效果宝石9级		0	45000	1							1	1	1	add_seriesstate_rate_v	100						
+210	320	減效果寶石碎片	1	0																			
+320	321	減效果寶石1級		0	20		1		1	1	1					resist_allseriesstate_rate_v	6						
+321	322	减效果宝石2级		0	60		1		1	1	1					resist_allseriesstate_rate_v	12						
+322	323	减效果宝石3级		0	180		1		1	1	1					resist_allseriesstate_rate_v	21						
+323	324	减效果宝石4级		0	540		1		1	1	1					resist_allseriesstate_rate_v	30						
+324	325	减效果宝石5级		0	1650		1		1	1	1					resist_allseriesstate_rate_v	42						
+325	326	减效果宝石6级		0	5000		1		1	1	1					resist_allseriesstate_rate_v	54						
+326	327	减效果宝石7级		0	15000		1		1	1	1					resist_allseriesstate_rate_v	77						
+327		减效果宝石8级		0	45000		1		1	1	1					resist_allseriesstate_rate_v	100						
+328		减效果宝石9级		0	45000		1		1	1	1					resist_allseriesstate_rate_v	100						
+212	222	白水晶		0																			
+222	223	綠水晶		0																			
+223	224	藍水晶		0																			
+224	225	紫水晶		0																			
+225	227	橙水晶		0																			
+227		金水晶		0																			
+213	214	破損的神秘礦石		0																			
+214	215	普通的神秘礦石		0																			
+215	216	無暇的神秘礦石		0																			
+216	217	璀璨的神秘礦石		0																			
+217		完美的神秘礦石		0																			
+1693	1772	初級魂石·李三		0	50	1										attackrate_v	80						
+1694	1771	初級魂石·盧青		0	50							1				water_resist_v	30						
+1695	1773	初級魂石·鶯兒		0	50				1							recover_life_v	100	75					
+1696	1774	初級魂石·顧武		0	50			1								attackrate_v	80						
+1697	1775	初級魂石·小武		0	150										1	earth_resist_v	40			lifemax_v	256		
+1698	1776	初級魂石·蘇墨芸		0	50				1							lifemax_v	400						
+1699	1777	初級魂石·蕭動塵		0	50										1	earth_resist_v	30						
+1700	1778	初級魂石·胡神醫		0	50									1		state_palsy_resistrate	30						
+1701	1779	初級魂石·秦沐白		0	50							1				state_slowall_resistrate	30						
+1702	1780	初級魂石·張仲天		0	50										1	state_stun_resistrate	30						
+1703	1781	初級魂石·路達		0	50								1			state_zhican_resistrate	30						
+1704	1782	初級魂石·白眉猴王		1	150					1						metal_resist_v	48						
+1705	1783	初級魂石·大地狼王		2	150					1						wood_resist_v	48						
+1706	1784	初級魂石·寒玉鹿王		3	150					1						fire_resist_v	48						
+1707	1785	初級魂石·薔薇		0	50					1						vitality_v	20						
+1708	1786	初級魂石·紫軒		0	50						1					dexterity_v	20						
+1709	1787	初級魂石·卓非凡		4	150							1				deadlystrike_v	32						
+1710	1788	初級魂石·月明瑤		0	150		1									metal_resist_v	40			lifemax_v	256		
+1711	1789	初級魂石·龍傲天		0	150				1							state_zhican_resisttime	40			lifemax_v	256		
+1712	1790	初級魂石·沫天然		0	150				1							state_hurt_resisttime	40			lifemax_v	256		
+1713	1791	初級魂石·少年楊影楓		5	450				1							meleedamagereturn_p	3			lifemax_v	690		
+1714	1792	初級魂石·南宮彩虹		0	50			1								energy_v	20						
+1715	1793	初級魂石·林海		0	50						1					lifemax_v	400						
+1716	1794	初級魂石·陸文龍		0	50		1									state_zhican_resisttime	30						
+1717	1795	初級魂石·趙無雙		0	50									1		fire_resist_v	30						
+1718	1796	初級魂石·無相		0	50					1						lifemax_v	400						
+1719	1797	初級魂石·唐瀟		0	150			1								energy_v	25			lifemax_v	256		
+1720	1798	初級魂石·張如夢		0	50	1										strength_v	20						
+1721	1799	初級魂石·張琳心		0	150				1							recover_life_v	128	75		lifemax_v	256		
+1722	1800	初級魂石·封玉書		0	150								1			wood_resist_v	40			lifemax_v	256		
+1723	1801	初級魂石·趙節		0	50								1			wood_resist_v	30						
+1724	1802	初級魂石·邵騎風		0	50		1									metal_resist_v	30						
+1725	1803	初級魂石·何暮雪		0	150									1		fire_resist_v	40			lifemax_v	256		
+1726	1804	初級魂石·趙升權		0	150			1								energy_v	25			attackrate_v	52		
+1727	1805	初級魂石·納蘭真		0	150					1						vitality_v	25			lifemax_v	256		
+1728	1806	初級魂石·柴嵩		0	150							1				water_resist_v	40			lifemax_v	256		
+1729	1807	初級魂石·曲霞		0	450										1	lifemax_p	5			recover_life_v	96	75	
+1730	1808	初級魂石·耶律辟離(唯一)		53	450	1										basic_damage_v	48		48				
+1731	1809	初級魂石·楊鐵心		6	450								1			basic_damage_v	38		38	state_zhican_resistrate	28		
+1732	1810	初級魂石·無想		0	450				1							all_series_resist_v	20			recover_life_v	96	75	
+1733	1811	初級魂石·柳瀟庭		7	450										1	resist_allseriesstate_rate_v	20			state_stun_resisttime	28		
+1734	1812	初級魂石·李恬兒		8	450					1						rangedamagereturn_p	3			lifemax_v	690		
+1735	1813	初級魂石·李天目		9	450			1								attackspeed_v	6			attackrate_v	96		
+1736	1814	初級魂石·完顏襄		10	450		1									deadlystrike_damage_p	4			state_hurt_resistrate	28		
+2847	2849	初級魂石·玄慈(唯一)		49	450										1	lifemax_p	7						
+1737	1815	初級魂石·邵宏淵		0	150	1										strength_v	25			attackrate_v	52		
+1738	1816	初級魂石·白彥敬		0	150					1						vitality_v	25			attackrate_v	52		
+1739	1817	初級魂石·耶律楚材		11	450									1		weaken_deadlystrike_damage_p	4			state_palsy_resistrate	28		
+1740	1818	初級魂石·雷風		0	150				1							state_stun_resistrate	40			lifemax_v	256		
+1741	1819	初級魂石·雷同		0	150				1							state_slowall_resistrate	40			lifemax_v	256		
+1742	1820	初級魂石·唐娟娟		0	150				1							state_palsy_resistrate	40			lifemax_v	256		
+1743	1821	初級魂石·雷震天		12	450							1				add_seriesstate_rate_v	20			state_slowall_resistrate	28		
+1744	1822	初級魂石·奪寶賊		0	150						1					dexterity_v	25			attackrate_v	52		
+1745	1823	初級魂石·雙獸異獸		13	150					1						earth_resist_v	48						
+1746	1824	初級魂石·奔焰豹王		14	150						1					all_series_resist_v	16						
+1747	1825	初級魂石·九尾狐王		15	150					1						water_resist_v	48						
+2528	2537	初級魂石·楊瑛(唯一)		30	1350	1										steallife_p	9			strength_v	28		
+2529	2538	初級魂石·清曉師太(唯一)		34	1350				1							vitality_v	56			all_series_resist_v	14		
+2530	2539	初級魂石·祝子虛(唯一)		35	1350									1		energy_v	56			defense_v	56		
+2531	2540	初級魂石·黃玉英(唯一)		32	1350							1				deadlystrike_v	56			ignore_defense_v	56		
+2532	2541	初級魂石·道一真人(唯一)		38	1350						1					ignore_all_resist_v	100	28		dexterity_v	28		
+2533	2542	初級魂石·端木睿(唯一)		31	1350		1									deadlystrike_damage_p	5			metal_resist_v	56		
+2848	2850	初級魂石·玄因(唯一)		50	1350	1										ignore_defense_v	112			strength_v	28		
+1748	1826	初級魂石·高長恭		0	450	1										physical_firedamage_v	38			attackrate_v	76		
+1749	1827	初級魂石·哲別		17	450	1										deadlystrike_v	38			attackrate_v	76		
+1750	1828	初級魂石·秦良玉		0	450	1										physical_waterdamage_v	38			attackrate_v	76		
+1751	1829	初級魂石·袁承志		0	450	1										physical_earthdamage_v	38			attackrate_v	76		
+1752	1830	初級魂石·鼇拜		0	450	1										physical_metaldamage_v	38			attackrate_v	76		
+1753	1831	初級魂石·韓世忠		0	450	1										physical_wooddamage_v	38			attackrate_v	76		
+1754	1832	初級魂石·赤睛虎皇		22	1350			1								metal_resist_v	84			lifemax_v	1000		
+1755	1833	初級魂石·撼天熊皇		23	1350			1								wood_resist_v	84			lifemax_v	1000		
+1756	1834	初級魂石·紫背鱷皇		24	1350										1	all_series_resist_v	28			lifemax_v	1000		
+1757	1835	初級魂石·定海金剛		25	1350			1								water_resist_v	84			lifemax_v	1000		
+1758	1836	初級魂石·金翅鵬皇		26	1350			1								earth_resist_v	84			lifemax_v	1000		
+1759	1837	初級魂石·銀角犀皇		27	1350			1								fire_resist_v	84			lifemax_v	1000		
+2534	2543	初級魂石·孟知秋(唯一)		33	1350								1			strength_v	56			wood_resist_v	42		
+2535	2544	初級魂石·李顯忠(唯一)		36	1350					1						all_series_resist_v	28			recover_life_v	140	75	
+2536	2545	初級魂石·徒單克寧(唯一)		37	1350										1	dexterity_v	56			resist_allseriesstate_rate_v	14		
+2668	2669	初級魂石·獨孤劍(唯一)		39	1350		1									ignore_all_resist_v	100	28		basic_damage_v	42		42
+2880	2882	初級魂石·南宮飛雲(唯一)		51	1350								1			energy_v	56			ignore_all_resist_v	100	14	
+2881	2883	初級魂石·楊影楓(唯一)		52	1350					1						vitality_v	56			defense_v	56		
+2672	2675	初級魂石·荊軻(唯一)		42	1350						1					ignore_all_resist_v	100	28		defense_v	56		
+2673	2676	初級魂石·虞姬(唯一)		41	1350									1		fire_resist_v	84			state_palsy_resistrate	42		
+2674	2677	初級魂石·岳飛(唯一)		40	1350							1				water_resist_v	84			state_slowall_resistrate	42		
+2696	2697	初級魂石·完顏洪烈(唯一)		43	1350										1	basic_damage_v	84		84	lifemax_p	3		
+2824	2829	初級魂石·玄天武機(唯一)		46	1350							1				dexterity_v	84						
+2825	2830	初級魂石·白起(唯一)		47	1350				1							all_series_resist_v	42						
+2826	2831	初級魂石·李斯(唯一)		48	1350									1		weaken_deadlystrike_v	84						
+3022	3023	初級魂石·雷(唯一)		54	1350				1							defense_v	168						
+2827	2832	初級魂石·秦始皇(陰)(唯一)		44	4000		1									series_abate_v	300			basic_damage_v	60		60
+2828	2833	初級魂石·秦始皇(陽)(唯一)		45	4000					1						series_enhance_v	300			lifemax_p	5		
+1760	1838	初級魂石·張風		0	150	1										strength_v	25			lifemax_v	256		
+1761	1839	初級魂石·月眉兒		0	150						1					dexterity_v	25			lifemax_v	256		
+1762	1840	初級魂石·天星道長		0	450								1			ignore_defense_v	76			lifemax_v	690		
+1763	1841	初級魂石·燕若雪		0	450									1		defense_v	76			lifemax_v	690		
+1764	1842	初級魂石·楊熙烈		0	450			1								add_seriesstate_time_v	20			lifemax_v	690		
+1765	1843	初級魂石·上官飛龍		28	450									1		weaken_deadlystrike_v	38			lifemax_v	690		
+1766	1844	初級魂石·納蘭潛凜		29	450						1					ignore_all_resist_v	100	20		lifemax_v	690		
+1767	1845	初級魂石·方勉		0	450		1									resist_allseriesstate_time_v	20			lifemax_v	690		
+1768	1846	初級魂石·南宮滅		0	450					1						lifemax_p	5			recover_life_v	96	75	
+1769	1848	初級魂石·唐影		0	450							1				ignore_defense_v	76			lifemax_v	690		
+1770	1847	初級魂石·秋依水		0	450						1					defense_v	76			lifemax_v	690		
+3215	3218	初級魂石·李元霸		56	1350						1					vitality_v	84						
+3216	3219	初級魂石·趙雲		55	1350								1			ignore_defense_v	168						
+3217	3220	初級魂石·李廣		57	1350			1								energy_v	84						
+3371	3374	初級魂石·尹含煙(唯一)		58	1350					1						lifemax_v	3025						
+3372	3375	初級魂石·璿璣子(唯一)		59	1350		1									basic_damage_v	105		105				
+3373	3376	初級魂石·玄天道人(唯一)		60	1350	1										deadlystrike_v	84						
+3709	3710	初級魂石·年獸(唯一)		61	1350						1					all_series_resist_v	42						
+3854	3857	初級魂石·黑面郎君(唯一)		63	1350	1										strength_v	56			attackrate_v	112		
+3855	3858	初級魂石·何人我(唯一)		65	1350									1		weaken_deadlystrike_damage_p	8						
+3856	3859	初級魂石·唐仇(唯一)		64	1350							1				add_seriesstate_rate_v	42						
+3897	3898	初級魂石·唐簡(唯一)		62	4000								1			strength_v	80			dexterity_v	40		
+4053	4054	初級魂石·完顏洪烈(真)(唯一)		66	4000				1							all_series_resist_p	20						
+4540	4543	初級魂石·冰鱗蜥皇(唯一)		67	1350										1	meleedamagereturn_p	4			recover_life_v	140	75	
+4541	4544	初級魂石·銀鉤蠍皇(唯一)		68	1350										1	defense_p	6			lifemax_v	560		
+4542	4545	初級魂石·狂鬃獒皇(唯一)		69	1350										1	rangedamagereturn_p	4			recover_life_v	140	75	
+4595	4596	初級魂石·項羽(唯一)		70	4000	1										enhance_final_damage_p	6						
+4849	4850	初級魂石·唐曉(唯一)		71	4000							1				deadlystrike_p	20						
+4873	4875	初級魂石·宋秋石(唯一)		73	1350								1			basic_damage_v	84		84	earth_resist_v	42		
+4874	4876	初級魂石·古嫣然(唯一)		74	1350				1							lifemax_v	2400			resist_allseriesstate_time_v	28		
+5432	5434	初級魂石·尹筱雨(唯一)		75	1350		1									ignore_defense_p	10						
+5433	5435	初級魂石·石軒轅(唯一)		72	1350					1						ignore_all_resist	100	5					
+6067	6071	初級魂石·葉青陽(唯一)		76	1350							1				weaken_deadlystrike_v	67			lifemax_v	1000		
+6068	6072	初級魂石·冰儀(唯一)		77	1350						1					dexterity_v	56			lifemax_v	560		
+6069	6073	初級魂石·楊再興(唯一)		78	1350								1			ignore_defense_v	112			basic_damage_v	53		53
+6070	6074	初級魂石·完顏婁室(唯一)		79	1350									1		weaken_deadlystrike_damage_p	5			lifemax_v	1000		
+6100	6102	初級魂石·蕭玉竹(唯一)		80	1350		1									resist_allseriesstate_rate_v	28			lifemax_v	1000		
+6101	6103	初級魂石·金兀術(唯一)		81	1350					1						all_series_resist_v	28			add_seriesstate_time_v	28		
+6112	6113	初級魂石·絕世虞姬(唯一)		82	4000						1					reduce_final_damage_p	6						
+6126	6131	初級魂石·武則天(陰)(唯一)		83	4000										1	steallife_resist_p	10			basic_damage_v	60		60
+6127	6132	初級魂石·武則天(陽)(唯一)		84	4000									1		steallife_resist_p	10			lifemax_p	5		
+6128	6133	初級魂石·狄仁傑(唯一)		85	1350	1										basic_damage_v	105		105				
+6129	6134	初級魂石·李元芳(唯一)		86	1350			1								all_series_resist_v	28			lifemax_v	1000		
+6130	6135	初級魂石·無字碑(唯一)		87	1350				1							add_seriesstate_rate_v	28			recover_life_v	140	75	
+1772	1849	中級魂石·李三		0	150	1										attackrate_v	128						
+1771	1850	中級魂石·盧青		0	150							1				water_resist_v	48						
+1773	1851	中級魂石·鶯兒		0	150				1							recover_life_v	160	75					
+1774	1852	中級魂石·顧武		0	150			1								attackrate_v	128						
+1775	1853	中級魂石·小武		0	450										1	earth_resist_v	60			lifemax_v	384		
+1776	1854	中級魂石·蘇墨芸		0	150				1							lifemax_v	640						
+1777	1855	中級魂石·蕭動塵		0	150										1	earth_resist_v	48						
+1778	1856	中級魂石·胡神醫		0	150									1		state_palsy_resistrate	48						
+1779	1857	中級魂石·秦沐白		0	150							1				state_slowall_resistrate	48						
+1780	1858	中級魂石·張仲天		0	150										1	state_stun_resistrate	48						
+1781	1859	中級魂石·路達		0	150								1			state_zhican_resistrate	48						
+1782	1860	中級魂石·白眉猴王		1	450					1						metal_resist_v	72						
+1783	1861	中級魂石·大地狼王		2	450					1						wood_resist_v	72						
+1784	1862	中級魂石·寒玉鹿王		3	450					1						fire_resist_v	72						
+1785	1863	中級魂石·薔薇		0	150					1						vitality_v	32						
+1786	1864	中級魂石·紫軒		0	150						1					dexterity_v	32						
+1787	1865	中級魂石·卓非凡		4	450							1				deadlystrike_v	48						
+1788	1866	中級魂石·月明瑤		0	450		1									metal_resist_v	60			lifemax_v	384		
+1789	1867	中級魂石·龍傲天		0	450				1							state_zhican_resisttime	60			lifemax_v	384		
+1790	1868	中級魂石·沫天然		0	450				1							state_hurt_resisttime	60			lifemax_v	384		
+1791	1869	中級魂石·少年楊影楓		5	1350				1							meleedamagereturn_p	5			lifemax_v	1000		
+1792	1870	中級魂石·南宮彩虹		0	150			1								energy_v	32						
+1793	1871	中級魂石·林海		0	150						1					lifemax_v	640						
+1794	1873	中級魂石·陸文龍		0	150		1									state_zhican_resisttime	48						
+1795	1872	中級魂石·趙無雙		0	150									1		fire_resist_v	48						
+1796	1874	中級魂石·無相		0	150					1						lifemax_v	640						
+1797	1875	中級魂石·唐瀟		0	450			1								energy_v	38			lifemax_v	384		
+1798	1876	中級魂石·張如夢		0	150	1										strength_v	32						
+1799	1877	中級魂石·張琳心		0	450				1							recover_life_v	192	75		lifemax_v	384		
+1800	1878	中級魂石·封玉書		0	450								1			wood_resist_v	60			lifemax_v	384		
+1801	1879	中級魂石·趙節		0	150								1			wood_resist_v	48						
+1802	1880	中級魂石·邵騎風		0	150		1									metal_resist_v	48						
+1803	1881	中級魂石·何暮雪		0	450									1		fire_resist_v	60			lifemax_v	384		
+1804	1882	中級魂石·趙升權		0	450			1								energy_v	38			attackrate_v	76		
+1805	1883	中級魂石·納蘭真		0	450					1						vitality_v	38			lifemax_v	384		
+1806	1884	中級魂石·柴嵩		0	450							1				water_resist_v	60			lifemax_v	384		
+1807	1885	中級魂石·曲霞		0	1350										1	lifemax_p	6			recover_life_v	140	75	
+1808	1886	中級魂石·耶律辟離(唯一)		53	1350	1										basic_damage_v	105		105				
+1809	1887	中級魂石·楊鐵心		6	1350								1			basic_damage_v	84		84	state_zhican_resistrate	42		
+1810	1888	中級魂石·無想		0	1350				1							all_series_resist_v	28			recover_life_v	140	75	
+1811	1889	中級魂石·柳瀟庭		7	1350										1	resist_allseriesstate_rate_v	28			state_stun_resisttime	42		
+1812	1890	中級魂石·李恬兒		8	1350					1						rangedamagereturn_p	5			lifemax_v	1000		
+1813	1891	中級魂石·李天目		9	1350			1								attackspeed_v	8			attackrate_v	140		
+1814	1892	中級魂石·完顏襄		10	1350		1									deadlystrike_damage_p	5			state_hurt_resistrate	42		
+2849	2851	中級魂石·玄慈(唯一)		49	1350										1	lifemax_p	9						
+1815	1893	中級魂石·邵宏淵		0	450	1										strength_v	38			attackrate_v	76		
+1816	1894	中級魂石·白彥敬		0	450					1						vitality_v	38			attackrate_v	76		
+1817	1895	中級魂石·耶律楚材		11	1350									1		weaken_deadlystrike_damage_p	5			state_palsy_resistrate	42		
+1818	1896	中級魂石·雷風		0	450				1							state_stun_resistrate	60			lifemax_v	384		
+1819	1897	中級魂石·雷同		0	450				1							state_slowall_resistrate	60			lifemax_v	384		
+1820	1898	中級魂石·唐娟娟		0	450				1							state_palsy_resistrate	60			lifemax_v	384		
+1821	1899	中級魂石·雷震天		12	1350							1				add_seriesstate_rate_v	28			state_slowall_resistrate	42		
+1822	1900	中級魂石·奪寶賊		0	450						1					dexterity_v	38			attackrate_v	76		
+1823	1901	中級魂石·雙獸異獸		13	450					1						earth_resist_v	72						
+1824	1902	中級魂石·奔焰豹王		14	450						1					all_series_resist_v	24						
+1825	1903	中級魂石·九尾狐王		15	450					1						water_resist_v	72						
+2537	2546	中級魂石·楊瑛(唯一)		30	4000	1										steallife_p	11			strength_v	40		
+2538	2547	中級魂石·清曉師太(唯一)		34	4000				1							vitality_v	80			all_series_resist_v	20		
+2539	2548	中級魂石·祝子虛(唯一)		35	4000									1		energy_v	80			defense_v	80		
+2540	2549	中級魂石·黃玉英(唯一)		32	4000							1				deadlystrike_v	80			ignore_defense_v	80		
+2541	2550	中級魂石·道一真人(唯一)		38	4000						1					ignore_all_resist_v	100	40		dexterity_v	40		
+2542	2551	中級魂石·端木睿(唯一)		31	4000		1									deadlystrike_damage_p	6			metal_resist_v	80		
+2850	2852	中級魂石·玄因(唯一)		50	4000	1										ignore_defense_v	160			strength_v	40		
+1826	1904	中級魂石·高長恭		0	1350	1										physical_firedamage_v	84			attackrate_v	112		
+1827	1905	中級魂石·哲別		17	1350	1										deadlystrike_v	56			attackrate_v	112		
+1828	1906	中級魂石·秦良玉		0	1350	1										physical_waterdamage_v	84			attackrate_v	112		
+1829	1907	中級魂石·袁承志		0	1350	1										physical_earthdamage_v	84			attackrate_v	112		
+1830	1908	中級魂石·鼇拜		0	1350	1										physical_metaldamage_v	84			attackrate_v	112		
+1831	1909	中級魂石·韓世忠		0	1350	1										physical_wooddamage_v	84			attackrate_v	112		
+1832	1910	中級魂石·赤睛虎皇		22	4000			1								metal_resist_v	120			lifemax_v	1450		
+1833	1911	中級魂石·撼天熊皇		23	4000			1								wood_resist_v	120			lifemax_v	1450		
+1834	1912	中級魂石·紫背鱷皇		24	4000										1	all_series_resist_v	40			lifemax_v	1450		
+1835	1913	中級魂石·定海金剛		25	4000			1								water_resist_v	120			lifemax_v	1450		
+1836	1914	中級魂石·金翅鵬皇		26	4000			1								earth_resist_v	120			lifemax_v	1450		
+1837	1915	中級魂石·銀角犀皇		27	4000			1								fire_resist_v	120			lifemax_v	1450		
+2543	2552	中級魂石·孟知秋(唯一)		33	4000								1			strength_v	80			wood_resist_v	60		
+2544	2553	中級魂石·李顯忠(唯一)		36	4000					1						all_series_resist_v	40			recover_life_v	200	75	
+2545	2554	中級魂石·徒單克寧(唯一)		37	4000										1	dexterity_v	80			resist_allseriesstate_rate_v	20		
+2669	2670	中級魂石·獨孤劍(唯一)		39	4000		1									ignore_all_resist_v	100	40		basic_damage_v	60		60
+2882	2884	中級魂石·南宮飛雲(唯一)		51	4000								1			energy_v	80			ignore_all_resist_v	100	20	
+2883	2885	中級魂石·楊影楓(唯一)		52	4000					1						vitality_v	80			defense_v	80		
+2675	2678	中級魂石·荊軻(唯一)		42	4000						1					ignore_all_resist_v	100	40		defense_v	80		
+2676	2679	中級魂石·虞姬(唯一)		41	4000									1		fire_resist_v	120			state_palsy_resistrate	60		
+2677	2680	中級魂石·岳飛(唯一)		40	4000							1				water_resist_v	120			state_slowall_resistrate	60		
+2697	2698	中級魂石·完顏洪烈(唯一)		43	4000										1	basic_damage_v	120		120	lifemax_p	5		
+2829	2834	中級魂石·玄天武機(唯一)		46	4000							1				dexterity_v	120						
+2830	2835	中級魂石·白起(唯一)		47	4000				1							all_series_resist_v	60						
+2831	2836	中級魂石·李斯(唯一)		48	4000									1		weaken_deadlystrike_v	120						
+3023	3024	中級魂石·雷(唯一)		54	4000				1							defense_v	336						
+2832	2837	中級魂石·秦始皇(陰)(唯一)		44	12000		1									series_abate_v	420			basic_damage_v	84		84
+2833	2838	中級魂石·秦始皇(陽)(唯一)		45	12000					1						series_enhance_v	420			lifemax_p	6		
+1838	1916	中級魂石·張風		0	450	1										strength_v	38			lifemax_v	384		
+1839	1917	中級魂石·月眉兒		0	450						1					dexterity_v	38			lifemax_v	384		
+1840	1918	中級魂石·天星道長		0	1350								1			ignore_defense_v	112			lifemax_v	1000		
+1841	1919	中級魂石·燕若雪		0	1350									1		defense_v	112			lifemax_v	1000		
+1842	1920	中級魂石·楊熙烈		0	1350			1								add_seriesstate_time_v	28			lifemax_v	1000		
+1843	1921	中級魂石·上官飛龍		28	1350									1		weaken_deadlystrike_v	56			lifemax_v	1000		
+1844	1922	中級魂石·納蘭潛凜		29	1350						1					ignore_all_resist_v	100	28		lifemax_v	1000		
+1845	1923	中級魂石·方勉		0	1350		1									resist_allseriesstate_time_v	28			lifemax_v	1000		
+1846	1924	中級魂石·南宮滅		0	1350					1						lifemax_p	6			recover_life_v	140	75	
+1848	1925	中級魂石·唐影		0	1350							1				ignore_defense_v	112			lifemax_v	1000		
+1847	1926	中級魂石·秋依水		0	1350						1					defense_v	112			lifemax_v	1000		
+3218	3221	中級魂石·李元霸		56	4000						1					vitality_v	120						
+3219	3222	中級魂石·趙雲		55	4000								1			ignore_defense_v	240						
+3220	3223	中級魂石·李廣		57	4000			1								energy_v	120						
+3374	3377	中級魂石·尹含煙(唯一)		58	4000					1						lifemax_v	4320						
+3375	3378	中級魂石·璿璣子(唯一)		59	4000		1									basic_damage_v	150		150				
+3376	3379	中級魂石·玄天道人(唯一)		60	4000	1										deadlystrike_v	120						
+3710	3711	中級魂石·年獸(唯一)		61	4000						1					all_series_resist_v	60						
+3857	3860	中級魂石·黑面郎君(唯一)		63	4000	1										strength_v	80			attackrate_v	160		
+3858	3861	中級魂石·何人我(唯一)		65	4000									1		weaken_deadlystrike_damage_p	10						
+3859	3862	中級魂石·唐仇(唯一)		64	4000							1				add_seriesstate_rate_v	60						
+3898	3899	中級魂石·唐簡(唯一)		62	12000								1			strength_v	112			dexterity_v	56		
+4054	4055	中級魂石·完顏洪烈(真)(唯一)		66	12000				1							all_series_resist_p	35						
+4543	4546	中級魂石·冰鱗蜥皇(唯一)		67	4000										1	meleedamagereturn_p	7			recover_life_v	200	75	
+4544	4547	中級魂石·銀鉤蠍皇(唯一)		68	4000										1	defense_p	9			lifemax_v	800		
+4545	4548	中級魂石·狂鬃獒皇(唯一)		69	4000										1	rangedamagereturn_p	7			recover_life_v	200	75	
+4596	4597	中級魂石·項羽(唯一)		70	12000	1										enhance_final_damage_p	9						
+4850	4851	中級魂石·唐曉(唯一)		71	12000							1				deadlystrike_p	35						
+4875	4877	中級魂石·宋秋石(唯一)		73	4000								1			basic_damage_v	120		120	earth_resist_v	60		
+4876	4878	中級魂石·古嫣然(唯一)		74	4000				1							lifemax_v	3450			resist_allseriesstate_time_v	40		
+5434	5436	中級魂石·尹筱雨(唯一)		75	4000		1									ignore_defense_p	15						
+5435	5437	中級魂石·石軒轅(唯一)		72	4000					1						ignore_all_resist	100	8					
+6071	6075	中級魂石·葉青陽(唯一)		76	4000							1				weaken_deadlystrike_v	96			lifemax_v	1450		
+6072	6076	中級魂石·冰儀(唯一)		77	4000						1					dexterity_v	80			lifemax_v	800		
+6073	6077	中級魂石·楊再興(唯一)		78	4000								1			ignore_defense_v	160			basic_damage_v	75		75
+6074	6078	中級魂石·完顏婁室(唯一)		79	4000									1		weaken_deadlystrike_damage_p	6			lifemax_v	1450		
+6102	6104	中級魂石·蕭玉竹(唯一)		80	4000		1									resist_allseriesstate_rate_v	40			lifemax_v	1450		
+6103	6105	中級魂石·金兀術(唯一)		81	4000					1						all_series_resist_v	40			add_seriesstate_time_v	40		
+6113	6114	中級魂石·絕世虞姬(唯一)		82	12000						1					reduce_final_damage_p	9						
+6131	6136	中級魂石·武則天(陰)(唯一)		83	12000										1	steallife_resist_p	15			basic_damage_v	84		84
+6132	6137	中級魂石·武則天(陽)(唯一)		84	12000									1		steallife_resist_p	15			lifemax_p	6		
+6133	6138	中級魂石·狄仁傑(唯一)		85	4000	1										basic_damage_v	150		150				
+6134	6139	中級魂石·李元芳(唯一)		86	4000			1								all_series_resist_v	40			lifemax_v	1450		
+6135	6140	中級魂石·無字碑(唯一)		87	4000				1							add_seriesstate_rate_v	40			recover_life_v	200	75	
+1849		高級魂石·李三		0	450	1										attackrate_v	192						
+1850		高級魂石·盧青		0	450							1				water_resist_v	72						
+1851		高級魂石·鶯兒		0	450				1							recover_life_v	240	75					
+1852		高級魂石·顧武		0	450			1								attackrate_v	192						
+1853		高級魂石·小武		0	1350										1	earth_resist_v	84			lifemax_v	560		
+1854		高級魂石·蘇墨芸		0	450				1							lifemax_v	960						
+1855		高級魂石·蕭動塵		0	450										1	earth_resist_v	72						
+1856		高級魂石·胡神醫		0	450									1		state_palsy_resistrate	72						
+1857		高級魂石·秦沐白		0	450							1				state_slowall_resistrate	72						
+1858		高級魂石·張仲天		0	450										1	state_stun_resistrate	72						
+1859		高級魂石·路達		0	450								1			state_zhican_resistrate	72						
+1860		高級魂石·白眉猴王		1	1350					1						metal_resist_v	105						
+1861		高級魂石·大地狼王		2	1350					1						wood_resist_v	105						
+1862		高級魂石·寒玉鹿王		3	1350					1						fire_resist_v	105						
+1863		高級魂石·薔薇		0	450					1						vitality_v	48						
+1864		高級魂石·紫軒		0	450						1					dexterity_v	48						
+1865		高級魂石·卓非凡		4	1350							1				deadlystrike_v	70						
+1866		高級魂石·月明瑤		0	1350		1									metal_resist_v	84			lifemax_v	560		
+1867		高級魂石·龍傲天		0	1350				1							state_zhican_resisttime	84			lifemax_v	560		
+1868		高級魂石·沫天然		0	1350				1							state_hurt_resisttime	84			lifemax_v	560		
+1869		高級魂石·少年楊影楓		5	4000				1							meleedamagereturn_p	7			lifemax_v	1450		
+1870		高級魂石·南宮彩虹		0	450			1								energy_v	48						
+1871		高級魂石·林海		0	450						1					lifemax_v	960						
+1873		高級魂石·陸文龍		0	450		1									state_zhican_resisttime	72						
+1872		高級魂石·趙無雙		0	450									1		fire_resist_v	72						
+1874		高級魂石·無相		0	450					1						lifemax_v	960						
+1875		高級魂石·唐瀟		0	1350			1								energy_v	56			lifemax_v	560		
+1876		高級魂石·張如夢		0	450	1										strength_v	48						
+1877		高級魂石·張琳心		0	1350				1							recover_life_v	280	75		lifemax_v	560		
+1878		高級魂石·封玉書		0	1350								1			wood_resist_v	84			lifemax_v	560		
+1879		高級魂石·趙節		0	450								1			wood_resist_v	72						
+1880		高級魂石·邵騎風		0	450		1									metal_resist_v	72						
+1881		高級魂石·何暮雪		0	1350									1		fire_resist_v	84			lifemax_v	560		
+1882		高級魂石·趙升權		0	1350			1								energy_v	56			attackrate_v	112		
+1883		高級魂石·納蘭真		0	1350					1						vitality_v	56			lifemax_v	560		
+1884		高級魂石·柴嵩		0	1350							1				water_resist_v	84			lifemax_v	560		
+1885		高級魂石·曲霞		0	4000										1	lifemax_p	9			recover_life_v	200	75	
+1886		高級魂石·耶律辟離(唯一)		53	4000	1										basic_damage_v	150		150				
+1887		高級魂石·楊鐵心		6	4000								1			basic_damage_v	120		120	state_zhican_resistrate	60		
+1888		高級魂石·無想		0	4000				1							all_series_resist_v	40			recover_life_v	200	75	
+1889		高級魂石·柳瀟庭		7	4000										1	resist_allseriesstate_rate_v	40			state_stun_resisttime	60		
+1890		高級魂石·李恬兒		8	4000					1						rangedamagereturn_p	7			lifemax_v	1450		
+1891		高級魂石·李天目		9	4000			1								attackspeed_v	10			attackrate_v	200		
+1892		高級魂石·完顏襄		10	4000		1									deadlystrike_damage_p	6			state_hurt_resistrate	60		
+2851		高級魂石·玄慈(唯一)		49	4000										1	lifemax_p	14						
+1893		高級魂石·邵宏淵		0	1350	1										strength_v	56			attackrate_v	112		
+1894		高級魂石·白彥敬		0	1350					1						vitality_v	56			attackrate_v	112		
+1895		高級魂石·耶律楚材		11	4000									1		weaken_deadlystrike_damage_p	6			state_palsy_resistrate	60		
+1896		高級魂石·雷風		0	1350				1							state_stun_resistrate	84			lifemax_v	560		
+1897		高級魂石·雷同		0	1350				1							state_slowall_resistrate	84			lifemax_v	560		
+1898		高級魂石·唐娟娟		0	1350				1							state_palsy_resistrate	84			lifemax_v	560		
+1899		高級魂石·雷震天		12	4000							1				add_seriesstate_rate_v	40			state_slowall_resistrate	60		
+1900		高級魂石·奪寶賊		0	1350						1					dexterity_v	56			attackrate_v	112		
+1901		高級魂石·雙獸異獸		13	1350					1						earth_resist_v	105						
+1902		高級魂石·奔焰豹王		14	1350						1					all_series_resist_v	35						
+1903		高級魂石·九尾狐王		15	1350					1						water_resist_v	105						
+2546		高級魂石·楊瑛(唯一)		30	12000	1										steallife_p	13			strength_v	56		
+2547		高級魂石·清曉師太(唯一)		34	12000				1							vitality_v	112			all_series_resist_v	28		
+2548		高級魂石·祝子虛(唯一)		35	12000									1		energy_v	112			defense_v	112		
+2549		高級魂石·黃玉英(唯一)		32	12000							1				deadlystrike_v	112			ignore_defense_v	112		
+2550		高級魂石·道一真人(唯一)		38	12000						1					ignore_all_resist_v	100	56		dexterity_v	56		
+2551		高級魂石·端木睿(唯一)		31	12000		1									deadlystrike_damage_p	7			metal_resist_v	112		
+2852		高級魂石·玄因(唯一)		50	12000	1										ignore_defense_v	224			strength_v	56		
+1904		高級魂石·高長恭		0	4000	1										physical_firedamage_v	120			attackrate_v	160		
+1905		高級魂石·哲別		17	4000	1										deadlystrike_v	80			attackrate_v	160		
+1906		高級魂石·秦良玉		0	4000	1										physical_waterdamage_v	120			attackrate_v	160		
+1907		高級魂石·袁承志		0	4000	1										physical_earthdamage_v	120			attackrate_v	160		
+1908		高級魂石·鰲拜		0	4000	1										physical_metaldamage_v	120			attackrate_v	160		
+1909		高級魂石·韓世忠		0	4000	1										physical_wooddamage_v	120			attackrate_v	160		
+1910		高級魂石·赤睛虎皇		22	12000			1								metal_resist_v	168			lifemax_v	2000		
+1911		高級魂石·撼天熊皇		23	12000			1								wood_resist_v	168			lifemax_v	2000		
+1912		高級魂石·紫背鱷皇		24	12000										1	all_series_resist_v	56			lifemax_v	2000		
+1913		高級魂石·定海金剛		25	12000			1								water_resist_v	168			lifemax_v	2000		
+1914		高級魂石·金翅鵬皇		26	12000			1								earth_resist_v	168			lifemax_v	2000		
+1915		高級魂石·銀角犀皇		27	12000			1								fire_resist_v	168			lifemax_v	2000		
+2552		高級魂石·孟知秋(唯一)		33	12000								1			strength_v	112			wood_resist_v	84		
+2553		高級魂石·李顯忠(唯一)		36	12000					1						all_series_resist_v	56			recover_life_v	280	75	
+2554		高級魂石·徒單克寧(唯一)		37	12000										1	dexterity_v	112			resist_allseriesstate_rate_v	28		
+2670		高級魂石·獨孤劍(唯一)		39	12000		1									ignore_all_resist_v	100	56		basic_damage_v	84		84
+2884		高級魂石·南宮飛雲(唯一)		51	12000								1			energy_v	112			ignore_all_resist_v	100	29	
+2885		高級魂石·楊影楓(唯一)		52	12000					1						vitality_v	112			defense_v	112		
+2678		高級魂石·荊軻(唯一)		42	12000						1					ignore_all_resist_v	100	56		defense_v	112		
+2679		高級魂石·虞姬(唯一)		41	12000									1		fire_resist_v	168			state_palsy_resistrate	84		
+2680		高級魂石·岳飛(唯一)		40	12000							1				water_resist_v	168			state_slowall_resistrate	84		
+2698		高級魂石·完顏洪烈(唯一)		43	12000										1	basic_damage_v	168		168	lifemax_p	6		
+2834		高級魂石·玄天武機(唯一)		46	12000							1				dexterity_v	168						
+2835		高級魂石·白起(唯一)		47	12000				1							all_series_resist_v	84						
+2836		高級魂石·李斯(唯一)		48	12000									1		weaken_deadlystrike_v	168						
+3024		高級魂石·雷(唯一)		54	12000				1							defense_v	480						
+2837		高級魂石·秦始皇(陰)(唯一)		44	36000		1									series_abate_v	600			basic_damage_v	120		120
+2838		高級魂石·秦始皇(陽)(唯一)		45	36000					1						series_enhance_v	600			lifemax_p	9		
+1916		高級魂石·張風		0	1350	1										strength_v	56			lifemax_v	560		
+1917		高級魂石·月眉兒		0	1350						1					dexterity_v	56			lifemax_v	560		
+1918		高級魂石·天星道長		0	4000								1			ignore_defense_v	160			lifemax_v	1450		
+1919		高級魂石·燕若雪		0	4000									1		defense_v	160			lifemax_v	1450		
+1920		高級魂石·楊熙烈		0	4000			1								add_seriesstate_time_v	40			lifemax_v	1450		
+1921		高級魂石·上官飛龍		28	4000									1		weaken_deadlystrike_v	80			lifemax_v	1450		
+1922		高級魂石·納蘭潛凜		29	4000						1					ignore_all_resist_v	100	40		lifemax_v	1450		
+1923		高級魂石·方勉		0	4000		1									resist_allseriesstate_time_v	40			lifemax_v	1450		
+1924		高級魂石·南宮滅		0	4000					1						lifemax_p	9			recover_life_v	200	75	
+1925		高級魂石·唐影		0	4000							1				ignore_defense_v	160			lifemax_v	1450		
+1926		高級魂石·秋依水		0	4000						1					defense_v	160			lifemax_v	1450		
+3221		高級魂石·李元霸		56	12000						1					vitality_v	168						
+3222		高級魂石·趙雲		55	12000								1			ignore_defense_v	336						
+3223		高級魂石·李廣		57	12000			1								energy_v	168						
+3377		高級魂石·尹含煙(唯一)		58	12000					1						lifemax_v	6050						
+3378		高級魂石·璿璣子(唯一)		59	12000		1									basic_damage_v	210		210				
+3379		高級魂石·玄天道人(唯一)		60	12000	1										deadlystrike_v	168						
+3711		高級魂石·年獸(唯一)		61	12000						1					all_series_resist_v	84						
+3860		高級魂石·黑面郎君(唯一)		63	12000	1										strength_v	112			attackrate_v	224		
+3861		高級魂石·何人我(唯一)		65	12000									1		weaken_deadlystrike_damage_p	12						
+3862		高級魂石·唐仇(唯一)		64	12000							1				add_seriesstate_rate_v	84						
+3899		高級魂石·唐簡(唯一)		62	36000								1			strength_v	160			dexterity_v	80		
+4055		高級魂石·完顏洪烈(真)(唯一)		66	36000				1							all_series_resist_p	45						
+4546		高級魂石·冰鱗蜥皇(唯一)		67	12000										1	meleedamagereturn_p	10			recover_life_v	280	75	
+4547		高級魂石·銀鉤蠍皇(唯一)		68	12000										1	defense_p	12			lifemax_v	1120		
+4548		高級魂石·狂鬃獒皇(唯一)		69	12000										1	rangedamagereturn_p	10			recover_life_v	280	75	
+4597		高級魂石·項羽(唯一)		70	36000	1										enhance_final_damage_p	12						
+4851		高級魂石·唐曉(唯一)		71	36000							1				deadlystrike_p	45						
+4877		高級魂石·宋秋石(唯一)		73	12000								1			basic_damage_v	168		168	earth_resist_v	84		
+4878		高級魂石·古嫣然(唯一)		74	12000				1							lifemax_v	4800			resist_allseriesstate_time_v	56		
+5436		高級魂石·尹筱雨(唯一)		75	12000		1									ignore_defense_p	20						
+5437		高級魂石·石軒轅(唯一)		72	12000					1						ignore_all_resist	100	12					
+6075		高級魂石·葉青陽(唯一)		76	12000							1				weaken_deadlystrike_v	135			lifemax_v	2000		
+6076		高級魂石·冰儀(唯一)		77	12000						1					dexterity_v	112			lifemax_v	1120		
+6077		高級魂石·楊再興(唯一)		78	12000								1			ignore_defense_v	224			basic_damage_v	105		105
+6078		高級魂石·完顏婁室(唯一)		79	12000									1		weaken_deadlystrike_damage_p	7			lifemax_v	2000		
+6104		高級魂石·蕭玉竹(唯一)		80	12000		1									resist_allseriesstate_rate_v	56			lifemax_v	2000		
+6105		高級魂石·金兀術(唯一)		81	12000					1						all_series_resist_v	56			add_seriesstate_time_v	56		
+6114		高級魂石·絕世虞姬(唯一)		82	36000						1					reduce_final_damage_p	12						
+6136		高級魂石·武則天(陰)(唯一)		83	36000										1	steallife_resist_p	20			basic_damage_v	120		120
+6137		高級魂石·武則天(陽)(唯一)		84	36000									1		steallife_resist_p	20			lifemax_p	9		
+6138		高級魂石·狄仁傑(唯一)		85	12000	1										basic_damage_v	210		210				
+6139		高級魂石·李元芳(唯一)		86	12000			1								all_series_resist_v	56			lifemax_v	2000		
+6140		高級魂石·無字碑(唯一)		87	12000				1							add_seriesstate_rate_v	56			recover_life_v	280	75	

@@ -1,0 +1,313 @@
+TemplateId	Desc	AttribType1	AttribLevel1	AttribType2	AttribLevel2	AttribType3	AttribLevel3	AttribType4	AttribLevel4	AttribType5	AttribLevel5	AttribType6	AttribLevel6
+459	T1頭盔（低）	vitality_v	2	energy_v	2	lifemax_v	2	water_resist_v	2	weaken_deadlystrike_v	2		
+460	T2头盔（低）	vitality_v	4	energy_v	4	lifemax_v	4	water_resist_v	4	weaken_deadlystrike_v	4		
+461	T3头盔（低）	vitality_v	6	energy_v	6	lifemax_v	6	water_resist_v	6	weaken_deadlystrike_v	6		
+462	T4头盔（低）	vitality_v	8	energy_v	8	lifemax_v	8	water_resist_v	8	weaken_deadlystrike_v	8		
+463	T5头盔（低）	vitality_v	10	energy_v	10	lifemax_v	10	water_resist_v	10	weaken_deadlystrike_v	10		
+464	T6头盔（低）	vitality_v	12	energy_v	12	lifemax_v	12	water_resist_v	12	weaken_deadlystrike_v	12		
+465	T7头盔（低）	vitality_v	14	energy_v	14	lifemax_v	14	water_resist_v	14	weaken_deadlystrike_v	14		
+466	T8头盔（低）	vitality_v	16	energy_v	16	lifemax_v	16	water_resist_v	16	weaken_deadlystrike_v	16		
+3824	T9帽子（低）	vitality_v	18	energy_v	18	lifemax_v	18	water_resist_v	18	weaken_deadlystrike_v	18		
+3825	T10帽子（低）	vitality_v	20	energy_v	20	lifemax_v	20	water_resist_v	20	weaken_deadlystrike_v	20		
+467	T1頭盔（中）	vitality_v	3	energy_v	3	lifemax_v	3	water_resist_v	3	weaken_deadlystrike_v	3		
+468	T2头盔（中）	vitality_v	5	energy_v	5	lifemax_v	5	water_resist_v	5	weaken_deadlystrike_v	5		
+469	T3头盔（中）	vitality_v	7	energy_v	7	lifemax_v	7	water_resist_v	7	weaken_deadlystrike_v	7		
+470	T4头盔（中）	vitality_v	9	energy_v	9	lifemax_v	9	water_resist_v	9	weaken_deadlystrike_v	9		
+471	T5头盔（中）	vitality_v	11	energy_v	11	lifemax_v	11	water_resist_v	11	weaken_deadlystrike_v	11		
+472	T6头盔（中）	vitality_v	14	energy_v	12	dexterity_v	12	lifemax_v	12	recover_life_v	12	water_resist_v	12
+473	T7头盔（中）	vitality_v	15	energy_v	15	lifemax_v	15	water_resist_v	15	weaken_deadlystrike_v	15		
+474	T8头盔（中）	vitality_v	17	energy_v	17	lifemax_v	17	water_resist_v	17	weaken_deadlystrike_v	17		
+3826	T9帽子（中）	vitality_v	19	energy_v	19	lifemax_v	19	water_resist_v	19	weaken_deadlystrike_v	19		
+3827	T10帽子（中）	vitality_v	21	energy_v	21	lifemax_v	21	water_resist_v	21	weaken_deadlystrike_v	21		
+475	T1頭盔（高）	vitality_v	6	energy_v	6	dexterity_v	6	lifemax_v	6	recover_life_v	6	water_resist_v	6
+476	T2头盔（高）	vitality_v	8	energy_v	8	dexterity_v	8	lifemax_v	8	recover_life_v	8	water_resist_v	8
+477	T3头盔（高）	vitality_v	10	energy_v	10	dexterity_v	10	lifemax_v	10	recover_life_v	10	water_resist_v	10
+478	T4头盔（高）	vitality_v	12	energy_v	12	dexterity_v	12	lifemax_v	12	recover_life_v	12	water_resist_v	12
+479	T5头盔（高）	vitality_v	14	energy_v	14	dexterity_v	14	lifemax_v	14	recover_life_v	14	water_resist_v	14
+480	T6头盔（高）	vitality_v	16	energy_v	16	dexterity_v	16	lifemax_v	16	recover_life_v	16	water_resist_v	16
+481	T7头盔（高）	vitality_v	18	energy_v	18	dexterity_v	18	lifemax_v	18	recover_life_v	18	water_resist_v	18
+482	T8头盔（高）	vitality_v	20	energy_v	20	dexterity_v	20	lifemax_v	20	recover_life_v	20	water_resist_v	20
+3828	T9帽子（高）	vitality_v	22	energy_v	22	dexterity_v	22	lifemax_v	22	recover_life_v	22	water_resist_v	22
+3829	T10帽子（高）	vitality_v	24	energy_v	24	dexterity_v	24	lifemax_v	24	recover_life_v	24	water_resist_v	24
+364	T1衣服（低）	vitality_v	2	dexterity_v	2	lifemax_v	2	metal_resist_v	2	weaken_deadlystrike_v	2		
+365	T2衣服（低）	vitality_v	4	dexterity_v	4	lifemax_v	4	metal_resist_v	4	weaken_deadlystrike_v	4		
+366	T3衣服（低）	vitality_v	6	dexterity_v	6	lifemax_v	6	metal_resist_v	6	weaken_deadlystrike_v	6		
+367	T4衣服（低）	vitality_v	8	dexterity_v	8	lifemax_v	8	metal_resist_v	8	weaken_deadlystrike_v	8		
+368	T5衣服（低）	vitality_v	10	dexterity_v	10	lifemax_v	10	metal_resist_v	10	weaken_deadlystrike_v	10		
+369	T6衣服（低）	vitality_v	12	dexterity_v	12	lifemax_v	12	metal_resist_v	12	weaken_deadlystrike_v	12		
+370	T7衣服（低）	vitality_v	14	dexterity_v	14	lifemax_v	14	metal_resist_v	14	weaken_deadlystrike_v	14		
+371	T8衣服（低）	vitality_v	16	dexterity_v	16	lifemax_v	16	metal_resist_v	16	weaken_deadlystrike_v	16		
+3830	T9衣服（低）	vitality_v	18	dexterity_v	18	lifemax_v	18	metal_resist_v	18	weaken_deadlystrike_v	18		
+3831	T10衣服（低）	vitality_v	20	dexterity_v	20	lifemax_v	20	metal_resist_v	20	weaken_deadlystrike_v	20		
+372	T1衣服（中）	vitality_v	3	dexterity_v	3	lifemax_v	3	metal_resist_v	3	weaken_deadlystrike_v	3		
+373	T2衣服（中）	vitality_v	5	dexterity_v	5	lifemax_v	5	metal_resist_v	5	weaken_deadlystrike_v	5		
+374	T3衣服（中）	vitality_v	7	dexterity_v	7	lifemax_v	7	metal_resist_v	7	weaken_deadlystrike_v	7		
+375	T4衣服（中）	vitality_v	9	dexterity_v	9	lifemax_v	9	metal_resist_v	9	weaken_deadlystrike_v	9		
+376	T5衣服（中）	vitality_v	11	dexterity_v	11	lifemax_v	11	metal_resist_v	11	weaken_deadlystrike_v	11		
+377	T6衣服（中）	vitality_v	14	dexterity_v	12	lifemax_v	12	recover_life_v	12	metal_resist_v	12	all_series_resist_v	12
+378	T7衣服（中）	vitality_v	15	dexterity_v	15	lifemax_v	15	metal_resist_v	15	weaken_deadlystrike_v	15		
+379	T8衣服（中）	vitality_v	17	dexterity_v	17	lifemax_v	17	metal_resist_v	17	weaken_deadlystrike_v	17		
+3832	T9衣服（中）	vitality_v	19	dexterity_v	19	lifemax_v	19	metal_resist_v	19	weaken_deadlystrike_v	19		
+3833	T10衣服（中）	vitality_v	21	dexterity_v	21	lifemax_v	21	metal_resist_v	21	weaken_deadlystrike_v	21		
+380	T1衣服（高）	vitality_v	6	dexterity_v	6	lifemax_v	6	recover_life_v	6	metal_resist_v	6	all_series_resist_v	6
+381	T2衣服（高）	vitality_v	8	dexterity_v	8	lifemax_v	8	recover_life_v	8	metal_resist_v	8	all_series_resist_v	8
+382	T3衣服（高）	vitality_v	10	dexterity_v	10	lifemax_v	10	recover_life_v	10	metal_resist_v	10	all_series_resist_v	10
+383	T4衣服（高）	vitality_v	12	dexterity_v	12	lifemax_v	12	recover_life_v	12	metal_resist_v	12	all_series_resist_v	12
+384	T5衣服（高）	vitality_v	14	dexterity_v	14	lifemax_v	14	recover_life_v	14	metal_resist_v	14	all_series_resist_v	14
+385	T6衣服（高）	vitality_v	16	dexterity_v	16	lifemax_v	16	recover_life_v	16	metal_resist_v	16	all_series_resist_v	16
+386	T7衣服（高）	vitality_v	18	dexterity_v	18	lifemax_v	18	recover_life_v	18	metal_resist_v	18	all_series_resist_v	18
+387	T8衣服（高）	vitality_v	20	dexterity_v	20	lifemax_v	20	recover_life_v	20	metal_resist_v	20	all_series_resist_v	20
+3834	T9衣服（高）	vitality_v	22	dexterity_v	22	lifemax_v	22	recover_life_v	22	metal_resist_v	22	all_series_resist_v	22
+3835	T10衣服（高）	vitality_v	24	dexterity_v	24	lifemax_v	24	recover_life_v	24	metal_resist_v	24	all_series_resist_v	24
+388	T1腰帶（低）	vitality_v	2	dexterity_v	2	lifemax_v	2	fire_resist_v	2	weaken_deadlystrike_damage_p	2		
+389	T2腰带（低）	vitality_v	4	dexterity_v	4	lifemax_v	4	fire_resist_v	4	weaken_deadlystrike_damage_p	4		
+390	T3腰带（低）	vitality_v	6	dexterity_v	6	lifemax_v	6	fire_resist_v	6	weaken_deadlystrike_damage_p	6		
+391	T4腰带（低）	vitality_v	8	dexterity_v	8	lifemax_v	8	fire_resist_v	8	weaken_deadlystrike_damage_p	8		
+392	T5腰带（低）	vitality_v	10	dexterity_v	10	lifemax_v	10	fire_resist_v	10	weaken_deadlystrike_damage_p	10		
+393	T6腰带（低）	vitality_v	12	dexterity_v	12	lifemax_v	12	fire_resist_v	12	weaken_deadlystrike_damage_p	12		
+394	T7腰带（低）	vitality_v	14	dexterity_v	14	lifemax_v	14	fire_resist_v	14	weaken_deadlystrike_damage_p	14		
+395	T8腰带（低）	vitality_v	16	dexterity_v	16	lifemax_v	16	fire_resist_v	16	weaken_deadlystrike_damage_p	16		
+3842	T9腰帶（低）	vitality_v	18	dexterity_v	18	lifemax_v	18	fire_resist_v	18	weaken_deadlystrike_damage_p	18		
+3843	T10腰帶（低）	vitality_v	20	dexterity_v	20	lifemax_v	20	fire_resist_v	20	weaken_deadlystrike_damage_p	20		
+602	T1腰帶（中）	vitality_v	3	dexterity_v	3	lifemax_v	3	fire_resist_v	3	weaken_deadlystrike_damage_p	3		
+396	T2腰带（中）	vitality_v	5	dexterity_v	5	lifemax_v	5	fire_resist_v	5	weaken_deadlystrike_damage_p	5		
+397	T3腰带（中）	vitality_v	7	dexterity_v	7	lifemax_v	7	fire_resist_v	7	weaken_deadlystrike_damage_p	7		
+398	T4腰带（中）	vitality_v	9	dexterity_v	9	lifemax_v	9	fire_resist_v	9	weaken_deadlystrike_damage_p	9		
+399	T5腰带（中）	vitality_v	11	dexterity_v	11	lifemax_v	11	fire_resist_v	11	weaken_deadlystrike_damage_p	11		
+400	T6腰带（中）	vitality_v	14	dexterity_v	12	energy_v	12	lifemax_v	12	fire_resist_v	12	defense_v	12
+401	T7腰带（中）	vitality_v	15	dexterity_v	15	lifemax_v	15	fire_resist_v	15	weaken_deadlystrike_damage_p	15		
+402	T8腰带（中）	vitality_v	17	dexterity_v	17	lifemax_v	17	fire_resist_v	17	weaken_deadlystrike_damage_p	17		
+3844	T9腰帶（中）	vitality_v	19	dexterity_v	19	lifemax_v	19	fire_resist_v	19	weaken_deadlystrike_damage_p	19		
+3845	T10腰帶（中）	vitality_v	21	dexterity_v	21	lifemax_v	21	fire_resist_v	21	weaken_deadlystrike_damage_p	21		
+403	T1腰帶（高）	vitality_v	6	dexterity_v	6	energy_v	6	lifemax_v	6	fire_resist_v	6	defense_v	6
+404	T2腰带（高）	vitality_v	8	dexterity_v	8	energy_v	8	lifemax_v	8	fire_resist_v	8	defense_v	8
+405	T3腰带（高）	vitality_v	10	dexterity_v	10	energy_v	10	lifemax_v	10	fire_resist_v	10	defense_v	10
+406	T4腰带（高）	vitality_v	12	dexterity_v	12	energy_v	12	lifemax_v	12	fire_resist_v	12	defense_v	12
+407	T5腰带（高）	vitality_v	14	dexterity_v	14	energy_v	14	lifemax_v	14	fire_resist_v	14	defense_v	14
+408	T6腰带（高）	vitality_v	16	dexterity_v	16	energy_v	16	lifemax_v	16	fire_resist_v	16	defense_v	16
+409	T7腰带（高）	vitality_v	18	dexterity_v	18	energy_v	18	lifemax_v	18	fire_resist_v	18	defense_v	18
+410	T8腰带（高）	vitality_v	20	dexterity_v	20	energy_v	20	lifemax_v	20	fire_resist_v	20	defense_v	20
+3846	T9腰帶（高）	vitality_v	22	dexterity_v	22	energy_v	22	lifemax_v	22	fire_resist_v	22	defense_v	22
+3847	T10腰帶（高）	vitality_v	24	dexterity_v	24	energy_v	24	lifemax_v	24	fire_resist_v	24	defense_v	24
+435	T1護腕(低）	strength_v	2	dexterity_v	2	lifemax_v	2	wood_resist_v	2	weaken_deadlystrike_v	2		
+436	T2护腕(低）	strength_v	4	dexterity_v	4	lifemax_v	4	wood_resist_v	4	weaken_deadlystrike_v	4		
+437	T3护腕(低）	strength_v	6	dexterity_v	6	lifemax_v	6	wood_resist_v	6	weaken_deadlystrike_v	6		
+438	T4护腕(低）	strength_v	8	dexterity_v	8	lifemax_v	8	wood_resist_v	8	weaken_deadlystrike_v	8		
+439	T5护腕(低）	strength_v	10	dexterity_v	10	lifemax_v	10	wood_resist_v	10	weaken_deadlystrike_v	10		
+440	T6护腕(低）	strength_v	12	dexterity_v	12	lifemax_v	12	wood_resist_v	12	weaken_deadlystrike_v	12		
+441	T7护腕(低）	strength_v	14	dexterity_v	14	lifemax_v	14	wood_resist_v	14	weaken_deadlystrike_v	14		
+442	T8护腕(低）	strength_v	16	dexterity_v	16	lifemax_v	16	wood_resist_v	16	weaken_deadlystrike_v	16		
+3836	T9護腕(低）	strength_v	18	dexterity_v	18	lifemax_v	18	wood_resist_v	18	weaken_deadlystrike_v	18		
+3837	T10護腕(低）	strength_v	20	dexterity_v	20	lifemax_v	20	wood_resist_v	20	weaken_deadlystrike_v	20		
+443	T1護腕(中）	strength_v	3	dexterity_v	3	lifemax_v	3	wood_resist_v	3	weaken_deadlystrike_v	3		
+444	T2护腕(中）	strength_v	5	dexterity_v	5	lifemax_v	5	wood_resist_v	5	weaken_deadlystrike_v	5		
+445	T3护腕(中）	strength_v	7	dexterity_v	7	lifemax_v	7	wood_resist_v	7	weaken_deadlystrike_v	7		
+446	T4护腕(中）	strength_v	9	dexterity_v	9	lifemax_v	9	wood_resist_v	9	weaken_deadlystrike_v	9		
+447	T5护腕(中）	strength_v	11	dexterity_v	11	lifemax_v	11	wood_resist_v	11	weaken_deadlystrike_v	11		
+448	T6护腕(中）	vitality_v	14	strength_v	12	dexterity_v	12	lifemax_v	12	wood_resist_v	12	defense_v	12
+449	T7护腕(中）	strength_v	15	dexterity_v	15	lifemax_v	15	wood_resist_v	15	weaken_deadlystrike_v	15		
+450	T8护腕(中）	strength_v	17	dexterity_v	17	lifemax_v	17	wood_resist_v	17	weaken_deadlystrike_v	17		
+3838	T9護腕(中）	strength_v	19	dexterity_v	19	lifemax_v	19	wood_resist_v	19	weaken_deadlystrike_v	19		
+3839	T10護腕(中）	strength_v	21	dexterity_v	21	lifemax_v	21	wood_resist_v	21	weaken_deadlystrike_v	21		
+451	T1護腕(高）	vitality_v	6	strength_v	6	dexterity_v	6	lifemax_v	6	wood_resist_v	6	defense_v	6
+452	T2护腕(高）	vitality_v	8	strength_v	8	dexterity_v	8	lifemax_v	8	wood_resist_v	8	defense_v	8
+453	T3护腕(高）	vitality_v	10	strength_v	10	dexterity_v	10	lifemax_v	10	wood_resist_v	10	defense_v	10
+454	T4护腕(高）	vitality_v	12	strength_v	12	dexterity_v	12	lifemax_v	12	wood_resist_v	12	defense_v	12
+455	T5护腕(高）	vitality_v	14	strength_v	14	dexterity_v	14	lifemax_v	14	wood_resist_v	14	defense_v	14
+456	T6护腕(高）	vitality_v	16	strength_v	16	dexterity_v	16	lifemax_v	16	wood_resist_v	16	defense_v	16
+457	T7护腕(高）	vitality_v	18	strength_v	18	dexterity_v	18	lifemax_v	18	wood_resist_v	18	defense_v	18
+458	T8护腕(高）	vitality_v	20	strength_v	20	dexterity_v	20	lifemax_v	20	wood_resist_v	20	defense_v	20
+3840	T9護腕(高）	vitality_v	22	strength_v	22	dexterity_v	22	lifemax_v	22	wood_resist_v	22	defense_v	22
+3841	T10護腕(高）	vitality_v	24	strength_v	24	dexterity_v	24	lifemax_v	24	wood_resist_v	24	defense_v	24
+411	T1鞋子（低）	vitality_v	2	dexterity_v	2	lifemax_v	2	earth_resist_v	2	weaken_deadlystrike_damage_p	2		
+412	T2鞋子（低）	vitality_v	4	dexterity_v	4	lifemax_v	4	earth_resist_v	4	weaken_deadlystrike_damage_p	4		
+413	T3鞋子（低）	vitality_v	6	dexterity_v	6	lifemax_v	6	earth_resist_v	6	weaken_deadlystrike_damage_p	6		
+414	T4鞋子（低）	vitality_v	8	dexterity_v	8	lifemax_v	8	earth_resist_v	8	weaken_deadlystrike_damage_p	8		
+415	T5鞋子（低）	vitality_v	10	dexterity_v	10	lifemax_v	10	earth_resist_v	10	weaken_deadlystrike_damage_p	10		
+416	T6鞋子（低）	vitality_v	12	dexterity_v	12	lifemax_v	12	earth_resist_v	12	weaken_deadlystrike_damage_p	12		
+417	T7鞋子（低）	vitality_v	14	dexterity_v	14	lifemax_v	14	earth_resist_v	14	weaken_deadlystrike_damage_p	14		
+418	T8鞋子（低）	vitality_v	16	dexterity_v	16	lifemax_v	16	earth_resist_v	16	weaken_deadlystrike_damage_p	16		
+3848	T9鞋子（低）	vitality_v	18	dexterity_v	18	lifemax_v	18	earth_resist_v	18	weaken_deadlystrike_damage_p	18		
+3849	T10鞋子（低）	vitality_v	20	dexterity_v	20	lifemax_v	20	earth_resist_v	20	weaken_deadlystrike_damage_p	20		
+419	T1鞋子（中）	vitality_v	3	dexterity_v	3	lifemax_v	3	earth_resist_v	3	weaken_deadlystrike_damage_p	3		
+420	T2鞋子（中）	vitality_v	5	dexterity_v	5	lifemax_v	5	earth_resist_v	5	weaken_deadlystrike_damage_p	5		
+421	T3鞋子（中）	vitality_v	7	dexterity_v	7	lifemax_v	7	earth_resist_v	7	weaken_deadlystrike_damage_p	7		
+422	T4鞋子（中）	vitality_v	9	dexterity_v	9	lifemax_v	9	earth_resist_v	9	weaken_deadlystrike_damage_p	9		
+423	T5鞋子（中）	vitality_v	11	dexterity_v	11	lifemax_v	11	earth_resist_v	11	weaken_deadlystrike_damage_p	11		
+424	T6鞋子（中）	vitality_v	14	dexterity_v	12	strength_v	12	lifemax_v	12	lifereplenish_p	12	earth_resist_v	12
+425	T7鞋子（中）	vitality_v	15	dexterity_v	15	lifemax_v	15	earth_resist_v	15	weaken_deadlystrike_damage_p	15		
+426	T8鞋子（中）	vitality_v	17	dexterity_v	17	lifemax_v	17	earth_resist_v	17	weaken_deadlystrike_damage_p	17		
+3850	T9鞋子（中）	vitality_v	19	dexterity_v	19	lifemax_v	19	earth_resist_v	19	weaken_deadlystrike_damage_p	19		
+3851	T10鞋子（中）	vitality_v	21	dexterity_v	21	lifemax_v	21	earth_resist_v	21	weaken_deadlystrike_damage_p	21		
+427	T1鞋子（高）	vitality_v	6	dexterity_v	6	strength_v	6	lifemax_v	6	lifereplenish_p	6	earth_resist_v	6
+428	T2鞋子（高）	vitality_v	8	dexterity_v	8	strength_v	8	lifemax_v	8	lifereplenish_p	8	earth_resist_v	8
+429	T3鞋子（高）	vitality_v	10	dexterity_v	10	strength_v	10	lifemax_v	10	lifereplenish_p	10	earth_resist_v	10
+430	T4鞋子（高）	vitality_v	12	dexterity_v	12	strength_v	12	lifemax_v	12	lifereplenish_p	12	earth_resist_v	12
+431	T5鞋子（高）	vitality_v	14	dexterity_v	14	strength_v	14	lifemax_v	14	lifereplenish_p	14	earth_resist_v	14
+432	T6鞋子（高）	vitality_v	16	dexterity_v	16	strength_v	16	lifemax_v	16	lifereplenish_p	16	earth_resist_v	16
+433	T7鞋子（高）	vitality_v	18	dexterity_v	18	strength_v	18	lifemax_v	18	lifereplenish_p	18	earth_resist_v	18
+434	T8鞋子（高）	vitality_v	20	dexterity_v	20	strength_v	20	lifemax_v	20	lifereplenish_p	20	earth_resist_v	20
+3852	T9鞋子（高）	vitality_v	22	dexterity_v	22	strength_v	22	lifemax_v	22	lifereplenish_p	22	earth_resist_v	22
+3853	T10鞋子（高）	vitality_v	24	dexterity_v	24	strength_v	24	lifemax_v	24	lifereplenish_p	24	earth_resist_v	24
+555	T1武器（低）	strength_v	2	energy_v	2	basic_damage_v	2	physical_damage_v	2	deadlystrike_v	2		
+556	T2武器（低）	strength_v	4	energy_v	4	basic_damage_v	4	physical_damage_v	4	deadlystrike_v	4		
+557	T3武器（低）	strength_v	6	energy_v	6	basic_damage_v	6	physical_damage_v	6	deadlystrike_v	6		
+558	T4武器（低）	strength_v	8	energy_v	8	basic_damage_v	8	physical_damage_v	8	deadlystrike_v	8		
+559	T5武器（低）	strength_v	10	energy_v	10	basic_damage_v	10	physical_damage_v	10	deadlystrike_v	10		
+560	T6武器（低）	strength_v	12	energy_v	12	basic_damage_v	12	physical_damage_v	12	deadlystrike_v	12		
+561	T7武器（低）	strength_v	14	energy_v	14	basic_damage_v	14	physical_damage_v	14	deadlystrike_v	14		
+562	T8武器（低）	strength_v	16	energy_v	16	basic_damage_v	16	physical_damage_v	16	deadlystrike_v	16		
+3794	T9武器（低）	strength_v	18	energy_v	18	basic_damage_v	18	physical_damage_v	18	deadlystrike_v	18		
+3795	T10武器（低）	strength_v	20	energy_v	20	basic_damage_v	20	physical_damage_v	20	deadlystrike_v	20		
+563	T1武器（中）	strength_v	3	energy_v	3	basic_damage_v	3	physical_damage_v	3	deadlystrike_v	3		
+564	T2武器（中）	strength_v	5	energy_v	5	basic_damage_v	5	physical_damage_v	5	deadlystrike_v	5		
+565	T3武器（中）	strength_v	7	energy_v	7	basic_damage_v	7	physical_damage_v	7	deadlystrike_v	7		
+566	T4武器（中）	strength_v	9	energy_v	9	basic_damage_v	9	physical_damage_v	9	deadlystrike_v	9		
+567	T5武器（中）	strength_v	11	energy_v	11	basic_damage_v	11	physical_damage_v	11	deadlystrike_v	11		
+568	T6武器（中）	strength_v	14	lifemax_v	12	physical_damage_v	12	basic_damage_v	12	deadlystrike_v	12	steallife_p	12
+569	T7武器（中）	strength_v	15	energy_v	15	basic_damage_v	15	physical_damage_v	15	deadlystrike_v	15		
+570	T8武器（中）	strength_v	17	energy_v	17	basic_damage_v	17	physical_damage_v	17	deadlystrike_v	17		
+3796	T9武器（中）	strength_v	19	energy_v	19	basic_damage_v	19	physical_damage_v	19	deadlystrike_v	19		
+3797	T10武器（中）	strength_v	21	energy_v	21	basic_damage_v	21	physical_damage_v	21	deadlystrike_v	21		
+571	T1武器（高）	strength_v	6	lifemax_v	6	physical_damage_v	6	basic_damage_v	6	deadlystrike_v	6	steallife_p	6
+572	T2武器（高）	strength_v	8	lifemax_v	8	physical_damage_v	8	basic_damage_v	8	deadlystrike_v	8	steallife_p	8
+573	T3武器（高）	strength_v	10	lifemax_v	10	physical_damage_v	10	basic_damage_v	10	deadlystrike_v	10	steallife_p	10
+574	T4武器（高）	strength_v	12	lifemax_v	12	physical_damage_v	12	basic_damage_v	12	deadlystrike_v	12	steallife_p	12
+575	T5武器（高）	strength_v	14	lifemax_v	14	physical_damage_v	14	basic_damage_v	14	deadlystrike_v	14	steallife_p	14
+576	T6武器（高）	strength_v	16	lifemax_v	16	physical_damage_v	16	basic_damage_v	16	deadlystrike_v	16	steallife_p	16
+577	T7武器（高）	strength_v	18	lifemax_v	18	physical_damage_v	18	basic_damage_v	18	deadlystrike_v	18	steallife_p	18
+578	T8武器（高）	strength_v	20	lifemax_v	20	physical_damage_v	20	basic_damage_v	20	deadlystrike_v	20	steallife_p	20
+3798	T9武器（高）	strength_v	22	lifemax_v	22	physical_damage_v	22	basic_damage_v	22	deadlystrike_v	22	steallife_p	22
+3799	T10武器（高）	strength_v	24	lifemax_v	24	physical_damage_v	24	basic_damage_v	24	deadlystrike_v	24	steallife_p	24
+483	T1項鍊（低）	strength_v	2	dexterity_v	2	lifemax_v	2	water_resist_v	2	deadlystrike_v	2		
+484	T2项链（低）	strength_v	4	dexterity_v	4	lifemax_v	4	water_resist_v	4	deadlystrike_v	4		
+485	T3项链（低）	strength_v	6	dexterity_v	6	lifemax_v	6	water_resist_v	6	deadlystrike_v	6		
+486	T4项链（低）	strength_v	8	dexterity_v	8	lifemax_v	8	water_resist_v	8	deadlystrike_v	8		
+487	T5项链（低）	strength_v	10	dexterity_v	10	lifemax_v	10	water_resist_v	10	deadlystrike_v	10		
+488	T6项链（低）	strength_v	12	dexterity_v	12	lifemax_v	12	water_resist_v	12	deadlystrike_v	12		
+489	T7项链（低）	strength_v	14	dexterity_v	14	lifemax_v	14	water_resist_v	14	deadlystrike_v	14		
+490	T8项链（低）	strength_v	16	dexterity_v	16	lifemax_v	16	water_resist_v	16	deadlystrike_v	16		
+3800	T9項鍊（低）	strength_v	18	dexterity_v	18	lifemax_v	18	water_resist_v	18	deadlystrike_v	18		
+3801	T10項鍊（低）	strength_v	20	dexterity_v	20	lifemax_v	20	water_resist_v	20	deadlystrike_v	20		
+491	T1項鍊（中）	strength_v	3	dexterity_v	3	lifemax_v	3	water_resist_v	3	deadlystrike_v	3		
+492	T2项链（中）	strength_v	5	dexterity_v	5	lifemax_v	5	water_resist_v	5	deadlystrike_v	5		
+493	T3项链（中）	strength_v	7	dexterity_v	7	lifemax_v	7	water_resist_v	7	deadlystrike_v	7		
+494	T4项链（中）	strength_v	9	dexterity_v	9	lifemax_v	9	water_resist_v	9	deadlystrike_v	9		
+495	T5项链（中）	strength_v	11	dexterity_v	11	lifemax_v	11	water_resist_v	11	deadlystrike_v	11		
+496	T6项链（中）	strength_v	14	dexterity_v	12	lifemax_v	12	water_resist_v	12	ignore_defense_v	12	deadlystrike_v	12
+497	T7项链（中）	strength_v	15	dexterity_v	15	lifemax_v	15	water_resist_v	15	deadlystrike_v	15		
+498	T8项链（中）	strength_v	17	dexterity_v	17	lifemax_v	17	water_resist_v	17	deadlystrike_v	17		
+3802	T9項鍊（中）	strength_v	19	dexterity_v	19	lifemax_v	19	water_resist_v	19	deadlystrike_v	19		
+3803	T10項鍊（中）	strength_v	21	dexterity_v	21	lifemax_v	21	water_resist_v	21	deadlystrike_v	21		
+499	T1項鍊（高）	strength_v	6	dexterity_v	6	lifemax_v	6	water_resist_v	6	ignore_defense_v	6	deadlystrike_v	6
+500	T2项链（高）	strength_v	8	dexterity_v	8	lifemax_v	8	water_resist_v	8	ignore_defense_v	8	deadlystrike_v	8
+501	T3项链（高）	strength_v	10	dexterity_v	10	lifemax_v	10	water_resist_v	10	ignore_defense_v	10	deadlystrike_v	10
+502	T4项链（高）	strength_v	12	dexterity_v	12	lifemax_v	12	water_resist_v	12	ignore_defense_v	12	deadlystrike_v	12
+503	T5项链（高）	strength_v	14	dexterity_v	14	lifemax_v	14	water_resist_v	14	ignore_defense_v	14	deadlystrike_v	14
+504	T6项链（高）	strength_v	16	dexterity_v	16	lifemax_v	16	water_resist_v	16	ignore_defense_v	16	deadlystrike_v	16
+505	T7项链（高）	strength_v	18	dexterity_v	18	lifemax_v	18	water_resist_v	18	ignore_defense_v	18	deadlystrike_v	18
+506	T8项链（高）	strength_v	20	dexterity_v	20	lifemax_v	20	water_resist_v	20	ignore_defense_v	20	deadlystrike_v	20
+3804	T9項鍊（高）	strength_v	22	dexterity_v	22	lifemax_v	22	water_resist_v	22	ignore_defense_v	22	deadlystrike_v	22
+3805	T10項鍊（高）	strength_v	24	dexterity_v	24	lifemax_v	24	water_resist_v	24	ignore_defense_v	24	deadlystrike_v	24
+531	T1戒指（低）	strength_v	2	energy_v	2	lifemax_v	2	wood_resist_v	2	defense_v	2		
+532	T2戒指（低）	strength_v	4	energy_v	4	lifemax_v	4	wood_resist_v	4	defense_v	4		
+533	T3戒指（低）	strength_v	6	energy_v	6	lifemax_v	6	wood_resist_v	6	defense_v	6		
+534	T4戒指（低）	strength_v	8	energy_v	8	lifemax_v	8	wood_resist_v	8	defense_v	8		
+535	T5戒指（低）	strength_v	10	energy_v	10	lifemax_v	10	wood_resist_v	10	defense_v	10		
+536	T6戒指（低）	strength_v	12	energy_v	12	lifemax_v	12	wood_resist_v	12	defense_v	12		
+537	T7戒指（低）	strength_v	14	energy_v	14	lifemax_v	14	wood_resist_v	14	defense_v	14		
+538	T8戒指（低）	strength_v	16	energy_v	16	lifemax_v	16	wood_resist_v	16	defense_v	16		
+3806	T9戒指（低）	strength_v	18	energy_v	18	lifemax_v	18	wood_resist_v	18	defense_v	18		
+3807	T10戒指（低）	strength_v	20	energy_v	20	lifemax_v	20	wood_resist_v	20	defense_v	20		
+539	T1戒指（中）	strength_v	3	energy_v	3	lifemax_v	3	wood_resist_v	3	defense_v	3		
+540	T2戒指（中）	strength_v	5	energy_v	5	lifemax_v	5	wood_resist_v	5	defense_v	5		
+541	T3戒指（中）	strength_v	7	energy_v	7	lifemax_v	7	wood_resist_v	7	defense_v	7		
+542	T4戒指（中）	strength_v	9	energy_v	9	lifemax_v	9	wood_resist_v	9	defense_v	9		
+543	T5戒指（中）	strength_v	11	energy_v	11	lifemax_v	11	wood_resist_v	11	defense_v	11		
+544	T6戒指（中）	energy_v	14	strength_v	12	lifemax_v	12	wood_resist_v	12	ignore_defense_v	12	deadlystrike_v	12
+545	T7戒指（中）	strength_v	15	energy_v	15	lifemax_v	15	wood_resist_v	15	defense_v	15		
+546	T8戒指（中）	strength_v	17	energy_v	17	lifemax_v	17	wood_resist_v	17	defense_v	17		
+3808	T9戒指（中）	strength_v	19	energy_v	19	lifemax_v	19	wood_resist_v	19	defense_v	19		
+3809	T10戒指（中）	strength_v	21	energy_v	21	lifemax_v	21	wood_resist_v	21	defense_v	21		
+547	T1戒指（高）	energy_v	6	strength_v	6	lifemax_v	6	wood_resist_v	6	ignore_defense_v	6	deadlystrike_v	6
+548	T2戒指（高）	energy_v	8	strength_v	8	lifemax_v	8	wood_resist_v	8	ignore_defense_v	8	deadlystrike_v	8
+549	T3戒指（高）	energy_v	10	strength_v	10	lifemax_v	10	wood_resist_v	10	ignore_defense_v	10	deadlystrike_v	10
+550	T4戒指（高）	energy_v	12	strength_v	12	lifemax_v	12	wood_resist_v	12	ignore_defense_v	12	deadlystrike_v	12
+551	T5戒指（高）	energy_v	14	strength_v	14	lifemax_v	14	wood_resist_v	14	ignore_defense_v	14	deadlystrike_v	14
+552	T6戒指（高）	energy_v	16	strength_v	16	lifemax_v	16	wood_resist_v	16	ignore_defense_v	16	deadlystrike_v	16
+553	T7戒指（高）	energy_v	18	strength_v	18	lifemax_v	18	wood_resist_v	18	ignore_defense_v	18	deadlystrike_v	18
+554	T8戒指（高）	energy_v	20	strength_v	20	lifemax_v	20	wood_resist_v	20	ignore_defense_v	20	deadlystrike_v	20
+3810	T9戒指（高）	energy_v	22	strength_v	22	lifemax_v	22	wood_resist_v	22	ignore_defense_v	22	deadlystrike_v	22
+3811	T10戒指（高）	energy_v	24	strength_v	24	lifemax_v	24	wood_resist_v	24	ignore_defense_v	24	deadlystrike_v	24
+507	T1玉佩（低）	vitality_v	2	energy_v	2	lifemax_v	2	fire_resist_v	2	ignore_defense_v	2		
+508	T2玉佩（低）	vitality_v	4	energy_v	4	lifemax_v	4	fire_resist_v	4	ignore_defense_v	4		
+509	T3玉佩（低）	vitality_v	6	energy_v	6	lifemax_v	6	fire_resist_v	6	ignore_defense_v	6		
+510	T4玉佩（低）	vitality_v	8	energy_v	8	lifemax_v	8	fire_resist_v	8	ignore_defense_v	8		
+511	T5玉佩（低）	vitality_v	10	energy_v	10	lifemax_v	10	fire_resist_v	10	ignore_defense_v	10		
+512	T6玉佩（低）	vitality_v	12	energy_v	12	lifemax_v	12	fire_resist_v	12	ignore_defense_v	12		
+513	T7玉佩（低）	vitality_v	14	energy_v	14	lifemax_v	14	fire_resist_v	14	ignore_defense_v	14		
+514	T8玉佩（低）	vitality_v	16	energy_v	16	lifemax_v	16	fire_resist_v	16	ignore_defense_v	16		
+3812	T9玉佩（低）	vitality_v	18	energy_v	18	lifemax_v	18	fire_resist_v	18	ignore_defense_v	18		
+3813	T10玉佩（低）	vitality_v	20	energy_v	20	lifemax_v	20	fire_resist_v	20	ignore_defense_v	20		
+515	T1玉佩（中）	vitality_v	3	energy_v	3	lifemax_v	3	fire_resist_v	3	ignore_defense_v	3		
+516	T2玉佩（中）	vitality_v	5	energy_v	5	lifemax_v	5	fire_resist_v	5	ignore_defense_v	5		
+517	T3玉佩（中）	vitality_v	7	energy_v	7	lifemax_v	7	fire_resist_v	7	ignore_defense_v	7		
+518	T4玉佩（中）	vitality_v	9	energy_v	9	lifemax_v	9	fire_resist_v	9	ignore_defense_v	9		
+519	T5玉佩（中）	vitality_v	11	energy_v	11	lifemax_v	11	fire_resist_v	11	ignore_defense_v	11		
+520	T6玉佩（中）	vitality_v	14	energy_v	12	lifemax_v	12	recover_life_v	12	fire_resist_v	12	deadlystrike_damage_p	12
+521	T7玉佩（中）	vitality_v	15	energy_v	15	lifemax_v	15	fire_resist_v	15	ignore_defense_v	15		
+522	T8玉佩（中）	vitality_v	17	energy_v	17	lifemax_v	17	fire_resist_v	17	ignore_defense_v	17		
+3814	T9玉佩（中）	vitality_v	19	energy_v	19	lifemax_v	19	fire_resist_v	19	ignore_defense_v	19		
+3815	T10玉佩（中）	vitality_v	21	energy_v	21	lifemax_v	21	fire_resist_v	21	ignore_defense_v	21		
+523	T1玉佩（高）	vitality_v	6	energy_v	6	lifemax_v	6	recover_life_v	6	fire_resist_v	6	deadlystrike_damage_p	6
+524	T2玉佩（高）	vitality_v	8	energy_v	8	lifemax_v	8	recover_life_v	8	fire_resist_v	8	deadlystrike_damage_p	8
+525	T3玉佩（高）	vitality_v	10	energy_v	10	lifemax_v	10	recover_life_v	10	fire_resist_v	10	deadlystrike_damage_p	10
+526	T4玉佩（高）	vitality_v	12	energy_v	12	lifemax_v	12	recover_life_v	12	fire_resist_v	12	deadlystrike_damage_p	12
+527	T5玉佩（高）	vitality_v	14	energy_v	14	lifemax_v	14	recover_life_v	14	fire_resist_v	14	deadlystrike_damage_p	14
+528	T6玉佩（高）	vitality_v	16	energy_v	16	lifemax_v	16	recover_life_v	16	fire_resist_v	16	deadlystrike_damage_p	16
+529	T7玉佩（高）	vitality_v	18	energy_v	18	lifemax_v	18	recover_life_v	18	fire_resist_v	18	deadlystrike_damage_p	18
+530	T8玉佩（高）	vitality_v	20	energy_v	20	lifemax_v	20	recover_life_v	20	fire_resist_v	20	deadlystrike_damage_p	20
+3816	T9玉佩（高）	vitality_v	22	energy_v	22	lifemax_v	22	recover_life_v	22	fire_resist_v	22	deadlystrike_damage_p	22
+3817	T10玉佩（高）	vitality_v	24	energy_v	24	lifemax_v	24	recover_life_v	24	fire_resist_v	24	deadlystrike_damage_p	24
+340	T1護身符（低）	vitality_v	2	dexterity_v	2	lifemax_v	2	earth_resist_v	2	ignore_defense_v	2		
+341	T2护身符（低）	vitality_v	4	dexterity_v	4	lifemax_v	4	earth_resist_v	4	ignore_defense_v	4		
+342	T3护身符（低）	vitality_v	6	dexterity_v	6	lifemax_v	6	earth_resist_v	6	ignore_defense_v	6		
+343	T4护身符（低）	vitality_v	8	dexterity_v	8	lifemax_v	8	earth_resist_v	8	ignore_defense_v	8		
+344	T5护身符（低）	vitality_v	10	dexterity_v	10	lifemax_v	10	earth_resist_v	10	ignore_defense_v	10		
+345	T6护身符（低）	vitality_v	12	dexterity_v	12	lifemax_v	12	earth_resist_v	12	ignore_defense_v	12		
+346	T7护身符（低）	vitality_v	14	dexterity_v	14	lifemax_v	14	earth_resist_v	14	ignore_defense_v	14		
+347	T8护身符（低）	vitality_v	16	dexterity_v	16	lifemax_v	16	earth_resist_v	16	ignore_defense_v	16		
+3818	T9護身符（低）	vitality_v	18	dexterity_v	18	lifemax_v	18	earth_resist_v	18	ignore_defense_v	18		
+3819	T10護身符（低）	vitality_v	20	dexterity_v	20	lifemax_v	20	earth_resist_v	20	ignore_defense_v	20		
+348	T1護身符（中）	vitality_v	3	dexterity_v	3	lifemax_v	3	earth_resist_v	3	ignore_defense_v	3		
+349	T2护身符（中）	vitality_v	5	dexterity_v	5	lifemax_v	5	earth_resist_v	5	ignore_defense_v	5		
+350	T3护身符（中）	vitality_v	7	dexterity_v	7	lifemax_v	7	earth_resist_v	7	ignore_defense_v	7		
+351	T4护身符（中）	vitality_v	9	dexterity_v	9	lifemax_v	9	earth_resist_v	9	ignore_defense_v	9		
+352	T5护身符（中）	vitality_v	11	dexterity_v	11	lifemax_v	11	earth_resist_v	11	ignore_defense_v	11		
+353	T6护身符（中）	vitality_v	14	dexterity_v	12	lifemax_v	12	recover_life_v	12	earth_resist_v	12	ignore_defense_v	12
+354	T7护身符（中）	vitality_v	15	dexterity_v	15	lifemax_v	15	earth_resist_v	15	ignore_defense_v	15		
+355	T8护身符（中）	vitality_v	17	dexterity_v	17	lifemax_v	17	earth_resist_v	17	ignore_defense_v	17		
+3820	T9護身符（中）	vitality_v	19	dexterity_v	19	lifemax_v	19	earth_resist_v	19	ignore_defense_v	19		
+3821	T10護身符（中）	vitality_v	21	dexterity_v	21	lifemax_v	21	earth_resist_v	21	ignore_defense_v	21		
+356	T1護身符（高）	vitality_v	6	dexterity_v	6	lifemax_v	6	recover_life_v	6	earth_resist_v	6	ignore_defense_v	6
+357	T2护身符（高）	vitality_v	8	dexterity_v	8	lifemax_v	8	recover_life_v	8	earth_resist_v	8	ignore_defense_v	8
+358	T3护身符（高）	vitality_v	10	dexterity_v	10	lifemax_v	10	recover_life_v	10	earth_resist_v	10	ignore_defense_v	10
+359	T4护身符（高）	vitality_v	12	dexterity_v	12	lifemax_v	12	recover_life_v	12	earth_resist_v	12	ignore_defense_v	12
+360	T5护身符（高）	vitality_v	14	dexterity_v	14	lifemax_v	14	recover_life_v	14	earth_resist_v	14	ignore_defense_v	14
+361	T6护身符（高）	vitality_v	16	dexterity_v	16	lifemax_v	16	recover_life_v	16	earth_resist_v	16	ignore_defense_v	16
+362	T7护身符（高）	vitality_v	18	dexterity_v	18	lifemax_v	18	recover_life_v	18	earth_resist_v	18	ignore_defense_v	18
+363	T8护身符（高）	vitality_v	20	dexterity_v	20	lifemax_v	20	recover_life_v	20	earth_resist_v	20	ignore_defense_v	20
+3822	T9護身符（高）	vitality_v	22	dexterity_v	22	lifemax_v	22	recover_life_v	22	earth_resist_v	22	ignore_defense_v	22
+3823	T10護身符（高）	vitality_v	24	dexterity_v	24	lifemax_v	24	recover_life_v	24	earth_resist_v	24	ignore_defense_v	24
+1246	T1武器	basic_damage_v	2	attackrate_v	1								
+1247	T1項鍊	strength_v	2	defense_v	1								
+1248	T1戒指	energy_v	2	defense_v	1								
+1249	T1玉佩	vitality_v	2	ignore_defense_v	1								
+1250	T1護身符	dexterity_v	2	ignore_defense_v	1								
+1251	T1帽子	energy_v	2	water_resist_v	1								
+1252	T1衣服	lifemax_v	2	metal_resist_v	1								
+1253	T1護腕	strength_v	2	wood_resist_v	1								
+1254	T1腰帶	dexterity_v	2	fire_resist_v	1								
+1255	T1鞋子	vitality_v	2	earth_resist_v	1								
+1529	T1衣服	lifemax_v	3	metal_resist_v	2								
+6080	【定制稀有】代言人之戒	deadlystrike_v	10	strength_v	8	defense_v	7	ignore_defense_v	6				

@@ -1,0 +1,40 @@
+EventType	Des	EventName	EventParam1	EventParam2	EventParam3	EventParam4	EventParam5	EventParamStr
+1表示開始	是否技能，玩家攻速若提升，則按照釋放時間比例進行自動調整（注意不能有動作技能填寫）	CastSkill	技能ID（不填代表原釋放的技能ID）	技能等級（不填代表原釋放的技能等級）				
+2表示幀	播放自身特效	PlayEffect	資源ID(不填代表是技能的CastEffectRestID)	是否迴圈	是否不跟動作縮放播放速度	插槽的位置	釋放技能結束延遲刪除的幀數(-1是動作結束不打斷)	
+3表示結束	刪除特效	ClearEffect	資源ID	是否移除Npc關聯				
+	解除綁定身上的特效不會跟隨NPC	UnbindEffect	資源ID					
+	播放震動	PlayShake	上下的波動（1代表1cm）	上下的波動的速度	次數	是否前後	是否強制	
+	停止震動	StopShake	是否強制					
+	（放在開始事件）初始連招事件（技能ID:1到3表示從高到底優先順序，例如1號學，2號學則會釋放1號。1號沒學，2號學則釋放2號）	LinkSkillInit	最後有效判定幀	技能ID :1	技能ID :2	技能ID :3		
+	釋放連招	CastLinkSkill	是否有移動就打斷動作					
+	立即轉方向	InstantDir	旋轉的角度 度/每幀（此幀為渲染幀，45幀1秒）					
+	動作過度	CrossFade	過度值（萬分值 10000等於1）	過度值 / （動作幀數 * 幀數）	最大的過度值			
+	移動（動作技能無效）	MovePos	移動的長度cm	速度cm/幀	目標多少範圍不再移動cm	加速度		
+	使用最後一個動作的幀（注意結束事件最後一定要添加上去參數填0）	UseLastAct	是否使用最後一個動作	是否使用目前幀	是否使用最後動作的幀			
+	播放場景特效	PlaySceneEffect	資源ID					
+	改變自己大小（注意事件結束要恢復NPCChangeSize參數1:100）	NpcChangeSize	大小（百分比）	速度（百分比）（不填立即改變）				
+	場景變暗（注意一定要事件結束加入CloseSceneGray）	OpenSceneGray						
+	恢復場景變暗	CloseSceneGray	延遲多少幀後關閉					
+	播放聲音	PlaySound	聲音ID					
+	停止聲音	StopSound	聲音ID					
+	改變NPC亮度（注意事件結束一定要加入ClearBright）	ChangeBright	百分值（100 = 1）					
+	清除NPC亮度	ClearBright						
+	改變動作（注意放在開頭）	ChangeAct	動作ID	動作的幀數(沒有就默認的NPCRes幀數)	玩家動作ID（如果沒有就取參數1）			
+	向後移動	MoveBack	移動的長度	移動的速度	加速度			
+	顯示影子（注意事件結束要加入ShadowActive參數1代表顯示出來）	ShadowActive	是否顯示影子					
+	能夠移動	CanDoRun						
+	重新更新位置	RetsetPos						
+	執行通用的動作	DoCommonAct	動作ID	動作的事件ID	是否迴圈	動作的幀數（默認是NPCRes的幀數）	資源動畫類型(1表情，不填默認)	
+	能夠執行技能（注意不能夠放在開始事件）	CanDoSkill						
+	保護	Protected	是否保護					
+	顯示頭頂UI	HeadUIVisable	是否顯示UI					
+	顯示身體	BodyVisable	是否顯示身體					
+	是否忽略異常狀態	IgnoreSpeState	是否忽略					
+	移除BUFF	RemoveBuff	技能ID					
+	設置技能CD（注意只能比第一次CastSkill前 默認是第一次CastSkil）	SetSkillCD	技能ID					
+	受到傷害動作被打斷	ReceiveDmgBreakAct						
+	預載入動作	PreLoadAni	動作ID	動作資源類型（1表情，不填默認）				
+	觸發AutoSkill	CastAutoSkill						
+	隱藏Model特效	ModelEffectVisible	是否顯示					
+	設置事件是否迴圈默認不迴圈	SetEventLoop	是否迴圈					
+	執行腳本	DoCallScript	類型					

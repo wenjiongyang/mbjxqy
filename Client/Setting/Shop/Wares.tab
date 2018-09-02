@@ -1,0 +1,200 @@
+GoodsId	TemplateId	Name	Price	MoneyType	ShopType	Sort	Discount	LimitType	LimitNum	HotTip	TimeFrame	CloseTimeFrame	MinLevel	ShowLevel	ShowVipLevel	OpenTime	CloseTime
+1	212	白水晶	12	Gold	Treasure	28											
+2	222	绿水晶	50	Gold	Treasure	29											
+3	213	破损的神秘矿石	50	Gold	Treasure	32											
+4	214	普通的神秘矿石	200	Gold	Treasure	33											
+5	223	蓝水晶	200	Gold	Treasure	30											
+6	224	紫水晶	800	Gold	Treasure	31					OpenLevel69						
+7	215	无暇的神秘矿石	800	Gold	Treasure	34					OpenLevel69						
+8	785	黄金钥匙	20	Gold	Treasure	17											
+9	1412	喇叭·世界频道	100	Gold	Treasure	21											
+10	1413	千里传音	1000000	Gold	Treasure	23											
+11	1927	陈年女儿红	1	Gold	Treasure	35											
+12	1929	白驹丸	48	Gold	Treasure	24					OpenDay2D						
+13	1930	特效白驹丸	240	Gold	Treasure	25					OpenDay2D				6		
+14	2301	修炼丹	180	Gold	Treasure	15											
+15	1016	强效同伴经验药水	5	Gold	Treasure	27											
+16	2667	外装	1180	Gold	Treasure	39											
+17	2706	外装2	3480	Gold	Treasure	40											
+18	3310	外装3	3480	Gold	Treasure	41											
+19	2569	染色剂	298	Gold	Treasure	5											
+20	1342	特效同伴经验药水	50	Gold	Treasure	26					OpenLevel49						
+21	1234	玫瑰花	20	Gold	Treasure	36											
+22	1235	幸运草	20	Gold	Treasure	37											
+23	2682	转门派令牌	500000	Gold	Treasure	19											
+24	2759	传功丹	180	Gold	Treasure	16											
+25	3368	金兰谱	12000	Gold	Treasure	11					OpenLevel79						
+26	2180	99朵玫瑰花	388	Gold	Treasure	6											
+27	2181	99棵幸运草	388	Gold	Treasure	7											
+29	6151	真气丹（1000点）	10000	Gold	Treasure	13											
+30	6152	真气丹（5000点）	20000	Gold	Treasure	14											
+31	6155	缘定今生	5210	Gold	Treasure	10					OpenLevel69						
+32	6231	三生石	5210	Gold	Treasure	12					OpenLevel69						
+33	2527	馬牌	1000	Gold	Treasure	2											
+34	788	高級藏寶圖	2888	Gold	Treasure	50											
+35	4732	3級傢俱材料12選禮盒	1000	Gold	Treasure	42											
+36	4734	5級傢俱材料3選禮盒	3000	Gold	Treasure	43											
+37	3693	SS級本命武器挑選禮盒	1000000	Gold	Treasure	45											
+38	1969	资质丹	800	Gold	Treasure	46											
+39	1968	洗髓丹	400	Gold	Treasure	47											
+40	2396	高级修为书	20000	Gold	Treasure	48											
+41	6091	SS級同伴挑選寶箱	1500000	Gold	Treasure	49											
+42	4687	黎飾高級寶箱	200000	Gold	Treasure	1	
+43	4443	1級傢俱材料包	1000	Gold	Treasure	118									
+44	4731	2級傢俱材料24選禮盒	3000	Gold	Treasure	117
+45	4733	4級傢俱材料6選禮盒	3000	Gold	Treasure	120
+1000	212	白水晶	10	Gold	Treasure	1	6	7	100								
+1001	222	绿水晶	40	Gold	Treasure	2	8	7	100								
+1004	213	破损的神秘矿石	30	Gold	Treasure	5	6	7	20								
+1005	214	普通的神秘矿石	160	Gold	Treasure	6	8	7	20								
+1007	1234	玫瑰花	16	Gold	Treasure	8	3	7	100								
+1008	1235	幸运草	12	Gold	Treasure	9	3	7	100								
+1500	3518	3级魂石任选箱	10000	Gold	Treasure	10	7	7	999								
+1501	2699	4级魂石任选箱	90000	Gold	Treasure	11	7	7	999								
+1031	2161	5级同伴技能书	300000	Gold	Treasure	12	8	7	999								
+1032	2160	4级同伴技能书	100000	Gold	Treasure	13	8	7	999								
+1033	786	黄金宝箱	100000	Gold	Treasure	14	8	7	9999								
+1034	2166	5級魂石箱	250000	Gold	Treasure	15	8	7	9999								
+1035	4816	元氣瓶（中）	6000	Gold	Treasure	16	8	7	500								
+1036	4817	元氣瓶（大）	20000	Gold	Treasure	17	8	7	9999								
+1037	6149	任脉·曲骨通穴秘卷	500000	Gold	Treasure	18	5	7	100								
+1038	6150	督脉·长强通穴秘卷	500000	Gold	Treasure	19	7	7	100								
+1039	6276	冲脉·幽门通穴秘卷	500000	Gold	Treasure	20	7	7	100								
+1040	4687	黎飾高級寶箱	200000	Gold	Treasure	3	6	7	5								
+2000	4448	T6时装天王1	3960	SilverBoard	Dress	15											
+2001	4449	T6时装峨眉1	3960	SilverBoard	Dress	16											
+2002	4450	T6时装桃花1	3960	SilverBoard	Dress	17											
+2003	4451	T6时装逍遥1	3960	SilverBoard	Dress	18											
+2004	4452	T6时装武当1	3960	SilverBoard	Dress	19											
+2005	4453	T6时装天忍1	3960	SilverBoard	Dress	20											
+2006	4454	T6时装少林1	3960	SilverBoard	Dress	21											
+2007	4455	T6时装翠烟1	3960	SilverBoard	Dress	22											
+2008	4456	T6时装唐门1	3960	SilverBoard	Dress	23											
+2009	4457	T6时装昆仑1	3960	SilverBoard	Dress	24											
+2010	4458	T6时装丐帮1	3960	SilverBoard	Dress	25											
+2011	4459	T6时装五毒1	3960	SilverBoard	Dress	26											
+2012	4512	武当限时新外装	3960	SilverBoard	Dress	1											
+2013	4509	峨嵋限时新外装	3960	SilverBoard	Dress	2											
+2014	4511	逍遥新外装（限时）	3960	SilverBoard	Dress	3											
+2015	4514	少林新外装（限时）	3960	SilverBoard	Dress	4											
+2016	4515	翠烟新外装（限时）	3960	SilverBoard	Dress	5											
+2017	4516	唐门新外装（限时）	3960	SilverBoard	Dress	6											
+2018	4519	五毒新外装（限时）	3960	SilverBoard	Dress	7											
+2019	4508	天王新外装（限时）	3960	SilverBoard	Dress	8											
+2020	4510	桃花新外装（限时）	3960	SilverBoard	Dress	9											
+2021	4513	天忍新外装（限时）	3960	SilverBoard	Dress	10											
+2022	4517	昆仑新外装（限时）	3960	SilverBoard	Dress	11											
+2023	4518	丐帮新外装（限时）	3960	SilverBoard	Dress	12											
+2034	6204	T6时装藏剑1	3960	SilverBoard	Dress	13											
+2035	6205	T6时装长歌1	3960	SilverBoard	Dress	14											
+2036	5969	T7時裝天王1	3960	SilverBoard	Dress	27											
+2037	5970	T7時裝峨眉1	3960	SilverBoard	Dress	28											
+2038	5971	T7時裝桃花1	3960	SilverBoard	Dress	29											
+2039	5972	T7時裝逍遙1	3960	SilverBoard	Dress	30											
+2040	5973	T7時裝武當1	3960	SilverBoard	Dress	31											
+2041	5974	T7時裝天忍1	3960	SilverBoard	Dress	32											
+2042	5975	T7時裝少林1	3960	SilverBoard	Dress	33											
+2043	5976	T7時裝翠煙1	3960	SilverBoard	Dress	34											
+2044	5977	T7時裝唐門1	3960	SilverBoard	Dress	35											
+2045	5978	T7時裝昆侖1	3960	SilverBoard	Dress	36											
+2046	5979	T7時裝丐幫1	3960	SilverBoard	Dress	37											
+2047	5980	T7時裝五毒1	3960	SilverBoard	Dress	38											
+2048	5981	T7時裝藏劍1	3960	SilverBoard	Dress	39											
+2049	5982	T7時裝長歌1	3960	SilverBoard	Dress	40											
+2050	6359	【天王】狂客	3960	SilverBoard	Dress	41											
+2051	6360	【峨眉】狷者	3960	SilverBoard	Dress	42											
+2052	6361	【桃花】魅靈	3960	SilverBoard	Dress	43											
+2053	6362	【逍遙】邪俠	3960	SilverBoard	Dress	44											
+2054	6363	【武當】邪俠	3960	SilverBoard	Dress	45											
+2055	6364	【天忍】狷者	3960	SilverBoard	Dress	46											
+2056	6365	【少林】狂客	3960	SilverBoard	Dress	47											
+2057	6366	【翠煙】魅靈	3960	SilverBoard	Dress	49											
+2058	6367	【唐門】邪俠	3960	SilverBoard	Dress	50											
+2059	6368	【昆侖】狷者	3960	SilverBoard	Dress	51											
+2060	6369	【丐幫】狂客	3960	SilverBoard	Dress	52											
+2061	6370	【五毒】魅靈	3960	SilverBoard	Dress	53											
+2062	6371	【藏劍】邪俠	3960	SilverBoard	Dress	54											
+2063	6372	【長歌】魅靈	3960	SilverBoard	Dress	55											
+2064	6007	称号·武林至尊（1年）	8888	SilverBoard	Dress	56											
+2065	3595	稱號·靈魂導師（20天）	3000	SilverBoard	Dress	57											
+2066	3903	稱號·沉魚落雁（60天）	3000	SilverBoard	Dress	58											
+2067	3902	稱號·玉樹臨風（60天）	3000	SilverBoard	Dress	59											
+2068	3594	稱號·超級巨星（20天）	3000	SilverBoard	Dress	60											
+3001	4746	天王武器外装T1	3760	SilverBoard	Dress	3											
+3002	4747	峨眉武器外装T1	3760	SilverBoard	Dress	4											
+3003	4748	桃花武器外装T1	3760	SilverBoard	Dress	5											
+3004	4749	逍遥武器外装T1	3760	SilverBoard	Dress	6											
+3005	4750	武当武器外装T1	3760	SilverBoard	Dress	7											
+3006	4751	天忍武器外装T1	3760	SilverBoard	Dress	8											
+3007	4752	少林武器外装T1	3760	SilverBoard	Dress	9											
+3008	4753	翠烟武器外装T1	3760	SilverBoard	Dress	10											
+3009	4754	唐门武器外装T1	3760	SilverBoard	Dress	11											
+3010	4755	昆仑武器外装T1	3760	SilverBoard	Dress	12											
+3011	4756	丐帮武器外装T1	3760	SilverBoard	Dress	13											
+3012	4757	五毒武器外装T1	3760	SilverBoard	Dress	14											
+3013	6206	藏剑武器外装T1	3760	SilverBoard	Dress	1											
+3014	6207	长歌武器外装T1	3760	SilverBoard	Dress	2											
+3015	4864	<云魅灵鹿>	10000	SilverBoard	Dress	61											
+3016	4869	<星芒·云魅灵鹿>	20000	SilverBoard	Dress	62											
+3017	4739	<寒霜倩影>	4000	SilverBoard	Dress	63											
+3018	4848	稱號·秋水伊人（1年）	3000	SilverBoard	Dress	64											
+3019	4703	稱號·小萌新（90天）	3000	SilverBoard	Dress	65											
+3020	4583	抱月擁星駒	88888	SilverBoard	Dress	82											
+3021	2508	追星逐日	50000	SilverBoard	Dress	81											
+3022	6229	稱號·巔峰至尊	5000	SilverBoard	Dress	68											
+3023	6008	首碼·武林至尊（1年）	5000	SilverBoard	Dress	69											
+3024	4844	稱號·武林第一美女（1年）	5000	SilverBoard	Dress	70											
+3025	4828	首碼·武林第一美女（1年）	5000	SilverBoard	Dress	71											
+3026	5252	首碼·國色天香（1年）	3666	SilverBoard	Dress	72											
+3027	2804	和氏璧	1288	SilverBoard	Dress	73											
+3028	3714	洗髓经（上卷）	200	SilverBoard	Dress	74											
+3029	3715	洗髓经（中卷）	200	SilverBoard	Dress	75											
+3030	3716	洗髓经（下卷）	200	SilverBoard	Dress	76											
+3031	3238	江翻海沸诀要	288	SilverBoard	Dress	77											
+3032	2877	彩云追月	288	SilverBoard	Dress	78											
+3033	2876	月滿西樓	200	SilverBoard	Dress	79											
+3034	2591	八寶粽	200	SilverBoard	Dress	80											
+3035	4045	圣蹄	58888	SilverBoard	Dress	85											
+3036	6148	SSS级同伴任选礼盒	28888	SilverBoard	Dress	66											
+3037	2507	逐日	38888	SilverBoard	Dress	83											
+3038	2400	乌云踏雪	28888	SilverBoard	Dress	84											
+3039	1393	盟主令	500	SilverBoard	Dress	86											
+3040	1394	名将令	800	SilverBoard	Dress	87											
+3041	1395	涿鹿令	1400	SilverBoard	Dress	88											
+3042	1396	帝皇令	1800	SilverBoard	Dress	89											
+3043	2424	門派信物	100	SilverBoard	Dress	67											
+3044	1526	高级附魔石	1000	SilverBoard	Dress	90											
+3045	3314	5级附魔石·攻击	2000	SilverBoard	Dress	91											
+3046	4818	新心向颖绘卷	5000	SilverBoard	Dress	92											
+3047	4579	提高技能上限1	5000	SilverBoard	Dress	93											
+3048	4580	提高技能上限2	5000	SilverBoard	Dress	94											
+3049	4581	提高技能上限3	5000	SilverBoard	Dress	95											
+3050	4582	提高技能上限4	5000	SilverBoard	Dress	96											
+3051	4813	真儿的青睐	3000	SilverBoard	Dress	97											
+3052	4811	杨大侠的青睐	3000	SilverBoard	Dress	98											
+3053	3930	藏剑强化秘宝+100	3500	SilverBoard	Dress	99											
+3054	2798	黄金图谱（护腕）	1000	SilverBoard	Dress	100											
+3055	2794	黄金图谱（武器）	3000	SilverBoard	Dress	101											
+3056	2796	黄金图谱（帽子）	1000	SilverBoard	Dress	102											
+3057	2800	黄金图谱（项链）	1500	SilverBoard	Dress	103											
+3058	2795	黄金图谱（衣服）	2500	SilverBoard	Dress	104											
+3059	2802	黄金图谱（玉佩）	1500	SilverBoard	Dress	105											
+3060	2797	黄金图谱（腰帶）	1000	SilverBoard	Dress	106											
+3061	2801	黄金图谱（戒指）	1000	SilverBoard	Dress	107											
+3062	2799	黄金图谱（鞋子）	1000	SilverBoard	Dress	108											
+3063	2803	黄金图谱（护身符）	1000	SilverBoard	Dress	109											
+3064	3545	武则天·明空栖凤指	18888	SilverBoard	Dress	110											
+3065	3544	秦始皇·泰阿剑	18888	SilverBoard	Dress	111											
+3066	4057	完顏洪烈·金龙御鹰手	18888	SilverBoard	Dress	112											
+3067	3543	项羽·霸王戟	18888	SilverBoard	Dress	113											
+3068	3555	同伴·武则天	50000	SilverBoard	Dress	114											
+3069	3445	赤金驭天绳	15000	SilverBoard	Dress	115											
+3070	3455	赤金驭天蹬	13000	SilverBoard	Dress	116											
+3071	3450	赤金驭天鞍	10000	SilverBoard	Dress	117											
+5000	6155	缘定今生	39990	Gold	WeddingShop	1											
+5001	5247	烟花·百年好合	990	Gold	WeddingShop	3											
+5002	5248	烟花·吉祥如意	990	Gold	WeddingShop	4											
+5003	5249	烟花·嫁给我吧	990	Gold	WeddingShop	5											
+5004	5250	烟花·双喜临门	990	Gold	WeddingShop	6											
+5005	5251	烟花·心心相印	990	Gold	WeddingShop	7											
+5006	6231	三生石	29990	Gold	WeddingShop	2											

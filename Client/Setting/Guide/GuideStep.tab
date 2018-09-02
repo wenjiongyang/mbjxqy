@@ -1,0 +1,26 @@
+GuideId	LoginStart	SaveFinish	ActionType	Param	PointerOffset	DescType	DescInfo	FinishCheck	CheckParam
+1	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnSkill", false, false, {})				CheckAniFinish	TopButton|GuideBtnSkill
+1			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]4[-]级！新功能[FFFE0D]「技能」[-]开启了哦！快去升级和查看自己门派独特的武功招式吧！	CheckClickScreen	
+2	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnLoginAward", false, false, {})				CheckAniFinish	TopButton|GuideBtnLoginAward
+2			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]5[-]级！新功能[FFFE0D]「登录领奖」[-]开启了哦！快去领取第一份奖励吧！	CheckClickScreen	
+3	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnCompanion", false, false, {})				CheckAniFinish	TopButton|GuideBtnCompanion
+3			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]9[-]级！新功能[FFFE0D]「同伴」[-]开启了哦！快去看看和自己共同闯荡江湖的同伴吧！	CheckClickScreen	
+4	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnActivity", false, false, {})				CheckAniFinish	TopButton|GuideBtnActivity
+4			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]8[-]级！新功能[FFFE0D]「福利」[-]开启了哦！快去领取自己的专属福利吧！	CheckClickScreen	
+5	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnSocial", false, false, {})				CheckAniFinish	TopButton|GuideBtnSocial
+5			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]10[-]级！新功能[FFFE0D]「社交」[-]开启了哦！快去添加好友共闯武林吧！	CheckClickScreen	
+9	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnShop", false, false, {})				CheckAniFinish	TopButton|GuideBtnShop
+9			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]14[-]级！新功能[FFFE0D]「商城」[-]开启了哦！前往商城购买所需物品吧！	CheckClickScreen	
+6	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnFamily", false, false, {})				CheckAniFinish	TopButton|GuideBtnFamily
+7	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnAuction", false, false, {})				CheckAniFinish	TopButton|GuideBtnAuction
+7			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]11[-]级！新功能[FFFE0D]「家族」[-]和[FFFE0D]「拍卖行」[-]开启了哦！加入「家族」后可以与其他侠士一同笑傲江湖，「拍卖行」则会在特定活动结束后进行珍贵物品的拍卖哦！	CheckClickScreen	
+8	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnCalendar", false, false, {})				CheckAniFinish	TopButton|GuideBtnCalendar
+8			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]13[-]级！江湖中的第一个[FFFE0D]「活动」[-]开启了哦！可以前去参加啦！	CheckClickScreen	
+10	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnStronger", false, false, {})				CheckAniFinish	TopButton|GuideBtnStronger
+10			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]15[-]级！新功能[FFFE0D]「变强」[-]开启了哦！快去看看如何能够让自己变得更厉害吧！	CheckClickScreen	
+11	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnRanking", false, false, {})				CheckAniFinish	TopButton|GuideBtnRanking
+11			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]19[-]级！新功能[FFFE0D]「排行榜」[-]开启了哦！快去看看当前武林的侠士排名吧！	CheckClickScreen	
+12	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnHonorLevel", false, false, {})				CheckAniFinish	TopButton|GuideBtnHonorLevel
+12			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]18[-]级！新功能[FFFE0D]「头衔」[-]开启了哦！快去获取第一个头衔，成为武林中的有名人士吧！	CheckClickScreen	
+13	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnMarketStall", false, false, {})				CheckAniFinish	TopButton|GuideBtnMarketStall
+13			LockWnd			NpcDown	恭喜大侠升到[FFFE0D]20[-]级！新功能[FFFE0D]「摆摊」[-]开启了哦！可以将自己暂时不需要的东西卖出或购买需要的东西哦！	CheckClickScreen	

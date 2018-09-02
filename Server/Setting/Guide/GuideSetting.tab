@@ -1,0 +1,18 @@
+GuideId	SaveId	CheckAchievement	FightLimit	StartCheck	Param	FinishTask	Desc	Level
+1	1			CheckLevel	4		主介面技能	4級
+2	2			CheckLevel	5		主介面登入領獎	5級
+4	4			CheckLevel	8		主介面福利	8級-簽到
+3	3			CheckLevel	9		主介面同伴	9級
+5	5			CheckLevel	10		主介面好友	10級
+6	6			CheckLevel	11		主介面幫派	11級
+7	7			CheckGuide	6		主介面拍賣	11級
+8	8			CheckLevel	13		主介面活動	13級-幫派烤火
+9	9			CheckLevel	14		主介面商城	14級
+10	10			CheckLevel	15		主介面變強	15級
+11	11			CheckLevel	19		主介面排行榜	17級
+12	12			CheckLevel	18		主介面頭銜	18級
+13	13			CheckLevel	20		主介面擺攤	20級
+42	42			EnterMap	SkillGuide|1		技能引導	
+43	43			EnterMap	SkillGuide|2		技能引導	
+44	44			EnterMap	SkillGuide|3		技能引導	
+45	45			EnterMap	SkillGuide|4		技能引導	

@@ -1,0 +1,4 @@
+nNpcTemplateId	nLevel	nPosX	nPosY	nDir	nAddScoreTime	nKillAddScore	nNormalScore	szDieMsg	szNormalMsg
+703	40	9206	6752	0	15	300	100	攻下1號據點，獲得300分，本方士氣大漲	持續佔領1號據點，獲得100積分
+704	40	7193	6742	0	15	300	100	攻下2號據點，獲得300分，本方士氣大漲	持續佔領2號據點，獲得100積分
+705	40	11199	6738	0	15	300	100	攻下3號據點，獲得300分，本方士氣大漲	持續佔領3號據點，獲得100積分

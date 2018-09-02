@@ -1,0 +1,18 @@
+MoneyType	SaveKey	DebtSaveKey	Value	ObjId	Emotion	IconAtlas	Icon	BigIconAtlas	BigIcon	NumberColor	StringColor	Name	Unit	TipDesc
+Coin	1	1	10	8	998	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	CoinSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	CoinBig			銀兩	兩	江湖中流傳範圍最廣，日常消耗使用最多的貨幣
+TongBao	2	2	100	4	997	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	CurrencySmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	CurrencyBig			通寶		一種武林中人認可的特殊貨幣，主要用於交易中心購物
+Jade	3	3	100	5	987	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	MagatamaSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	MagatamaBig			幻玉		心魔幻境活動專屬貨幣，可在活動內的神秘商人處購買活動道具
+Honor	4	4	100	5	976	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HonorRongSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HonorRongBig			榮譽		可以在榮譽商店中兌換：\n[FFFE0D]鞋子[-]、[FFFE0D]腰帶[-]、[FFFE0D]護腕[-]、[FFFE0D]頭盔[-]
+Biography	5	5	100	5	975	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ZhuanJiSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ZhuanJiBig			傳記		可以在傳記商店中兌換：\n[FFFE0D]護身符[-]、[FFFE0D]戒指[-]、[FFFE0D]項鍊[-]、[FFFE0D]腰墜[-]
+SkillExp	6	6	100	5	991	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	SkillExpSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	SkillExpBig			修為		用於升級門派秘笈
+Gold	7	7	1000	5	999	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	GoldSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	GoldBig			元寶		武林中最珍貴的貨幣，幾乎能買到一切想要的東西
+PStone0	8	8	10	14	989	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HunshiSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HunshiBig			魂石		用於[FFFE0D]招募和進化[-]C級、B級、A級同伴
+PStone1	9	9	20	14	988	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoBig			S級魂石		用於[FFFE0D]招募和進化[-]S級同伴
+Contrib	10	10	100	5	974	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ContributionSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ContributionBig			貢獻		幫派捐獻或參與幫派相關活動獲得\n幫派各個作坊的主要交易貨幣\n\n兵甲坊：\n[FFFE0D]武器[-]、[FFFE0D]衣服[-]\n\n防具坊：\n[FFFE0D]帽子[-]、[FFFE0D]護腕[-]、[FFFE0D]腰帶[-]、[FFFE0D]鞋子[-]\n\n首飾坊：\n[FFFE0D]項鍊[-]、[FFFE0D]戒指[-]、[FFFE0D]玉佩[-]、[FFFE0D]護身符[-]\n\n金庫：\n[FFFE0D]幫派禮盒[-]\n\n珍寶坊：\n[FFFE0D]魂石[-]、[FFFE0D]水晶[-]、[FFFE0D]古董[-]
+PStone2	11	11	20	14	988	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoBig			SS級魂石		用於[FFFE0D]招募和進化[-]SS級同伴
+PStone3	12	12	20	14	988	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	JingpoBig			SSS級魂石		用於[FFFE0D]招募和進化[-]SSS級同伴
+SkillPoint	13	13	10	14	991	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	SkillExpSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	SkillExpBig			技能點		用於升級門派技能，技能每升1級，需要消耗1點技能點
+Renown	14	14	100	5	952	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HonorPveSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	HonorPveBig			名望		一種武林中人認可的特殊貨幣，可在名望商店購買物品
+Energy	15	15	100	5	945	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	VitalitySmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	VitalityBig			元氣		通過冥想獲得的元氣，可用於凝聚真元
+SilverBoard	16	16	100	5	944	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	OldCoinsSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	OldCoinsBig			黎飾		銀制精美絕倫的飾物，乃黎族人以巧奪天工的手藝製成。昔日黃道婆流落崖州，得黎族人救助，並傳以紡織技巧，後名動天下，故得此物者，可前往黎飾商店購置一些獨步武林的外觀
+ZhenQi	17	17	10	5	935	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ZhenqiSmall	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	ZhenqiBig			真氣		同伴使用資質丹時能獲得的真氣，可用於經脈衝穴

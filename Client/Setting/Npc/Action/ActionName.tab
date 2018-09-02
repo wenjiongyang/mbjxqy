@@ -1,0 +1,39 @@
+ActId	ActName	RideActName	HideWeapon	RideHideWeapon	Des
+1	st	hst		1	15到50的ID是给技能配置动作
+2	run	hrun		1	
+3	die	die		1	
+4	jt	hst		1	击退动作
+5	bat	hst		1	拉的动作
+6	qg	hrun		1	
+7	sta	hst		1	战斗站立
+8	bat	hst		1	浮空动作
+9	bat	hst		1	受伤动作
+10	wlk	run		1	散步动作
+11	zx	hst	1	1	坐下
+12	zst	hst	1	1	打坐
+13	st01	hst		1	非战斗特殊站立
+14	st02	hst		1	非战斗特殊站立
+15	at	hst		1	
+16	at01	hst		1	
+17	at02	hst		1	
+18	at03	hst		1	
+19	at04	hst		1	
+20	jfd	hst		1	死亡击飞
+21	jn01	hst		1	
+22	jn02	hst		1	
+23	jn03	hst		1	
+24	jn04	hst		1	
+25	jn05	hst		1	
+26	jf	hst		1	击飞
+27	jn02b	hst		1	
+28	jn02a	hst		1	
+29	qg01	hrun		1	
+30	qg02	hrun		1	
+31	jsrun	hrun		1	加速跑
+32	qg03	hrun		1	
+33	qg04	hrun		1	
+34	qg05	hrun		1	
+35	dz	hst	1	1	打坐
+36	ts01	hst		1	特殊动作1
+37	ts02	hst		1	特殊动作2
+38	ts03	hst		1	特殊动作3

@@ -1,0 +1,3 @@
+nGoodsId	nTemplateId	Name	nPrice	nLimitNum	szMoneyType	szShopType	nSort	nDiscount	szTimeFrame	szCloseTimeFrame	szOpenTime	szCloseTime
+10000	2682	天劍令	1500	1	Gold	Treasure	1	3				2017.12.20 23:59:59
+10001	2682	天劍令	1500	1	SilverBoard	Dress	1	3				2018.1.13 23:59:59

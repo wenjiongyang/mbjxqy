@@ -1,0 +1,32 @@
+Key	ID	Name	Type	MaxNum	MaxSaveNum	TimeFrame	Tips	Sub	ActivityType
+kin	1	幫派	0	30	100		按幫派威望排名		
+FightPower	2	戰力	0	500	500		根據角色的戰力		
+qunyinghui	3	群英會	0	500	500	NotOpen	群英會的排名		
+Level	4	等級	0	500	500		根據角色等級		
+FightPower_1	5	天王	0	500	500		根據天王角色的戰力	門派	
+FightPower_2	6	峨嵋	0	500	500		根據峨嵋角色的戰力	門派	
+FightPower_3	7	桃花	0	500	500		根據桃花角色的戰力	門派	
+FightPower_4	8	逍遙	0	500	500		根據逍遙角色的戰力	門派	
+FightPower_5	9	武當	0	500	500		根據武當角色的戰力	門派	
+FightPower_6	10	天忍	0	500	500		根據天忍角色的戰力	門派	
+FightPower_Equip	11	裝備基礎	0	500	500		裝備上隨機屬性的總戰力值排名	裝備	
+FightPower_Strengthen	12	強化	0	500	500		裝備強化所加的總戰力值排名	裝備	
+FightPower_Stone	13	鑲嵌	0	500	500		裝備鑲嵌所加的總戰力值排名	裝備	
+FightPower_Partner	14	同伴	0	500	500		所有上陣同伴加的總戰力值排名		
+CardCollection_1	15	凌絕峰收集榜	0	500	10000	OpenLevel59	凌絕峰卡牌收集排行榜		
+LunJianRank	16	華山論劍	1	1000	10000	HuaShanLunJian	華山論劍		
+FightPower_7	17	少林	0	500	500		根據少林角色的戰力	門派	
+FightPower_8	18	翠煙	0	500	500		根據翠煙角色的戰力	門派	
+ZhongQiuJie	19	中秋節答題	0	500	500		中秋節答題		ZhongQiuJie
+CardCollection_2	20	錦繡山河	0	500	10000		雙十錦繡山河活動		JinXiuShanHe
+SendBless	21	普天同慶	0	100	10000		雙十普天同慶活動		SendBlessAct
+FightPower_9	22	唐門	0	500	500		根據唐門角色的戰力	門派	
+FightPower_10	23	昆侖	0	500	500		根據崑崙角色的戰力	門派	
+FightPower_11	24	丐幫	0	500	500		根據丐幫角色的戰力	門派	
+FightPower_12	25	五毒	0	500	500		根據五毒角色的戰力	門派	
+House	26	家園	0	500	500	OpenDay33	根據家園舒適度		
+FightPower_Horse	28	坐騎	0	500	500		坐騎和坐騎裝備的總戰力值排名	裝備	
+FightPower_ZhenYuan	29	真元	0	500	500	OpenLevel69	真元的戰力值排名	裝備	
+WulinHonor	30	武林榮譽	0	500	500	OpenLevel69	武林榮譽		
+FightPower_13	31	藏劍	0	500	500		根據藏劍角色的戰力	門派	
+FightPower_14	32	長歌	0	500	500		根據長歌角色的戰力	門派	

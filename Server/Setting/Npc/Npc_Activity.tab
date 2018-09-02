@@ -1,0 +1,115 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	DefaultDialog	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife
+Activity_nalanqianlin	1966	納蘭潛凜	2	1	WeekendQuestionNpc		21	626	312			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_nalanzhen	1967	納蘭真	2	1	WeekendQuestionNpc		177	712	113			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_dugujian	1968	獨孤劍	2	1	WeekendQuestionNpc		32	654	304			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_zhanglinxin	1969	張琳心	2	1	WeekendQuestionNpc		1100	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_nangongfeiyun	1970	南宮飛雲	2	1	WeekendQuestionNpc		5027	610	307			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_yanruoxue	1971	燕若雪	2	1	WeekendQuestionNpc		1129	727	997			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_mengzhiqiu	1972	孟知秋	2	1	WeekendQuestionNpc		156	622	303			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_yuemeier	1973	月眉兒	2	1	WeekendQuestionNpc		1102	716	122			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_yangyingfeng	1974	楊影楓	2	1	WeekendQuestionNpc		1101	630	325			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_qiangwei	1975	薔薇	2	1	WeekendQuestionNpc		103	703	118			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_zhangrumeng	1976	張如夢	2	1	WeekendQuestionNpc		193	627	314			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_nangongcaihong	1977	南宮彩虹	2	1	WeekendQuestionNpc		126	706	997			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_zhuofeifan	1978	卓非凡	2	1	WeekendQuestionNpc		194	628	318			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_zixuan	1979	紫軒	2	1	WeekendQuestionNpc		131	708	120			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_xuantiandaoren	1980	柴嵩	2	1	WeekendQuestionNpc		132	651	999			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_yangying	1981	楊瑛	2	1	WeekendQuestionNpc		141	710	117			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_hushenyi	1982	胡神醫	2	1	WeekendQuestionNpc		5022	608	323			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_qiuyishui	1983	秋依水	2	1	WeekendQuestionNpc		158	711	121			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_wanjincai	1984	萬金財	2	1	WeekendQuestionNpc		146	206	306			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+Activity_yuji	1985	虞姬	2	1	WeekendQuestionNpc		1112	717	997			1	91	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+DefendFuben_Enemy1	2079	黃金死士	0	1	FubenDeath		181	405	1496			151	21	1							Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+DefendFuben_Enemy2	2080	青木死士	0	1	FubenDeath		139	405	1496			152	21	1							Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+DefendFuben_Enemy3	2081	冥水死士	0	1	FubenDeath		102	405	1496			153	21	1							Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+DefendFuben_Enemy4	2082	烈火死士	0	1	FubenDeath		104	405	1496			154	21	1							Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+DefendFuben_Enemy5	2083	厚土死士	0	1	FubenDeath		143	405	1496			155	21	1							Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+DefendFuben_Helper1	2084	楊鐵心	2	1	DefendAssistDialog		5211	644	302			322	21	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Helper2	2085	柳瀟庭	2	1	DefendAssistDialog		5210	643	317			322	21	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Helper3	2086	無想	2	1	DefendAssistDialog		5212	720	106			322	21	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Helper4	2087	李恬兒	2	1	DefendAssistDialog		5209	719	108			322	21	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Helper5	2088	李天目	2	1	DefendAssistDialog		6111	634	999			322	21	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Target	2089	重傷的張如夢	0	0	DefendMainNpc		193	214	314			161	21	1																													
+DefendFuben_Target2	2095	重傷的南宮彩虹	2	1	FubenDeath		126	200	300			322	21	1																													
+DefendFuben_Fighter1	2090	楊鐵心	0	0	FubenDeath		5211	644	302			156	3328	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Fighter2	2091	柳瀟庭	0	0	FubenDeath		5210	643	317			157	3332	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Fighter3	2092	無想	0	0	FubenDeath		5212	720	106			158	3336	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Fighter4	2093	李恬兒	0	0	FubenDeath		5209	719	108			159	3340	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+DefendFuben_Fighter5	2094	李天目	0	0	FubenDeath		6111	634	999			160	3344	1					600	600	Setting/Npc/Ai/CommonActive.ini				30	1																	
+Laba_Messenger1	2167	張三	0	0	FubenDeath		11	634	999			160	3344	1					600	600	Setting/Npc/Ai/Activity/Laba_Messenger.ini				20	1		5034														1	
+Laba_Messenger2	2168	李四	0	0	FubenDeath		155	634	999			160	3344	1					600	600	Setting/Npc/Ai/Activity/Laba_Messenger.ini				20	1		5034														1	
+ArborDay_hua	2198	桃樹	2	1	AroborFlower	1	944					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn											
+ArborDay_enemy1	2199	兇猛的毒蜂	0	1	AroborDeathNpc		1182	200	300			162	1689	1	105	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1									1								
+ArborDay_enemy2	2200	溫順的毒蜂	2	1	AroborBoxOrGather		1182	200	300			162	1689	1	105	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1									1								
+ArborDay_Collection1	2201	伴生草	2	1	AroborBoxOrGather		448	200	300			401	1689	1	105	1			1500	1500				1	15							NoTurn											
+ArborDay_Collection2	2202	精緻的小箱子	2	1	AroborBoxOrGather		933					1							560	980				1	15							NoTurn											
+ArborDay_Apply	2204	真兒	2	1			1178		993	這種子得來不易，有情人方可種植成功，你們兩人可要好好照料它喔！		1	56	1	1697	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ArborDay_Tree1	2206	小樹苗	2	1	SnowmanNpc		934		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			1								
+ArborDay_Tree2	2207	茁壯成長的小樹苗	2	1	SnowmanNpc		935		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			2								
+ArborDay_Tree3	2208	健壯的許願樹	2	1	SnowmanNpc		936		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			3								
+ArborDay_Tree4	2209	挺拔的許願樹	2	1	SnowmanNpc		937		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			4								
+ArborDay_Tree5	2210	高聳的許願樹	2	1	SnowmanNpc		938		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			5								
+ArborDay_Tree6	2211	茂盛的幫派許願樹	2	1	SnowmanNpc		939		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			6								
+ArborDay_Tree7	2212	參天的許願樹	2	1	SnowmanNpc		940		993	還記得昔日那一朵赤心花嗎？你可要與另一人好好照料它喔！		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn			7								
+TombSweepingDay_Npc1	2241	納蘭潛凜	0	0			5187	626	312			1	21	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc2	2242	張琳心	0	0			1100	715	997			1	56	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc3	2248	上官飛龍	0	0			5021	715	997			1	56	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc4	2243	卓非凡	0	0			5194	626	312			1	21	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc5	2244	楊熙烈	0	0			6110	715	997			1	56	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc6	2245	孟知秋	0	0			5156	626	312			1	21	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc7	2246	張風	0	0			6119	715	997			1	56	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc8	2247	天星道長	0	0			5013	626	312			1	21	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc9	2249	岳飛	0	0			6130	715	997			1	56	1	2322	1					Setting/Npc/Ai/Activity/Laba_Messenger.ini			0	15	1																	
+TombSweepingDay_Npc10	2250	納蘭真	2	1			5177	626	312	今日乃是清明佳節，我特來見爹爹。		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc11	2251	獨孤劍	2	1			5032	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc12	2252	月眉兒	2	1			6102	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc13	2253	紫軒	2	1			5131	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc14	2254	楊影楓	2	1			6101	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc15	2255	薔薇	2	1			5103	626	312			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc16	2256	張如夢	2	1			5193	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc17	2277	挺哥	2	1			1134	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Npc18	2278	公孫惜花	2	1			1103	715	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																	
+TombSweepingDay_Tombstone	2257	神秘的碑石	2	1	MuBeiNpc		941	995	995			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn											
+TombSweepingDay_Tombstone1	2276	飽經風霜的碑石	2	1			941	995	995	一塊看起來飽經風霜的古樸石碑，上面的文字已經有些模糊，但卻依然屹立不倒		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn											
+ComActivity_yangyingfeng	2287	楊影楓的幻影	0	0			6101	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_nalanzhen	2288	納蘭真的幻影	0	0			5177	626	312			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_yuemeier	2289	月眉兒的幻影	0	0			6102	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_zixuan	2290	紫軒的幻影	0	0			5131	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_qiangwei	2291	薔薇的幻影	0	0			5103	626	312			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_dugujian	2292	獨孤劍的幻影	0	0			175	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_zhanglinxin	2293	張琳心的幻影	0	0			1100	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_yangying	2294	楊瑛的幻影	0	0			141	710	117			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_nangongfeiyun	2295	南宮飛雲的幻影	0	0			5027	610	307			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_yanruoxue	2296	燕若雪的幻影	0	0			1129	727	997			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_zhuofeifan	2300	卓非凡的幻影	0	0			194	628	318			100	21	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+ComActivity_hua	2301	比翼花	2	1	AroborFlower	0	323	995	995			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn											
+ComActivity_shu	2302	連理枝	2	1	AroborFlower	0	942	995	995			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn											
+ComActivity_jiashao	2303	賈少	0	1	FubenDeath		170		993		36	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1							
+Spokesperson_Male	2307	楊大俠	0	0			1179	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+Spokesperson_Female	2308	真兒	0	0			1178	626	312			100	91	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+Spokesperson_Acivity_Lgx	2399	楊大俠	2	0	HouseDefendNpc		1179	715	997			100	56	1	91	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+Spokesperson_Acivity_Zly	2400	真兒	2	0	HouseDefendNpc		1178	626	312			100	91	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																	
+Spokesperson_1_1	2309	神色慌亂的刀客	0	1	FubenDeath		123		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1							
+Spokesperson_1_2	2310	神情緊張的壯漢	0	1	FubenDeath		136		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_1_3	2311	斑駁的古劍	2	0	FubenDialog	5,正在取走古劍…	943	995	300			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1						NoTurn											
+Spokesperson_2_1	2312	金兵	0	1	FubenDeath		431		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_2_2	2313	百夫長	0	1	FubenDeath		181		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_2_3	2314	神秘劍客	0	1	FubenDeath		24		993			303	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2																	
+Spokesperson_3_1	2315	金國密探	0	1	FubenDeath		134		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_3_2	2316	金國刺客	0	1	FubenDeath		174		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_Enemy	2334	金國死士	0	1	FubenDeath		136		993			163	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_3_3	2317	絕情石龍柱	2	0	FubenDialog	0.5,正在開啟	410	995	995			204	21	1	1500	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1						NoTurn										1	
+Spokesperson_3_4	2335	絕情石龍柱	4	0			410	995	300			204	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1						NoTurn										1	
+Spokesperson_4_1	2318	少女劍客	0	1	FubenDeath		104		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_4_2	2319	少年劍客	0	1	FubenDeath		125		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_4_3	2320	神秘劍客	0	1	FubenDeath		24		993			331	1887	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	10	1						NoTurn											
+Spokesperson_5_1	2321	怪1	0	1	FubenDeath		170		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1																	
+Spokesperson_5_2	2322	新心向穎	4	0			944		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	3																	
+Spokesperson_5_3	2323	新心向穎	2	0	DaiYanRenSit		944		993			204	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	18	3						NoTurn											
+Spokesperson_UseSkill_1	2332	對敵放技能	6	0	FubenDeath		469	200	300			343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	3										1				1	1	1	
+Spokesperson_UseSkill_2	2333	對我放技能	6	1	FubenDeath		469	200	300			343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	3										1				1	1	1	
+Spokesperson_Enemy1	2403	盜賊	0	1	FubenDeath		123	405	1496			601	21	1	91	1	1065	2			Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+Spokesperson_Enemy2	2404	嘍囉	0	1	FubenDeath		134	405	1496			601	21	1	91	1	1065	2			Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+Spokesperson_Enemy3	2405	賊匪	0	1	FubenDeath		174	405	1496			601	21	1	91	1	1065	2			Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+Spokesperson_Enemy4	2406	賊匪組長	0	1	FubenDeath		136	405	1496			601	21	1	91	1	1065	2			Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	1																	
+Spokesperson_Boss1	2407	賊匪頭目	0	1	FubenDeath		24	405	1496			702	21	1	91	1	1065	2			Setting/Npc/Ai/DefendFubenEnemy.ini			0	15	2																	

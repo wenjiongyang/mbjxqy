@@ -1,0 +1,24 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	NormalSkill4	NormalSkillLevel4	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife
+InDifferShopNpc	1987	神秘商人	2	1	InDifferShopNpc		146	206	306																				31																
+InDifferBox_Item1	1994	寶箱	2	1	IndifferBox	5	352	995																									NoTurn												
+InDifferBox_Money1	1995	寶箱(廢棄)	2	1	IndifferBox		352																										NoTurn												
+InDifferBox_Skill1	1996	寶箱(廢棄)	2	1	IndifferBox		352																										NoTurn												
+InDifferSuperBox_1	2101	心魔幻象	2	1	IndifferBox	10	410	995																									NoTurn												
+IndifferBattleNpc_1	2096	心魔·惡	0	1	IndifferBattleNpc		123			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+IndifferBattleNpc_2	2097	心魔·貪	0	1	IndifferBattleNpc		101			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+IndifferBattleNpc_3	2098	心魔·妄	0	1	IndifferBattleNpc		134			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+IndifferBattleNpc_4	2099	心魔·怨	0	1	IndifferBattleNpc		143			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+IndifferBattleNpc_5	2100	心魔·悲	0	1	IndifferBattleNpc		170			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+IndifferBattleLeader_1	2102	幻獸精英·寒玉鹿王	0	1			28				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_luwang.ini			1	25	2																	1	
+IndifferBattleLeader_2	2103	幻獸精英·大地狼王	0	1			29				752	146	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_langwang.ini			1	25	2																	1	
+IndifferBattleLeader_3	2104	幻獸精英·白眉猴王	0	1			35				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_langwang.ini			1	25	2																	1	
+IndifferBattleLeader_4	2105	幻獸精英·奔焰豹王	0	1			30				752	157	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_baowang.ini			1	25	2																	1	
+IndifferBattleLeader_5	2106	幻獸精英·九尾狐王	0	1			26				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1	
+IndifferBattleLeader_6	2107	幻獸精英·雙首異獸	0	1			34				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1	
+IndifferBattleLeader_7	2108	幻獸精英·定海金剛	0	1			40				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_baowang.ini			1	25	2																	1	
+IndifferBattleLeader_8	2109	幻獸精英·金翅鵬皇	0	1			36				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1	
+IndifferBattleLeader_9	2110	幻獸精英·銀角犀皇	0	1			38				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_luwang.ini			1	25	2																	1	
+IndifferBattleBoss_1	2111	幻獸首領·紫背鱷皇	0	1			41				753	3356	1	91	1	195	1					Setting/Npc/Ai/fieldboss/80leader_ehuang.ini			1	25	2																	1	
+IndifferBattleBoss_2	2112	幻獸首領·撼天熊皇	0	1			37	9023			753	3353	1	91	1	195	1					Setting/Npc/Ai/fieldboss/80leader_xionghuang.ini			1	25	2																	1	
+IndifferSkillNpc_1	2113	陷阱機關	6	1			469				754																															1			
+IndifferRunStone	2117	滾石烈焰	6	1			375				754									1000	1500	Setting/Npc/Ai/AlwaysRunning.ini				28	3			3180	4														

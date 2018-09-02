@@ -1,0 +1,1180 @@
+GroupId	SaveId	Desc	Level	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3
+1		強化啟動屬性	1	fightpower_v1	100			physical_damage_v	40		40	all_series_resist_v	10										
+1		強化啟動屬性	2	fightpower_v1	220			physical_damage_v	60		60	all_series_resist_v	15										
+1		強化啟動屬性	3	fightpower_v1	370			physical_damage_v	90		90	all_series_resist_v	22										
+1		強化啟動屬性	4	fightpower_v1	580			physical_damage_v	150		150	all_series_resist_v	37										
+1		強化啟動屬性	5	fightpower_v1	1000			physical_damage_v	250		250	all_series_resist_v	62										
+1		強化啟動屬性	6	fightpower_v1	1500			physical_damage_v	400		400	all_series_resist_v	100										
+1		強化啟動屬性	7	fightpower_v1	2100			physical_damage_v	500		500	all_series_resist_v	125										
+1		強化啟動屬性	8	fightpower_v1	2900			physical_damage_v	800		800	all_series_resist_v	200										
+1		強化啟動屬性	9	fightpower_v1	4800			physical_damage_v	900		900	all_series_resist_v	225										
+1		強化啟動屬性	10	fightpower_v1	6900			physical_damage_v	1200		1200	all_series_resist_v	300										
+1		強化啟動屬性	11	fightpower_v1	10100			physical_damage_v	1300		1300	all_series_resist_v	325										
+1		強化啟動屬性	12	fightpower_v1	15600			physical_damage_v	1500		1500	all_series_resist_v	375										
+1		強化啟動屬性	13	fightpower_v1	23000			physical_damage_v	1600		1600	all_series_resist_v	400										
+1		強化啟動屬性	14	fightpower_v1	31700			physical_damage_v	1800		1800	all_series_resist_v	450										
+1		強化啟動屬性	15	fightpower_v1	34800			physical_damage_v	1900		1900	all_series_resist_v	475										
+1		強化啟動屬性	16	fightpower_v1	40300			physical_damage_v	2000		2000	all_series_resist_v	500										
+1		強化啟動屬性	17	fightpower_v1	44300			physical_damage_v	2200		2200	all_series_resist_v	550										
+1		強化啟動屬性	18	fightpower_v1	66300			physical_damage_v	2500		2500	all_series_resist_v	625										
+1		強化啟動屬性	19	fightpower_v1	74200			physical_damage_v	2600		2600	all_series_resist_v	650										
+1		強化啟動屬性	20	fightpower_v1	83800			physical_damage_v	2700		2700	all_series_resist_v	675										
+1		強化啟動屬性	21	fightpower_v1	97900			physical_damage_v	2800		2800	all_series_resist_v	700										
+1		強化啟動屬性	22	fightpower_v1	136500			physical_damage_v	3200		3200	all_series_resist_v	800										
+1		強化啟動屬性	23	fightpower_v1	151600			physical_damage_v	3300		3300	all_series_resist_v	825										
+1		強化啟動屬性	24	fightpower_v1	174100			physical_damage_v	3400		3400	all_series_resist_v	850										
+1		強化啟動屬性	25	fightpower_v1	197200			physical_damage_v	3500		3500	all_series_resist_v	875										
+1		強化啟動屬性	26	fightpower_v1	286900			physical_damage_v	4000		4000	all_series_resist_v	1000										
+1		強化啟動屬性	27	fightpower_v1	312500			physical_damage_v	4200		4200	all_series_resist_v	1050										
+1		強化啟動屬性	28	fightpower_v1	344500			physical_damage_v	4400		4400	all_series_resist_v	1100										
+1		強化啟動屬性	29	fightpower_v1	389300			physical_damage_v	4700		4700	all_series_resist_v	1175										
+1		強化啟動屬性	30	fightpower_v1	517300			physical_damage_v	5000		5000	all_series_resist_v	1250										
+2		鑲嵌啟動屬性	1	fightpower_v1	100			physical_damage_v	30		30	lifemax_v	900										
+2		鑲嵌啟動屬性	2	fightpower_v1	200			physical_damage_v	50		50	lifemax_v	1500										
+2		鑲嵌啟動屬性	3	fightpower_v1	600			physical_damage_v	100		100	lifemax_v	3000										
+2		鑲嵌啟動屬性	4	fightpower_v1	900			physical_damage_v	140		140	lifemax_v	4200										
+2		鑲嵌啟動屬性	5	fightpower_v1	1800			physical_damage_v	250		250	lifemax_v	5000										
+2		鑲嵌啟動屬性	6	fightpower_v1	2700			physical_damage_v	500		500	lifemax_v	7500										
+2		鑲嵌啟動屬性	7	fightpower_v1	5400			physical_damage_v	800		800	lifemax_v	12000										
+2		鑲嵌啟動屬性	8	fightpower_v1	8100			physical_damage_v	900		900	lifemax_v	13000										
+2		鑲嵌啟動屬性	9	fightpower_v1	10800			physical_damage_v	1000		1000	lifemax_v	15000										
+2		鑲嵌啟動屬性	10	fightpower_v1	12000			physical_damage_v	1200		1200	lifemax_v	16000										
+2		鑲嵌啟動屬性	11	fightpower_v1	16000			physical_damage_v	1400		1400	lifemax_v	17000										
+2		鑲嵌啟動屬性	12	fightpower_v1	24000			physical_damage_v	1600		1600	lifemax_v	19000										
+2		鑲嵌啟動屬性	13	fightpower_v1	32000			physical_damage_v	1800		1800	lifemax_v	21000										
+2		鑲嵌啟動屬性	14	fightpower_v1	36000			physical_damage_v	2000		2000	lifemax_v	22000										
+2		鑲嵌啟動屬性	15	fightpower_v1	48000			physical_damage_v	2400		2400	lifemax_v	23000										
+2		鑲嵌啟動屬性	16	fightpower_v1	72000			physical_damage_v	2600		2600	lifemax_v	25000										
+2		鑲嵌啟動屬性	17	fightpower_v1	96000			physical_damage_v	2800		2800	lifemax_v	30000										
+2		鑲嵌啟動屬性	18	fightpower_v1	120000			physical_damage_v	3000		3000	lifemax_v	35000										
+2		鑲嵌啟動屬性	19	fightpower_v1	130000			physical_damage_v	3200		3200	lifemax_v	36000										
+2		鑲嵌啟動屬性	20	fightpower_v1	144000			physical_damage_v	3600		3600	lifemax_v	38000										
+2		鑲嵌啟動屬性	21	fightpower_v1	216000			physical_damage_v	4000		4000	lifemax_v	40000										
+2		鑲嵌啟動屬性	22	fightpower_v1	288000			physical_damage_v	4200		4200	lifemax_v	45000										
+2		鑲嵌啟動屬性	23	fightpower_v1	360000			physical_damage_v	4500		4500	lifemax_v	50000										
+3		頭銜啟動屬性	1	lifemax_p	20			lifemax_v	400			all_series_resist_v	10			defense_v	40			physical_damage_v	40		40
+3		頭銜啟動屬性	2	lifemax_p	30			lifemax_v	800			all_series_resist_v	20			defense_v	80			physical_damage_v	80		80
+3		頭銜啟動屬性	3	lifemax_p	40			lifemax_v	1200			all_series_resist_v	40			defense_v	120			physical_damage_v	120		120
+3		頭銜啟動屬性	4	lifemax_p	50			lifemax_v	2000			all_series_resist_v	60			defense_v	200			physical_damage_v	200		200
+3		頭銜啟動屬性	5	lifemax_p	60			lifemax_v	2800			all_series_resist_v	80			defense_v	280			physical_damage_v	280		280
+3		頭銜啟動屬性	6	lifemax_p	70			lifemax_v	3600			all_series_resist_v	100			defense_v	360			physical_damage_v	360		360
+3		頭銜啟動屬性	7	lifemax_p	80			lifemax_v	4000			all_series_resist_v	120			defense_v	400			physical_damage_v	400		400
+3		頭銜啟動屬性	8	lifemax_p	90			lifemax_v	4800			all_series_resist_v	150			defense_v	480			physical_damage_v	480		480
+3		頭銜啟動屬性	9	lifemax_p	100			lifemax_v	5600			all_series_resist_v	200			defense_v	560			physical_damage_v	560		560
+3		頭銜啟動屬性	10	lifemax_p	110			lifemax_v	7200			all_series_resist_v	250			defense_v	720			physical_damage_v	720		720
+3		頭銜啟動屬性	11	lifemax_p	120			lifemax_v	8800			all_series_resist_v	300			defense_v	880			physical_damage_v	880		880
+3		頭銜啟動屬性	12	lifemax_p	130			lifemax_v	10400			all_series_resist_v	400			defense_v	1040			physical_damage_v	1040		1040
+3		頭銜啟動屬性	13	lifemax_p	150			lifemax_v	12000			all_series_resist_v	500			defense_v	1200			physical_damage_v	1200		1200
+4		附魔·攻擊1級	1	physical_damage_v	100		100	physics_potentialdamage_p	10														
+4		附魔·攻擊2級	2	physical_damage_v	200		200	physics_potentialdamage_p	20														
+4		附魔·攻擊3級	3	physical_damage_v	350		350	physics_potentialdamage_p	30														
+10		黃金套裝啟動屬性	1	lifemax_p	50																		
+10		黃金套裝啟動屬性	2	lifemax_p	50			physics_potentialdamage_p	40														
+10		黃金套裝啟動屬性	3	lifemax_p	50			physics_potentialdamage_p	40			add_allfaction	1										
+101	1	同伴啟動屬性	1	physical_damage_v	40		40	lifemax_v	800														
+102	2	同伴啟動屬性	1	vitality_v	40			energy_v	20														
+103	3	同伴啟動屬性	1	lifemax_p	10																		
+104	4	同伴啟動屬性	1	vitality_v	40																		
+105	5	同伴啟動屬性	1	strength_v	40																		
+106	6	同伴啟動屬性	1	lifemax_p	10																		
+107	7	同伴啟動屬性	1	energy_v	40																		
+108	8	同伴啟動屬性	1	strength_v	40			dexterity_v	20														
+109	9	同伴啟動屬性	1	dexterity_v	40																		
+110	10	同伴啟動屬性	1	add_seriesstate_time_v	30			add_seriesstate_rate_v	30														
+111	11	同伴啟動屬性	1	recover_life_v	300	75																	
+112	12	同伴啟動屬性	1	resist_allseriesstate_time_v	20																		
+113	13	同伴啟動屬性	1	defense_v	15																		
+114	14	同伴啟動屬性	1	attackrate_v	30																		
+115	15	同伴啟動屬性	1	deadlystrike_v	15																		
+116	16	同伴啟動屬性	1	deadlystrike_damage_p	20																		
+117	17	同伴啟動屬性	1	meleedamagereturn_p	10			rangedamagereturn_p	10														
+118	18	同伴啟動屬性	1	physical_damage_v	100		100	all_series_resist_v	25														
+119	19	同伴啟動屬性	1	ignore_all_resist_v	100	50		ignore_defense_v	100														
+120	20	同伴啟動屬性	1	physical_earthdamage_v	30																		
+121	21	同伴啟動屬性	1	physical_waterdamage_v	30			physical_firedamage_v	30														
+122	22	同伴啟動屬性	1	physical_wooddamage_v	30																		
+123	23	同伴啟動屬性	1	lifemax_p	10																		
+124	24	同伴啟動屬性	1	lifemax_p	10																		
+125	25	同伴啟動屬性	1	lifemax_p	10																		
+126	26	同伴啟動屬性	1	lifemax_p	10																		
+127	27	同伴啟動屬性	1	lifemax_p	10																		
+201		吃書-力量	1	strength_v	1																		
+201		吃書-力量	2	strength_v	2																		
+201		吃書-力量	3	strength_v	3																		
+201		吃書-力量	4	strength_v	4																		
+201		吃書-力量	5	strength_v	5																		
+201		吃書-力量	6	strength_v	6																		
+201		吃書-力量	7	strength_v	7																		
+201		吃書-力量	8	strength_v	8																		
+201		吃書-力量	9	strength_v	9																		
+201		吃書-力量	10	strength_v	10																		
+201		吃書-力量	11	strength_v	11																		
+201		吃書-力量	12	strength_v	12																		
+201		吃書-力量	13	strength_v	13																		
+201		吃書-力量	14	strength_v	14																		
+201		吃書-力量	15	strength_v	15																		
+201		吃書-力量	16	strength_v	16																		
+201		吃書-力量	17	strength_v	17																		
+201		吃書-力量	18	strength_v	18																		
+201		吃書-力量	19	strength_v	19																		
+201		吃書-力量	20	strength_v	20																		
+201		吃書-力量	21	strength_v	21																		
+201		吃書-力量	22	strength_v	22																		
+201		吃書-力量	23	strength_v	23																		
+201		吃書-力量	24	strength_v	24																		
+201		吃書-力量	25	strength_v	25																		
+201		吃書-力量	26	strength_v	26																		
+201		吃書-力量	27	strength_v	27																		
+201		吃書-力量	28	strength_v	28																		
+201		吃書-力量	29	strength_v	29																		
+201		吃書-力量	30	strength_v	30																		
+201		吃書-力量	31	strength_v	31																		
+201		吃書-力量	32	strength_v	32																		
+201		吃書-力量	33	strength_v	33																		
+201		吃書-力量	34	strength_v	34																		
+201		吃書-力量	35	strength_v	35																		
+201		吃書-力量	36	strength_v	36																		
+201		吃書-力量	37	strength_v	37																		
+201		吃書-力量	38	strength_v	38																		
+201		吃書-力量	39	strength_v	39																		
+201		吃書-力量	40	strength_v	40																		
+202		吃書-敏捷	1	dexterity_v	1																		
+202		吃書-敏捷	2	dexterity_v	2																		
+202		吃書-敏捷	3	dexterity_v	3																		
+202		吃書-敏捷	4	dexterity_v	4																		
+202		吃書-敏捷	5	dexterity_v	5																		
+202		吃書-敏捷	6	dexterity_v	6																		
+202		吃書-敏捷	7	dexterity_v	7																		
+202		吃書-敏捷	8	dexterity_v	8																		
+202		吃書-敏捷	9	dexterity_v	9																		
+202		吃書-敏捷	10	dexterity_v	10																		
+202		吃書-敏捷	11	dexterity_v	11																		
+202		吃書-敏捷	12	dexterity_v	12																		
+202		吃書-敏捷	13	dexterity_v	13																		
+202		吃書-敏捷	14	dexterity_v	14																		
+202		吃書-敏捷	15	dexterity_v	15																		
+202		吃書-敏捷	16	dexterity_v	16																		
+202		吃書-敏捷	17	dexterity_v	17																		
+202		吃書-敏捷	18	dexterity_v	18																		
+202		吃書-敏捷	19	dexterity_v	19																		
+202		吃書-敏捷	20	dexterity_v	20																		
+202		吃書-敏捷	21	dexterity_v	21																		
+202		吃書-敏捷	22	dexterity_v	22																		
+202		吃書-敏捷	23	dexterity_v	23																		
+202		吃書-敏捷	24	dexterity_v	24																		
+202		吃書-敏捷	25	dexterity_v	25																		
+202		吃書-敏捷	26	dexterity_v	26																		
+202		吃書-敏捷	27	dexterity_v	27																		
+202		吃書-敏捷	28	dexterity_v	28																		
+202		吃書-敏捷	29	dexterity_v	29																		
+202		吃書-敏捷	30	dexterity_v	30																		
+202		吃書-敏捷	31	dexterity_v	31																		
+202		吃書-敏捷	32	dexterity_v	32																		
+202		吃書-敏捷	33	dexterity_v	33																		
+202		吃書-敏捷	34	dexterity_v	34																		
+202		吃書-敏捷	35	dexterity_v	35																		
+202		吃書-敏捷	36	dexterity_v	36																		
+202		吃書-敏捷	37	dexterity_v	37																		
+202		吃書-敏捷	38	dexterity_v	38																		
+202		吃書-敏捷	39	dexterity_v	39																		
+202		吃書-敏捷	40	dexterity_v	40																		
+203		吃書-體質	1	vitality_v	1																		
+203		吃書-體質	2	vitality_v	2																		
+203		吃書-體質	3	vitality_v	3																		
+203		吃書-體質	4	vitality_v	4																		
+203		吃書-體質	5	vitality_v	5																		
+203		吃書-體質	6	vitality_v	6																		
+203		吃書-體質	7	vitality_v	7																		
+203		吃書-體質	8	vitality_v	8																		
+203		吃書-體質	9	vitality_v	9																		
+203		吃書-體質	10	vitality_v	10																		
+203		吃書-體質	11	vitality_v	11																		
+203		吃書-體質	12	vitality_v	12																		
+203		吃書-體質	13	vitality_v	13																		
+203		吃書-體質	14	vitality_v	14																		
+203		吃書-體質	15	vitality_v	15																		
+203		吃書-體質	16	vitality_v	16																		
+203		吃書-體質	17	vitality_v	17																		
+203		吃書-體質	18	vitality_v	18																		
+203		吃書-體質	19	vitality_v	19																		
+203		吃書-體質	20	vitality_v	20																		
+203		吃書-體質	21	vitality_v	21																		
+203		吃書-體質	22	vitality_v	22																		
+203		吃書-體質	23	vitality_v	23																		
+203		吃書-體質	24	vitality_v	24																		
+203		吃書-體質	25	vitality_v	25																		
+203		吃書-體質	26	vitality_v	26																		
+203		吃書-體質	27	vitality_v	27																		
+203		吃書-體質	28	vitality_v	28																		
+203		吃書-體質	29	vitality_v	29																		
+203		吃書-體質	30	vitality_v	30																		
+203		吃書-體質	31	vitality_v	31																		
+203		吃書-體質	32	vitality_v	32																		
+203		吃書-體質	33	vitality_v	33																		
+203		吃書-體質	34	vitality_v	34																		
+203		吃書-體質	35	vitality_v	35																		
+203		吃書-體質	36	vitality_v	36																		
+203		吃書-體質	37	vitality_v	37																		
+203		吃書-體質	38	vitality_v	38																		
+203		吃書-體質	39	vitality_v	39																		
+203		吃書-體質	40	vitality_v	40																		
+204		吃書-技巧	1	energy_v	1																		
+204		吃書-技巧	2	energy_v	2																		
+204		吃書-技巧	3	energy_v	3																		
+204		吃書-技巧	4	energy_v	4																		
+204		吃書-技巧	5	energy_v	5																		
+204		吃書-技巧	6	energy_v	6																		
+204		吃書-技巧	7	energy_v	7																		
+204		吃書-技巧	8	energy_v	8																		
+204		吃書-技巧	9	energy_v	9																		
+204		吃書-技巧	10	energy_v	10																		
+204		吃書-技巧	11	energy_v	11																		
+204		吃書-技巧	12	energy_v	12																		
+204		吃書-技巧	13	energy_v	13																		
+204		吃書-技巧	14	energy_v	14																		
+204		吃書-技巧	15	energy_v	15																		
+204		吃書-技巧	16	energy_v	16																		
+204		吃書-技巧	17	energy_v	17																		
+204		吃書-技巧	18	energy_v	18																		
+204		吃書-技巧	19	energy_v	19																		
+204		吃書-技巧	20	energy_v	20																		
+204		吃書-技巧	21	energy_v	21																		
+204		吃書-技巧	22	energy_v	22																		
+204		吃書-技巧	23	energy_v	23																		
+204		吃書-技巧	24	energy_v	24																		
+204		吃書-技巧	25	energy_v	25																		
+204		吃書-技巧	26	energy_v	26																		
+204		吃書-技巧	27	energy_v	27																		
+204		吃書-技巧	28	energy_v	28																		
+204		吃書-技巧	29	energy_v	29																		
+204		吃書-技巧	30	energy_v	30																		
+204		吃書-技巧	31	energy_v	31																		
+204		吃書-技巧	32	energy_v	32																		
+204		吃書-技巧	33	energy_v	33																		
+204		吃書-技巧	34	energy_v	34																		
+204		吃書-技巧	35	energy_v	35																		
+204		吃書-技巧	36	energy_v	36																		
+204		吃書-技巧	37	energy_v	37																		
+204		吃書-技巧	38	energy_v	38																		
+204		吃書-技巧	39	energy_v	39																		
+204		吃書-技巧	40	energy_v	40																		
+1001		任脈穴位主角屬性1	1	lifemax_v	100																		
+1001		任脈穴位主角屬性1	2	lifemax_v	358																		
+1001		任脈穴位主角屬性1	3	lifemax_v	616																		
+1001		任脈穴位主角屬性1	4	lifemax_v	874																		
+1001		任脈穴位主角屬性1	5	lifemax_v	1132																		
+1001		任脈穴位主角屬性1	6	lifemax_v	1390																		
+1001		任脈穴位主角屬性1	7	lifemax_v	1648																		
+1001		任脈穴位主角屬性1	8	lifemax_v	1906																		
+1001		任脈穴位主角屬性1	9	lifemax_v	2164																		
+1001		任脈穴位主角屬性1	10	lifemax_v	2422																		
+1001		任脈穴位主角屬性1	11	lifemax_v	2680																		
+1001		任脈穴位主角屬性1	12	lifemax_v	2938																		
+1001		任脈穴位主角屬性1	13	lifemax_v	3196																		
+1001		任脈穴位主角屬性1	14	lifemax_v	3454																		
+1001		任脈穴位主角屬性1	15	lifemax_v	3712																		
+1001		任脈穴位主角屬性1	16	lifemax_v	3970																		
+1001		任脈穴位主角屬性1	17	lifemax_v	4228																		
+1001		任脈穴位主角屬性1	18	lifemax_v	4486																		
+1001		任脈穴位主角屬性1	19	lifemax_v	4744																		
+1001		任脈穴位主角屬性1	20	lifemax_v	5000																		
+1002		任脈穴位主角屬性2	1	metal_resist_v	10																		
+1002		任脈穴位主角屬性2	2	metal_resist_v	19																		
+1002		任脈穴位主角屬性2	3	metal_resist_v	28																		
+1002		任脈穴位主角屬性2	4	metal_resist_v	37																		
+1002		任脈穴位主角屬性2	5	metal_resist_v	46																		
+1002		任脈穴位主角屬性2	6	metal_resist_v	55																		
+1002		任脈穴位主角屬性2	7	metal_resist_v	64																		
+1002		任脈穴位主角屬性2	8	metal_resist_v	73																		
+1002		任脈穴位主角屬性2	9	metal_resist_v	82																		
+1002		任脈穴位主角屬性2	10	metal_resist_v	91																		
+1002		任脈穴位主角屬性2	11	metal_resist_v	100																		
+1002		任脈穴位主角屬性2	12	metal_resist_v	109																		
+1002		任脈穴位主角屬性2	13	metal_resist_v	118																		
+1002		任脈穴位主角屬性2	14	metal_resist_v	127																		
+1002		任脈穴位主角屬性2	15	metal_resist_v	136																		
+1002		任脈穴位主角屬性2	16	metal_resist_v	145																		
+1002		任脈穴位主角屬性2	17	metal_resist_v	154																		
+1002		任脈穴位主角屬性2	18	metal_resist_v	163																		
+1002		任脈穴位主角屬性2	19	metal_resist_v	172																		
+1002		任脈穴位主角屬性2	20	metal_resist_v	180																		
+1003		任脈穴位主角屬性3	1	wood_resist_v	10																		
+1003		任脈穴位主角屬性3	2	wood_resist_v	19																		
+1003		任脈穴位主角屬性3	3	wood_resist_v	28																		
+1003		任脈穴位主角屬性3	4	wood_resist_v	37																		
+1003		任脈穴位主角屬性3	5	wood_resist_v	46																		
+1003		任脈穴位主角屬性3	6	wood_resist_v	55																		
+1003		任脈穴位主角屬性3	7	wood_resist_v	64																		
+1003		任脈穴位主角屬性3	8	wood_resist_v	73																		
+1003		任脈穴位主角屬性3	9	wood_resist_v	82																		
+1003		任脈穴位主角屬性3	10	wood_resist_v	91																		
+1003		任脈穴位主角屬性3	11	wood_resist_v	100																		
+1003		任脈穴位主角屬性3	12	wood_resist_v	109																		
+1003		任脈穴位主角屬性3	13	wood_resist_v	118																		
+1003		任脈穴位主角屬性3	14	wood_resist_v	127																		
+1003		任脈穴位主角屬性3	15	wood_resist_v	136																		
+1003		任脈穴位主角屬性3	16	wood_resist_v	145																		
+1003		任脈穴位主角屬性3	17	wood_resist_v	154																		
+1003		任脈穴位主角屬性3	18	wood_resist_v	163																		
+1003		任脈穴位主角屬性3	19	wood_resist_v	172																		
+1003		任脈穴位主角屬性3	20	wood_resist_v	180																		
+1004		任脈穴位主角屬性4	1	water_resist_v	10																		
+1004		任脈穴位主角屬性4	2	water_resist_v	19																		
+1004		任脈穴位主角屬性4	3	water_resist_v	28																		
+1004		任脈穴位主角屬性4	4	water_resist_v	37																		
+1004		任脈穴位主角屬性4	5	water_resist_v	46																		
+1004		任脈穴位主角屬性4	6	water_resist_v	55																		
+1004		任脈穴位主角屬性4	7	water_resist_v	64																		
+1004		任脈穴位主角屬性4	8	water_resist_v	73																		
+1004		任脈穴位主角屬性4	9	water_resist_v	82																		
+1004		任脈穴位主角屬性4	10	water_resist_v	91																		
+1004		任脈穴位主角屬性4	11	water_resist_v	100																		
+1004		任脈穴位主角屬性4	12	water_resist_v	109																		
+1004		任脈穴位主角屬性4	13	water_resist_v	118																		
+1004		任脈穴位主角屬性4	14	water_resist_v	127																		
+1004		任脈穴位主角屬性4	15	water_resist_v	136																		
+1004		任脈穴位主角屬性4	16	water_resist_v	145																		
+1004		任脈穴位主角屬性4	17	water_resist_v	154																		
+1004		任脈穴位主角屬性4	18	water_resist_v	163																		
+1004		任脈穴位主角屬性4	19	water_resist_v	172																		
+1004		任脈穴位主角屬性4	20	water_resist_v	180																		
+1005		任脈穴位主角屬性5	1	fire_resist_v	10																		
+1005		任脈穴位主角屬性5	2	fire_resist_v	19																		
+1005		任脈穴位主角屬性5	3	fire_resist_v	28																		
+1005		任脈穴位主角屬性5	4	fire_resist_v	37																		
+1005		任脈穴位主角屬性5	5	fire_resist_v	46																		
+1005		任脈穴位主角屬性5	6	fire_resist_v	55																		
+1005		任脈穴位主角屬性5	7	fire_resist_v	64																		
+1005		任脈穴位主角屬性5	8	fire_resist_v	73																		
+1005		任脈穴位主角屬性5	9	fire_resist_v	82																		
+1005		任脈穴位主角屬性5	10	fire_resist_v	91																		
+1005		任脈穴位主角屬性5	11	fire_resist_v	100																		
+1005		任脈穴位主角屬性5	12	fire_resist_v	109																		
+1005		任脈穴位主角屬性5	13	fire_resist_v	118																		
+1005		任脈穴位主角屬性5	14	fire_resist_v	127																		
+1005		任脈穴位主角屬性5	15	fire_resist_v	136																		
+1005		任脈穴位主角屬性5	16	fire_resist_v	145																		
+1005		任脈穴位主角屬性5	17	fire_resist_v	154																		
+1005		任脈穴位主角屬性5	18	fire_resist_v	163																		
+1005		任脈穴位主角屬性5	19	fire_resist_v	172																		
+1005		任脈穴位主角屬性5	20	fire_resist_v	180																		
+1006		任脈穴位主角屬性6	1	earth_resist_v	10																		
+1006		任脈穴位主角屬性6	2	earth_resist_v	19																		
+1006		任脈穴位主角屬性6	3	earth_resist_v	28																		
+1006		任脈穴位主角屬性6	4	earth_resist_v	37																		
+1006		任脈穴位主角屬性6	5	earth_resist_v	46																		
+1006		任脈穴位主角屬性6	6	earth_resist_v	55																		
+1006		任脈穴位主角屬性6	7	earth_resist_v	64																		
+1006		任脈穴位主角屬性6	8	earth_resist_v	73																		
+1006		任脈穴位主角屬性6	9	earth_resist_v	82																		
+1006		任脈穴位主角屬性6	10	earth_resist_v	91																		
+1006		任脈穴位主角屬性6	11	earth_resist_v	100																		
+1006		任脈穴位主角屬性6	12	earth_resist_v	109																		
+1006		任脈穴位主角屬性6	13	earth_resist_v	118																		
+1006		任脈穴位主角屬性6	14	earth_resist_v	127																		
+1006		任脈穴位主角屬性6	15	earth_resist_v	136																		
+1006		任脈穴位主角屬性6	16	earth_resist_v	145																		
+1006		任脈穴位主角屬性6	17	earth_resist_v	154																		
+1006		任脈穴位主角屬性6	18	earth_resist_v	163																		
+1006		任脈穴位主角屬性6	19	earth_resist_v	172																		
+1006		任脈穴位主角屬性6	20	earth_resist_v	180																		
+1007		任脈穴位主角屬性7	1	basic_damage_v	20		20																
+1007		任脈穴位主角屬性7	2	basic_damage_v	30		30																
+1007		任脈穴位主角屬性7	3	basic_damage_v	40		40																
+1007		任脈穴位主角屬性7	4	basic_damage_v	50		50																
+1007		任脈穴位主角屬性7	5	basic_damage_v	60		60																
+1007		任脈穴位主角屬性7	6	basic_damage_v	70		70																
+1007		任脈穴位主角屬性7	7	basic_damage_v	80		80																
+1007		任脈穴位主角屬性7	8	basic_damage_v	90		90																
+1007		任脈穴位主角屬性7	9	basic_damage_v	100		100																
+1007		任脈穴位主角屬性7	10	basic_damage_v	110		110																
+1007		任脈穴位主角屬性7	11	basic_damage_v	120		120																
+1007		任脈穴位主角屬性7	12	basic_damage_v	130		130																
+1007		任脈穴位主角屬性7	13	basic_damage_v	140		140																
+1007		任脈穴位主角屬性7	14	basic_damage_v	150		150																
+1007		任脈穴位主角屬性7	15	basic_damage_v	160		160																
+1007		任脈穴位主角屬性7	16	basic_damage_v	170		170																
+1007		任脈穴位主角屬性7	17	basic_damage_v	179		179																
+1007		任脈穴位主角屬性7	18	basic_damage_v	187		187																
+1007		任脈穴位主角屬性7	19	basic_damage_v	194		194																
+1007		任脈穴位主角屬性7	20	basic_damage_v	200		200																
+1008		任脈穴位主角屬性8	1	ignore_defense_v	30																		
+1008		任脈穴位主角屬性8	2	ignore_defense_v	45																		
+1008		任脈穴位主角屬性8	3	ignore_defense_v	60																		
+1008		任脈穴位主角屬性8	4	ignore_defense_v	75																		
+1008		任脈穴位主角屬性8	5	ignore_defense_v	90																		
+1008		任脈穴位主角屬性8	6	ignore_defense_v	105																		
+1008		任脈穴位主角屬性8	7	ignore_defense_v	120																		
+1008		任脈穴位主角屬性8	8	ignore_defense_v	135																		
+1008		任脈穴位主角屬性8	9	ignore_defense_v	150																		
+1008		任脈穴位主角屬性8	10	ignore_defense_v	165																		
+1008		任脈穴位主角屬性8	11	ignore_defense_v	180																		
+1008		任脈穴位主角屬性8	12	ignore_defense_v	195																		
+1008		任脈穴位主角屬性8	13	ignore_defense_v	210																		
+1008		任脈穴位主角屬性8	14	ignore_defense_v	225																		
+1008		任脈穴位主角屬性8	15	ignore_defense_v	240																		
+1008		任脈穴位主角屬性8	16	ignore_defense_v	252																		
+1008		任脈穴位主角屬性8	17	ignore_defense_v	264																		
+1008		任脈穴位主角屬性8	18	ignore_defense_v	276																		
+1008		任脈穴位主角屬性8	19	ignore_defense_v	288																		
+1008		任脈穴位主角屬性8	20	ignore_defense_v	300																		
+1009		任脈穴位主角屬性9	1	damage4npc_p	1																		
+1009		任脈穴位主角屬性9	2	damage4npc_p	2																		
+1009		任脈穴位主角屬性9	3	damage4npc_p	3																		
+1009		任脈穴位主角屬性9	4	damage4npc_p	4																		
+1009		任脈穴位主角屬性9	5	damage4npc_p	5																		
+1009		任脈穴位主角屬性9	6	damage4npc_p	6																		
+1009		任脈穴位主角屬性9	7	damage4npc_p	7																		
+1009		任脈穴位主角屬性9	8	damage4npc_p	8																		
+1009		任脈穴位主角屬性9	9	damage4npc_p	9																		
+1009		任脈穴位主角屬性9	10	damage4npc_p	10																		
+1009		任脈穴位主角屬性9	11	damage4npc_p	11																		
+1009		任脈穴位主角屬性9	12	damage4npc_p	12																		
+1009		任脈穴位主角屬性9	13	damage4npc_p	13																		
+1009		任脈穴位主角屬性9	14	damage4npc_p	14																		
+1009		任脈穴位主角屬性9	15	damage4npc_p	15																		
+1009		任脈穴位主角屬性9	16	damage4npc_p	16																		
+1009		任脈穴位主角屬性9	17	damage4npc_p	17																		
+1009		任脈穴位主角屬性9	18	damage4npc_p	18																		
+1009		任脈穴位主角屬性9	19	damage4npc_p	19																		
+1009		任脈穴位主角屬性9	20	damage4npc_p	20																		
+1010		任脈穴位主角屬性10	1	lifemax_v	150																		
+1010		任脈穴位主角屬性10	2	lifemax_v	458																		
+1010		任脈穴位主角屬性10	3	lifemax_v	766																		
+1010		任脈穴位主角屬性10	4	lifemax_v	1074																		
+1010		任脈穴位主角屬性10	5	lifemax_v	1382																		
+1010		任脈穴位主角屬性10	6	lifemax_v	1690																		
+1010		任脈穴位主角屬性10	7	lifemax_v	1998																		
+1010		任脈穴位主角屬性10	8	lifemax_v	2306																		
+1010		任脈穴位主角屬性10	9	lifemax_v	2614																		
+1010		任脈穴位主角屬性10	10	lifemax_v	2922																		
+1010		任脈穴位主角屬性10	11	lifemax_v	3230																		
+1010		任脈穴位主角屬性10	12	lifemax_v	3538																		
+1010		任脈穴位主角屬性10	13	lifemax_v	3846																		
+1010		任脈穴位主角屬性10	14	lifemax_v	4154																		
+1010		任脈穴位主角屬性10	15	lifemax_v	4462																		
+1010		任脈穴位主角屬性10	16	lifemax_v	4770																		
+1010		任脈穴位主角屬性10	17	lifemax_v	5078																		
+1010		任脈穴位主角屬性10	18	lifemax_v	5386																		
+1010		任脈穴位主角屬性10	19	lifemax_v	5694																		
+1010		任脈穴位主角屬性10	20	lifemax_v	6000																		
+1011		任脈穴位主角屬性11	1	basic_damage_v	25		25																
+1011		任脈穴位主角屬性11	2	basic_damage_v	38		38																
+1011		任脈穴位主角屬性11	3	basic_damage_v	51		51																
+1011		任脈穴位主角屬性11	4	basic_damage_v	64		64																
+1011		任脈穴位主角屬性11	5	basic_damage_v	77		77																
+1011		任脈穴位主角屬性11	6	basic_damage_v	90		90																
+1011		任脈穴位主角屬性11	7	basic_damage_v	103		103																
+1011		任脈穴位主角屬性11	8	basic_damage_v	116		116																
+1011		任脈穴位主角屬性11	9	basic_damage_v	129		129																
+1011		任脈穴位主角屬性11	10	basic_damage_v	142		142																
+1011		任脈穴位主角屬性11	11	basic_damage_v	155		155																
+1011		任脈穴位主角屬性11	12	basic_damage_v	168		168																
+1011		任脈穴位主角屬性11	13	basic_damage_v	181		181																
+1011		任脈穴位主角屬性11	14	basic_damage_v	194		194																
+1011		任脈穴位主角屬性11	15	basic_damage_v	206		206																
+1011		任脈穴位主角屬性11	16	basic_damage_v	217		217																
+1011		任脈穴位主角屬性11	17	basic_damage_v	228		228																
+1011		任脈穴位主角屬性11	18	basic_damage_v	239		239																
+1011		任脈穴位主角屬性11	19	basic_damage_v	250		250																
+1011		任脈穴位主角屬性11	20	basic_damage_v	260		260																
+1012		任脈穴位同伴屬性1	1	lifemax_v	150																		
+1012		任脈穴位同伴屬性1	2	lifemax_v	537																		
+1012		任脈穴位同伴屬性1	3	lifemax_v	924																		
+1012		任脈穴位同伴屬性1	4	lifemax_v	1311																		
+1012		任脈穴位同伴屬性1	5	lifemax_v	1698																		
+1012		任脈穴位同伴屬性1	6	lifemax_v	2085																		
+1012		任脈穴位同伴屬性1	7	lifemax_v	2472																		
+1012		任脈穴位同伴屬性1	8	lifemax_v	2859																		
+1012		任脈穴位同伴屬性1	9	lifemax_v	3246																		
+1012		任脈穴位同伴屬性1	10	lifemax_v	3633																		
+1012		任脈穴位同伴屬性1	11	lifemax_v	4020																		
+1012		任脈穴位同伴屬性1	12	lifemax_v	4407																		
+1012		任脈穴位同伴屬性1	13	lifemax_v	4794																		
+1012		任脈穴位同伴屬性1	14	lifemax_v	5181																		
+1012		任脈穴位同伴屬性1	15	lifemax_v	5568																		
+1012		任脈穴位同伴屬性1	16	lifemax_v	5955																		
+1012		任脈穴位同伴屬性1	17	lifemax_v	6342																		
+1012		任脈穴位同伴屬性1	18	lifemax_v	6729																		
+1012		任脈穴位同伴屬性1	19	lifemax_v	7116																		
+1012		任脈穴位同伴屬性1	20	lifemax_v	7500																		
+1013		任脈穴位同伴屬性2	1	metal_resist_v	15																		
+1013		任脈穴位同伴屬性2	2	metal_resist_v	29																		
+1013		任脈穴位同伴屬性2	3	metal_resist_v	43																		
+1013		任脈穴位同伴屬性2	4	metal_resist_v	57																		
+1013		任脈穴位同伴屬性2	5	metal_resist_v	71																		
+1013		任脈穴位同伴屬性2	6	metal_resist_v	85																		
+1013		任脈穴位同伴屬性2	7	metal_resist_v	99																		
+1013		任脈穴位同伴屬性2	8	metal_resist_v	113																		
+1013		任脈穴位同伴屬性2	9	metal_resist_v	127																		
+1013		任脈穴位同伴屬性2	10	metal_resist_v	141																		
+1013		任脈穴位同伴屬性2	11	metal_resist_v	154																		
+1013		任脈穴位同伴屬性2	12	metal_resist_v	167																		
+1013		任脈穴位同伴屬性2	13	metal_resist_v	180																		
+1013		任脈穴位同伴屬性2	14	metal_resist_v	193																		
+1013		任脈穴位同伴屬性2	15	metal_resist_v	206																		
+1013		任脈穴位同伴屬性2	16	metal_resist_v	219																		
+1013		任脈穴位同伴屬性2	17	metal_resist_v	232																		
+1013		任脈穴位同伴屬性2	18	metal_resist_v	245																		
+1013		任脈穴位同伴屬性2	19	metal_resist_v	258																		
+1013		任脈穴位同伴屬性2	20	metal_resist_v	270																		
+1014		任脈穴位同伴屬性3	1	wood_resist_v	15																		
+1014		任脈穴位同伴屬性3	2	wood_resist_v	29																		
+1014		任脈穴位同伴屬性3	3	wood_resist_v	43																		
+1014		任脈穴位同伴屬性3	4	wood_resist_v	57																		
+1014		任脈穴位同伴屬性3	5	wood_resist_v	71																		
+1014		任脈穴位同伴屬性3	6	wood_resist_v	85																		
+1014		任脈穴位同伴屬性3	7	wood_resist_v	99																		
+1014		任脈穴位同伴屬性3	8	wood_resist_v	113																		
+1014		任脈穴位同伴屬性3	9	wood_resist_v	127																		
+1014		任脈穴位同伴屬性3	10	wood_resist_v	141																		
+1014		任脈穴位同伴屬性3	11	wood_resist_v	154																		
+1014		任脈穴位同伴屬性3	12	wood_resist_v	167																		
+1014		任脈穴位同伴屬性3	13	wood_resist_v	180																		
+1014		任脈穴位同伴屬性3	14	wood_resist_v	193																		
+1014		任脈穴位同伴屬性3	15	wood_resist_v	206																		
+1014		任脈穴位同伴屬性3	16	wood_resist_v	219																		
+1014		任脈穴位同伴屬性3	17	wood_resist_v	232																		
+1014		任脈穴位同伴屬性3	18	wood_resist_v	245																		
+1014		任脈穴位同伴屬性3	19	wood_resist_v	258																		
+1014		任脈穴位同伴屬性3	20	wood_resist_v	270																		
+1015		任脈穴位同伴屬性4	1	water_resist_v	15																		
+1015		任脈穴位同伴屬性4	2	water_resist_v	29																		
+1015		任脈穴位同伴屬性4	3	water_resist_v	43																		
+1015		任脈穴位同伴屬性4	4	water_resist_v	57																		
+1015		任脈穴位同伴屬性4	5	water_resist_v	71																		
+1015		任脈穴位同伴屬性4	6	water_resist_v	85																		
+1015		任脈穴位同伴屬性4	7	water_resist_v	99																		
+1015		任脈穴位同伴屬性4	8	water_resist_v	113																		
+1015		任脈穴位同伴屬性4	9	water_resist_v	127																		
+1015		任脈穴位同伴屬性4	10	water_resist_v	141																		
+1015		任脈穴位同伴屬性4	11	water_resist_v	154																		
+1015		任脈穴位同伴屬性4	12	water_resist_v	167																		
+1015		任脈穴位同伴屬性4	13	water_resist_v	180																		
+1015		任脈穴位同伴屬性4	14	water_resist_v	193																		
+1015		任脈穴位同伴屬性4	15	water_resist_v	206																		
+1015		任脈穴位同伴屬性4	16	water_resist_v	219																		
+1015		任脈穴位同伴屬性4	17	water_resist_v	232																		
+1015		任脈穴位同伴屬性4	18	water_resist_v	245																		
+1015		任脈穴位同伴屬性4	19	water_resist_v	258																		
+1015		任脈穴位同伴屬性4	20	water_resist_v	270																		
+1016		任脈穴位同伴屬性5	1	fire_resist_v	15																		
+1016		任脈穴位同伴屬性5	2	fire_resist_v	29																		
+1016		任脈穴位同伴屬性5	3	fire_resist_v	43																		
+1016		任脈穴位同伴屬性5	4	fire_resist_v	57																		
+1016		任脈穴位同伴屬性5	5	fire_resist_v	71																		
+1016		任脈穴位同伴屬性5	6	fire_resist_v	85																		
+1016		任脈穴位同伴屬性5	7	fire_resist_v	99																		
+1016		任脈穴位同伴屬性5	8	fire_resist_v	113																		
+1016		任脈穴位同伴屬性5	9	fire_resist_v	127																		
+1016		任脈穴位同伴屬性5	10	fire_resist_v	141																		
+1016		任脈穴位同伴屬性5	11	fire_resist_v	154																		
+1016		任脈穴位同伴屬性5	12	fire_resist_v	167																		
+1016		任脈穴位同伴屬性5	13	fire_resist_v	180																		
+1016		任脈穴位同伴屬性5	14	fire_resist_v	193																		
+1016		任脈穴位同伴屬性5	15	fire_resist_v	206																		
+1016		任脈穴位同伴屬性5	16	fire_resist_v	219																		
+1016		任脈穴位同伴屬性5	17	fire_resist_v	232																		
+1016		任脈穴位同伴屬性5	18	fire_resist_v	245																		
+1016		任脈穴位同伴屬性5	19	fire_resist_v	258																		
+1016		任脈穴位同伴屬性5	20	fire_resist_v	270																		
+1017		任脈穴位同伴屬性6	1	earth_resist_v	15																		
+1017		任脈穴位同伴屬性6	2	earth_resist_v	29																		
+1017		任脈穴位同伴屬性6	3	earth_resist_v	43																		
+1017		任脈穴位同伴屬性6	4	earth_resist_v	57																		
+1017		任脈穴位同伴屬性6	5	earth_resist_v	71																		
+1017		任脈穴位同伴屬性6	6	earth_resist_v	85																		
+1017		任脈穴位同伴屬性6	7	earth_resist_v	99																		
+1017		任脈穴位同伴屬性6	8	earth_resist_v	113																		
+1017		任脈穴位同伴屬性6	9	earth_resist_v	127																		
+1017		任脈穴位同伴屬性6	10	earth_resist_v	141																		
+1017		任脈穴位同伴屬性6	11	earth_resist_v	154																		
+1017		任脈穴位同伴屬性6	12	earth_resist_v	167																		
+1017		任脈穴位同伴屬性6	13	earth_resist_v	180																		
+1017		任脈穴位同伴屬性6	14	earth_resist_v	193																		
+1017		任脈穴位同伴屬性6	15	earth_resist_v	206																		
+1017		任脈穴位同伴屬性6	16	earth_resist_v	219																		
+1017		任脈穴位同伴屬性6	17	earth_resist_v	232																		
+1017		任脈穴位同伴屬性6	18	earth_resist_v	245																		
+1017		任脈穴位同伴屬性6	19	earth_resist_v	258																		
+1017		任脈穴位同伴屬性6	20	earth_resist_v	270																		
+1018		任脈穴位同伴屬性7	1	basic_damage_v	30		30																
+1018		任脈穴位同伴屬性7	2	basic_damage_v	45		45																
+1018		任脈穴位同伴屬性7	3	basic_damage_v	60		60																
+1018		任脈穴位同伴屬性7	4	basic_damage_v	75		75																
+1018		任脈穴位同伴屬性7	5	basic_damage_v	90		90																
+1018		任脈穴位同伴屬性7	6	basic_damage_v	105		105																
+1018		任脈穴位同伴屬性7	7	basic_damage_v	120		120																
+1018		任脈穴位同伴屬性7	8	basic_damage_v	135		135																
+1018		任脈穴位同伴屬性7	9	basic_damage_v	150		150																
+1018		任脈穴位同伴屬性7	10	basic_damage_v	165		165																
+1018		任脈穴位同伴屬性7	11	basic_damage_v	179		179																
+1018		任脈穴位同伴屬性7	12	basic_damage_v	193		193																
+1018		任脈穴位同伴屬性7	13	basic_damage_v	207		207																
+1018		任脈穴位同伴屬性7	14	basic_damage_v	221		221																
+1018		任脈穴位同伴屬性7	15	basic_damage_v	234		234																
+1018		任脈穴位同伴屬性7	16	basic_damage_v	247		247																
+1018		任脈穴位同伴屬性7	17	basic_damage_v	260		260																
+1018		任脈穴位同伴屬性7	18	basic_damage_v	273		273																
+1018		任脈穴位同伴屬性7	19	basic_damage_v	286		286																
+1018		任脈穴位同伴屬性7	20	basic_damage_v	300		300																
+1019		任脈穴位同伴屬性8	1	ignore_defense_v	45																		
+1019		任脈穴位同伴屬性8	2	ignore_defense_v	67																		
+1019		任脈穴位同伴屬性8	3	ignore_defense_v	89																		
+1019		任脈穴位同伴屬性8	4	ignore_defense_v	111																		
+1019		任脈穴位同伴屬性8	5	ignore_defense_v	133																		
+1019		任脈穴位同伴屬性8	6	ignore_defense_v	155																		
+1019		任脈穴位同伴屬性8	7	ignore_defense_v	177																		
+1019		任脈穴位同伴屬性8	8	ignore_defense_v	199																		
+1019		任脈穴位同伴屬性8	9	ignore_defense_v	221																		
+1019		任脈穴位同伴屬性8	10	ignore_defense_v	243																		
+1019		任脈穴位同伴屬性8	11	ignore_defense_v	264																		
+1019		任脈穴位同伴屬性8	12	ignore_defense_v	285																		
+1019		任脈穴位同伴屬性8	13	ignore_defense_v	306																		
+1019		任脈穴位同伴屬性8	14	ignore_defense_v	327																		
+1019		任脈穴位同伴屬性8	15	ignore_defense_v	348																		
+1019		任脈穴位同伴屬性8	16	ignore_defense_v	369																		
+1019		任脈穴位同伴屬性8	17	ignore_defense_v	390																		
+1019		任脈穴位同伴屬性8	18	ignore_defense_v	411																		
+1019		任脈穴位同伴屬性8	19	ignore_defense_v	432																		
+1019		任脈穴位同伴屬性8	20	ignore_defense_v	450																		
+1020		任脈穴位同伴屬性9	1	damage4npc_p	1																		
+1020		任脈穴位同伴屬性9	2	damage4npc_p	2																		
+1020		任脈穴位同伴屬性9	3	damage4npc_p	3																		
+1020		任脈穴位同伴屬性9	4	damage4npc_p	4																		
+1020		任脈穴位同伴屬性9	5	damage4npc_p	5																		
+1020		任脈穴位同伴屬性9	6	damage4npc_p	6																		
+1020		任脈穴位同伴屬性9	7	damage4npc_p	7																		
+1020		任脈穴位同伴屬性9	8	damage4npc_p	8																		
+1020		任脈穴位同伴屬性9	9	damage4npc_p	9																		
+1020		任脈穴位同伴屬性9	10	damage4npc_p	10																		
+1020		任脈穴位同伴屬性9	11	damage4npc_p	11																		
+1020		任脈穴位同伴屬性9	12	damage4npc_p	12																		
+1020		任脈穴位同伴屬性9	13	damage4npc_p	13																		
+1020		任脈穴位同伴屬性9	14	damage4npc_p	14																		
+1020		任脈穴位同伴屬性9	15	damage4npc_p	15																		
+1020		任脈穴位同伴屬性9	16	damage4npc_p	16																		
+1020		任脈穴位同伴屬性9	17	damage4npc_p	17																		
+1020		任脈穴位同伴屬性9	18	damage4npc_p	18																		
+1020		任脈穴位同伴屬性9	19	damage4npc_p	19																		
+1020		任脈穴位同伴屬性9	20	damage4npc_p	20																		
+1021		任脈穴位同伴屬性10	1	lifemax_v	225																		
+1021		任脈穴位同伴屬性10	2	lifemax_v	687																		
+1021		任脈穴位同伴屬性10	3	lifemax_v	1149																		
+1021		任脈穴位同伴屬性10	4	lifemax_v	1611																		
+1021		任脈穴位同伴屬性10	5	lifemax_v	2073																		
+1021		任脈穴位同伴屬性10	6	lifemax_v	2535																		
+1021		任脈穴位同伴屬性10	7	lifemax_v	2997																		
+1021		任脈穴位同伴屬性10	8	lifemax_v	3459																		
+1021		任脈穴位同伴屬性10	9	lifemax_v	3921																		
+1021		任脈穴位同伴屬性10	10	lifemax_v	4383																		
+1021		任脈穴位同伴屬性10	11	lifemax_v	4845																		
+1021		任脈穴位同伴屬性10	12	lifemax_v	5307																		
+1021		任脈穴位同伴屬性10	13	lifemax_v	5769																		
+1021		任脈穴位同伴屬性10	14	lifemax_v	6231																		
+1021		任脈穴位同伴屬性10	15	lifemax_v	6693																		
+1021		任脈穴位同伴屬性10	16	lifemax_v	7155																		
+1021		任脈穴位同伴屬性10	17	lifemax_v	7617																		
+1021		任脈穴位同伴屬性10	18	lifemax_v	8079																		
+1021		任脈穴位同伴屬性10	19	lifemax_v	8541																		
+1021		任脈穴位同伴屬性10	20	lifemax_v	9000																		
+1022		任脈穴位同伴屬性11	1	basic_damage_v	37		37																
+1022		任脈穴位同伴屬性11	2	basic_damage_v	56		56																
+1022		任脈穴位同伴屬性11	3	basic_damage_v	75		75																
+1022		任脈穴位同伴屬性11	4	basic_damage_v	94		94																
+1022		任脈穴位同伴屬性11	5	basic_damage_v	113		113																
+1022		任脈穴位同伴屬性11	6	basic_damage_v	132		132																
+1022		任脈穴位同伴屬性11	7	basic_damage_v	151		151																
+1022		任脈穴位同伴屬性11	8	basic_damage_v	170		170																
+1022		任脈穴位同伴屬性11	9	basic_damage_v	189		189																
+1022		任脈穴位同伴屬性11	10	basic_damage_v	208		208																
+1022		任脈穴位同伴屬性11	11	basic_damage_v	227		227																
+1022		任脈穴位同伴屬性11	12	basic_damage_v	246		246																
+1022		任脈穴位同伴屬性11	13	basic_damage_v	265		265																
+1022		任脈穴位同伴屬性11	14	basic_damage_v	284		284																
+1022		任脈穴位同伴屬性11	15	basic_damage_v	302		302																
+1022		任脈穴位同伴屬性11	16	basic_damage_v	320		320																
+1022		任脈穴位同伴屬性11	17	basic_damage_v	338		338																
+1022		任脈穴位同伴屬性11	18	basic_damage_v	356		356																
+1022		任脈穴位同伴屬性11	19	basic_damage_v	374		374																
+1022		任脈穴位同伴屬性11	20	basic_damage_v	390		390																
+1023		任脈穴位同伴屬性12	1	strength_v	10			vitality_v	10			dexterity_v	10			energy_v	10						
+1023		任脈穴位同伴屬性12	2	strength_v	15			vitality_v	15			dexterity_v	15			energy_v	15						
+1023		任脈穴位同伴屬性12	3	strength_v	20			vitality_v	20			dexterity_v	20			energy_v	20						
+1023		任脈穴位同伴屬性12	4	strength_v	25			vitality_v	25			dexterity_v	25			energy_v	25						
+1023		任脈穴位同伴屬性12	5	strength_v	30			vitality_v	30			dexterity_v	30			energy_v	30						
+1023		任脈穴位同伴屬性12	6	strength_v	35			vitality_v	35			dexterity_v	35			energy_v	35						
+1023		任脈穴位同伴屬性12	7	strength_v	40			vitality_v	40			dexterity_v	40			energy_v	40						
+1023		任脈穴位同伴屬性12	8	strength_v	45			vitality_v	45			dexterity_v	45			energy_v	45						
+1023		任脈穴位同伴屬性12	9	strength_v	50			vitality_v	50			dexterity_v	50			energy_v	50						
+1023		任脈穴位同伴屬性12	10	strength_v	55			vitality_v	55			dexterity_v	55			energy_v	55						
+1023		任脈穴位同伴屬性12	11	strength_v	60			vitality_v	60			dexterity_v	60			energy_v	60						
+1023		任脈穴位同伴屬性12	12	strength_v	65			vitality_v	65			dexterity_v	65			energy_v	65						
+1023		任脈穴位同伴屬性12	13	strength_v	70			vitality_v	70			dexterity_v	70			energy_v	70						
+1023		任脈穴位同伴屬性12	14	strength_v	75			vitality_v	75			dexterity_v	75			energy_v	75						
+1023		任脈穴位同伴屬性12	15	strength_v	80			vitality_v	80			dexterity_v	80			energy_v	80						
+1023		任脈穴位同伴屬性12	16	strength_v	84			vitality_v	84			dexterity_v	84			energy_v	84						
+1023		任脈穴位同伴屬性12	17	strength_v	88			vitality_v	88			dexterity_v	88			energy_v	88						
+1023		任脈穴位同伴屬性12	18	strength_v	92			vitality_v	92			dexterity_v	92			energy_v	92						
+1023		任脈穴位同伴屬性12	19	strength_v	96			vitality_v	96			dexterity_v	96			energy_v	96						
+1023		任脈穴位同伴屬性12	20	strength_v	100			vitality_v	100			dexterity_v	100			energy_v	100						
+1024		督脈穴位主角屬性1	1	ignore_metal_resist_v	100	20																	
+1024		督脈穴位主角屬性1	2	ignore_metal_resist_v	100	27																	
+1024		督脈穴位主角屬性1	3	ignore_metal_resist_v	100	34																	
+1024		督脈穴位主角屬性1	4	ignore_metal_resist_v	100	41																	
+1024		督脈穴位主角屬性1	5	ignore_metal_resist_v	100	48																	
+1024		督脈穴位主角屬性1	6	ignore_metal_resist_v	100	55																	
+1024		督脈穴位主角屬性1	7	ignore_metal_resist_v	100	62																	
+1024		督脈穴位主角屬性1	8	ignore_metal_resist_v	100	69																	
+1024		督脈穴位主角屬性1	9	ignore_metal_resist_v	100	76																	
+1024		督脈穴位主角屬性1	10	ignore_metal_resist_v	100	83																	
+1024		督脈穴位主角屬性1	11	ignore_metal_resist_v	100	90																	
+1024		督脈穴位主角屬性1	12	ignore_metal_resist_v	100	97																	
+1024		督脈穴位主角屬性1	13	ignore_metal_resist_v	100	104																	
+1024		督脈穴位主角屬性1	14	ignore_metal_resist_v	100	111																	
+1024		督脈穴位主角屬性1	15	ignore_metal_resist_v	100	118																	
+1024		督脈穴位主角屬性1	16	ignore_metal_resist_v	100	125																	
+1024		督脈穴位主角屬性1	17	ignore_metal_resist_v	100	132																	
+1024		督脈穴位主角屬性1	18	ignore_metal_resist_v	100	138																	
+1024		督脈穴位主角屬性1	19	ignore_metal_resist_v	100	144																	
+1024		督脈穴位主角屬性1	20	ignore_metal_resist_v	100	150																	
+1025		督脈穴位主角屬性2	1	ignore_wood_resist_v	100	20																	
+1025		督脈穴位主角屬性2	2	ignore_wood_resist_v	100	27																	
+1025		督脈穴位主角屬性2	3	ignore_wood_resist_v	100	34																	
+1025		督脈穴位主角屬性2	4	ignore_wood_resist_v	100	41																	
+1025		督脈穴位主角屬性2	5	ignore_wood_resist_v	100	48																	
+1025		督脈穴位主角屬性2	6	ignore_wood_resist_v	100	55																	
+1025		督脈穴位主角屬性2	7	ignore_wood_resist_v	100	62																	
+1025		督脈穴位主角屬性2	8	ignore_wood_resist_v	100	69																	
+1025		督脈穴位主角屬性2	9	ignore_wood_resist_v	100	76																	
+1025		督脈穴位主角屬性2	10	ignore_wood_resist_v	100	83																	
+1025		督脈穴位主角屬性2	11	ignore_wood_resist_v	100	90																	
+1025		督脈穴位主角屬性2	12	ignore_wood_resist_v	100	97																	
+1025		督脈穴位主角屬性2	13	ignore_wood_resist_v	100	104																	
+1025		督脈穴位主角屬性2	14	ignore_wood_resist_v	100	111																	
+1025		督脈穴位主角屬性2	15	ignore_wood_resist_v	100	118																	
+1025		督脈穴位主角屬性2	16	ignore_wood_resist_v	100	125																	
+1025		督脈穴位主角屬性2	17	ignore_wood_resist_v	100	132																	
+1025		督脈穴位主角屬性2	18	ignore_wood_resist_v	100	138																	
+1025		督脈穴位主角屬性2	19	ignore_wood_resist_v	100	144																	
+1025		督脈穴位主角屬性2	20	ignore_wood_resist_v	100	150																	
+1026		督脈穴位主角屬性3	1	ignore_water_resist_v	100	20																	
+1026		督脈穴位主角屬性3	2	ignore_water_resist_v	100	27																	
+1026		督脈穴位主角屬性3	3	ignore_water_resist_v	100	34																	
+1026		督脈穴位主角屬性3	4	ignore_water_resist_v	100	41																	
+1026		督脈穴位主角屬性3	5	ignore_water_resist_v	100	48																	
+1026		督脈穴位主角屬性3	6	ignore_water_resist_v	100	55																	
+1026		督脈穴位主角屬性3	7	ignore_water_resist_v	100	62																	
+1026		督脈穴位主角屬性3	8	ignore_water_resist_v	100	69																	
+1026		督脈穴位主角屬性3	9	ignore_water_resist_v	100	76																	
+1026		督脈穴位主角屬性3	10	ignore_water_resist_v	100	83																	
+1026		督脈穴位主角屬性3	11	ignore_water_resist_v	100	90																	
+1026		督脈穴位主角屬性3	12	ignore_water_resist_v	100	97																	
+1026		督脈穴位主角屬性3	13	ignore_water_resist_v	100	104																	
+1026		督脈穴位主角屬性3	14	ignore_water_resist_v	100	111																	
+1026		督脈穴位主角屬性3	15	ignore_water_resist_v	100	118																	
+1026		督脈穴位主角屬性3	16	ignore_water_resist_v	100	125																	
+1026		督脈穴位主角屬性3	17	ignore_water_resist_v	100	132																	
+1026		督脈穴位主角屬性3	18	ignore_water_resist_v	100	138																	
+1026		督脈穴位主角屬性3	19	ignore_water_resist_v	100	144																	
+1026		督脈穴位主角屬性3	20	ignore_water_resist_v	100	150																	
+1027		督脈穴位主角屬性4	1	ignore_fire_resist_v	100	20																	
+1027		督脈穴位主角屬性4	2	ignore_fire_resist_v	100	27																	
+1027		督脈穴位主角屬性4	3	ignore_fire_resist_v	100	34																	
+1027		督脈穴位主角屬性4	4	ignore_fire_resist_v	100	41																	
+1027		督脈穴位主角屬性4	5	ignore_fire_resist_v	100	48																	
+1027		督脈穴位主角屬性4	6	ignore_fire_resist_v	100	55																	
+1027		督脈穴位主角屬性4	7	ignore_fire_resist_v	100	62																	
+1027		督脈穴位主角屬性4	8	ignore_fire_resist_v	100	69																	
+1027		督脈穴位主角屬性4	9	ignore_fire_resist_v	100	76																	
+1027		督脈穴位主角屬性4	10	ignore_fire_resist_v	100	83																	
+1027		督脈穴位主角屬性4	11	ignore_fire_resist_v	100	90																	
+1027		督脈穴位主角屬性4	12	ignore_fire_resist_v	100	97																	
+1027		督脈穴位主角屬性4	13	ignore_fire_resist_v	100	104																	
+1027		督脈穴位主角屬性4	14	ignore_fire_resist_v	100	111																	
+1027		督脈穴位主角屬性4	15	ignore_fire_resist_v	100	118																	
+1027		督脈穴位主角屬性4	16	ignore_fire_resist_v	100	125																	
+1027		督脈穴位主角屬性4	17	ignore_fire_resist_v	100	132																	
+1027		督脈穴位主角屬性4	18	ignore_fire_resist_v	100	138																	
+1027		督脈穴位主角屬性4	19	ignore_fire_resist_v	100	144																	
+1027		督脈穴位主角屬性4	20	ignore_fire_resist_v	100	150																	
+1028		督脈穴位主角屬性5	1	ignore_earth_resist_v	100	20																	
+1028		督脈穴位主角屬性5	2	ignore_earth_resist_v	100	27																	
+1028		督脈穴位主角屬性5	3	ignore_earth_resist_v	100	34																	
+1028		督脈穴位主角屬性5	4	ignore_earth_resist_v	100	41																	
+1028		督脈穴位主角屬性5	5	ignore_earth_resist_v	100	48																	
+1028		督脈穴位主角屬性5	6	ignore_earth_resist_v	100	55																	
+1028		督脈穴位主角屬性5	7	ignore_earth_resist_v	100	62																	
+1028		督脈穴位主角屬性5	8	ignore_earth_resist_v	100	69																	
+1028		督脈穴位主角屬性5	9	ignore_earth_resist_v	100	76																	
+1028		督脈穴位主角屬性5	10	ignore_earth_resist_v	100	83																	
+1028		督脈穴位主角屬性5	11	ignore_earth_resist_v	100	90																	
+1028		督脈穴位主角屬性5	12	ignore_earth_resist_v	100	97																	
+1028		督脈穴位主角屬性5	13	ignore_earth_resist_v	100	104																	
+1028		督脈穴位主角屬性5	14	ignore_earth_resist_v	100	111																	
+1028		督脈穴位主角屬性5	15	ignore_earth_resist_v	100	118																	
+1028		督脈穴位主角屬性5	16	ignore_earth_resist_v	100	125																	
+1028		督脈穴位主角屬性5	17	ignore_earth_resist_v	100	132																	
+1028		督脈穴位主角屬性5	18	ignore_earth_resist_v	100	138																	
+1028		督脈穴位主角屬性5	19	ignore_earth_resist_v	100	144																	
+1028		督脈穴位主角屬性5	20	ignore_earth_resist_v	100	150																	
+1029		督脈穴位主角屬性6	1	basic_damage_v	25		25																
+1029		督脈穴位主角屬性6	2	basic_damage_v	38		38																
+1029		督脈穴位主角屬性6	3	basic_damage_v	51		51																
+1029		督脈穴位主角屬性6	4	basic_damage_v	64		64																
+1029		督脈穴位主角屬性6	5	basic_damage_v	77		77																
+1029		督脈穴位主角屬性6	6	basic_damage_v	90		90																
+1029		督脈穴位主角屬性6	7	basic_damage_v	103		103																
+1029		督脈穴位主角屬性6	8	basic_damage_v	116		116																
+1029		督脈穴位主角屬性6	9	basic_damage_v	129		129																
+1029		督脈穴位主角屬性6	10	basic_damage_v	142		142																
+1029		督脈穴位主角屬性6	11	basic_damage_v	154		154																
+1029		督脈穴位主角屬性6	12	basic_damage_v	166		166																
+1029		督脈穴位主角屬性6	13	basic_damage_v	178		178																
+1029		督脈穴位主角屬性6	14	basic_damage_v	190		190																
+1029		督脈穴位主角屬性6	15	basic_damage_v	202		202																
+1029		督脈穴位主角屬性6	16	basic_damage_v	214		214																
+1029		督脈穴位主角屬性6	17	basic_damage_v	226		226																
+1029		督脈穴位主角屬性6	18	basic_damage_v	238		238																
+1029		督脈穴位主角屬性6	19	basic_damage_v	250		250																
+1029		督脈穴位主角屬性6	20	basic_damage_v	260		260																
+1030		督脈穴位主角屬性7	1	lifemax_v	150																		
+1030		督脈穴位主角屬性7	2	lifemax_v	460																		
+1030		督脈穴位主角屬性7	3	lifemax_v	770																		
+1030		督脈穴位主角屬性7	4	lifemax_v	1080																		
+1030		督脈穴位主角屬性7	5	lifemax_v	1390																		
+1030		督脈穴位主角屬性7	6	lifemax_v	1700																		
+1030		督脈穴位主角屬性7	7	lifemax_v	2010																		
+1030		督脈穴位主角屬性7	8	lifemax_v	2320																		
+1030		督脈穴位主角屬性7	9	lifemax_v	2630																		
+1030		督脈穴位主角屬性7	10	lifemax_v	2940																		
+1030		督脈穴位主角屬性7	11	lifemax_v	3250																		
+1030		督脈穴位主角屬性7	12	lifemax_v	3560																		
+1030		督脈穴位主角屬性7	13	lifemax_v	3870																		
+1030		督脈穴位主角屬性7	14	lifemax_v	4180																		
+1030		督脈穴位主角屬性7	15	lifemax_v	4490																		
+1030		督脈穴位主角屬性7	16	lifemax_v	4800																		
+1030		督脈穴位主角屬性7	17	lifemax_v	5110																		
+1030		督脈穴位主角屬性7	18	lifemax_v	5420																		
+1030		督脈穴位主角屬性7	19	lifemax_v	5720																		
+1030		督脈穴位主角屬性7	20	lifemax_v	6000																		
+1031		督脈穴位主角屬性8	1	deadlystrike_v	15																		
+1031		督脈穴位主角屬性8	2	deadlystrike_v	24																		
+1031		督脈穴位主角屬性8	3	deadlystrike_v	33																		
+1031		督脈穴位主角屬性8	4	deadlystrike_v	42																		
+1031		督脈穴位主角屬性8	5	deadlystrike_v	51																		
+1031		督脈穴位主角屬性8	6	deadlystrike_v	60																		
+1031		督脈穴位主角屬性8	7	deadlystrike_v	69																		
+1031		督脈穴位主角屬性8	8	deadlystrike_v	78																		
+1031		督脈穴位主角屬性8	9	deadlystrike_v	87																		
+1031		督脈穴位主角屬性8	10	deadlystrike_v	96																		
+1031		督脈穴位主角屬性8	11	deadlystrike_v	105																		
+1031		督脈穴位主角屬性8	12	deadlystrike_v	114																		
+1031		督脈穴位主角屬性8	13	deadlystrike_v	123																		
+1031		督脈穴位主角屬性8	14	deadlystrike_v	132																		
+1031		督脈穴位主角屬性8	15	deadlystrike_v	140																		
+1031		督脈穴位主角屬性8	16	deadlystrike_v	148																		
+1031		督脈穴位主角屬性8	17	deadlystrike_v	156																		
+1031		督脈穴位主角屬性8	18	deadlystrike_v	164																		
+1031		督脈穴位主角屬性8	19	deadlystrike_v	172																		
+1031		督脈穴位主角屬性8	20	deadlystrike_v	180																		
+1032		督脈穴位主角屬性9	1	defense_v	45																		
+1032		督脈穴位主角屬性9	2	defense_v	62																		
+1032		督脈穴位主角屬性9	3	defense_v	79																		
+1032		督脈穴位主角屬性9	4	defense_v	96																		
+1032		督脈穴位主角屬性9	5	defense_v	113																		
+1032		督脈穴位主角屬性9	6	defense_v	130																		
+1032		督脈穴位主角屬性9	7	defense_v	147																		
+1032		督脈穴位主角屬性9	8	defense_v	164																		
+1032		督脈穴位主角屬性9	9	defense_v	181																		
+1032		督脈穴位主角屬性9	10	defense_v	198																		
+1032		督脈穴位主角屬性9	11	defense_v	215																		
+1032		督脈穴位主角屬性9	12	defense_v	232																		
+1032		督脈穴位主角屬性9	13	defense_v	248																		
+1032		督脈穴位主角屬性9	14	defense_v	264																		
+1032		督脈穴位主角屬性9	15	defense_v	280																		
+1032		督脈穴位主角屬性9	16	defense_v	296																		
+1032		督脈穴位主角屬性9	17	defense_v	312																		
+1032		督脈穴位主角屬性9	18	defense_v	328																		
+1032		督脈穴位主角屬性9	19	defense_v	344																		
+1032		督脈穴位主角屬性9	20	defense_v	360																		
+1033		督脈穴位主角屬性10	1	basic_damage_v	30		30																
+1033		督脈穴位主角屬性10	2	basic_damage_v	45		45																
+1033		督脈穴位主角屬性10	3	basic_damage_v	60		60																
+1033		督脈穴位主角屬性10	4	basic_damage_v	75		75																
+1033		督脈穴位主角屬性10	5	basic_damage_v	90		90																
+1033		督脈穴位主角屬性10	6	basic_damage_v	105		105																
+1033		督脈穴位主角屬性10	7	basic_damage_v	120		120																
+1033		督脈穴位主角屬性10	8	basic_damage_v	135		135																
+1033		督脈穴位主角屬性10	9	basic_damage_v	150		150																
+1033		督脈穴位主角屬性10	10	basic_damage_v	165		165																
+1033		督脈穴位主角屬性10	11	basic_damage_v	180		180																
+1033		督脈穴位主角屬性10	12	basic_damage_v	194		194																
+1033		督脈穴位主角屬性10	13	basic_damage_v	208		208																
+1033		督脈穴位主角屬性10	14	basic_damage_v	222		222																
+1033		督脈穴位主角屬性10	15	basic_damage_v	236		236																
+1033		督脈穴位主角屬性10	16	basic_damage_v	249		249																
+1033		督脈穴位主角屬性10	17	basic_damage_v	262		262																
+1033		督脈穴位主角屬性10	18	basic_damage_v	275		275																
+1033		督脈穴位主角屬性10	19	basic_damage_v	288		288																
+1033		督脈穴位主角屬性10	20	basic_damage_v	300		300																
+1034		督脈穴位主角屬性11	1	lifemax_v	400																		
+1034		督脈穴位主角屬性11	2	lifemax_v	830																		
+1034		督脈穴位主角屬性11	3	lifemax_v	1260																		
+1034		督脈穴位主角屬性11	4	lifemax_v	1690																		
+1034		督脈穴位主角屬性11	5	lifemax_v	2120																		
+1034		督脈穴位主角屬性11	6	lifemax_v	2550																		
+1034		督脈穴位主角屬性11	7	lifemax_v	2980																		
+1034		督脈穴位主角屬性11	8	lifemax_v	3410																		
+1034		督脈穴位主角屬性11	9	lifemax_v	3840																		
+1034		督脈穴位主角屬性11	10	lifemax_v	4270																		
+1034		督脈穴位主角屬性11	11	lifemax_v	4700																		
+1034		督脈穴位主角屬性11	12	lifemax_v	5130																		
+1034		督脈穴位主角屬性11	13	lifemax_v	5560																		
+1034		督脈穴位主角屬性11	14	lifemax_v	5990																		
+1034		督脈穴位主角屬性11	15	lifemax_v	6420																		
+1034		督脈穴位主角屬性11	16	lifemax_v	6838																		
+1034		督脈穴位主角屬性11	17	lifemax_v	7256																		
+1034		督脈穴位主角屬性11	18	lifemax_v	7674																		
+1034		督脈穴位主角屬性11	19	lifemax_v	8092																		
+1034		督脈穴位主角屬性11	20	lifemax_v	8500																		
+1035		督脈穴位同伴屬性1	1	ignore_metal_resist_v	100	30																	
+1035		督脈穴位同伴屬性1	2	ignore_metal_resist_v	100	41																	
+1035		督脈穴位同伴屬性1	3	ignore_metal_resist_v	100	52																	
+1035		督脈穴位同伴屬性1	4	ignore_metal_resist_v	100	63																	
+1035		督脈穴位同伴屬性1	5	ignore_metal_resist_v	100	74																	
+1035		督脈穴位同伴屬性1	6	ignore_metal_resist_v	100	85																	
+1035		督脈穴位同伴屬性1	7	ignore_metal_resist_v	100	96																	
+1035		督脈穴位同伴屬性1	8	ignore_metal_resist_v	100	107																	
+1035		督脈穴位同伴屬性1	9	ignore_metal_resist_v	100	118																	
+1035		督脈穴位同伴屬性1	10	ignore_metal_resist_v	100	129																	
+1035		督脈穴位同伴屬性1	11	ignore_metal_resist_v	100	139																	
+1035		督脈穴位同伴屬性1	12	ignore_metal_resist_v	100	149																	
+1035		督脈穴位同伴屬性1	13	ignore_metal_resist_v	100	159																	
+1035		督脈穴位同伴屬性1	14	ignore_metal_resist_v	100	169																	
+1035		督脈穴位同伴屬性1	15	ignore_metal_resist_v	100	179																	
+1035		督脈穴位同伴屬性1	16	ignore_metal_resist_v	100	189																	
+1035		督脈穴位同伴屬性1	17	ignore_metal_resist_v	100	198																	
+1035		督脈穴位同伴屬性1	18	ignore_metal_resist_v	100	207																	
+1035		督脈穴位同伴屬性1	19	ignore_metal_resist_v	100	216																	
+1035		督脈穴位同伴屬性1	20	ignore_metal_resist_v	100	225																	
+1036		督脈穴位同伴屬性2	1	ignore_wood_resist_v	100	30																	
+1036		督脈穴位同伴屬性2	2	ignore_wood_resist_v	100	41																	
+1036		督脈穴位同伴屬性2	3	ignore_wood_resist_v	100	52																	
+1036		督脈穴位同伴屬性2	4	ignore_wood_resist_v	100	63																	
+1036		督脈穴位同伴屬性2	5	ignore_wood_resist_v	100	74																	
+1036		督脈穴位同伴屬性2	6	ignore_wood_resist_v	100	85																	
+1036		督脈穴位同伴屬性2	7	ignore_wood_resist_v	100	96																	
+1036		督脈穴位同伴屬性2	8	ignore_wood_resist_v	100	107																	
+1036		督脈穴位同伴屬性2	9	ignore_wood_resist_v	100	118																	
+1036		督脈穴位同伴屬性2	10	ignore_wood_resist_v	100	129																	
+1036		督脈穴位同伴屬性2	11	ignore_wood_resist_v	100	139																	
+1036		督脈穴位同伴屬性2	12	ignore_wood_resist_v	100	149																	
+1036		督脈穴位同伴屬性2	13	ignore_wood_resist_v	100	159																	
+1036		督脈穴位同伴屬性2	14	ignore_wood_resist_v	100	169																	
+1036		督脈穴位同伴屬性2	15	ignore_wood_resist_v	100	179																	
+1036		督脈穴位同伴屬性2	16	ignore_wood_resist_v	100	189																	
+1036		督脈穴位同伴屬性2	17	ignore_wood_resist_v	100	198																	
+1036		督脈穴位同伴屬性2	18	ignore_wood_resist_v	100	207																	
+1036		督脈穴位同伴屬性2	19	ignore_wood_resist_v	100	216																	
+1036		督脈穴位同伴屬性2	20	ignore_wood_resist_v	100	225																	
+1037		督脈穴位同伴屬性3	1	ignore_water_resist_v	100	30																	
+1037		督脈穴位同伴屬性3	2	ignore_water_resist_v	100	41																	
+1037		督脈穴位同伴屬性3	3	ignore_water_resist_v	100	52																	
+1037		督脈穴位同伴屬性3	4	ignore_water_resist_v	100	63																	
+1037		督脈穴位同伴屬性3	5	ignore_water_resist_v	100	74																	
+1037		督脈穴位同伴屬性3	6	ignore_water_resist_v	100	85																	
+1037		督脈穴位同伴屬性3	7	ignore_water_resist_v	100	96																	
+1037		督脈穴位同伴屬性3	8	ignore_water_resist_v	100	107																	
+1037		督脈穴位同伴屬性3	9	ignore_water_resist_v	100	118																	
+1037		督脈穴位同伴屬性3	10	ignore_water_resist_v	100	129																	
+1037		督脈穴位同伴屬性3	11	ignore_water_resist_v	100	139																	
+1037		督脈穴位同伴屬性3	12	ignore_water_resist_v	100	149																	
+1037		督脈穴位同伴屬性3	13	ignore_water_resist_v	100	159																	
+1037		督脈穴位同伴屬性3	14	ignore_water_resist_v	100	169																	
+1037		督脈穴位同伴屬性3	15	ignore_water_resist_v	100	179																	
+1037		督脈穴位同伴屬性3	16	ignore_water_resist_v	100	189																	
+1037		督脈穴位同伴屬性3	17	ignore_water_resist_v	100	198																	
+1037		督脈穴位同伴屬性3	18	ignore_water_resist_v	100	207																	
+1037		督脈穴位同伴屬性3	19	ignore_water_resist_v	100	216																	
+1037		督脈穴位同伴屬性3	20	ignore_water_resist_v	100	225																	
+1038		督脈穴位同伴屬性4	1	ignore_fire_resist_v	100	30																	
+1038		督脈穴位同伴屬性4	2	ignore_fire_resist_v	100	41																	
+1038		督脈穴位同伴屬性4	3	ignore_fire_resist_v	100	52																	
+1038		督脈穴位同伴屬性4	4	ignore_fire_resist_v	100	63																	
+1038		督脈穴位同伴屬性4	5	ignore_fire_resist_v	100	74																	
+1038		督脈穴位同伴屬性4	6	ignore_fire_resist_v	100	85																	
+1038		督脈穴位同伴屬性4	7	ignore_fire_resist_v	100	96																	
+1038		督脈穴位同伴屬性4	8	ignore_fire_resist_v	100	107																	
+1038		督脈穴位同伴屬性4	9	ignore_fire_resist_v	100	118																	
+1038		督脈穴位同伴屬性4	10	ignore_fire_resist_v	100	129																	
+1038		督脈穴位同伴屬性4	11	ignore_fire_resist_v	100	139																	
+1038		督脈穴位同伴屬性4	12	ignore_fire_resist_v	100	149																	
+1038		督脈穴位同伴屬性4	13	ignore_fire_resist_v	100	159																	
+1038		督脈穴位同伴屬性4	14	ignore_fire_resist_v	100	169																	
+1038		督脈穴位同伴屬性4	15	ignore_fire_resist_v	100	179																	
+1038		督脈穴位同伴屬性4	16	ignore_fire_resist_v	100	189																	
+1038		督脈穴位同伴屬性4	17	ignore_fire_resist_v	100	198																	
+1038		督脈穴位同伴屬性4	18	ignore_fire_resist_v	100	207																	
+1038		督脈穴位同伴屬性4	19	ignore_fire_resist_v	100	216																	
+1038		督脈穴位同伴屬性4	20	ignore_fire_resist_v	100	225																	
+1039		督脈穴位同伴屬性5	1	ignore_earth_resist_v	100	30																	
+1039		督脈穴位同伴屬性5	2	ignore_earth_resist_v	100	41																	
+1039		督脈穴位同伴屬性5	3	ignore_earth_resist_v	100	52																	
+1039		督脈穴位同伴屬性5	4	ignore_earth_resist_v	100	63																	
+1039		督脈穴位同伴屬性5	5	ignore_earth_resist_v	100	74																	
+1039		督脈穴位同伴屬性5	6	ignore_earth_resist_v	100	85																	
+1039		督脈穴位同伴屬性5	7	ignore_earth_resist_v	100	96																	
+1039		督脈穴位同伴屬性5	8	ignore_earth_resist_v	100	107																	
+1039		督脈穴位同伴屬性5	9	ignore_earth_resist_v	100	118																	
+1039		督脈穴位同伴屬性5	10	ignore_earth_resist_v	100	129																	
+1039		督脈穴位同伴屬性5	11	ignore_earth_resist_v	100	139																	
+1039		督脈穴位同伴屬性5	12	ignore_earth_resist_v	100	149																	
+1039		督脈穴位同伴屬性5	13	ignore_earth_resist_v	100	159																	
+1039		督脈穴位同伴屬性5	14	ignore_earth_resist_v	100	169																	
+1039		督脈穴位同伴屬性5	15	ignore_earth_resist_v	100	179																	
+1039		督脈穴位同伴屬性5	16	ignore_earth_resist_v	100	189																	
+1039		督脈穴位同伴屬性5	17	ignore_earth_resist_v	100	198																	
+1039		督脈穴位同伴屬性5	18	ignore_earth_resist_v	100	207																	
+1039		督脈穴位同伴屬性5	19	ignore_earth_resist_v	100	216																	
+1039		督脈穴位同伴屬性5	20	ignore_earth_resist_v	100	225																	
+1040		督脈穴位同伴屬性6	1	basic_damage_v	38		38																
+1040		督脈穴位同伴屬性6	2	basic_damage_v	57		57																
+1040		督脈穴位同伴屬性6	3	basic_damage_v	76		76																
+1040		督脈穴位同伴屬性6	4	basic_damage_v	95		95																
+1040		督脈穴位同伴屬性6	5	basic_damage_v	114		114																
+1040		督脈穴位同伴屬性6	6	basic_damage_v	133		133																
+1040		督脈穴位同伴屬性6	7	basic_damage_v	152		152																
+1040		督脈穴位同伴屬性6	8	basic_damage_v	171		171																
+1040		督脈穴位同伴屬性6	9	basic_damage_v	190		190																
+1040		督脈穴位同伴屬性6	10	basic_damage_v	209		209																
+1040		督脈穴位同伴屬性6	11	basic_damage_v	228		228																
+1040		督脈穴位同伴屬性6	12	basic_damage_v	246		246																
+1040		督脈穴位同伴屬性6	13	basic_damage_v	264		264																
+1040		督脈穴位同伴屬性6	14	basic_damage_v	282		282																
+1040		督脈穴位同伴屬性6	15	basic_damage_v	300		300																
+1040		督脈穴位同伴屬性6	16	basic_damage_v	318		318																
+1040		督脈穴位同伴屬性6	17	basic_damage_v	336		336																
+1040		督脈穴位同伴屬性6	18	basic_damage_v	354		354																
+1040		督脈穴位同伴屬性6	19	basic_damage_v	372		372																
+1040		督脈穴位同伴屬性6	20	basic_damage_v	390		390																
+1041		督脈穴位同伴屬性7	1	lifemax_v	225																		
+1041		督脈穴位同伴屬性7	2	lifemax_v	687																		
+1041		督脈穴位同伴屬性7	3	lifemax_v	1149																		
+1041		督脈穴位同伴屬性7	4	lifemax_v	1611																		
+1041		督脈穴位同伴屬性7	5	lifemax_v	2073																		
+1041		督脈穴位同伴屬性7	6	lifemax_v	2535																		
+1041		督脈穴位同伴屬性7	7	lifemax_v	2997																		
+1041		督脈穴位同伴屬性7	8	lifemax_v	3459																		
+1041		督脈穴位同伴屬性7	9	lifemax_v	3921																		
+1041		督脈穴位同伴屬性7	10	lifemax_v	4383																		
+1041		督脈穴位同伴屬性7	11	lifemax_v	4845																		
+1041		督脈穴位同伴屬性7	12	lifemax_v	5307																		
+1041		督脈穴位同伴屬性7	13	lifemax_v	5769																		
+1041		督脈穴位同伴屬性7	14	lifemax_v	6231																		
+1041		督脈穴位同伴屬性7	15	lifemax_v	6693																		
+1041		督脈穴位同伴屬性7	16	lifemax_v	7155																		
+1041		督脈穴位同伴屬性7	17	lifemax_v	7617																		
+1041		督脈穴位同伴屬性7	18	lifemax_v	8078																		
+1041		督脈穴位同伴屬性7	19	lifemax_v	8539																		
+1041		督脈穴位同伴屬性7	20	lifemax_v	9000																		
+1042		督脈穴位同伴屬性8	1	deadlystrike_v	23																		
+1042		督脈穴位同伴屬性8	2	deadlystrike_v	36																		
+1042		督脈穴位同伴屬性8	3	deadlystrike_v	49																		
+1042		督脈穴位同伴屬性8	4	deadlystrike_v	62																		
+1042		督脈穴位同伴屬性8	5	deadlystrike_v	75																		
+1042		督脈穴位同伴屬性8	6	deadlystrike_v	88																		
+1042		督脈穴位同伴屬性8	7	deadlystrike_v	101																		
+1042		督脈穴位同伴屬性8	8	deadlystrike_v	114																		
+1042		督脈穴位同伴屬性8	9	deadlystrike_v	127																		
+1042		督脈穴位同伴屬性8	10	deadlystrike_v	140																		
+1042		督脈穴位同伴屬性8	11	deadlystrike_v	153																		
+1042		督脈穴位同伴屬性8	12	deadlystrike_v	166																		
+1042		督脈穴位同伴屬性8	13	deadlystrike_v	179																		
+1042		督脈穴位同伴屬性8	14	deadlystrike_v	192																		
+1042		督脈穴位同伴屬性8	15	deadlystrike_v	205																		
+1042		督脈穴位同伴屬性8	16	deadlystrike_v	218																		
+1042		督脈穴位同伴屬性8	17	deadlystrike_v	231																		
+1042		督脈穴位同伴屬性8	18	deadlystrike_v	244																		
+1042		督脈穴位同伴屬性8	19	deadlystrike_v	257																		
+1042		督脈穴位同伴屬性8	20	deadlystrike_v	270																		
+1043		督脈穴位同伴屬性9	1	defense_v	68																		
+1043		督脈穴位同伴屬性9	2	defense_v	93																		
+1043		督脈穴位同伴屬性9	3	defense_v	118																		
+1043		督脈穴位同伴屬性9	4	defense_v	143																		
+1043		督脈穴位同伴屬性9	5	defense_v	168																		
+1043		督脈穴位同伴屬性9	6	defense_v	193																		
+1043		督脈穴位同伴屬性9	7	defense_v	218																		
+1043		督脈穴位同伴屬性9	8	defense_v	243																		
+1043		督脈穴位同伴屬性9	9	defense_v	268																		
+1043		督脈穴位同伴屬性9	10	defense_v	293																		
+1043		督脈穴位同伴屬性9	11	defense_v	318																		
+1043		督脈穴位同伴屬性9	12	defense_v	343																		
+1043		督脈穴位同伴屬性9	13	defense_v	368																		
+1043		督脈穴位同伴屬性9	14	defense_v	393																		
+1043		督脈穴位同伴屬性9	15	defense_v	418																		
+1043		督脈穴位同伴屬性9	16	defense_v	443																		
+1043		督脈穴位同伴屬性9	17	defense_v	468																		
+1043		督脈穴位同伴屬性9	18	defense_v	492																		
+1043		督脈穴位同伴屬性9	19	defense_v	516																		
+1043		督脈穴位同伴屬性9	20	defense_v	540																		
+1044		督脈穴位同伴屬性10	1	basic_damage_v	45		45																
+1044		督脈穴位同伴屬性10	2	basic_damage_v	67		67																
+1044		督脈穴位同伴屬性10	3	basic_damage_v	89		89																
+1044		督脈穴位同伴屬性10	4	basic_damage_v	111		111																
+1044		督脈穴位同伴屬性10	5	basic_damage_v	133		133																
+1044		督脈穴位同伴屬性10	6	basic_damage_v	155		155																
+1044		督脈穴位同伴屬性10	7	basic_damage_v	177		177																
+1044		督脈穴位同伴屬性10	8	basic_damage_v	199		199																
+1044		督脈穴位同伴屬性10	9	basic_damage_v	221		221																
+1044		督脈穴位同伴屬性10	10	basic_damage_v	242		242																
+1044		督脈穴位同伴屬性10	11	basic_damage_v	263		263																
+1044		督脈穴位同伴屬性10	12	basic_damage_v	284		284																
+1044		督脈穴位同伴屬性10	13	basic_damage_v	305		305																
+1044		督脈穴位同伴屬性10	14	basic_damage_v	326		326																
+1044		督脈穴位同伴屬性10	15	basic_damage_v	347		347																
+1044		督脈穴位同伴屬性10	16	basic_damage_v	368		368																
+1044		督脈穴位同伴屬性10	17	basic_damage_v	389		389																
+1044		督脈穴位同伴屬性10	18	basic_damage_v	410		410																
+1044		督脈穴位同伴屬性10	19	basic_damage_v	430		430																
+1044		督脈穴位同伴屬性10	20	basic_damage_v	450		450																
+1045		督脈穴位同伴屬性11	1	lifemax_v	600																		
+1045		督脈穴位同伴屬性11	2	lifemax_v	1240																		
+1045		督脈穴位同伴屬性11	3	lifemax_v	1880																		
+1045		督脈穴位同伴屬性11	4	lifemax_v	2520																		
+1045		督脈穴位同伴屬性11	5	lifemax_v	3160																		
+1045		督脈穴位同伴屬性11	6	lifemax_v	3800																		
+1045		督脈穴位同伴屬性11	7	lifemax_v	4440																		
+1045		督脈穴位同伴屬性11	8	lifemax_v	5080																		
+1045		督脈穴位同伴屬性11	9	lifemax_v	5720																		
+1045		督脈穴位同伴屬性11	10	lifemax_v	6360																		
+1045		督脈穴位同伴屬性11	11	lifemax_v	7000																		
+1045		督脈穴位同伴屬性11	12	lifemax_v	7640																		
+1045		督脈穴位同伴屬性11	13	lifemax_v	8280																		
+1045		督脈穴位同伴屬性11	14	lifemax_v	8920																		
+1045		督脈穴位同伴屬性11	15	lifemax_v	9560																		
+1045		督脈穴位同伴屬性11	16	lifemax_v	10200																		
+1045		督脈穴位同伴屬性11	17	lifemax_v	10840																		
+1045		督脈穴位同伴屬性11	18	lifemax_v	11480																		
+1045		督脈穴位同伴屬性11	19	lifemax_v	12120																		
+1045		督脈穴位同伴屬性11	20	lifemax_v	12750																		
+1046		督脈穴位同伴屬性12	1	playerdmg_npc_p	-2																		
+1046		督脈穴位同伴屬性12	2	playerdmg_npc_p	-3																		
+1046		督脈穴位同伴屬性12	3	playerdmg_npc_p	-4																		
+1046		督脈穴位同伴屬性12	4	playerdmg_npc_p	-5																		
+1046		督脈穴位同伴屬性12	5	playerdmg_npc_p	-6																		
+1046		督脈穴位同伴屬性12	6	playerdmg_npc_p	-7																		
+1046		督脈穴位同伴屬性12	7	playerdmg_npc_p	-8																		
+1046		督脈穴位同伴屬性12	8	playerdmg_npc_p	-9																		
+1046		督脈穴位同伴屬性12	9	playerdmg_npc_p	-10																		
+1046		督脈穴位同伴屬性12	10	playerdmg_npc_p	-11																		
+1046		督脈穴位同伴屬性12	11	playerdmg_npc_p	-12																		
+1046		督脈穴位同伴屬性12	12	playerdmg_npc_p	-13																		
+1046		督脈穴位同伴屬性12	13	playerdmg_npc_p	-14																		
+1046		督脈穴位同伴屬性12	14	playerdmg_npc_p	-15																		
+1046		督脈穴位同伴屬性12	15	playerdmg_npc_p	-16																		
+1046		督脈穴位同伴屬性12	16	playerdmg_npc_p	-17																		
+1046		督脈穴位同伴屬性12	17	playerdmg_npc_p	-18																		
+1046		督脈穴位同伴屬性12	18	playerdmg_npc_p	-19																		
+1046		督脈穴位同伴屬性12	19	playerdmg_npc_p	-20																		
+1046		督脈穴位同伴屬性12	20	playerdmg_npc_p	-21																		

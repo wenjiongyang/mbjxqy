@@ -1,0 +1,89 @@
+nCollectionId	szName	nCardTemplateId	szTimeFrame	szAward	nRare	szDropNpc1	szDropNpc2	szDropNpc3	szDropNpc4	szDropNpc5
+1	飛劍客	2594	OpenLevel59	Coin|500	3	1571|300000				
+1	滾石烈焰	2595	OpenLevel59	Coin|500	2	1665|75000				
+1	華山罪人	2596	OpenLevel59	Coin|500	3	1325|300000				
+1	唐門英傑	2597	OpenLevel59	Coin|500	4					
+1	血海玫瑰	2598	OpenLevel59	Coin|500	3	1568|300000				
+1	風中女俠	2599	OpenLevel59	Coin|500	2	1331|300000				
+1	少林叛徒	2600	OpenLevel59	Coin|500	3	1574|300000				
+1	失心瘋	2601	OpenLevel59	Coin|500	3	1670|150000				
+1	認賊作父	2602	OpenLevel59	Coin|500	3	1573|300000				
+1	藏劍孤女	2603	OpenLevel59	Coin|500	2					
+1	飛龍堡主	2604	OpenLevel59	Coin|500	3	1575|300000				
+1	絕不還手	2605	OpenLevel59	Coin|500	3	1719|350000				
+1	巾幗英雄	2606	OpenLevel59	Coin|500	3	1138|300000				
+1	護花使者	2607	OpenLevel59	Coin|500	4	1618|120000				
+1	鳩占鵲巢	2608	OpenLevel59	Coin|500	3	1361|300000				
+1	鴻門宴	2610	OpenLevel59	Coin|500	5					
+1	掌上明珠	2611	OpenLevel59	Coin|500	3	1576|300000				
+1	武當名宿	2612	OpenLevel59	Coin|500	4	1599|300000				
+1	神劍禦雷	2613	OpenLevel59	Coin|500	5					
+1	哀愁郡主	2614	OpenLevel59	Coin|500	4	1581|300000				
+1	叛國求榮	2615	OpenLevel59	Coin|500	3	1366|300000				
+1	議和手書	2616	OpenLevel59	Coin|500	5					
+1	藏劍莊主	2617	OpenLevel59	Coin|500	3	1372|300000				
+1	武道德經	2618	OpenLevel59	Coin|500	5					
+1	翠煙花使	2619	OpenLevel59	Coin|500	6					
+1	大夢方醒	2620	OpenLevel59	Coin|500	3	1582|300000				
+1	一代豪俠	2621	OpenLevel59	Coin|500	6	1125|300000				
+1	無憂教主	2622	OpenLevel59	Coin|500	6	1584|300000				
+1	心劍客	2623	OpenLevel59	Coin|500	6	1389|300000				
+1	李代桃僵	2624	OpenLevel59	Coin|500	7					
+1	金頂聖女	2625	OpenLevel59	Coin|500	7					
+1	天劍客	2626	OpenLevel59	Coin|500	6	1132|300000				
+1	機關秘術	2627	OpenLevel59	Coin|500	7	1419|50000				
+1	心灰意冷	2628	OpenLevel59	Coin|500	6	1133|300000				
+1	長歌門主	2629	OpenLevel59	Coin|500	5	1592|300000				
+1	少女忘憂	2630	OpenLevel59	Coin|500	4	1595|300000				
+1	心魔	2631	OpenLevel59	Coin|500	7					
+1	風雪山莊	2632	OpenLevel59	Coin|500	5	1598|300000				
+1	唐門少主	2633	OpenLevel69	Coin|500	7	1794|300000				
+1	翠煙往事	2634	OpenLevel69	Coin|500	7	1798|300000				
+1	武林盟主	2635	OpenLevel69	Coin|500	7	1801|300000				
+1	無處忘憂	2636	OpenLevel69	Coin|500	6	1820|300000				
+1	天王叛徒	2637	OpenLevel69	Coin|500	6	1804|300000				
+1	衡山女俠	2638	OpenLevel69	Coin|500	6	1808|300000				
+1	峨嵋掌門	2639	OpenLevel69	Coin|500	8					
+1	桃花島主	3380	OpenLevel99	Coin|500	7	2040|300000				
+1	武當掌門	3381	OpenLevel99	Coin|500	7	1988|300000				
+1	天忍教主	3382	OpenLevel99	Coin|500	7	2034|300000				
+1	翠煙門主	3383	OpenLevel99	Coin|500	7	1991|300000				
+1	崑崙掌門	3384	OpenLevel99	Coin|500	7	1986|300000				
+1	奇門異術	3385	OpenLevel99	Coin|500	6	2043|300000				
+1	少年英雄	3386	OpenLevel99	Coin|500	6	2046|300000				
+1	絕對邪惡	3387	OpenLevel99	Coin|500	6	2055|300000				
+1	袖中乾坤	3388	OpenLevel99	Coin|500	8					
+2	中西區	3031		Coin|500						
+2	灣仔	3032		Coin|500						
+2	東區	3033		Coin|500						
+2	南區	3034		Coin|500						
+2	深水埗	3035		Coin|500						
+2	油尖旺	3036		Coin|500						
+2	九龍城	3037		Coin|500						
+2	黃大仙	3038		Coin|500						
+2	觀塘	3039		Coin|500						
+2	葵青	3040		Coin|500						
+2	荃灣	3041		Coin|500						
+2	新界西	3042		Coin|500						
+2	新界東	3043		Coin|500						
+2	新界北	3044		Coin|500						
+2	離島	3045		Coin|500						
+2	澳門	3046		Coin|500						
+2	基隆	3047		Coin|500						
+2	台北	3048		Coin|500						
+2	新北	3049		Coin|500						
+2	秦	3050		Coin|500						
+2	新竹	3051		Coin|500						
+2	苗栗	3052		Coin|500						
+2	台中	3053		Coin|500						
+2	南投	3054		Coin|500						
+2	彰化	3055		Coin|500						
+2	雲林	3056		Coin|500						
+2	嘉義	3057		Coin|500						
+2	台南	3058		Coin|500						
+2	高雄	3059		Coin|500						
+2	屏東	3060		Coin|500						
+2	宜蘭	3061		Coin|500						
+2	花蓮	3062		Coin|500						
+2	台東	3063		Coin|500						
+2	外島	3064		Coin|500						

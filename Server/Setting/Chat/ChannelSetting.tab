@@ -1,0 +1,10 @@
+nType	szName	nCharge	nMinCd	nCd	nLevel	szChannelName
+1	Public		13	30	10	世界頻道
+2	Color	1	1	3	20	彩聊頻道
+3	Map		8	10	1	臨時頻道
+4	Team		1	3	1	隊伍頻道
+5	Family		1	3	1	幫派頻道
+6	Private		1	3	10	密聊頻道
+7	Nearby		1	3	10	附近頻道
+8	Friend		1	3	10	好友頻道
+10	Cross		8	15	10	主播頻道

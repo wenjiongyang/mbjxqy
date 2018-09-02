@@ -1,0 +1,33 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	NormalSkill4	NormalSkillLevel4	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife
+QSHL_Soldier1	1832	秦之钜机	0	1	ImperialTombMinion		190		300	675	651	54	1	91	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorSolder.tab	1	18	1							1			1	500		1871	5000				
+QSHL_EliteSoldier1	1871	秦之钜机·百将	0	1	ImperialTombLeader		190		300	675	652	54	1	91	1	197	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorEliteSolder.tab	1	18	1							1			3	1000							
+QSHL_Soldier2	1833	大秦锐士	0	1	ImperialTombMinion		535		300	675	651	56	1	91	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorSolder.tab	1	18	1							1			1	500		1872	5000				
+QSHL_EliteSoldier2	1872	大秦锐士·百将	0	1	ImperialTombLeader		535		300	675	652	56	1	91	1	197	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorEliteSolder.tab	1	18	1							1			3	1000							
+QSHL_Soldier3	1834	执法铁卫	0	1	ImperialTombMinion		11		300	675	651	55	1	91	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorSolder.tab	1	18	1							1			1	500		1873	5000				
+QSHL_EliteSoldier3	1873	执法铁卫·百将	0	1	ImperialTombLeader		11		300	675	652	55	1	91	1	197	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/FloorEliteSolder.tab	1	18	1							1			3	1000							
+QSHL_Soldier4	1878	盗墓贼	0	1			174		300	675	651	21	1	91	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/RoomSolder.tab	1	18	1							1			1								
+QSHL_EliteSoldier4	1874	盗墓贼头目	0	1			143		300	675	652	166	1	91	1	197	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/ImperialTomb/RoomEliteSolder.tab	1	18	1							1			3								
+QSHL_Box	1879	古金宝箱	2	0	ImperialTombBox		352	995	300		1	21	1									Setting/Npc/Ai/CommonActive.ini			0	15	1						NoTurn												
+QSHL_Leader1	1835	玄天武机	0	1	ImperialTombNormalBoss		20	8001	300		653	3051	1	91	1					1500	1500	Setting/Npc/Ai/Tomb/xuantianwuji.ini			1	18	2										4								
+QSHL_Leader2	1836	白起	0	1	ImperialTombNormalBoss		523	8002	300		653	3023	1	91	1					1500	1500	Setting/Npc/Ai/Tomb/baiqi.ini			1	18	2										4								
+QSHL_Leader3	1837	李斯	0	1	ImperialTombNormalBoss		524	8003	300		653	3001	1	91	1	3071	1			1500	1500	Setting/Npc/Ai/Tomb/lisi.ini			1	18	2										4								
+QSHL_Boss	1838	秦始皇	0	1	ImperialTombEmperor		522	8000	300		655	3038	1	91	1	1065	1	3067	1	1500	1500	Setting/Npc/Ai/Tomb/qinshihuang.ini			1	18	2										6							1	
+QSHL_Leader4	1875	玄天武机	0	1	ImperialTombBoss		20	8001	300		654	3051	1	91	1	1065	1			1500	1500	Setting/Npc/Ai/Tomb/Boss_xuantianwuji.ini			1	18	2										4								
+QSHL_Leader5	1876	白起	0	1	ImperialTombBoss		523	8002	300		654	3023	1	91	1	1065	1			1500	1500	Setting/Npc/Ai/Tomb/Boss_baiqi.ini			1	18	2										4								
+QSHL_Leader6	1877	李斯	0	1	ImperialTombBoss		524	8003	300		654	3001	1	91	1	1065	1			1500	1500	Setting/Npc/Ai/Tomb/Boss_lisi.ini			1	18	2										4								
+QSHL_Soldier_Call	1880	大秦锐士	0	1			535		300	600	656	21	1	91	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1								
+QSHL_Soldier2_Call	1881	陵墓蜘蛛	0	1			112		300	600	656	21	1	3010	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1		3009								1								
+QSHL_Animal_Call	1882	陵墓赤蝎	0	1			109		300	600	656	22	1	91	1					1500	1500	Setting/Npc/Ai/Tomb/lisi_chixie.ini			1	18	1										1								
+QSHL_Baiqi_Call	1883	白起	0	1			523		300		657	3023	1	91	1					1500	1500	Setting/Npc/Ai/Tomb/baiqi_call.ini			1	18	2										4								
+QSHL_Baiqi_CallDefence	1894	白起	0	1			523		300		653	3026	1	91	1					1500	1500	Setting/Npc/Ai/Tomb/qinshihuang_hujia.ini			1	18	3										1								
+QSHL_Baiqi_CallBuff	1884	白起	0	1			523		300		653			91	1					1500	1500	Setting/Npc/Ai/Tomb/qinshihuang_huangdi.ini			1	18	3										1								
+QSHL_Lisi_CallBuff	1885	李斯	0	1			524		300		653			91	1					1500	1500	Setting/Npc/Ai/Tomb/qinshihuang_huangdi.ini			1	18	3										1								
+QSHL_BossFaker	1955	疑冢伪帝	0	1	ImperialTombEmperorMirror		522	8000	300		658	3038	1	91	1	1065	1	3067	1	1500	1500	Setting/Npc/Ai/Tomb/qinshihuang_weidi.ini			1	18	2																		
+QSHL_Seckilling	1956	始皇之怒	6	0			469	8000	300		655			91	1						1500				1	18	3															1		1	
+NDYZ_Seckilling	2530	女帝天威	6	0			469	8000	300		655			91	1						1500				1	18	3															1		1	
+NDYZ_Boss	2509	武则天	0	1	ImperialTombEmperor		636	9033	300		655	4851	1	91	1	1065	1	3067	1	1500	1500	Setting/Npc/Ai/Imperial/wuzetian.ini			1	18	2															1		1	
+NDYZ_BossFaker	2513	伪帝鸾姬	0	1	ImperialTombEmperorMirror		636	9033	300		658	4851	1	91	1	1065	1	3067	1	1500	1500	Setting/Npc/Ai/Imperial/wuzetian_false.ini			1	18	2															1		1	
+NDYZ_Leader1	2510	无字碑	0	1	ImperialTombBoss		637	9030	300		659	4855	1	91	1					1500	1500	Setting/Npc/Ai/Imperial/wuzibei.ini			1	18	2										4					1		1	
+NDYZ_Leader2	2511	元芳	0	1	ImperialTombBoss		639	9032	300		659	3051	1	91	1					1500	1500	Setting/Npc/Ai/Imperial/yuanfang.ini			1	18	2										4					1		1	
+NDYZ_Leader3	2512	狄仁杰	0	1	ImperialTombBoss		638	9031	300		659	3051	1	91	1					1500	1500	Setting/Npc/Ai/Imperial/direnjie.ini			1	18	2										4					1		1	
+NDYZ_Soldier_Call	2531	宫殿守卫	0	1			150		300	600	656	21	1	91	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1								
