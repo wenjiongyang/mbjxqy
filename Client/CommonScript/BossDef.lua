@@ -291,7 +291,7 @@ Boss.Def = {
   nBossKinMemberNMinScore = 80,
   nBossPlayerScoreN = 2000,
   nBossPlayerScoreNMinScore = 80,
-  szAwardMoneyType = "Contrib",
+  szAwardMoneyType = "Gold",
   tbPlayerBoxRankScore = {
     {Rank = 1, Honor = 30000},
     {Rank = 2, Honor = 26000},

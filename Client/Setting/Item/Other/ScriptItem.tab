@@ -395,8 +395,8 @@ TemplateId	Name	Kind	ItemType	Icon	BigIcon	CDType	ClassName	DetailType	Intro	Ite
 4797	3阶稀有首饰挑选礼盒	Choose_Jewelry_T3_in_4	34	2153	2153		NeedChooseItem	1	从列表中的4件3阶稀有首饰中[FFFE0D]任意挑选1件[-]	1000000	1	1	1000	6	1	0	99999	1										
 2154	随机1级魂石	Auto_Random_Stone_1	34	2154	2154		RandomItem	1	随机得到一个1级魂石	50000	1	1	1000	1	1	0	99999	2162	1									
 2167	随机2级魂石	Auto_Random_Stone_2	34	2167	2167		RandomItem	1	随机得到一个2级魂石	50000	1	1	1000	2	1	0	99999	2163	1									
-2168	随机3级魂石	Auto_Random_Stone_3	34	2168	2168		RandomItem	1	随机得到一个3级魂石	50000	1	1	1000	3	1	0	99999	10	1									
-2169	随机4级魂石	Auto_Random_Stone_4	34	2169	2169		RandomItem	1	随机得到一个4级魂石	50000	1	1	1000	4	1	0	99999	11	1	12								
+2168	随机3级魂石	Auto_Random_Stone_3	34	2168	2168		RandomItemByTimeFrame	1	随机得到一个3级魂石	50000	1	1	1000	3	1	0	99999	10	1									
+2169	随机4级魂石	Auto_Random_Stone_4	34	2169	2169		RandomItemByTimeFrame	1	随机得到一个4级魂石	50000	1	1	1000	4	1	0	99999	11	1	12								
 2170	随机5级魂石	Auto_Random_Stone_5	34	2170	2170		RandomItem	1	随机得到一个5级魂石	50000	1	1	1000	5	1	0	99999	2166	1									
 6090	蓝色魂石随机宝箱	Blue_Random_StoneBox	34	2168	2168		RandomItemByTimeFrame	1	使用后随机获得一个[FFFE0D]蓝色魂石[-]	50000	1	1	1000	3	1	0	99999	33										
 2156	随机同伴技能书	Random_PartnerSkillBook	34	2156	2156		RandomItem	1	打开后随机获得一本同伴技能书，最高出现3级技能书	100000	1	1	1000	3	1	0	99999	2156										
@@ -462,8 +462,8 @@ TemplateId	Name	Kind	ItemType	Icon	BigIcon	CDType	ClassName	DetailType	Intro	Ite
 6096	120级组队秘境BOSS奖励	120_TeamFubenAward_BOSS	34	100	100		RandomItemByLevel	1	雪峰硝烟BOSS·古嫣然奖励		1	1	100		1	0	1	138	1									
 6097	120级组队秘境稀有奖励	120_TeamFubenAward_Xiyou	34	100	100		RandomItemByLevel	1	雪峰硝烟稀有·石轩辕奖励		1	1	100		1	0	1	139	1									
 2266	商会任务掉落奖励	CommerceTaskReward_1	34	100	100		RandomItemByLevel	1	商会任务掉落奖励		1	1	1000		1	0	1	54	1									
-2271	SS级同伴本命武器	SeniorCangBaoTuReward_1	34	100	100		RandomItem	1	随机获得一把[ff8f06]SS级[-]同伴本命武器		1	1	1000	6	1	0	1	3	1									
-2272	S级同伴本命武器	SeniorCangBaoTuReward_2	34	100	100		RandomItem	1	随机获得一把[ff578c]S级[-]同伴本命武器		1	1	1000	4	1	0	1	4	1									
+2271	SS级同伴本命武器	SeniorCangBaoTuReward_1	34	100	100		RandomItemByTimeFrame	1	随机获得一把[ff8f06]SS级[-]同伴本命武器		1	1	1000	6	1	0	1	3	1									
+2272	S级同伴本命武器	SeniorCangBaoTuReward_2	34	100	100		RandomItemByTimeFrame	1	随机获得一把[ff578c]S级[-]同伴本命武器		1	1	1000	4	1	0	1	4	1									
 2273	A级同伴本命武器	SeniorCangBaoTuReward_3	34	100	100			1	随机获得一把[aa62fc]A级[-]同伴本命武器		1	1	1000	3	1	0	1											
 2274	花草种子	qinmi_hua5	34	2274	2274		RandomItem	1	随机获得[FFFE0D]玫瑰花[-]或[FFFE0D]幸运草[-]		1	1			1	0	99999	2274	1									
 2301	修炼丹	XiuLian_Item2	34	2301	2301		XiuLianDan	1	使用后修炼珠增加[FFFE0D]30分钟[-]野外修炼时间，修炼丹[FFFE0D]每天4点[-]恢复[FFFE0D]1次[-]使用次数，最多可以累积[FFFE0D]3次[-]		1	1		3	24	0	99999	1800										
@@ -890,7 +890,7 @@ TemplateId	Name	Kind	ItemType	Icon	BigIcon	CDType	ClassName	DetailType	Intro	Ite
 2874	蛋黄液	hd_zhongqiu_dhy	34	2846	2846		ComposeMeterial	1	制作月饼所需材料，以蛋黄和蛋清精心搅拌而成，月饼烤制中途刷在其表面。备齐[FFFE0D]3份精制面团、1份月饼馅、1份蛋黄液[-]后即可制作月饼。	12000	1	1	1000	1	1	1	99											
 2875	月饼	hd_zhongqiu_ybbox	34	2849	2849		RandomItem	1	打开后随机获得一种月饼	62800	1	1	1000	3	1	0	99	2591	1									
 2876	月满西楼	hd_zhongqiu_ymxl	34	2847	2847		SkillPointBook	1	珍稀的月饼，制作难度极大，传言配方和制作方法来自嫦娥。使用后永久得到[FFFE0D]1[-]个技能点，每人只能服用[FFFE0D]20[-]个。	500000	1	1	1000	5	1	0	1											
-2877	彩云追月	hd_zhongqiu_cyzy	34	2848	2848		AddPlayerAttributeItem	1	上等的月饼，制作难度较高，月宫制作，仙界常备月饼。使用后永久增加[FFFE0D]20点力量、3点体质、1点敏捷、50点灵巧[-]，最多服用[FFFE0D]150[-]个。	100000	1	1	1000	4	1	0	99999											
+2877	彩云追月	hd_zhongqiu_cyzy	34	2848	2848		AddPlayerAttributeItem	1	上等的月饼，制作难度较高，月宫制作，仙界常备月饼。使用后永久增加[FFFE0D]20点力量、3点体质、1点敏捷、50点灵巧[-]，最多服用[FFFE0D]20000[-]个。	100000	1	1	1000	4	1	0	99999											
 2878	沧海月明	hd_zhongqiu_chym	34	2849	2849		AddBuffItem	1	精制月饼，宫廷制作。服用后增加在[FFFE0D]野外地图[-]打怪经验，最多使用[FFFE0D]100个[-]，持续[FFFE0D]半小时[-]：\n野外打怪经验：+20%	30000	1	1	1000	3	1	0	99	2313	1	27000	1							
 2886	月饼制作原料	hd_zhongqiu_ybcl	34	2844	2844		RandomItem	1	打开后随机获得一种月饼制作原料	12000	1	1	1000	3	1	0	99	2593	1									
 2887	称号·剑侠小编	HK_Amin_Title_Item23	34	790	790		AddTitleItem	11	使用后获得[FFFE0D]剑侠小编[-]称号		1	1	1000	6	1	0	99999	2522	2592000									
@@ -1288,9 +1288,9 @@ TemplateId	Name	Kind	ItemType	Icon	BigIcon	CDType	ClassName	DetailType	Intro	Ite
 6815	50000元气	Energy_50000	34	5419	5419		RandomItem	1	使用后可获取[FFFE0D]50000[-]元气	1000000	1	1	1000	4	1	0	99999	6815										
 3712	祝福宝箱	hd_ny_zhufubox	34	2435	2435		RandomItem	1	周年庆时获得好友祝福时能获得的宝箱。每轮祝福活动最多获得[FFFE0D]10[-]个宝箱。	160000	1	1	1000	5	1	0	99999	3712										
 3713	年兽宝箱	hd_ny_nianshoubox	34	2302	2302		RandomItemByLevel	1	在家族内驱赶年兽时可能获得的宝箱。貌似装着很多好东西。	20000	1	1	1000	4	1	0	99999	111										
-3714	洗髓经（上卷）	xisuijing_1	34	3714	3714		AddPlayerAttributeItem	1	江湖流传的洗髓经（上卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]150[-]本	500000	1	1	1000	4	1	0	99999											
-3715	洗髓经（中卷）	xisuijing_2	34	3715	3715		AddPlayerAttributeItem	1	江湖流传的洗髓经（中卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]150[-]本	750000	1	1	1000	4	1	0	99999											
-3716	洗髓经（下卷）	xisuijing_3	34	3716	3716		AddPlayerAttributeItem	1	江湖流传的洗髓经（下卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]150[-]本	1000000	1	1	1000	4	1	0	99999											
+3714	洗髓经（上卷）	xisuijing_1	34	3714	3714		AddPlayerAttributeItem	1	江湖流传的洗髓经（上卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]20000[-]本	500000	1	1	1000	4	1	0	99999											
+3715	洗髓经（中卷）	xisuijing_2	34	3715	3715		AddPlayerAttributeItem	1	江湖流传的洗髓经（中卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]20000[-]本	750000	1	1	1000	4	1	0	99999											
+3716	洗髓经（下卷）	xisuijing_3	34	3716	3716		AddPlayerAttributeItem	1	江湖流传的洗髓经（下卷），能使修炼者清净心神，壯固身躯。\n修炼后永久增加：\n[FFFE0D]10点力量\n4点体质\n1点敏捷\n10点灵巧[-]\n最多使用[FFFE0D]20000[-]本	1000000	1	1	1000	4	1	0	99999											
 3726	新年欢乐礼包	NewYearBag_5	34	3695	3695		RandomItem	1	新年专属大礼包\n使用获得：[FFFE0D]3级魂石任选箱*3、10000贡献、100000银两、花草礼包*2[-]		1	1	1000	4	1	0	99999	3726										
 3727	新年吉祥礼包	NewYearBag_6	34	3697	3697		RandomItem	1	新年专属大礼包\n使用获得：[FFFE0D]3级魂石任选箱*6、紫水晶*5、花草礼包*5、头像框·如意吉祥[-]		1	1	1000	6	1	0	99999	3727										
 3728	情缘称号更换符	hd_bwzq_loveitem1	34	2862	2862		ChangeTitleItem	1	古朴精美的玉佩，古人常用来作为定情的信物。	80000	1	1	1000	4	1	0	1	6200										

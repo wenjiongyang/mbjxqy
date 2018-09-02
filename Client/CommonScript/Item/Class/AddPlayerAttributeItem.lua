@@ -3,7 +3,7 @@ tbItem.nSaveGroup = 63
 tbItem.nSaveMaxCount = 2500
 tbItem.tbItemInfo = {
   [2877] = {
-    nMaxCount = 150,
+    nMaxCount = 500,
     tbAddPoint = {
       {1, 20},
       {2, 1},
@@ -13,7 +13,7 @@ tbItem.tbItemInfo = {
     nSaveID = 1
   },
   [3238] = {
-    nMaxCount = 150,
+    nMaxCount = 500,
     tbAddPoint = {
       {1, 10},
       {2, 1},
@@ -23,7 +23,7 @@ tbItem.tbItemInfo = {
     nSaveID = 2
   },
   [3714] = {
-    nMaxCount = 150,
+    nMaxCount = 500,
     tbAddPoint = {
       {1, 10},
       {2, 1},
@@ -33,7 +33,7 @@ tbItem.tbItemInfo = {
     nSaveID = 3
   },
   [3715] = {
-    nMaxCount = 150,
+    nMaxCount = 500,
     tbAddPoint = {
       {1, 10},
       {2, 1},
@@ -43,7 +43,7 @@ tbItem.tbItemInfo = {
     nSaveID = 4
   },
   [3716] = {
-    nMaxCount = 150,
+    nMaxCount = 500,
     tbAddPoint = {
       {1, 10},
       {2, 1},

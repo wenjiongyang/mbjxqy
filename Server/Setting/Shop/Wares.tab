@@ -57,9 +57,9 @@ GoodsId	TemplateId	Name	Price	MoneyType	ShopType	Sort	Discount	LimitType	LimitNu
 1034	2166	5級魂石箱	250000	Gold	Treasure	15	8	7	9999								
 1035	4816	元氣瓶（中）	6000	Gold	Treasure	16	8	7	500								
 1036	4817	元氣瓶（大）	20000	Gold	Treasure	17	8	7	9999								
-1037	6149	任脉·曲骨通穴秘卷	500000	Gold	Treasure	18	5	7	100								
-1038	6150	督脉·长强通穴秘卷	500000	Gold	Treasure	19	7	7	100								
-1039	6276	冲脉·幽门通穴秘卷	500000	Gold	Treasure	20	7	7	100								
+1037	6149	任脉·曲骨通穴秘卷	80000	Gold	Treasure	18	5	7	100								
+1038	6150	督脉·长强通穴秘卷	80000	Gold	Treasure	19	7	7	100								
+1039	6276	冲脉·幽门通穴秘卷	80000	Gold	Treasure	20	7	7	100								
 1040	4687	黎飾高級寶箱	200000	Gold	Treasure	3	6	7	5								
 2000	4448	T6时装天王1	3960	SilverBoard	Dress	15											
 2001	4449	T6时装峨眉1	3960	SilverBoard	Dress	16											
@@ -146,7 +146,7 @@ GoodsId	TemplateId	Name	Price	MoneyType	ShopType	Sort	Discount	LimitType	LimitNu
 3024	4844	稱號·武林第一美女（1年）	5000	SilverBoard	Dress	70											
 3025	4828	首碼·武林第一美女（1年）	5000	SilverBoard	Dress	71											
 3026	5252	首碼·國色天香（1年）	3666	SilverBoard	Dress	72											
-3027	2804	和氏璧	1288	SilverBoard	Dress	73											
+3027	2804	和氏璧	400	SilverBoard	Dress	73											
 3028	3714	洗髓经（上卷）	200	SilverBoard	Dress	74											
 3029	3715	洗髓经（中卷）	200	SilverBoard	Dress	75											
 3030	3716	洗髓经（下卷）	200	SilverBoard	Dress	76											
@@ -157,7 +157,7 @@ GoodsId	TemplateId	Name	Price	MoneyType	ShopType	Sort	Discount	LimitType	LimitNu
 3035	4045	圣蹄	58888	SilverBoard	Dress	85											
 3036	6148	SSS级同伴任选礼盒	28888	SilverBoard	Dress	66											
 3037	2507	逐日	38888	SilverBoard	Dress	83											
-3038	2400	乌云踏雪	28888	SilverBoard	Dress	84											
+3038	2400	乌云踏雪	18888	SilverBoard	Dress	84											
 3039	1393	盟主令	500	SilverBoard	Dress	86											
 3040	1394	名将令	800	SilverBoard	Dress	87											
 3041	1395	涿鹿令	1400	SilverBoard	Dress	88											
